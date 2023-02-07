@@ -7,6 +7,8 @@ Cross-platform Wallpaper Manager that changes your device's wallpaper by the fol
 - Month
 - Weather Conditions  
 
+Our project will focus on Windows devices for now. We decided to scrap the idea of MacOS because not all of us have access to an Apple computer, and it would be unfair for those who do not. There would be issues whenever we're testing code.
+
 # Roadmap
 
 This should be updated bit by bit as we figure out the "whats" and the "hows" of our project.
