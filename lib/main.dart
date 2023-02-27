@@ -2,10 +2,10 @@ import 'dart:async';
 import 'dart:ffi' as ffi;
 import 'dart:io' show Directory, File, Platform;
 import 'package:ffi/ffi.dart';
+import 'package:flutter/material.dart';
 import 'package:ambience/native/generated_bindings.dart';
 import 'package:path/path.dart' as path;
-import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
+import 'package:file_picker/file_picker.dart';
 
 final dylibPath =
     path.join(Directory.current.absolute.path, 'set_wallpaper.so');
@@ -43,8 +43,19 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  int _wallpaperResult = 0;
   String _input = "";
+
+  void pickFile() async {
+    FilePickerResult? result = await FilePicker.platform.pickFiles(
+      dialogTitle: "Pick a Wallpaper!",
+      type: FileType.image,
+    );
+    if (result == null) return;
+    PlatformFile file = result.files.single;
+    setState(() {
+      _input = file.path!;
+    });
+  }
 
   Future<String> normalizePath(String input) async {
     String normalized = path.normalize(input);
@@ -58,15 +69,11 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   Future<void> _setWallpaper() async {
+    if (_input.isEmpty) return;
     String pathToFile = await normalizePath(_input);
-    if (pathToFile.isEmpty) return;
     ffi.Pointer<ffi.Char> charP = pathToFile.toNativeUtf8().cast<ffi.Char>();
-    int res = nl.change_wallpaper(charP);
+    nl.change_wallpaper(charP);
     malloc.free(charP);
-
-    setState(() {
-      _wallpaperResult = res;
-    });
   }
 
   void setInput(String s) {
@@ -90,22 +97,17 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const Text(
-              'You have pushed the button this many times:',
+            ElevatedButton(
+              onPressed: pickFile,
+              child: const Text("Open File"),
             ),
-            Text(
-              '$_wallpaperResult',
-              style: Theme.of(context).textTheme.headlineMedium,
-            ),
-            TextField(
-              onChanged: (value) => setInput(value),
-            ),
+            if (_input.isNotEmpty) Text("Path to file is $_input"),
           ],
         ),
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: onSubmit,
-        tooltip: 'Increment',
+        tooltip: 'Set Wallpaper',
         child: const Icon(Icons.add),
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );
