@@ -54,3 +54,4 @@ Again, this should also be updated as we go with the packages that we use.
 Please keep an eye on these.
 
 - The current file_picker package we're using on Flutter requires developer mode on Windows to be activated when building the app. Must test that this is not a require for the client
+- Still missing the permissions for Android file picking
