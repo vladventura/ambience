@@ -39,3 +39,11 @@ Again, this should also be updated as we go with the packages that we use.
 
 - [Flutter](https://flutter.dev/): Google's cross-platform SDK for multiple platforms with a single codebase
   - [Requests](https://pub.dev/packages/requests): Flutter package to simplify HTTP/HTTPS requests
+
+
+# How to run the app?
+
+- Run ```flutter pub get``` to download all required packages from the yaml
+- If the current and target platforms are Windows, please run ```make``` to compile the shared library to change the wallpaper on Windows platforms.
+  - The current platform must be Windows because we need the C++ Windows headers to do so
+- Run ```flutter run -d <device>``` where device is your target device. For now, use ```windows``` as the device.
