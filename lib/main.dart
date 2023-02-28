@@ -13,9 +13,9 @@ final nl = NativeLibrary(ffi.DynamicLibrary.open(dylibPath));
 
 Future<String> normalizeExistsPath(String input) async {
   String normalized = path.normalize(input);
-  if (Platform.isWindows && !normalized.contains("C:")) {
-    normalized = "C:\\$normalized";
-  }
+  // if (Platform.isWindows && !normalized.contains("C:")) {
+  //   normalized = "C:\\$normalized";
+  // }
   if (await File(normalized).exists()) {
     return normalized;
   }
