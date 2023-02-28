@@ -7,10 +7,8 @@ import 'package:ambience/native/generated_bindings.dart';
 import 'package:path/path.dart' as path;
 
 class WallpaperHandler {
-  static final _dylibPath =
+  static final String _dylibPath =
       path.join(Directory.current.absolute.path, 'set_wallpaper.so');
-  static final _nativeLib = NativeLibrary(ffi.DynamicLibrary.open(_dylibPath));
-
   static Future<void> setWallpaper(String input) async {
     if (Platform.isWindows) {
       await _setWallpaperWindows(input);
@@ -35,7 +33,9 @@ class WallpaperHandler {
     if (input.isEmpty) return;
     String pathToFile = await _normalizeExistsPath(input);
     ffi.Pointer<ffi.Char> charP = pathToFile.toNativeUtf8().cast<ffi.Char>();
-    _nativeLib.change_wallpaper(charP);
+
+    final nativeLib = NativeLibrary(ffi.DynamicLibrary.open(_dylibPath));
+    nativeLib.change_wallpaper(charP);
     malloc.free(charP);
   }
 
