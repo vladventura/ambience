@@ -2,7 +2,7 @@ import "dart:async";
 import 'dart:ffi' as ffi;
 import 'package:ambience/exceptions/wallpaper_exceptions.dart';
 import 'package:ffi/ffi.dart';
-import 'dart:io' show Directory, File, Platform;
+import 'dart:io' show Directory, File, Platform, Process;
 import 'package:ambience/native/generated_bindings.dart';
 import 'package:path/path.dart' as path;
 
@@ -39,7 +39,15 @@ class WallpaperHandler {
     malloc.free(charP);
   }
 
-  static Future<void> _setWallpaperLinux(String input) async {}
+  static Future<void> _setWallpaperLinux(String input) async {
+    if (input.isEmpty) return;
+    // Following instructions @Bryan0x05's branch
+    String pathToFile = await _normalizeExistsPath(input);
+    String command = "gsettings set org.gnome.desktop.background picture-uri \"file://$input\"";
+    String commandDarkTheme = "gsettings set org.gnome.desktop.background picture-uri-dark \"file://$input\"";
+    final result = await Process.run('bash', ['-c', command]);
+    final resultDarkTheme = await Process.run('bash', ['-c', commandDarkTheme]);
+  }
 
   static Future<void> _setWallpaperAndroid(String input) async {}
 }
