@@ -1,6 +1,7 @@
 import "dart:async";
 import 'dart:ffi' as ffi;
 import 'package:ambience/exceptions/wallpaper_exceptions.dart';
+import 'package:async_wallpaper/async_wallpaper.dart';
 import 'package:ffi/ffi.dart';
 import 'dart:io' show Directory, File, Platform, Process;
 import 'package:ambience/native/generated_bindings.dart';
@@ -51,5 +52,10 @@ class WallpaperHandler {
     await Process.run('bash', ['-c', commandDarkTheme]);
   }
 
-  static Future<void> _setWallpaperAndroid(String input) async {}
+  static Future<void> _setWallpaperAndroid(String input) async {
+    if (input.isEmpty) return;
+    String pathToFile = await _normalizeExistsPath(input);
+    await AsyncWallpaper.setWallpaperFromFile(
+        filePath: pathToFile, wallpaperLocation: AsyncWallpaper.HOME_SCREEN);
+  }
 }
