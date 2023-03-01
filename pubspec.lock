@@ -17,6 +17,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.10.0"
+  async_wallpaper:
+    dependency: "direct main"
+    description:
+      name: async_wallpaper
+      sha256: c69b6f49601adb7044453773a0a6731f223f4c445a1c255d2466705bc75f7c36
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.1"
   boolean_selector:
     dependency: transitive
     description:
