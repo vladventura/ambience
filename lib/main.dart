@@ -1,7 +1,6 @@
-import "dart:io" show Directory;
+import 'package:ambience/handlers/file_handler.dart';
 import 'package:ambience/handlers/wallpaper_handler.dart';
 import 'package:flutter/material.dart';
-import 'package:file_picker/file_picker.dart';
 
 void main() {
   runApp(const MyApp());
@@ -35,17 +34,28 @@ class _MyHomePageState extends State<MyHomePage> {
   String _input = "";
 
   void _pickFile() async {
-    String currentWorkingDir = Directory.current.absolute.path;
-    FilePickerResult? result = await FilePicker.platform.pickFiles(
-      dialogTitle: "Pick a Wallpaper!",
-      type: FileType.image,
-    );
-    Directory.current = currentWorkingDir;
-    if (result == null) return;
-    PlatformFile file = result.files.single;
-    setState(() {
-      _input = file.path!;
-    });
+    // An alternative approach can be the following
+    /* 
+    String pathToFile = await getImagePathFromPicker();
+    if (pathToFile.isNotEmpty) {
+      setState(() {
+        _input = pathToFile;
+      });
+    }
+    */
+    // And we get rid of exceptions
+    String pathToFile = "";
+    try {
+      pathToFile = await getImagePathFromPicker();
+    } on NoFileChosenException {
+      debugPrint("No files chosen");
+    } on FileNotFoundException {
+      debugPrint("No path was found for the given file");
+    } finally {
+      setState(() {
+        _input = pathToFile;
+      });
+    }
   }
 
   void _setWallpaper() async => await WallpaperHandler.setWallpaper(_input);
