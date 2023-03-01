@@ -43,10 +43,12 @@ class WallpaperHandler {
     if (input.isEmpty) return;
     // Following instructions @Bryan0x05's branch
     String pathToFile = await _normalizeExistsPath(input);
-    String command = "gsettings set org.gnome.desktop.background picture-uri \"file://$input\"";
-    String commandDarkTheme = "gsettings set org.gnome.desktop.background picture-uri-dark \"file://$input\"";
-    final result = await Process.run('bash', ['-c', command]);
-    final resultDarkTheme = await Process.run('bash', ['-c', commandDarkTheme]);
+    String command =
+        "gsettings set org.gnome.desktop.background picture-uri \"file://$pathToFile\"";
+    String commandDarkTheme =
+        "gsettings set org.gnome.desktop.background picture-uri-dark \"file://$pathToFile\"";
+    await Process.run('bash', ['-c', command]);
+    await Process.run('bash', ['-c', commandDarkTheme]);
   }
 
   static Future<void> _setWallpaperAndroid(String input) async {}
