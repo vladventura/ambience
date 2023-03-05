@@ -10,6 +10,7 @@ void main() {
 }
 
 geolocate(var apiKey, String? input) async {
+  Map coderMap;
   var cityName = input;
   //use to limit number of matching results in geocoder api call
   var limit = 1;
@@ -22,9 +23,14 @@ geolocate(var apiKey, String? input) async {
       'http://api.openweathermap.org/geo/1.0/direct?q=$cityName&limit=$limit&appid=$apiKey');
   //api call to geocoder
   var geocoderReply = await http.get(geocodeUrl);
-  //Extracting map from 1 size list created by json.decode
-  var coderMap = (jsonDecode(geocoderReply.body))[0];
 
+  //1 size list created by json.decode
+  var retList = (jsonDecode(geocoderReply.body));
+  if (retList.isEmpty) {
+    return ['failed'];
+  } else {
+     coderMap = retList[0];
+  }
   return [coderMap['lat'], coderMap['lon']];
 }
 
@@ -34,15 +40,19 @@ _getWeather(String? input) async {
 
   //cords = 2 size array with lat and lon, index 0 and 1 respectively
   var cords = await geolocate(apiKey, input);
+  if (cords[0] == 'failed') {
+    // ignore: avoid_print
+    print("couldn't geolocate or pull city weather data");
+    return;
+  }
   var weatherUrl = Uri.parse(
       'https://api.openweathermap.org/data/2.5/weather?lat=${cords[0]}&lon=${cords[1]}&appid=$apiKey');
 
   //API call to openweather, sends back a json.
   var weatherReply = await http.get(weatherUrl);
-  //Note, decoding open weather returns a map directly instead of a list
-  // ignore: unused_local_variable
+  //Note, decoding here returns a map directly instead of a list with a map inside
   var weatherBody = (jsonDecode(weatherReply.body));
-  // ignore: avoid_print
+
   print("Found weather for ${weatherBody['name']}");
   //to-do parse weather data.
 }
