@@ -45,23 +45,35 @@ _getWeather(String? input) async {
   //if name couldn't be geolocated
   if (cords[0] == 'failed') {
     debugPrint("couldn't geolocate or pull city weather data");
-    return;
+    return ['failed'];
   }
-  
+  //date of when data was pulled
+  var dateStamp = DateTime.now();
+  //api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key}
   var weatherUrl = Uri.parse(
-      'https://api.openweathermap.org/data/2.5/weather?lat=${cords[0]}&lon=${cords[1]}&appid=$apiKey');
+      'https://api.openweathermap.org/data/2.5/forecast?lat=${cords[0]}&lon=${cords[1]}&appid=$apiKey');
 
   //API call to openweather, sends back a json.
   var weatherReply = await http.get(weatherUrl);
   //Note, decoding here returns a map directly instead of a list with a map inside
+  //value with key list, stores a list
   var weatherBody = (jsonDecode(weatherReply.body));
-  debugPrint("Found weather for ${weatherBody['name']}");
-  //to-do parse weather data.
+
+  return [weatherBody, dateStamp];
 }
 
-void storeWeather(String? input) {
-  //not fully functional, getweather still needs to parse the weatherdata
-  _getWeather(input);
+void storeWeather(String? input) async {
+  //STUB, NOT FULLY FUNCTIONAL
+  //returns 2 size array [obj of weather data, date time object of when it was recieved]
+  var weatherRet = await _getWeather(input);
+  var weatherReport = weatherRet[0];
+  if (weatherReport != 'failed') {
+    //Mix of nested maps and lists, hence some access ops are by key while others by index
+    debugPrint(
+        "Found weather for ${weatherReport['city']['name']} in ${weatherReport['city']['country']}, it is ${(weatherReport['list'][0])['weather'][0]['description']}");
+  }
+  //to-do actucally store weather data
+  //parse weatherdata beyond the lastest 3 hour time slice
 }
 
 class MyApp extends StatelessWidget {
