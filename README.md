@@ -9,25 +9,6 @@ Cross-platform Wallpaper Manager that changes your device's wallpaper by the fol
 
 Our project will focus on Windows devices for now. We decided to scrap the idea of MacOS because not all of us have access to an Apple computer, and it would be unfair for those who do not. There would be issues whenever we're testing code.
 
-# Target Platforms
-
-Due to certain restrictions on Apple's major operating systems, iOS and MacOS, there are no plans for development on these platforms.
-
-- Windows
-- Linux
-- Android
-
-# Requirements for development/usage
-
-These tools must be installed for developing and contributing to the project. At the time of writing, there are no compiled executables or packaged installers for our target platforms. This means that the following Software Development Kits are necessary to use the project as well. Distinctions by the (development) platform will be made, if they apply.
-
-- [Flutter](https://flutter.dev)
-- C/C++ Compilers
-  - Windows: [MinGW](https://opensource.com/article/20/8/gnu-windows-mingw)
-  - Linux: [gcc and g++](https://www.cyberciti.biz/faq/howto-installing-gnu-c-compiler-development-environment-on-ubuntu/)
-
-To generate ffi bindings again, you'll need to install [LLVM](https://pub.dev/packages/ffigen#installing-llvm) on your machine. You don't have to because these usually don't change once done, and you can manually do these on your own, but there's the option of doing them automatically.
-
 # Roadmap
 
 This should be updated bit by bit as we figure out the "whats" and the "hows" of our project.
@@ -39,19 +20,48 @@ Again, this should also be updated as we go with the packages that we use.
 
 - [Flutter](https://flutter.dev/): Google's cross-platform SDK for multiple platforms with a single codebase
   - [Requests](https://pub.dev/packages/requests): Flutter package to simplify HTTP/HTTPS requests
-  - [File Picker](https://pub.dev/packages/file_picker): Opening a file picker native dialog
 
+<br />
 
-# How to run the app?
+# How to install Flutter
 
-- Run ```flutter pub get``` to download all required packages from the yaml
-- If the current and target platforms are Windows, please run ```make``` to compile the shared library to change the wallpaper on Windows platforms.
-  - The current platform must be Windows because we need the C++ Windows headers to do so
-- Run ```flutter run -d <device>``` where device is your target device. For now, use ```windows``` as the device.
+  ## Windows
 
-# Notes
+  Download the latest stable build of Flutter [here](https://docs.flutter.dev/get-started/install/windows).
 
-Please keep an eye on these.
+  Extract the zip file, it is recommended that you extract it
+  in your C: drive's root.
+  _Do not extract the zip file in a directory that requires special permissions._
 
-- The current file_picker package we're using on Flutter requires developer mode on Windows to be activated when building the app. Must test that this is not a require for the client
-- Still missing the permissions for Android file picking
+  Update your path user variable
+
+  * First, enter "env" into the search bar of your Start menu, and then select **"Edit environment variables for your account."**
+    * Next, select the "**Environment variables"** option at the bottom of the window.
+    * In this window, select the environment variable titled **"Path."** If this variable does not
+    exist yet, then select the **"New"** option under **"User variables,"** and name it "Path."
+    * Open the Path variable and select the **"new"** option, and enter the full filepath to the _flutter\bin_ folder.
+  
+Run the **flutter doctor** to ensure that you have all of the necessary dependencies to properly run it.
+  
+  * From a console window, navigate to the extracted Flutter folder.
+    * Once there, enter the command **"flutter doctor"**, and the command will check the status of your Flutter installation, and will inform you if any needed software is missing in bold text.
+
+<br />
+
+  ## Linux
+
+<br />
+
+ Download the Flutter SDK tar.xz file [here](https://docs.flutter.dev/get-started/install/linux).
+
+Extract the file in a directory of your choice. 
+
+Add the flutter tool to your path using the command:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ```$ export PATH="$PATH:`pwd`/flutter/bin"```
+
+<br />
+
+Run the **flutter doctor** to ensure that you have all of the necessary dependencies to properly run it.
+
+* The command will check the status of the Flutter installation, and will inform you if any needed software or tools are missing in bold text.
