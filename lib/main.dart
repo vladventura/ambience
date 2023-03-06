@@ -63,12 +63,14 @@ getWeather(String? input) async {
 
 void storeWeather(String? input) async {
   //STUB, NOT FULLY FUNCTIONAL
-  getWeather(input);
+  if (getWeather(input) == false) {
+    debugPrint("Failure in getting weather data!");
+  }
   var storage = JsonStorage();
   var weatherData = await storage.readJson();
   debugPrint(
       "Found weather for ${weatherData['city']['name']} in ${weatherData['city']['country']}."
-      " It is ${(weatherData['list'][0])['weather'][0]['description']}");
+      " It weather: ${(weatherData['list'][0])['weather'][0]['description']}.");
   //returns 2 size array [obj of weather data, date time object of when it was recieved
   /*
   var weatherRet = await _getWeather(input);
