@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 //install via flutter pub add path_provider
+//may need to also enable install loose files on windows developer settings
 import 'package:path_provider/path_provider.dart';
 import 'dart:io';
 
@@ -15,12 +16,13 @@ void main() {
 geolocate(var apiKey, String? input) async {
   Map coderMap;
   var cityName = input;
-  //use to limit number of matching results in geocoder api call
+  //use to limit number of results in geocoder api call
+  //1 means it only takes the top result
   var limit = 1;
 
   //geocoder url format
   //http://api.openweathermap.org/geo/1.0/direct?q={city name},{state code},{country code}&limit={limit}&appid={API key}
-  //country code = ISO 3166 codes, state code is for US only, limit is # of top results returned
+  //country code = ISO 3166 codes, state code is for US only, limit is # of results returned
 
   var geocodeUrl = Uri.parse(
       'http://api.openweathermap.org/geo/1.0/direct?q=$cityName&limit=$limit&appid=$apiKey');
@@ -46,7 +48,7 @@ getWeather(String? input) async {
   var cords = await geolocate(apiKey, input);
   //if name couldn't be geolocated
   if (cords[0] == 'failed') {
-    debugPrint("couldn't geolocate or pull city weather data");
+    debugPrint("Geolocation failed");
     return false;
   }
   //api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key}
@@ -55,48 +57,29 @@ getWeather(String? input) async {
 
   //API call to openweather, sends back a json.
   var weatherReply = await http.get(weatherUrl);
-  var storage = JsonStorage();
-  storage.writeFile(weatherReply.body);
+  var storage = Storage();
+  //.body attribute contains json, write to given file
+  await storage.writeAppDocFile(weatherReply.body, 'weatherData.txt');
   //succeeded
+
   return true;
 }
 
-void storeWeather(String? input) async {
-  //STUB, NOT FULLY FUNCTIONAL
-  if (getWeather(input) == false) {
-    debugPrint("Failure in getting weather data!");
+void weather(String? input) async {
+  //not fully functional
+  //get weather data
+  if (await (getWeather(input)) == false) {
+    debugPrint("Failed to get Weatherdata!");
   }
-  var storage = JsonStorage();
-  var weatherData = await storage.readJson();
+  //else successfuly gotten weather data
+  var storage = Storage();
+  //Reads from give file in AppDoc/Ambience dir and reteurns a decoded JSON as a Dart object
+  var weatherData = await storage.readAppDocJson('weatherData.txt');
+  //sample of parsing weather data
+  //note it is a mix of lists and maps. Hence key and index accesing.
   debugPrint(
       "Found weather for ${weatherData['city']['name']} in ${weatherData['city']['country']}."
       " The weather: ${(weatherData['list'][0])['weather'][0]['description']}.");
-  //returns 2 size array [obj of weather data, date time object of when it was recieved
-  /*
-  var weatherRet = await _getWeather(input);
-  var weatherReport = weatherRet[0];
-  if (weatherReport != 'failed') {
-    //Mix of nested maps and lists, hence some access ops are by key while others by index
-    debugPrint(
-        "Found weather for ${weatherReport['city']['name']} in ${weatherReport['city']['country']}"
-        "it is ${(weatherReport['list'][0])['weather'][0]['description']}");
-  }
-  */
-  //to-do actucally store weather data
-  //parse weatherdata beyond the lastest 3 hour time slice
-  /*
-  code draft on how parse the weatheradata
-   var localTimeInUtc = (DateTime.now()).toUtc();
-    for (var i = 0; i < (weatherReport['list']).length; i++) {
-      //get UTC time stamp of forcast data
-      var reportTime = DateTime.parse(((weatherReport['list'])[i])['dt_txt']);
-      //if localtime is before or during forecast time
-      if (!localTimeInUtc.isAfter(reportTime)) {
-        
-      }
-    }
-    
-  */
 }
 
 class MyApp extends StatelessWidget {
@@ -178,7 +161,7 @@ class _MyHomePageState extends State<MyHomePage> {
               },
             ),
             ElevatedButton(
-                onPressed: () => storeWeather(cityInput),
+                onPressed: () => weather(cityInput),
                 child: const Text("Get weather")),
             //open file
             ElevatedButton(
@@ -198,32 +181,54 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 
-class JsonStorage {
+class Storage {
   Future<String> get _localPath async {
     final directory = await getApplicationDocumentsDirectory();
 
     return directory.path;
   }
 
-  Future<File> get _localFile async {
+  Future<String> get _localDirectoryPath async {
     final path = await _localPath;
-    return File('$path\\ambience\\test.txt');
+    Directory temp = Directory("$path\\Ambience");
+
+    //if doesn't exist
+    if (!(await temp.exists())) {
+      await temp.create(recursive: true).catchError((e) {
+        debugPrint("error with creating Ambience folder");
+        //for now return the base path on error, but may be subject to change
+        return Directory(path);
+      });
+    }
+    //temp exists, return temp
+    return temp.path;
   }
 
-  Future<File> writeFile(var content) async {
-    final file = await _localFile;
+  Future<File> writeAppDocFile(var content, String pathaddon) async {
+    final path = await _localDirectoryPath;
+    File temp = File("$path\\$pathaddon");
+    //existence check
+    if (!(await temp.exists())) {
+      //create file and any non-existing parents
+      await (temp.create(recursive: true)).catchError((e) {
+        debugPrint("error with creating path: $path\\$pathaddon");
+        //for now return the base path on error, but may be subject to change
+        return temp;
+      });
+    }
     // Write the file
-    return file.writeAsString('$content');
+    return (await temp.writeAsString(content));
   }
 
-  Future<dynamic> readJson() async {
+  Future<dynamic> readAppDocJson(String path) async {
     try {
-      final file = await _localFile;
+      final file = await _localDirectoryPath;
+      File readTarget = File('$file\\$path');
       // Read the file
-      final contents = await file.readAsString();
+      final contents = await readTarget.readAsString();
       return jsonDecode(contents);
     } catch (e) {
-      debugPrint("error with reading file");
+      debugPrint("error with reading JSON file");
       // If encountering an error, return 0
       return 'failed';
     }
