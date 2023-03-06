@@ -1,13 +1,10 @@
 import 'package:ambience/handlers/file_handler.dart';
 import 'package:ambience/handlers/wallpaper_handler.dart';
+import 'package:ambience/storage/storage.dart';
 import 'package:flutter/material.dart';
 //install http.dart via 'flutter pub add http'
 import 'package:http/http.dart' as http;
 import 'dart:convert';
-//install via flutter pub add path_provider
-//may need to also enable install loose files on windows developer settings
-import 'package:path_provider/path_provider.dart';
-import 'dart:io';
 
 void main() {
   runApp(const MyApp());
@@ -178,59 +175,5 @@ class _MyHomePageState extends State<MyHomePage> {
         child: const Icon(Icons.add),
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );
-  }
-}
-
-class Storage {
-  Future<String> get _localPath async {
-    final directory = await getApplicationDocumentsDirectory();
-
-    return directory.path;
-  }
-
-  Future<String> get _localDirectoryPath async {
-    final path = await _localPath;
-    Directory temp = Directory("$path\\Ambience");
-
-    //if doesn't exist
-    if (!(await temp.exists())) {
-      await temp.create(recursive: true).catchError((e) {
-        debugPrint("error with creating Ambience folder");
-        //for now return the base path on error, but may be subject to change
-        return Directory(path);
-      });
-    }
-    //temp exists, return temp
-    return temp.path;
-  }
-
-  Future<File> writeAppDocFile(var content, String pathaddon) async {
-    final path = await _localDirectoryPath;
-    File temp = File("$path\\$pathaddon");
-    //existence check
-    if (!(await temp.exists())) {
-      //create file and any non-existing parents
-      await (temp.create(recursive: true)).catchError((e) {
-        debugPrint("error with creating path: $path\\$pathaddon");
-        //for now return the base path on error, but may be subject to change
-        return temp;
-      });
-    }
-    // Write the file
-    return (await temp.writeAsString(content));
-  }
-
-  Future<dynamic> readAppDocJson(String path) async {
-    try {
-      final file = await _localDirectoryPath;
-      File readTarget = File('$file\\$path');
-      // Read the file
-      final contents = await readTarget.readAsString();
-      return jsonDecode(contents);
-    } catch (e) {
-      debugPrint("error with reading JSON file");
-      // If encountering an error, return 0
-      return 'failed';
-    }
   }
 }
