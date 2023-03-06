@@ -70,7 +70,7 @@ void storeWeather(String? input) async {
   var weatherData = await storage.readJson();
   debugPrint(
       "Found weather for ${weatherData['city']['name']} in ${weatherData['city']['country']}."
-      " It weather: ${(weatherData['list'][0])['weather'][0]['description']}.");
+      " The weather: ${(weatherData['list'][0])['weather'][0]['description']}.");
   //returns 2 size array [obj of weather data, date time object of when it was recieved
   /*
   var weatherRet = await _getWeather(input);
