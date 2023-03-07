@@ -24,7 +24,7 @@ getWeather(String? input) async {
   var weatherReply = await http.get(weatherUrl);
   var storage = Storage();
   //.body attribute contains json, write to given file
-  await storage.writeAppDocFile(weatherReply.body, 'weatherData.txt');
+  await storage.writeAppDocFile(weatherReply.body, storage.weatherDataPath);
   //succeeded
 
   return true;

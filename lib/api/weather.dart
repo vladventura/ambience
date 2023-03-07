@@ -13,7 +13,7 @@ void weather(String? input) async {
   //else successfuly gotten weather data
   var storage = Storage();
   //Reads from give file in AppDoc/Ambience dir and reteurns a decoded JSON as a Dart object
-  var weatherData = await storage.readAppDocJson('weatherData.txt');
+  var weatherData = await storage.readAppDocJson(storage.weatherDataPath);
   //sample of parsing weather data
   //note it is a mix of lists and maps. Hence key and index accesing.
   debugPrint(

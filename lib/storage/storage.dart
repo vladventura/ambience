@@ -6,12 +6,16 @@ import 'package:flutter/foundation.dart';
 
 //storage uses path_provider for platform indepedent presistent data
 class Storage {
+  String weatherDataPath = 'weatherData.json';
+  String logFilePath = 'log.txt';
+  String configPath = 'config.txt';
   //path_provider gets a directory for presistent data
   Future<String> get _localPath async {
     final directory = await getApplicationDocumentsDirectory();
 
     return directory.path;
   }
+
   //Creat Ambience folder if it doesn't exist already, else return the path of said folder
   Future<String> get _localDirectoryPath async {
     final path = await _localPath;
@@ -28,6 +32,7 @@ class Storage {
     //temp exists, return temp
     return temp.path;
   }
+
   //write 'contents' to give 'pathaddon' within the Ambience folder
   Future<File> writeAppDocFile(var content, String pathaddon) async {
     final path = await _localDirectoryPath;
@@ -44,6 +49,7 @@ class Storage {
     // Write the file
     return (await temp.writeAsString(content));
   }
+
   //read json from file and converts it to Dart object and returns said object
   Future<dynamic> readAppDocJson(String path) async {
     try {
