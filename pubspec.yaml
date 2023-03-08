@@ -23,6 +23,8 @@ dependencies:
   path:
   file_picker: ^5.2.5
   async_wallpaper: ^2.0.1
+  http: ^0.13.5
+  path_provider: ^2.0.13
 
 dev_dependencies:
   flutter_test:

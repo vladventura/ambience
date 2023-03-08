@@ -1,6 +1,9 @@
+import 'dart:io';
+
 import 'package:ambience/handlers/file_handler.dart';
 import 'package:ambience/handlers/wallpaper_handler.dart';
 import 'package:flutter/material.dart';
+import 'package:ambience/api/weather.dart';
 
 void main() {
   runApp(const MyApp());
@@ -62,6 +65,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   @override
   Widget build(BuildContext context) {
+    String? cityInput;
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.title),
@@ -70,6 +74,23 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
+            //weather api text field
+            // ignore: prefer_const_constructors
+            TextField(
+              // ignore: prefer_const_constructors
+              decoration: InputDecoration(
+                // ignore: prefer_const_constructors
+                border: OutlineInputBorder(),
+                hintText: 'Enter city name to get weather for',
+              ),
+              onChanged: (text) {
+                cityInput = text;
+              },
+            ),
+            ElevatedButton(
+                onPressed: () => weather(cityInput),
+                child: const Text("Get weather")),
+            //open file
             ElevatedButton(
               onPressed: _pickFile,
               child: const Text("Open File"),
