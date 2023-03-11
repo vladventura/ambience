@@ -1,12 +1,19 @@
-import 'dart:io';
-
 import 'package:ambience/handlers/file_handler.dart';
 import 'package:ambience/handlers/wallpaper_handler.dart';
 import 'package:flutter/material.dart';
 import 'package:ambience/api/weather.dart';
+import "package:ambience/daemon/daemon.dart";
 
-void main() {
-  runApp(const MyApp());
+void main(List<String> args) {
+  //if not args passed, GUI MODE
+  if (args.isEmpty) {
+    runApp(const MyApp());
+  }
+  //if there are command line args, GUI-Less mode
+  else {
+    String input = args[0];
+    weather(input);
+  }
 }
 
 class MyApp extends StatelessWidget {
@@ -66,6 +73,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     String? cityInput;
+    String demonTime = "06:66pm";
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.title),
@@ -90,6 +98,20 @@ class _MyHomePageState extends State<MyHomePage> {
             ElevatedButton(
                 onPressed: () => weather(cityInput),
                 child: const Text("Get weather")),
+            TextField(
+              // ignore: prefer_const_constructors
+              decoration: InputDecoration(
+                // ignore: prefer_const_constructors
+                border: OutlineInputBorder(),
+                hintText: 'Enter cityname first. THEN enter time for demon. Time format: xx:xxpm or xx:xxam',
+              ),
+              onChanged: (dtext) {
+                demonTime = dtext;
+              },
+            ),
+            ElevatedButton(
+                onPressed: () => Daemon.init(cityInput,demonTime),
+                child: const Text("Demon Test")),
             //open file
             ElevatedButton(
               onPressed: _pickFile,
