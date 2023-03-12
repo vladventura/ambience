@@ -6,4 +6,4 @@ Does not work in debug mode, it doesn't find the executable file for ambience in
 
 -The current file_picker package we're using on Flutter requires developer mode on Windows to be activated when building the app. Must test that this is not a require for the client
 
--Path_provider reqruires install form loose files enaled in developer settings on Windows.
+-Path_provider requires install form loose files enaled in developer settings on Windows.
