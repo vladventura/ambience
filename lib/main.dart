@@ -103,7 +103,7 @@ class _MyHomePageState extends State<MyHomePage> {
               decoration: InputDecoration(
                 // ignore: prefer_const_constructors
                 border: OutlineInputBorder(),
-                hintText: 'Enter cityname first. THEN enter time for demon. Time format: xx:xxpm or xx:xxam',
+                hintText: 'Enter cityname first. THEN enter time for demon. Time format: xx:xx:pm or xx:xx:am',
               ),
               onChanged: (dtext) {
                 demonTime = dtext;
