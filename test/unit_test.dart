@@ -43,7 +43,7 @@ void main() {
     test('Should load API Key properly', () {
       dotenv.testLoad(fileInput: "APIKEY=$mockKey");
       RequestHandler handler = const RequestHandler();
-      expect(handler.apiKey, "mockKey");
+      expect(handler.apiKey, mockKey);
     });
   });
   group('Geolocate API', () {
