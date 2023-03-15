@@ -1,11 +1,13 @@
-import 'dart:io';
-
+import "package:flutter_dotenv/flutter_dotenv.dart";
 import 'package:ambience/handlers/file_handler.dart';
 import 'package:ambience/handlers/wallpaper_handler.dart';
 import 'package:flutter/material.dart';
 import 'package:ambience/api/weather.dart';
 
-void main() {
+Future main() async {
+  // Ideally, we have already .env files set up
+  // Will wait until next meeting.
+  dotenv.testLoad(fileInput: "APIKEY=91c86752769af03ca919b23664114cda");
   runApp(const MyApp());
 }
 
