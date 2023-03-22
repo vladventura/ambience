@@ -1,12 +1,21 @@
+import 'dart:io';
+
 import 'package:ambience/handlers/file_handler.dart';
 import 'package:ambience/handlers/wallpaper_handler.dart';
 import 'package:flutter/material.dart';
 import 'package:ambience/api/weather.dart';
 import "package:ambience/daemon/daemon.dart";
+// flutter pub add workmanager
+import 'package:workmanager/workmanager.dart';
 
 void main(List<String> args) {
   //if not args passed, GUI MODE
   if (args.isEmpty) {
+    WidgetsFlutterBinding.ensureInitialized();
+    //Workmanager().initialize needs to be in main
+    if (Platform.isAndroid) {
+      Workmanager().initialize(callbackDispatchter, isInDebugMode: true);
+    }
     runApp(const MyApp());
   }
   //if there are command line args, GUI-Less mode
@@ -103,20 +112,27 @@ class _MyHomePageState extends State<MyHomePage> {
               decoration: InputDecoration(
                 // ignore: prefer_const_constructors
                 border: OutlineInputBorder(),
-                hintText: 'Enter cityname first. THEN enter time for demon. Time format: xx:xx:pm or xx:xx:am',
+                hintText:
+                    'Enter cityname first. THEN enter time for demon. Time format: xx:xx:pm or xx:xx:am',
               ),
               onChanged: (dtext) {
                 demonTime = dtext;
               },
             ),
             ElevatedButton(
-                onPressed: () => Daemon.init(cityInput,demonTime),
+                onPressed: () => Daemon.init(cityInput, demonTime),
                 child: const Text("Demon Test")),
+            ElevatedButton(
+              onPressed: () =>
+                  Workmanager().registerOneOffTask("unique name", "taskname"),
+              child: const Text("Work Manager test"),
+            ),
             //open file
             ElevatedButton(
               onPressed: _pickFile,
               child: const Text("Open File"),
             ),
+
             if (_input.isNotEmpty) Text("Path to file is $_input"),
           ],
         ),

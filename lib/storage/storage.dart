@@ -3,6 +3,7 @@ import 'package:path_provider/path_provider.dart';
 import 'dart:io';
 import 'dart:convert';
 import 'package:flutter/foundation.dart';
+//install via flutter pub add path
 import 'package:path/path.dart' as p;
 
 //storage uses path_provider for platform indepedent presistent data
