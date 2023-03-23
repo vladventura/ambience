@@ -38,7 +38,7 @@ class Storage {
 
   //write 'contents' to give 'pathaddon' within the Ambience folder
   Future<File> writeAppDocFile(var content, String pathaddon,
-      {String mode = 'n'}) async {
+      [String mode = 'n']) async {
     final path = await _localDirectoryPath;
     File temp = File(p.normalize("$path/$pathaddon"));
     //existence check
