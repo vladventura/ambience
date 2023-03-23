@@ -11,6 +11,7 @@ class Storage {
   String weatherDataPath = 'weatherData.json';
   String logFilePath = 'log.txt';
   String configPath = 'config.txt';
+
   //path_provider gets a directory for presistent data
   Future<String> get _localPath async {
     final directory = await getApplicationDocumentsDirectory();
@@ -36,7 +37,8 @@ class Storage {
   }
 
   //write 'contents' to give 'pathaddon' within the Ambience folder
-  Future<File> writeAppDocFile(var content, String pathaddon) async {
+  Future<File> writeAppDocFile(var content, String pathaddon,
+      {String mode = 'n'}) async {
     final path = await _localDirectoryPath;
     File temp = File(p.normalize("$path/$pathaddon"));
     //existence check
@@ -48,8 +50,13 @@ class Storage {
         return temp;
       });
     }
-    // Write the file
+    //append mode.
+    if(mode == 'a'){
+      return (await temp.writeAsString(content,mode: FileMode.append)); 
+    }
+    // Write the file, normally
     return (await temp.writeAsString(content));
+ 
   }
 
   //read json from file and converts it to Dart object and returns said object
@@ -62,7 +69,7 @@ class Storage {
       return jsonDecode(contents);
     } catch (e) {
       debugPrint("error with reading JSON file, relative path given: $path");
-      // If encountering an error, return 0
+      // If encountering an error
       return 'failed';
     }
   }
