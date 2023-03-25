@@ -1,21 +1,14 @@
 import 'dart:io';
-
 import 'package:ambience/handlers/file_handler.dart';
 import 'package:ambience/handlers/wallpaper_handler.dart';
+import 'package:ambience/weatherEntry/weather_entry.dart';
 import 'package:flutter/material.dart';
 import 'package:ambience/api/weather.dart';
 import "package:ambience/daemon/daemon.dart";
-// flutter pub add workmanager
-import 'package:workmanager/workmanager.dart';
 
 void main(List<String> args) {
   //if not args passed, GUI MODE
   if (args.isEmpty) {
-    WidgetsFlutterBinding.ensureInitialized();
-    //Workmanager().initialize needs to be in main
-    if (Platform.isAndroid) {
-      Workmanager().initialize(callbackDispatchter, isInDebugMode: true);
-    }
     runApp(const MyApp());
   }
   //if there are command line args, GUI-Less mode
@@ -82,7 +75,15 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     String? cityInput;
-    String demonTime = "06:66pm";
+
+    TimeOfDay st = const TimeOfDay(hour: 20, minute: 50);
+    DayOfWeek dow = DayOfWeek.friday;
+    WeatherCondition wc = WeatherCondition.clear;
+    String testPaper = "C:\\Users\\bryan\\Downloads\\test.jpg";
+    String schema = "mockSchema";
+    String city = 'Boston';
+    WeatherEntry mockObj = WeatherEntry(
+        st, st, "weather", dow, testPaper, wc, schema, city);
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.title),
@@ -107,26 +108,9 @@ class _MyHomePageState extends State<MyHomePage> {
             ElevatedButton(
                 onPressed: () => weather(cityInput),
                 child: const Text("Get weather")),
-            TextField(
-              // ignore: prefer_const_constructors
-              decoration: InputDecoration(
-                // ignore: prefer_const_constructors
-                border: OutlineInputBorder(),
-                hintText:
-                    'Enter cityname first. THEN enter time for demon. Time format: xx:xx:pm or xx:xx:am',
-              ),
-              onChanged: (dtext) {
-                demonTime = dtext;
-              },
-            ),
             ElevatedButton(
-                onPressed: () => Daemon.init(cityInput, demonTime),
-                child: const Text("Demon Test")),
-            ElevatedButton(
-              onPressed: () =>
-                  Workmanager().registerOneOffTask("unique name", "taskname"),
-              child: const Text("Work Manager test"),
-            ),
+                onPressed: () => Daemon.daemonSpawner(mockObj),
+                child: const Text("Demon Mock Obj Test")),
             //open file
             ElevatedButton(
               onPressed: _pickFile,
