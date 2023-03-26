@@ -22,8 +22,8 @@ class WeatherEntry {
   DayOfWeek dayOfWeek = DayOfWeek.friday;
   String wallpaperFilepath = "";
   WeatherCondition weatherCondition = WeatherCondition.clear;
-  String idSchema = 'Ambience daemon';
-  String city = 'boston';
+  String idSchema = 'Ambience_daemon';
+  String city = 'london';
 
   WeatherEntry(TimeOfDay startTime, TimeOfDay endTime, String weather, DayOfWeek dayOfWeek,
       String wallpaperFilepath, WeatherCondition weatherCondition, String idSchema, String city);

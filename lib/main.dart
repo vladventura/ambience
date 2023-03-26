@@ -81,7 +81,7 @@ class _MyHomePageState extends State<MyHomePage> {
     WeatherCondition wc = WeatherCondition.clear;
     String testPaper = "C:\\Users\\bryan\\Downloads\\test.jpg";
     String schema = "mockSchema";
-    String city = 'Boston';
+    String city = 'New York';
     WeatherEntry mockObj = WeatherEntry(
         st, st, "weather", dow, testPaper, wc, schema, city);
     return Scaffold(
