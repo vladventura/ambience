@@ -4,7 +4,7 @@ import 'package:ambience/storage/storage.dart';
 //Reads weather data JSON from file.
 //Note this is a bit if a proof of concept function
 //Data needs to be prased to be utitlize, right now there is only an example of doing so
-void weather(String? input) async {
+Future<void> weather(String? input) async {
   //not fully functional
   //get weather data
   if (await (getWeather(input)) == false) {

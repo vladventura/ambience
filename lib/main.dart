@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'dart:io';
 import 'package:ambience/handlers/file_handler.dart';
 import 'package:ambience/handlers/wallpaper_handler.dart';
@@ -13,8 +14,14 @@ void main(List<String> args) {
   }
   //if there are command line args, GUI-Less mode
   else {
-    String input = args[0];
-    weather(input);
+    //restore spaces that were replaced with underscores
+    String input = args[0].replaceAll("_", " ");
+    //runzoned is used to await async functions, so exit doesn't exit the program before they finished
+    runZoned(() async {
+      await weather(input);
+      //explict exit, else Windows task scheduler will never know the task ended
+      exit(0);
+    });
   }
 }
 
@@ -82,8 +89,8 @@ class _MyHomePageState extends State<MyHomePage> {
     String testPaper = "C:\\Users\\bryan\\Downloads\\test.jpg";
     String schema = "mockSchema";
     String city = 'New York';
-    WeatherEntry mockObj = WeatherEntry(
-        st, st, "weather", dow, testPaper, wc, schema, city);
+    WeatherEntry mockObj =
+        WeatherEntry(st, st, "weather", dow, testPaper, wc, schema, city);
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.title),

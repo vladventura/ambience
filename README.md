@@ -1,11 +1,18 @@
+================General Daemon Testing=======
+Does NOT work in debug(The platform specific daemon manager cannot find executable in debug)!
+Build the platform specific solution file e.g. "Flutter build windows" for windows.
+Then place the relevant scripts from the script folder(see below) in the same folder as the executable.
+
 ================Windows Daemon===============
-This works fine in debug.HOWEVER, to make this work once ambience solution is built, you need to put the winTaskSetter.ps1 script in the same folder as the ambience.exe. I'm not sure how to "bundle" it with the exe.
+Prereq: 
+    Daemon class uses path_provider module which has an additional step to install on windows: enable install form loose files in developer settings on Windows(Note this should not matter to the cilent but does matter for us).
+
+Scripts: 
+    Make sure "winTaskSetter.ps1" & "winTaskRemover.ps1" is in the same folder as "ambience.exe"
 
 ================Linux Daemon==================
-Does not work in debug mode, it doesn't find the executable file for ambience in debug mode. Instead, you must flutter build linux then place the script UbuntuCronScheduler.sh in that folder, then run the ambience executable. 
-
--xfvb is a requirement
-
--The current file_picker package we're using on Flutter requires developer mode on Windows to be activated when building the app. Must test that this is not a require for the client
-
--Path_provider requires install form loose files enaled in developer settings on Windows.
+Prereq:
+    "xfvb" is installed("sudo apt install xvfb")
+        Why: Because default Linux behavior for Flutter applictions is draw a Window. Cron jobs run in a "minimalistic" terminal enviroment with no display which causes ambience to fail since it cannot find a display. Xfvb comes in by giving a dummy display to make everyone happy.
+Scripts:
+    "UbuntuCronRemover.sh" & "UbuntuCronScheduler.sh" in the same folder as the executable.

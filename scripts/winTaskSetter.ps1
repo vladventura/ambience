@@ -17,11 +17,9 @@ if(Get-ScheduledTask -TaskName $idSchema -ErrorAction SilentlyContinue){
     #deleting pre-existing version to prevent incompadability w/o prompting user for confirmation
     Unregister-ScheduledTask -TaskName $idSchema -Confirm:$false
 }
-
+$exePath=Resolve-Path 'ambience.exe'
 #this is what the task is going to do, .. = append parent dictory
-$action = New-ScheduledTaskAction -Execute '..\ambience.exe' -Argument $cityname
-#e.g. of time would be "10:02am" or "10:05pm"
-#this sets what the trigger is
+$action = New-ScheduledTaskAction -Execute $exePath -Argument $cityname
 $trigger =  New-ScheduledTaskTrigger -Weekly -At $time -DaysOfWeek $dayOfWeek
 #this sends the task to task scheduler
 Register-ScheduledTask -Action $action -Trigger $trigger -TaskName $idSchema
