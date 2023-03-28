@@ -17,8 +17,15 @@ class Daemon {
           '${time.hour.toString().padLeft(2, '0')}:${time.hour.toString().padLeft(2, '0')}';
       //flag use to trigger different modes of the powershell script
       //run powershell script to schedule tasks(daemon)
-      var proc = await Process.run('powershell.exe', [
-        '$current\\winTaskSetter.ps1 "$name" "$city" "$formatedTime" "$dow"'
+      var proc = await Process.run('PowerShell.exe', [
+        '-ExecutionPolicy',
+        'Bypass',
+        '-File',
+        '$current\\winTaskSetter.ps1',
+        name,
+        city,
+        formatedTime,
+        '$dow'
       ]);
 
       debugPrint("winTaskSetter.ps1 standard output: ${proc.stdout}");
@@ -41,8 +48,13 @@ class Daemon {
   static void daemonBanisher(String idSchema) async {
     String current = Directory.current.path;
     if (Platform.isWindows) {
-      var proc = await Process.run(
-          'powershell.exe', ['$current\\winTaskRemover.ps1 "$idSchema"']);
+      var proc = await Process.run('PowerShell.exe', [
+        '-ExecutionPolicy',
+        'Bypass',
+        '-File',
+        '$current\\winTaskRemover.ps1',
+        idSchema
+      ]);
 
       debugPrint("winTaskRemover.ps1 standard output: ${proc.stdout}");
       debugPrint("winTaskRemover.ps1 standard error output: ${proc.stderr}");
