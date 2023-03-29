@@ -5,6 +5,11 @@ const fakeGeo = [
   }
 ];
 
+const Map<String, dynamic> fakeCityInfo = {
+  "cityName": "Incheon",
+  "countryCode": 207,
+};
+
 const String mockKey = "fakepi-key";
 
 const fakeWeatherResponse = {
