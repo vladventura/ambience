@@ -1,14 +1,30 @@
-import "package:flutter_dotenv/flutter_dotenv.dart";
+import 'dart:io';
+import "package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:ambience/handlers/file_handler.dart';
 import 'package:ambience/handlers/wallpaper_handler.dart';
+import 'package:ambience/weatherEntry/weather_entry.dart';
 import 'package:flutter/material.dart';
 import 'package:ambience/api/weather.dart';
+import "package:ambience/daemon/daemon.dart";
 
-Future main() async {
+void main(List<String> args) async{
   // Ideally, we have already .env files set up
-  // Will wait until next meeting.
   dotenv.testLoad(fileInput: "APIKEY=91c86752769af03ca919b23664114cda");
-  runApp(const MyApp());
+  //if not args passed, GUI MODE
+  if (args.isEmpty) {
+    runApp(const MyApp());
+  }
+  //if there are command line args, GUI-Less mode
+  else {
+    //restore spaces that were replaced with underscores
+    String input = args[0].replaceAll("_", " ");
+    //runzoned is used to await async functions, so exit doesn't exit the program before they finished
+    runZoned(() async {
+      await weather(input);
+      //explict exit, else Windows task scheduler will never know the task ended
+      exit(0);
+    });
+  }
 }
 
 class MyApp extends StatelessWidget {
@@ -68,6 +84,15 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     String? cityInput;
+
+    TimeOfDay st = const TimeOfDay(hour: 20, minute: 50);
+    DayOfWeek dow = DayOfWeek.friday;
+    WeatherCondition wc = WeatherCondition.clear;
+    String testPaper = "C:\\Users\\bryan\\Downloads\\test.jpg";
+    String schema = "mockSchema";
+    String city = 'New York';
+    WeatherEntry mockObj =
+        WeatherEntry(st, st, "weather", dow, testPaper, wc, schema, city);
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.title),
@@ -92,11 +117,15 @@ class _MyHomePageState extends State<MyHomePage> {
             ElevatedButton(
                 onPressed: () => weather(cityInput),
                 child: const Text("Get weather")),
+            ElevatedButton(
+                onPressed: () => Daemon.daemonSpawner(mockObj),
+                child: const Text("Demon Mock Obj Test")),
             //open file
             ElevatedButton(
               onPressed: _pickFile,
               child: const Text("Open File"),
             ),
+
             if (_input.isNotEmpty) Text("Path to file is $_input"),
           ],
         ),
