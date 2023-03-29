@@ -1,5 +1,5 @@
 #ifndef SET_WALLPAPER_H
 #define SET_WALLPAPER_H
-int set_wallpaper(int a, int b);
-int change_wallpaper(const char *input);
+#include <stddef.h>
+int change_wallpaper(const wchar_t *input);
 #endif

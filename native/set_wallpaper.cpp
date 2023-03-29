@@ -1,13 +1,11 @@
 #include "./set_wallpaper.hpp"
 #include <windows.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <wchar.h>
 
-extern "C"
-int set_wallpaper(int a, int b) {
-    return a + b;
-}
-
-extern "C"
-int change_wallpaper(const char *input) {
-    int result = SystemParametersInfoA(SPI_SETDESKWALLPAPER, 0, (PVOID*)input, SPIF_UPDATEINIFILE | SPIF_SENDWININICHANGE);
+extern "C" int change_wallpaper(const wchar_t *input)
+{
+    int result = SystemParametersInfoW(SPI_SETDESKWALLPAPER, 0, (PVOID)input, SPIF_UPDATEINIFILE | SPIF_SENDWININICHANGE);
     return result;
 }
