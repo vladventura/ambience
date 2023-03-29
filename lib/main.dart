@@ -1,5 +1,5 @@
-import 'dart:async';
 import 'dart:io';
+import "package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:ambience/handlers/file_handler.dart';
 import 'package:ambience/handlers/wallpaper_handler.dart';
 import 'package:ambience/weatherEntry/weather_entry.dart';
@@ -7,7 +7,9 @@ import 'package:flutter/material.dart';
 import 'package:ambience/api/weather.dart';
 import "package:ambience/daemon/daemon.dart";
 
-void main(List<String> args) {
+void main(List<String> args) async{
+  // Ideally, we have already .env files set up
+  dotenv.testLoad(fileInput: "APIKEY=91c86752769af03ca919b23664114cda");
   //if not args passed, GUI MODE
   if (args.isEmpty) {
     runApp(const MyApp());

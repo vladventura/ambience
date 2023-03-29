@@ -25,7 +25,8 @@ dependencies:
   async_wallpaper: ^2.0.1
   http: ^0.13.5
   path_provider: ^2.0.13
-  workmanager: ^0.5.1
+  flutter_dotenv: ^5.0.2
+
 
 dev_dependencies:
   flutter_test:
