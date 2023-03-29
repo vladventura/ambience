@@ -3,6 +3,7 @@ import "dart:io" show File;
 import "package:ambience/api/geolocate_api.dart";
 import "package:ambience/api/weather_api.dart";
 import "package:ambience/handlers/request_handler.dart";
+import "package:ambience/models/geolocation.dart";
 import "package:ambience/models/weather_model.dart";
 import "package:flutter/foundation.dart";
 import 'package:path/path.dart' as path;
@@ -70,6 +71,15 @@ void main() {
           (fakeWeatherResponse['body']?['list'] as List)[0];
       WeatherModel modelFromJson = WeatherModel.fromJson(weatherDataListItem);
       expect(modelFromJson.visibility, weatherDataListItem['visibility']);
+    });
+  });
+
+  group('Geolocation Model', () {
+    test("Should parse geolocation data properly", () {
+      Map<String, dynamic> geolocationDataListItem = fakeGeo[0];
+      GeolocationModel modelFromJson =
+          GeolocationModel.fromJson(geolocationDataListItem);
+      expect(modelFromJson.lat, geolocationDataListItem['lat']);
     });
   });
 }
