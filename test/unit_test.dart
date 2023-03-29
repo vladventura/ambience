@@ -3,7 +3,7 @@ import "dart:io" show File;
 import "package:ambience/api/geolocate_api.dart";
 import "package:ambience/api/weather_api.dart";
 import "package:ambience/handlers/request_handler.dart";
-import "package:ambience/models/geolocation.dart";
+import "package:ambience/models/geolocation_model.dart";
 import "package:ambience/models/weather_model.dart";
 import "package:flutter/foundation.dart";
 import 'package:path/path.dart' as path;
