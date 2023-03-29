@@ -7,6 +7,10 @@ import 'package:flutter/material.dart';
 import 'package:ambience/api/weather.dart';
 import "package:ambience/daemon/daemon.dart";
 
+import "package:ambience/GUI/create.dart";
+import "package:ambience/GUI/list.dart";
+import "package:ambience/GUI/main screen.dart";
+
 void main(List<String> args) async{
   // Ideally, we have already .env files set up
   dotenv.testLoad(fileInput: "APIKEY=91c86752769af03ca919b23664114cda");
@@ -26,7 +30,7 @@ void main(List<String> args) async{
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
-
+ 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -34,7 +38,12 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      initialRoute: '/',
+      routes: {
+      '/': (context) => const MainApp(),
+      '/List': (context) => const ListApp(),
+      '/Create' : (context) => const CreateApp(),
+      }
     );
   }
 }
