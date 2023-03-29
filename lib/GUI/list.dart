@@ -8,11 +8,13 @@ import 'dart:io';
 
 void main() => runApp(const ListApp());
 
+String current = Directory.current.path;
+
 class WallpaperObj {} // PLACEHOLDER FOR ACTUAL WALLPAPER OBJ SO FLUTTER WILL STOP COMPLAINING
 
 String getWallpaper(int index){
 
-  return "G:/Max's folder/pictures/20210513_095523.jpg";
+  return "$current/lib/GUI/20210513_095523.jpg";
 }
 
 String getCond(int index){

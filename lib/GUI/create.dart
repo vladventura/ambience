@@ -1,6 +1,5 @@
 // ignore_for_file: prefer_const_literals_to_create_immutables, avoid_unnecessary_containers, prefer_const_constructors, sort_child_properties_last, unused_import, sized_box_for_whitespace
 
-import 'dart:js_util';
 import 'dart:math';
 
 import 'package:flutter/material.dart';
@@ -8,6 +7,8 @@ import 'package:path/path.dart' as path;
 import 'dart:io';
 
 void main() => runApp(const CreateApp());
+
+String current = Directory.current.path;
 
 class WeatherDropMenu extends StatefulWidget {
   const WeatherDropMenu({super.key});
@@ -76,7 +77,7 @@ class CreateApp extends StatelessWidget {
               
               Expanded(
                 child: Image.file(
-                File("G:/Max's folder/pictures/20210513_095523.jpg"),
+                File("$current/lib/GUI/20210513_095523.jpg"),
                 fit: BoxFit.fitHeight,), // placeholder, retrieve wallpaper image here
               ),
               Padding(padding: EdgeInsets.only(right: 32)),
