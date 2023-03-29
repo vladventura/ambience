@@ -1,5 +1,5 @@
 import 'dart:io';
-import "package:flutter_dotenv/flutter_dotenv.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:ambience/handlers/file_handler.dart';
 import 'package:ambience/handlers/wallpaper_handler.dart';
 import 'package:ambience/weatherEntry/weather_entry.dart';
@@ -18,12 +18,9 @@ void main(List<String> args) async{
   else {
     //restore spaces that were replaced with underscores
     String input = args[0].replaceAll("_", " ");
-    //runzoned is used to await async functions, so exit doesn't exit the program before they finished
-    runZoned(() async {
-      await weather(input);
-      //explict exit, else Windows task scheduler will never know the task ended
-      exit(0);
-    });
+    await weather(input);
+    //explict exit, else Windows task scheduler will never know the task ended
+    exit(0);
   }
 }
 
