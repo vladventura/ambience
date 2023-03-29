@@ -42,9 +42,10 @@ class WallpaperHandler {
   static Future<void> _setWallpaperWindows(String input) async {
     String pathToFile = await _normalizeExistsPath(input);
     if (pathToFile.isEmpty) return;
-    ffi.Pointer<ffi.Char> charP = pathToFile.toNativeUtf8().cast<ffi.Char>();
+    NativeLibrary nativeLib =
+        NativeLibrary(ffi.DynamicLibrary.open(_dylibPath));
+    ffi.Pointer<ffi.WChar> charP = pathToFile.toNativeUtf16().cast<ffi.WChar>();
 
-    final nativeLib = NativeLibrary(ffi.DynamicLibrary.open(_dylibPath));
     nativeLib.change_wallpaper(charP);
     malloc.free(charP);
   }

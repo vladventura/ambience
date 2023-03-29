@@ -18,24 +18,165 @@ class NativeLibrary {
           lookup)
       : _lookup = lookup;
 
-  int set_wallpaper(
-    int a,
-    int b,
+  void __va_start(
+    ffi.Pointer<va_list> arg0,
   ) {
-    return _set_wallpaper(
-      a,
-      b,
+    return ___va_start(
+      arg0,
     );
   }
 
-  late final _set_wallpaperPtr =
-      _lookup<ffi.NativeFunction<ffi.Int Function(ffi.Int, ffi.Int)>>(
-          'set_wallpaper');
-  late final _set_wallpaper =
-      _set_wallpaperPtr.asFunction<int Function(int, int)>();
+  late final ___va_startPtr =
+      _lookup<ffi.NativeFunction<ffi.Void Function(ffi.Pointer<va_list>)>>(
+          '__va_start');
+  late final ___va_start =
+      ___va_startPtr.asFunction<void Function(ffi.Pointer<va_list>)>();
+
+  void __security_init_cookie() {
+    return ___security_init_cookie();
+  }
+
+  late final ___security_init_cookiePtr =
+      _lookup<ffi.NativeFunction<ffi.Void Function()>>(
+          '__security_init_cookie');
+  late final ___security_init_cookie =
+      ___security_init_cookiePtr.asFunction<void Function()>();
+
+  void __security_check_cookie(
+    int _StackCookie,
+  ) {
+    return ___security_check_cookie(
+      _StackCookie,
+    );
+  }
+
+  late final ___security_check_cookiePtr =
+      _lookup<ffi.NativeFunction<ffi.Void Function(ffi.UintPtr)>>(
+          '__security_check_cookie');
+  late final ___security_check_cookie =
+      ___security_check_cookiePtr.asFunction<void Function(int)>();
+
+  void __report_gsfailure(
+    int _StackCookie,
+  ) {
+    return ___report_gsfailure(
+      _StackCookie,
+    );
+  }
+
+  late final ___report_gsfailurePtr =
+      _lookup<ffi.NativeFunction<ffi.Void Function(ffi.UintPtr)>>(
+          '__report_gsfailure');
+  late final ___report_gsfailure =
+      ___report_gsfailurePtr.asFunction<void Function(int)>();
+
+  late final ffi.Pointer<ffi.UintPtr> ___security_cookie =
+      _lookup<ffi.UintPtr>('__security_cookie');
+
+  int get __security_cookie => ___security_cookie.value;
+
+  set __security_cookie(int value) => ___security_cookie.value = value;
+
+  void _invalid_parameter_noinfo() {
+    return __invalid_parameter_noinfo();
+  }
+
+  late final __invalid_parameter_noinfoPtr =
+      _lookup<ffi.NativeFunction<ffi.Void Function()>>(
+          '_invalid_parameter_noinfo');
+  late final __invalid_parameter_noinfo =
+      __invalid_parameter_noinfoPtr.asFunction<void Function()>();
+
+  void _invalid_parameter_noinfo_noreturn() {
+    return __invalid_parameter_noinfo_noreturn();
+  }
+
+  late final __invalid_parameter_noinfo_noreturnPtr =
+      _lookup<ffi.NativeFunction<ffi.Void Function()>>(
+          '_invalid_parameter_noinfo_noreturn');
+  late final __invalid_parameter_noinfo_noreturn =
+      __invalid_parameter_noinfo_noreturnPtr.asFunction<void Function()>();
+
+  void _invoke_watson(
+    ffi.Pointer<ffi.WChar> _Expression,
+    ffi.Pointer<ffi.WChar> _FunctionName,
+    ffi.Pointer<ffi.WChar> _FileName,
+    int _LineNo,
+    int _Reserved,
+  ) {
+    return __invoke_watson(
+      _Expression,
+      _FunctionName,
+      _FileName,
+      _LineNo,
+      _Reserved,
+    );
+  }
+
+  late final __invoke_watsonPtr = _lookup<
+      ffi.NativeFunction<
+          ffi.Void Function(
+              ffi.Pointer<ffi.WChar>,
+              ffi.Pointer<ffi.WChar>,
+              ffi.Pointer<ffi.WChar>,
+              ffi.UnsignedInt,
+              ffi.UintPtr)>>('_invoke_watson');
+  late final __invoke_watson = __invoke_watsonPtr.asFunction<
+      void Function(ffi.Pointer<ffi.WChar>, ffi.Pointer<ffi.WChar>,
+          ffi.Pointer<ffi.WChar>, int, int)>();
+
+  ffi.Pointer<ffi.Int> _errno() {
+    return __errno();
+  }
+
+  late final __errnoPtr =
+      _lookup<ffi.NativeFunction<ffi.Pointer<ffi.Int> Function()>>('_errno');
+  late final __errno = __errnoPtr.asFunction<ffi.Pointer<ffi.Int> Function()>();
+
+  int _set_errno(
+    int _Value,
+  ) {
+    return __set_errno(
+      _Value,
+    );
+  }
+
+  late final __set_errnoPtr =
+      _lookup<ffi.NativeFunction<errno_t Function(ffi.Int)>>('_set_errno');
+  late final __set_errno = __set_errnoPtr.asFunction<int Function(int)>();
+
+  int _get_errno(
+    ffi.Pointer<ffi.Int> _Value,
+  ) {
+    return __get_errno(
+      _Value,
+    );
+  }
+
+  late final __get_errnoPtr =
+      _lookup<ffi.NativeFunction<errno_t Function(ffi.Pointer<ffi.Int>)>>(
+          '_get_errno');
+  late final __get_errno =
+      __get_errnoPtr.asFunction<int Function(ffi.Pointer<ffi.Int>)>();
+
+  int __threadid() {
+    return ___threadid();
+  }
+
+  late final ___threadidPtr =
+      _lookup<ffi.NativeFunction<ffi.UnsignedLong Function()>>('__threadid');
+  late final ___threadid = ___threadidPtr.asFunction<int Function()>();
+
+  int __threadhandle() {
+    return ___threadhandle();
+  }
+
+  late final ___threadhandlePtr =
+      _lookup<ffi.NativeFunction<ffi.UintPtr Function()>>('__threadhandle');
+  late final ___threadhandle = ___threadhandlePtr.asFunction<int Function()>();
 
   int change_wallpaper(
-    ffi.Pointer<ffi.Char> input,
+    ffi.Pointer<ffi.WChar> input,
   ) {
     return _change_wallpaper(
       input,
@@ -43,8 +184,109 @@ class NativeLibrary {
   }
 
   late final _change_wallpaperPtr =
-      _lookup<ffi.NativeFunction<ffi.Int Function(ffi.Pointer<ffi.Char>)>>(
+      _lookup<ffi.NativeFunction<ffi.Int Function(ffi.Pointer<ffi.WChar>)>>(
           'change_wallpaper');
   late final _change_wallpaper =
-      _change_wallpaperPtr.asFunction<int Function(ffi.Pointer<ffi.Char>)>();
+      _change_wallpaperPtr.asFunction<int Function(ffi.Pointer<ffi.WChar>)>();
 }
+
+typedef va_list = ffi.Pointer<ffi.Char>;
+
+class __crt_locale_data_public extends ffi.Struct {
+  external ffi.Pointer<ffi.UnsignedShort> _locale_pctype;
+
+  @ffi.Int()
+  external int _locale_mb_cur_max;
+
+  @ffi.UnsignedInt()
+  external int _locale_lc_codepage;
+}
+
+class __crt_locale_pointers extends ffi.Struct {
+  external ffi.Pointer<__crt_locale_data> locinfo;
+
+  external ffi.Pointer<__crt_multibyte_data> mbcinfo;
+}
+
+class __crt_locale_data extends ffi.Opaque {}
+
+class __crt_multibyte_data extends ffi.Opaque {}
+
+class _Mbstatet extends ffi.Struct {
+  @ffi.UnsignedLong()
+  external int _Wchar;
+
+  @ffi.UnsignedShort()
+  external int _Byte;
+
+  @ffi.UnsignedShort()
+  external int _State;
+}
+
+typedef errno_t = ffi.Int;
+
+const int _VCRT_COMPILER_PREPROCESSOR = 1;
+
+const int _SAL_VERSION = 20;
+
+const int __SAL_H_VERSION = 180000000;
+
+const int _USE_DECLSPECS_FOR_SAL = 0;
+
+const int _USE_ATTRIBUTES_FOR_SAL = 0;
+
+const int _CRT_PACKING = 8;
+
+const int _VCRUNTIME_DISABLED_WARNINGS = 4514;
+
+const int _HAS_EXCEPTIONS = 1;
+
+const int _WCHAR_T_DEFINED = 1;
+
+const int NULL = 0;
+
+const int _HAS_CXX17 = 0;
+
+const int _HAS_CXX20 = 0;
+
+const int _HAS_NODISCARD = 1;
+
+const int _UCRT_DISABLED_WARNINGS = 4324;
+
+const int _ARGMAX = 100;
+
+const int _TRUNCATE = -1;
+
+const int _CRT_INT_MAX = 2147483647;
+
+const int _CRT_SIZE_MAX = -1;
+
+const String __FILEW__ = 'C';
+
+const int _CRT_FUNCTIONS_REQUIRED = 1;
+
+const int _CRT_HAS_CXX17 = 0;
+
+const int _ARM_WINAPI_PARTITION_DESKTOP_SDK_AVAILABLE = 1;
+
+const int _CRT_BUILD_DESKTOP_APP = 1;
+
+const int _CRT_INTERNAL_NONSTDC_NAMES = 1;
+
+const int __STDC_SECURE_LIB__ = 200411;
+
+const int __GOT_SECURE_LIB__ = 200411;
+
+const int __STDC_WANT_SECURE_LIB__ = 1;
+
+const int _SECURECRT_FILL_BUFFER_PATTERN = 254;
+
+const int _CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES = 0;
+
+const int _CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES_COUNT = 0;
+
+const int _CRT_SECURE_CPP_OVERLOAD_SECURE_NAMES = 1;
+
+const int _CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES_MEMORY = 0;
+
+const int _CRT_SECURE_CPP_OVERLOAD_SECURE_NAMES_MEMORY = 0;
