@@ -75,11 +75,21 @@ void main() {
   });
 
   group('Geolocation Model', () {
+    Map<String, dynamic> geolocationDataListItem = fakeGeo[0];
+    GeolocationModel modelFromJson;
     test("Should parse geolocation data properly", () {
-      Map<String, dynamic> geolocationDataListItem = fakeGeo[0];
-      GeolocationModel modelFromJson =
-          GeolocationModel.fromJson(geolocationDataListItem);
+      modelFromJson = GeolocationModel.fromJson(geolocationDataListItem);
       expect(modelFromJson.lat, geolocationDataListItem['lat']);
+    });
+    test("Should allow to late initialize city name", (){
+      modelFromJson = GeolocationModel.fromJson(geolocationDataListItem);
+      modelFromJson.cityName = fakeCityInfo['cityName'];
+      expect(modelFromJson.cityName, fakeCityInfo['cityName']);
+    });
+      test("Should allow to late initialize country code", (){
+      modelFromJson = GeolocationModel.fromJson(geolocationDataListItem);
+      modelFromJson.countryCode = fakeCityInfo['countryCode'];
+      expect(modelFromJson.countryCode, fakeCityInfo['countryCode']);
     });
   });
 }
