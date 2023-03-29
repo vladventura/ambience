@@ -4,11 +4,11 @@ class GeolocationModel {
 
   GeolocationModel(this.lat, this.lon);
 
-  String cityName = "";
-  num countryCode = 0; 
+  late String cityName = "";
+  late num countryCode = 0; 
 
   static GeolocationModel fromJson(Map<String, dynamic> incoming) {
-    GeolocationModel geoModel = GeolocationModel(incoming['lat'], incoming['lon']);
+    return GeolocationModel(incoming['lat'], incoming['lon']);
   }
 
   Map<String, dynamic> toJson() {
