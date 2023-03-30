@@ -1,5 +1,4 @@
 import 'dart:io';
-import 'package:ambience/api/weather.dart';
 import 'package:flutter/foundation.dart';
 import 'package:ambience/api/weather_api.dart';
 import 'package:ambience/models/weather_model.dart';
