@@ -1,24 +1,19 @@
 import "dart:async";
 import "package:file_picker/file_picker.dart";
-import "dart:io" show Directory;
+import "dart:io";
 
 class FileNotFoundException implements Exception {}
 
 class NoFileChosenException implements Exception {}
 
-Future<String> getImagePathFromPicker() async {
-  String currentWorkingDir = Directory.current.absolute.path;
-  FilePickerResult? result = await FilePicker.platform.pickFiles(
-    dialogTitle: "Pick a Wallpaper!",
-    type: FileType.image,
-  );
-  Directory.current = currentWorkingDir;
-  if (result == null) {
-    throw NoFileChosenException();
+Future<void> savePathFilePicker(String filename) async {
+  // Pick a directory to save the file
+  String here = Directory.current.path;
+  final result = await FilePicker.platform.getDirectoryPath();
+  if (result != null) {
+    File file = await File('$result/$filename.pdf').create();
+    File pdf = File('$here/dataGen.pdf');
+    final List<int> pdfContent = await pdf.readAsBytes();
+    await file.writeAsBytes(pdfContent);
   }
-  PlatformFile file = result.files.single;
-  if (file.path == null) {
-    throw FileNotFoundException();
-  }
-  return file.path!;
 }
