@@ -6,10 +6,10 @@ import 'package:flutter/material.dart';
 import "dart:io";
 
 class FireHandler {
-  static const apiKey = 'placeholder until I can hold this on github';
-  static const projectId = 'placeholder until I can hold this on github';
-  static const testmail = 'placeholder until I can hold this on github';
-  static const testpassword = 'placeholder until I can hold this on github';
+  static const apiKey = 'placeholder until I can hide this on github';
+  static const projectId = 'placeholder until I can hide this on github';
+  static const testmail = 'placeholder until I can hide this on github';
+  static const testpassword = 'placeholder until I can hide this on github';
   late FirebaseAuth auth;
 
   String get _imagePathUp {
