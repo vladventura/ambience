@@ -11,7 +11,7 @@ import "package:ambience/GUI/create.dart";
 import "package:ambience/GUI/list.dart";
 import "package:ambience/GUI/main screen.dart";
 
-void main(List<String> args) async{
+void main(List<String> args) async {
   // Ideally, we have already .env files set up
   dotenv.testLoad(fileInput: "APIKEY=91c86752769af03ca919b23664114cda");
   //if not args passed, GUI MODE
@@ -30,21 +30,20 @@ void main(List<String> args) async{
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
- 
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      initialRoute: '/',
-      routes: {
-      '/': (context) => const MainApp(),
-      '/List': (context) => const ListApp(),
-      '/Create' : (context) => const CreateApp(),
-      }
-    );
+        title: 'Flutter Demo',
+        theme: ThemeData(
+          primarySwatch: Colors.blue,
+        ),
+        initialRoute: '/',
+        routes: {
+          '/': (context) => const MainApp(),
+          '/List': (context) => const ListApp(),
+          '/Create': (context) => const CreateApp(),
+        });
   }
 }
 
@@ -91,14 +90,14 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     String? cityInput;
 
-    TimeOfDay st = const TimeOfDay(hour: 20, minute: 50);
+    TimeOfDay time = const TimeOfDay(hour: 20, minute: 50);
     DayOfWeek dow = DayOfWeek.friday;
     WeatherCondition wc = WeatherCondition.clear;
     String testPaper = "C:\\Users\\bryan\\Downloads\\test.jpg";
-    String schema = "mockSchema";
     String city = 'New York';
-    WeatherEntry mockObj =
-        WeatherEntry(st, st, "weather", dow, testPaper, wc, schema, city);
+    WeatherEntry mockObj = WeatherEntry(time, time, dow, testPaper, wc, city);
+    // add new rule to json
+    WeatherEntry.createRule(mockObj);
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.title),
