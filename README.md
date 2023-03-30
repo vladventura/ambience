@@ -1,151 +1,17 @@
-# Ambience
-
-Cross-platform Wallpaper Manager that changes your device's wallpaper by the following criteria (and any combination between these):
-
-- Time of day
-- Weekday
-- Month
-- Weather Conditions  
-
-Our project will focus on Windows devices for now. We decided to scrap the idea of MacOS because not all of us have access to an Apple computer, and it would be unfair for those who do not. There would be issues whenever we're testing code.
-
-# Roadmap
-
-This should be updated bit by bit as we figure out the "whats" and the "hows" of our project.
 
 
-# Tools Used
+#Graph Generation Tool##Requirements Must have python, matplotlib library(python library), and Flutter installed.
 
-Again, this should also be updated as we go with the packages that we use.
+###python See python installation instructions here: https://www.python.org/downloads/
 
-- [Flutter](https://flutter.dev/): Google's cross-platform SDK for multiple platforms with a single codebase
-  - [Requests](https://pub.dev/packages/requests): Flutter package to simplify HTTP/HTTPS requests
-- [Android Studio](https://developer.android.com/studio): IDE for Android app development
-<br />
+###matplotlib matplotlib can be installed through python's package manager, pip. To install through do: python -m pip install -U matplotlib
 
-# How to install Flutter
+###Flutter SDK See master branch, or Ambience readme for instruction on Flutter installation and configuration.
 
-  ## Windows
+##Use Instructions ###preamble This works in debug mode as is('Flutter run' on the command line in the root folder) To use outside of debug place ambience.exe file is built, you must place the python script in the same folder. ###usage
 
-  Download the latest stable build of Flutter [here](https://docs.flutter.dev/get-started/install/windows).
+##Incompadibility Since this is a dev tool it does not share the compadbility scope of Ambience. Does not work outside of desktop.
 
-  Extract the zip file, it is recommended that you extract it
-  in your C: drive's root.
-  _Do not extract the zip file in a directory that requires special permissions._
+usage: Type in a city name and press "plot city weather data" this will create a bar graph in the local directory of the executable or if in debug at the root folder of the project.
 
-  Update your path user variable
-
-  * First, enter "env" into the search bar of your Start menu, and then select **"Edit environment variables for your account."**
-    * Next, select the "**Environment variables"** option at the bottom of the window.
-    * In this window, select the environment variable titled **"Path."** If this variable does not
-    exist yet, then select the **"New"** option under **"User variables,"** and name it "Path."
-    * Open the Path variable and select the **"new"** option, and enter the full filepath to the _flutter\bin_ folder.
-  
-Run the **flutter doctor** to ensure that you have all of the necessary dependencies to properly run it.
-  
-  * From a console window, navigate to the extracted Flutter folder.
-    * Once there, enter the command **"flutter doctor"**, and the command will check the status of your Flutter installation, and will inform you if any needed software is missing in bold text.
-
-<br />
-
-  ## Linux
-
-<br />
-
- Download the Flutter SDK tar.xz file [here](https://docs.flutter.dev/get-started/install/linux).
-
-Extract the file in a directory of your choice. 
-
-Add the flutter tool to your path using the command:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ```$ export PATH="$PATH:`pwd`/flutter/bin"```
-
-<br />
-
-Run the **flutter doctor** to ensure that you have all of the necessary dependencies to properly run it.
-
-* The command will check the status of the Flutter installation, and will inform you if any needed software or tools are missing in bold text.
-
-<br />
-
-# How to install Android Studio
-
- ## Windows
-
-Download the latest stable version of android studio [here](https://developer.android.com/studio).
-
-Run the downloaded .exe setup tool
-
-* Follow the instructions provided by the setup program
-* If you wish to run the android version of Ambience on a virtual android device, click the check-box for the "Android Virtual Device" option.
-* **It is recommended that you chose the default installation path that the setup tool selects.**
-
-<br />
-
-## Linux
-
-Download the Android Studio zip file for the Linux platform [here](https://developer.android.com/studio).
-
-Extract the .zip file in a suitable directory, such as your local user directory.
-
-Launch the setup tool by navigating to the `android-studio/bin/` directory,
-and run `studio.sh`.
-
-Follow the instructions provided by the setup program.
-
-<br />
-
-**For 64-bit Ubuntu users:**
-  * You will need to install some 32-bit dependencies with this command: <br />
-  `sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386`
-
-**For 64-bit Fedora users:**
-* install the same 32-bit libraries using the following command: <br />
-  `sudo yum install zlib.i686 ncurses-libs.i686 bzip2-libs.i686`
-
-<br />
-
-# How to install Msys2
-
-## Windows only
-
-Download the installer [here](https://github.com/msys2/msys2-installer/releases/download/2023-01-27/msys2-x86_64-20230127.exe).
-
-Run the installer, *ensure that your Windows version is 8.1 or newer*
-
-* Set the installation path to the C:\ drive, preferably in a dedicated folder.
-
-Once installed, install the GCC compiler tool by entering the following command: <br />
-`$ pacman -S mingw-w64-ucrt-x86_64-gcc`
-
-<br />
-
-## Linux
-
-Msys2 is not needed for the necessary tools to compile this project, simply
-use the following command to install the essentials: <br />
-`sudo apt install build-essential`
-
-In addition to this, you will also need to install xvfb with this command: <br />
-`sudo apt-get install xvfb`
-
-## Daemons
-================General Daemon Testing=======
-Does NOT work in debug(The platform specific daemon manager cannot find executable in debug)!
-Build the platform specific solution file e.g. "Flutter build windows" for windows.
-Then place the relevant scripts from the script folder(see below) in the same folder as the executable.
-
-================Windows Daemon===============
-Prereq: 
-    Daemon class uses path_provider module which has an additional step to install on windows: enable install form loose files in developer settings on Windows(Note this should not matter to the cilent but does matter for us).
-
-Scripts: 
-    Make sure "winTaskSetter.ps1" & "winTaskRemover.ps1" is in the same folder as "ambience.exe"
-
-================Linux Daemon==================
-Prereq:
-    "xfvb" is installed("sudo apt install xvfb")
-        Why: Because default Linux behavior for Flutter applictions is draw a Window. Cron jobs run in a "minimalistic" terminal enviroment with no display which causes ambience to fail since it cannot find a display. Xfvb comes in by giving a dummy display to make everyone happy.
-Scripts:
-    "UbuntuCronRemover.sh" & "UbuntuCronScheduler.sh" in the same folder as the executable.
-=======
+Clicking on "export file" will open native file browser to pick a spot to export the generated file.
