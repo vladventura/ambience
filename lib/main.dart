@@ -6,17 +6,29 @@ import 'package:ambience/weatherEntry/weather_entry.dart';
 import 'package:flutter/material.dart';
 import 'package:ambience/api/weather.dart';
 import "package:ambience/daemon/daemon.dart";
+import 'package:ambience/firebase/fire_handler.dart';
+
 
 import "package:ambience/GUI/create.dart";
 import "package:ambience/GUI/list.dart";
 import "package:ambience/GUI/main screen.dart";
+
+
 
 void main(List<String> args) async {
   // Ideally, we have already .env files set up
   dotenv.testLoad(fileInput: "APIKEY=91c86752769af03ca919b23664114cda");
   //if not args passed, GUI MODE
   if (args.isEmpty) {
-    runApp(const MyApp());
+    FireHandler.initialize();
+    FireHandler fireTest = FireHandler();
+    await fireTest.fireSignIn();
+    await fireTest.imageUpload();
+    await fireTest.imageDownload();
+
+    // Allow some time to get the signed out event
+    await Future.delayed(const Duration(seconds: 1));
+    //runApp(const MyApp());
   }
   //if there are command line args, GUI-Less mode
   else {
