@@ -1,10 +1,9 @@
+import 'package:ambience/constants.dart' as constants;
 import 'package:flutter/material.dart';
 import 'package:ambience/storage/storage.dart';
 import 'dart:convert';
 
 enum WeatherCondition { clear, cloudy, rain, snow, thunderstorm }
-
-const String JSON_PATH = "ruleset.json";
 
 enum DayOfWeek {
   sunday,
@@ -54,7 +53,7 @@ class WeatherEntry {
   // This function will add the entry to the json file
   static void createRule(WeatherEntry newEntry) async {
     Storage store = Storage();
-    var jsonDecoded = await store.readAppDocJson(JSON_PATH);
+    var jsonDecoded = await store.readAppDocJson(constants.jsonPath);
     // if the read fails then the file doesn't exist,
     //    Storage class function readAppDocJson should be changed to
     //    throw an error rather than return "failed", for now
@@ -63,37 +62,37 @@ class WeatherEntry {
       // the file exists so we will append the new WeatherEntry
       jsonDecoded[newEntry.idSchema] = newEntry; // add new rule
       String rulesetToJson = jsonEncode(jsonDecoded);
-      store.writeAppDocFile(rulesetToJson, JSON_PATH);
+      store.writeAppDocFile(rulesetToJson, constants.jsonPath);
     } else {
       // the file doesn't exist, create it and add the new WeatherEntry
       Map<String, dynamic> newRuleset = {};
       newRuleset[newEntry.idSchema] = newEntry;
       String rulesetToJson = jsonEncode(newRuleset);
-      store.writeAppDocFile(rulesetToJson, JSON_PATH);
+      store.writeAppDocFile(rulesetToJson, constants.jsonPath);
     }
   }
 
   // deletes the rule matching key idSchema from the json
   static void deleteRule(String idSchema) async {
     Storage store = Storage();
-    var jsonDecoded = await store.readAppDocJson(JSON_PATH);
+    var jsonDecoded = await store.readAppDocJson(constants.jsonPath);
     if (jsonDecoded is Map<String, dynamic>) {
       // the file exists so we can delete this entry
       Map<String, dynamic> temp = jsonDecoded;
       temp.remove(idSchema);
       String rulesetToJson = jsonEncode(temp);
-      store.writeAppDocFile(rulesetToJson, JSON_PATH);
+      store.writeAppDocFile(rulesetToJson, constants.jsonPath);
       return;
     }
     // the file doesn't exist, do nothing
   }
 
   // returns a map of idSchemas to WeatherEntry objects representing
-  // all rules present in the json file indicated by JSON_PATH above
+  // all rules present in the json file indicated by constants.jsonPath above
   static Future<Map<String, WeatherEntry>> getRuleList() async {
     Map<String, WeatherEntry> ruleset = {};
     Storage store = Storage();
-    var jsonDecoded = await store.readAppDocJson(JSON_PATH);
+    var jsonDecoded = await store.readAppDocJson(constants.jsonPath);
     if (jsonDecoded is Map<String, dynamic>) {
       Map<String, dynamic> temp = jsonDecoded;
       temp.forEach((key, value) {

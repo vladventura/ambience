@@ -1,4 +1,6 @@
-//install via flutter pub add path_provider and enable installion from loose files on windows developer settings
+//install via flutter pub add path_provider and enable installion from
+//loose files on windows developer settings
+import 'package:ambience/constants.dart' as constants;
 import 'package:path_provider/path_provider.dart';
 import 'dart:io';
 import 'dart:convert';
@@ -8,21 +10,22 @@ import 'package:path/path.dart' as p;
 
 //storage uses path_provider for platform indepedent presistent data
 class Storage {
-  String weatherDataPath = 'weatherData.json';
-  String logFilePath = 'log.txt';
-  String configPath = 'config.txt';
+  String weatherDataPath = constants.weatherDataPath;
+  String logFilePath = constants.logFilePath;
+  String configPath = constants.configPath;
+  String appDataDirName = constants.appDataDirName;
 
   //path_provider gets a directory for presistent data
   Future<String> get _localPath async {
     final directory = await getApplicationDocumentsDirectory();
-
     return directory.path;
   }
 
-  //Creat Ambience folder if it doesn't exist already, else return the path of said folder
+  //Creat Ambience folder if it doesn't exist already,
+  //else return the path of said folder
   Future<String> get _localDirectoryPath async {
     final path = await _localPath;
-    Directory temp = Directory("$path/Ambience");
+    Directory temp = Directory("$path/$appDataDirName");
 
     //if doesn't exist
     if (!(await temp.exists())) {
@@ -51,12 +54,11 @@ class Storage {
       });
     }
     //append mode.
-    if(mode == 'a'){
-      return (await temp.writeAsString(content,mode: FileMode.append)); 
+    if (mode == 'a') {
+      return (await temp.writeAsString(content, mode: FileMode.append));
     }
     // Write the file, normally
     return (await temp.writeAsString(content));
- 
   }
 
   //read json from file and converts it to Dart object and returns said object
