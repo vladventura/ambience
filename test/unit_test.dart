@@ -1,7 +1,9 @@
 import "dart:convert";
 import "dart:io" show File, Directory, FileSystemEntity;
+import "package:ambience/api/weather.dart";
 import "package:ambience/constants.dart";
 import "package:ambience/storage/storage.dart";
+import "package:ambience/weatherEntry/weather_entry.dart";
 import "package:flutter/foundation.dart";
 import 'package:path/path.dart' as path;
 import 'package:http/http.dart' as http;
@@ -70,30 +72,51 @@ void main() {
     });
   });
   group('Weather Model', () {
-    test("Should parse data properly", () {
-      Map<String, dynamic> weatherDataListItem =
-          (fakeWeatherResponse['body']?['list'] as List)[0];
-      WeatherModel modelFromJson = WeatherModel.fromJson(weatherDataListItem);
+    Map<String, dynamic> weatherDataListItem =
+        (fakeWeatherResponse['body']?['list'] as List)[0];
+    late WeatherModel modelFromJson;
+    setUp(() {
+      modelFromJson = WeatherModel.fromJson(weatherDataListItem);
+    });
+    test("Should parse from Json properly", () {
       expect(modelFromJson.visibility, weatherDataListItem['visibility']);
+    });
+    test("Should parse to Json properly", () {
+      expect(modelFromJson.toJson(), weatherDataListItem);
     });
   });
 
   group('Geolocation Model', () {
     Map<String, dynamic> geolocationDataListItem = fakeGeo[0];
-    GeolocationModel modelFromJson;
-    test("Should parse geolocation data properly", () {
+    late GeolocationModel modelFromJson;
+
+    setUp(() {
       modelFromJson = GeolocationModel.fromJson(geolocationDataListItem);
+      modelFromJson.cityName = fakeCityInfo['cityName'];
+      modelFromJson.countryCode = fakeCityInfo['countryCode'];
+    });
+    test("Should parse from Json properly", () {
       expect(modelFromJson.lat, geolocationDataListItem['lat']);
     });
     test("Should allow to late initialize city name", () {
-      modelFromJson = GeolocationModel.fromJson(geolocationDataListItem);
-      modelFromJson.cityName = fakeCityInfo['cityName'];
       expect(modelFromJson.cityName, fakeCityInfo['cityName']);
     });
     test("Should allow to late initialize country code", () {
-      modelFromJson = GeolocationModel.fromJson(geolocationDataListItem);
-      modelFromJson.countryCode = fakeCityInfo['countryCode'];
       expect(modelFromJson.countryCode, fakeCityInfo['countryCode']);
+    });
+    test('Should parse to Json properly', () {
+      expect(modelFromJson.toJson(), fakeGeoSingleComplete);
+    });
+  });
+  group('Weather Entry Model', () {
+    test('Should parse from Json properly', () {
+      WeatherEntry weatherEntry = WeatherEntry.fromJson(fakeWeatherEntry);
+      expect(weatherEntry.city, fakeWeatherEntry['city']);
+    });
+    test('Should parse to Json properly', () {
+      WeatherEntry weatherEntry = WeatherEntry.fromJson(fakeWeatherEntry);
+      Map<String, dynamic> asJson = weatherEntry.toJson();
+      expect(asJson['city'], fakeWeatherEntry['city']);
     });
   });
   group('Storage', () {
@@ -112,6 +135,21 @@ void main() {
     test('Should take app\'s data directory name from constants file', () {
       Storage storage = Storage();
       expect(storage.appDataDirName, appDataDirName);
+    });
+  });
+  group('Native bindings', () {
+    test("Should find generated_bindings.dart file", () async {
+      bool found = false;
+      Directory nativeDir = Directory(
+          path.normalize(path.join(Directory.current.path, 'lib', 'native')));
+      List<FileSystemEntity> allFiles = await nativeDir.list().toList();
+      for (FileSystemEntity fse in allFiles) {
+        if (fse.path.contains('generated_bindings.dart')) {
+          found = true;
+          break;
+        }
+      }
+      expect(found, true);
     });
   });
   group('Scripts', () {
