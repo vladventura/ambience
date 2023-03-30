@@ -6,13 +6,20 @@ import 'package:flutter/material.dart';
 import "dart:io";
 
 class FireHandler {
-  static const apiKey =
-      'placeholder on github until I make a way to hide the key';
-  static const projectId =
-      'placerholder on github until I make a way to hide the id';
-  static const testmail = 'placeholder until I can hide this';
-  static const testpassword = 'placeholder until I can hide this';
+  static const apiKey = 'placeholder until I can hold this on github';
+  static const projectId = 'placeholder until I can hold this on github';
+  static const testmail = 'placeholder until I can hold this on github';
+  static const testpassword = 'placeholder until I can hold this on github';
   late FirebaseAuth auth;
+
+  String get _imagePathUp {
+    return "${Directory.current.path}/test.jpg";
+  }
+
+  String get _imagePathDown {
+    return "${Directory.current.path}/downloadTest.jpg";
+  }
+
   //to-be broken down into sub functions
   FireHandler() {
     auth = FirebaseAuth.instance;
@@ -55,24 +62,33 @@ class FireHandler {
   //optional values is for testing purposes for now
   //yes I know it has hardcoded paths
   Future<void> imageUpload(
-      [String userId = "testUser",
-      String imagePath = "C:\\Users\\bryan\\Downloads\\test.jpg"]) async {
+      [String userId = "testUser", String imagePath = '1']) async {
+    //since the path of ambience needs to be dynamically resolved, it cannot be passed as an optional parameter directly
+
+    if (imagePath == '1') {
+      imagePath = _imagePathUp;
+    }
     var docRef = Firestore.instance.collection(userId).document("wallpapers");
     File image = File(imagePath);
     //byte data
     List<int> imageData = await image.readAsBytes();
-    //to-do bheck is base64Encode works with UTF-16, or replace with something that does
+    //to-do check is base64Encode works with UTF-16, or replace with something that does
     await docRef.update({'imageData': base64Encode(imageData)});
   }
 
   //optional values is for testing purposes for now
   Future<void> imageDownload(
-      [String userId = "testUser",
-      String imagePath = "C:\\Users\\bryan\\Downloads\\download.jpg"]) async {
+      [String userId = "testUser", String imagePath = "1"]) async {
+    //since the path of ambience needs to be dynamically resolved, it cannot be passed as an optional parameter directly
+    if (imagePath == '1') {
+      imagePath = _imagePathDown;
+    }
     DocumentReference docRef =
         Firestore.instance.collection(userId).document('wallpapers');
     var snapshot = await docRef.get();
     String base64Image = snapshot.map['imageData'];
+    //to-do check is base64Encode works with UTF-16, or replace with something that does
+
     List<int> imageData = base64Decode(base64Image);
     File output = File(imagePath);
     await output.writeAsBytes(imageData);
