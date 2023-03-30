@@ -1,3 +1,5 @@
+import 'package:ambience/weatherEntry/weather_entry.dart';
+
 const fakeGeo = [
   {
     'lat': 0.011,
@@ -8,6 +10,27 @@ const fakeGeo = [
 const Map<String, dynamic> fakeCityInfo = {
   "cityName": "Incheon",
   "countryCode": 207,
+  'lat': 0.011,
+  'lon': 1.11,
+};
+
+const Map<String, dynamic> fakeGeoSingleComplete = {
+  "cityName": "Incheon",
+  "countryCode": 207,
+  'lat': 0.011,
+  'lon': 1.11,
+};
+
+Map<String, dynamic> fakeWeatherEntry = {
+  "startTimeHour": "8",
+  "startTimeMinute": "10",
+  "endTimeHour": "9",
+  "endTimeMinute": "10",
+  "dayOfWeek": DayOfWeek.friday.index.toString(),
+  "wallpaperFilepath": "fake/path",
+  "weatherCondition": WeatherCondition.rain.index.toString(),
+  "idSchema": "ambience_daemon_fakentry",
+  "city": "Incheon",
 };
 
 const String mockKey = "fakepi-key";
@@ -43,7 +66,6 @@ const fakeWeatherResponse = {
         "wind": {"speed": 8.02, "deg": 275, "gust": 13.76},
         "visibility": 10000,
         "pop": 0,
-        "sys": {"pod": "d"},
         "dt_txt": "2023-03-19 15:00:00"
       }
     ],
