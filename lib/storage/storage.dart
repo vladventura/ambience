@@ -75,4 +75,19 @@ class Storage {
       return 'failed';
     }
   }
+
+  //reads file without trying to decodce a JSON
+  Future<String> readAppDocFile(String path) async {
+    try {
+      final file = await _localDirectoryPath;
+      File readTarget = File(p.normalize('$file/$path'));
+      // Read the file
+      final contents = await readTarget.readAsString();
+      return contents;
+    } catch (e) {
+      debugPrint("error with reading file, relative path given: $path");
+      // If encountering an error
+      return 'failed';
+    }
+  }
 }
