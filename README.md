@@ -12,5 +12,5 @@ This branch has a hardcoded example of the firebase implementation. It will logi
 Firebase Auth will automatically hash & salt passwords. Firebase also uses Google Remote Procedure Call(GRPC) which is Transport Security Layer(TLS) providing cilent to server encryption and vice versa.  
 
 # Roadmap
-I will add another hash algorithim to enchance security.
+I will add another hash algorithim and email confirmation to enchance security.
 This needs to be tied to a GUI interface, and some additional logic to interface with a GUI. Then intergrate with the rest of Ambience's codebase.
