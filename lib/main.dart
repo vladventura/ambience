@@ -27,7 +27,7 @@ void main(List<String> args) async {
     await fireTest.imageDownload();
 
     await Future.delayed(const Duration(seconds: 1));
-    runApp(const MyApp());
+    //runApp(const MyApp());
   }
   //if there are command line args, GUI-Less mode
   else {
