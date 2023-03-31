@@ -6,7 +6,7 @@ Place ".env" file in the root folder of Ambience, this contains all the API Keys
 
 # Usage
 Once setup, type  `Flutter run`(Make sure you are on Windows(recommended) or Linux platform)
-This branch has a hardcoded example of the firebase implementation. It will login, upload whatever file of the name "test.jpg" in the root folder of Ambience. The example well then download the from filebase and name it "downloadTest.jpg" in the root folder of Ambience.
+This branch has a hardcoded example of the firebase implementation. It will login, upload whatever file of the name "test.jpg"(note, if this file does not exist, program will throw an error) in the root folder of Ambience. The example well then download the from filebase and name it "downloadTest.jpg" in the root folder of Ambience.
 
 # Misc
 Firebase Auth will automatically hash & salt passwords. Firebase also uses Google Remote Procedure Call(GRPC) which is Transport Security Layer(TLS) providing cilent to server encryption and vice versa.  
