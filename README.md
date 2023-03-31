@@ -13,4 +13,4 @@ Firebase Auth will automatically hash & salt passwords. Firebase also uses Googl
 
 # Roadmap
 I will add another hash algorithim to enchance security.
-This needs to be tied to a GUI interface, and some additional logic to interface with a GUI.
+This needs to be tied to a GUI interface, and some additional logic to interface with a GUI. Then intergrate with the rest of Ambience's codebase.
