@@ -16,8 +16,8 @@ import "package:ambience/GUI/main screen.dart";
 
 
 void main(List<String> args) async {
-  // Ideally, we have already .env files set up
-  dotenv.testLoad(fileInput: "APIKEY=91c86752769af03ca919b23664114cda");
+  //load dotenv file with enviromental variables
+  await dotenv.load();
   //if not args passed, GUI MODE
   if (args.isEmpty) {
     FireHandler.initialize();
@@ -26,9 +26,8 @@ void main(List<String> args) async {
     await fireTest.imageUpload();
     await fireTest.imageDownload();
 
-    // Allow some time to get the signed out event
     await Future.delayed(const Duration(seconds: 1));
-    //runApp(const MyApp());
+    runApp(const MyApp());
   }
   //if there are command line args, GUI-Less mode
   else {

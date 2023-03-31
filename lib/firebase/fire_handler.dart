@@ -1,16 +1,32 @@
 import 'dart:convert';
-
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:firedart/auth/exceptions.dart';
 import 'package:firedart/firedart.dart';
 import 'package:flutter/material.dart';
 import "dart:io";
 
 class FireHandler {
-  static const apiKey = 'placeholder until I can hold this on github';
-  static const projectId = 'placeholder until I can hold this on github';
-  static const testmail = 'placeholder until I can hold this on github';
-  static const testpassword = 'placeholder until I can hold this on github';
+  final testmail = dotenv.env['TestEmail'];
+  final testpassword = dotenv.env['TestPwd'];
   late FirebaseAuth auth;
+
+  String get _testmail {
+    String? email = dotenv.env['TestEmail'];
+    if (email != null) {
+      return email;
+    } else {
+      throw FirebaseHandlerError("Cannot extract testemail from .env file");
+    }
+  }
+
+  String get _testpassword {
+    String? pwd = dotenv.env['TestPwd'];
+    if (pwd != null) {
+      return pwd;
+    } else {
+      throw FirebaseHandlerError("Cannot extract _testpassword from .env file");
+    }
+  }
 
   String get _imagePathUp {
     return "${Directory.current.path}/test.jpg";
@@ -26,12 +42,36 @@ class FireHandler {
   }
 
   static void initialize() {
-    FirebaseAuth.initialize(apiKey, VolatileStore());
-    Firestore.initialize(projectId);
+    final apiKey = dotenv.env['FirebaseAPIKey'];
+    final projectId = dotenv.env['FirebaseID'];
+    if (apiKey != null || projectId != null) {
+      //null assertion makes the dart compiler happy, and since prior if checks for null
+      //this should be a safe usage of it.
+      FirebaseAuth.initialize(apiKey!, VolatileStore());
+      Firestore.initialize(projectId!);
+    }
   }
 
-  Future<void> fireSignIn(
-      [String email = testmail, String password = testpassword]) async {
+  //true on success
+  Future<bool> fireSignIn([String email = '1', String password = '1']) async {
+    //to-do move these into their own functions
+    if (email == '1') {
+      try {
+        email = _testmail;
+      } on FirebaseHandlerError catch (e) {
+        debugPrint("Error: ${e.toString()}");
+        return false;
+      }
+    }
+    //to-do move these into their own functions
+      if (password == '1') {
+      try {
+        password = _testpassword;
+      } on FirebaseHandlerError catch (e) {
+        debugPrint("Error: ${e.toString()}");
+        return false;
+      }
+    }
     FirebaseAuth auth = FirebaseAuth.instance;
     //TO-DO: Add limited cilent hashing
     //fireAuth will hash it on arrival
@@ -40,22 +80,43 @@ class FireHandler {
     } on AuthException catch (e) {
       //to-do allow retries for incorrect attempts
       debugPrint("Failed with error code: ${e.errorCode}");
-      return;
+      return false;
     }
     var user = await auth.getUser();
     debugPrint("user: $user");
+    return true;
   }
 
-  void fireSignUp(
-      [String email = testmail, String password = testpassword]) async {
+  //true on success
+  Future<bool> fireSignUp(
+      [String email = '1', String password = '1']) async {
+            //to-do move these into their own functions
+    if (email == '1') {
+      try {
+        email = _testmail;
+      } on FirebaseHandlerError catch (e) {
+        debugPrint("Error: ${e.toString()}");
+        return false;
+      }
+    }
+    //to-do move these into their own functions
+    if (password == '1') {
+      try {
+        password = _testpassword;
+      } on FirebaseHandlerError catch (e) {
+        debugPrint("Error: ${e.toString()}");
+        return false;
+      }
+    }
     FirebaseAuth auth = FirebaseAuth.instance;
     try {
       await auth.signUp(email, password);
     } on AuthException catch (e) {
       //to-do allow retries for incorrect attempts
       debugPrint("Failed with error code: ${e.errorCode}");
-      return;
+      return false;
     }
+    return true;
     //auth.userId;
   }
 
@@ -92,5 +153,16 @@ class FireHandler {
     List<int> imageData = base64Decode(base64Image);
     File output = File(imagePath);
     await output.writeAsBytes(imageData);
+  }
+}
+
+class FirebaseHandlerError implements Exception {
+  final String message;
+
+  FirebaseHandlerError(this.message);
+
+  @override
+  String toString() {
+    return 'FirebaseHandlerError: $message';
   }
 }
