@@ -12,15 +12,6 @@ String current = Directory.current.path;
 class MainApp extends StatelessWidget {
   const MainApp({super.key});
 
-  // element to type in name of city like a search,
-  // displays to user the list of possible cities it could be with a country code
-  // user selects a country and the frontend sends it back to the UI
-
-  // List, Search, and Confirm button possibly
-
-  // Due: Wednesday after PaxEast or something idk
-
-
   @override
   Widget build(BuildContext context) {
 

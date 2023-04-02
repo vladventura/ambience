@@ -17,14 +17,25 @@ class WeatherDropMenu extends StatefulWidget {
   State<WeatherDropMenu> createState() => _WeatherDropMenuState();
 }
 
+// List<String> daysActive = List<String>;
+
+String weatherCond = "";
+
+String wallpaperFilepath = "";
+
+String setWeatherCond(IconData cond) { //converts icon's data to a string
+  return cond.toString(); 
+}
+
+
 class _WeatherDropMenuState extends State<WeatherDropMenu> {
       
   List<IconData> weathers = <IconData>[
     Icons.sunny, 
-    Icons.cloud, 
-    Icons.shower, 
+    Icons.cloud,
+    Icons.shower,
     Icons.thunderstorm, 
-    Icons.snowing, 
+    Icons.cloudy_snowing, 
   ];
 
   IconData weatherVal = Icons.hourglass_bottom;
@@ -219,7 +230,7 @@ class CreateApp extends StatelessWidget {
             ),
 
             Spacer(flex: 9),
-
+ 
         ],
         
       ),

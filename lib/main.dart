@@ -9,6 +9,7 @@ import "package:ambience/daemon/daemon.dart";
 
 import "package:ambience/GUI/create.dart";
 import "package:ambience/GUI/list.dart";
+import "package:ambience/GUI/login.dart";
 import "package:ambience/GUI/main screen.dart";
 
 void main(List<String> args) async {
@@ -40,7 +41,8 @@ class MyApp extends StatelessWidget {
         ),
         initialRoute: '/',
         routes: {
-          '/': (context) => const MainApp(),
+          '/': (context) => const LoginApp(),
+          '/Home': (context) => const MainApp(),
           '/List': (context) => const ListApp(),
           '/Create': (context) => const CreateApp(),
         });
