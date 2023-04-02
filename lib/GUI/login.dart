@@ -2,8 +2,6 @@
 import 'package:flutter/material.dart';
 import 'dart:io';
 
-void main() => runApp(const LoginApp());
-
 String current = Directory.current.path;
 
 class LoginMsg extends StatelessWidget {
