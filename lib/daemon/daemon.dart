@@ -1,6 +1,19 @@
 import "dart:io";
 import "package:ambience/weatherEntry/weather_entry.dart";
 import "package:flutter/material.dart";
+import 'package:workmanager/workmanager.dart';
+
+
+@pragma(
+    'vm:entry-point') // Mandatory if the App is obfuscated or using Flutter 3.1+
+void callbackDispatcher() {
+  Workmanager().executeTask((task, inputData) {
+    print(
+        "Native called background task: $task"); //simpleTask will be emitted here.
+        
+    return Future.value(true);
+  });
+}
 
 class Daemon {
   //schedules daemons with the current platform
@@ -38,7 +51,12 @@ class Daemon {
       debugPrint(
           "UbuntuCronScheduler.sh standard error output: ${proc.stderr}");
     } else if (Platform.isAndroid) {
-      debugPrint("Android daemonSpawner not implemented yet");
+      Workmanager().initialize(
+          callbackDispatcher, // The top level function, aka callbackDispatcher
+          isInDebugMode:
+              true // If enabled it will post a notification whenever the task is running. Handy for debugging tasks
+          );
+      Workmanager().registerOneOffTask("task-identifier", "simpleTask");
     } else {
       debugPrint("Platform not supported");
     }

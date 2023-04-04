@@ -7,15 +7,12 @@ import 'package:flutter/material.dart';
 import 'package:ambience/api/weather.dart';
 import "package:ambience/daemon/daemon.dart";
 
-import "package:ambience/GUI/create.dart";
-import "package:ambience/GUI/list.dart";
-import "package:ambience/GUI/main screen.dart";
-
 void main(List<String> args) async {
-  // Ideally, we have already .env files set up
-  dotenv.testLoad(fileInput: "APIKEY=91c86752769af03ca919b23664114cda");
+  //load dotenv file with enviromental variables
+  await dotenv.load();
   //if not args passed, GUI MODE
   if (args.isEmpty) {
+    WidgetsFlutterBinding.ensureInitialized();
     runApp(const MyApp());
   }
   //if there are command line args, GUI-Less mode
@@ -34,16 +31,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'Flutter Demo',
-        theme: ThemeData(
-          primarySwatch: Colors.blue,
-        ),
-        initialRoute: '/',
-        routes: {
-          '/': (context) => const MainApp(),
-          '/List': (context) => const ListApp(),
-          '/Create': (context) => const CreateApp(),
-        });
+      title: 'Flutter Demo',
+      theme: ThemeData(
+        primarySwatch: Colors.blue,
+      ),
+      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+    );
   }
 }
 
