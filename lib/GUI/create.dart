@@ -6,7 +6,9 @@ import 'package:flutter/material.dart';
 import 'package:path/path.dart' as path;
 import 'dart:io';
 
-void main() => runApp(const CreateApp());
+import "package:ambience/GUI/list.dart";
+
+void main() => runApp(const CreateApp(contextWallpaper: WallpaperObj(),));
 
 String current = Directory.current.path;
 
@@ -67,7 +69,9 @@ class _WeatherDropMenuState extends State<WeatherDropMenu> {
 
 
 class CreateApp extends StatelessWidget {
-  const CreateApp({super.key});
+  const CreateApp({super.key, this.contextWallpaper = WallpaperObj()});
+
+  WallpaperObj contextWallpaper;
 
   @override
   Widget build(BuildContext context) {

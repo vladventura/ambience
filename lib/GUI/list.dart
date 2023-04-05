@@ -1,5 +1,3 @@
-// ignore_for_file: prefer_const_literals_to_create_immutables, avoid_unnecessary_containers, prefer_const_constructors, sort_child_properties_last, unused_import, sized_box_for_whitespace
-
 import 'dart:math';
 
 import 'package:flutter/material.dart';
@@ -31,10 +29,17 @@ String getCond(int index) {
 }
 
 String getTime(int index) {
-  return "placeholder time";
+  return "12:30";
 }
 
 // List<Widget> wallpapers;
+
+
+const ButtonStyle controlStyle = ButtonStyle(
+  padding: MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(32)),
+  backgroundColor: MaterialStatePropertyAll<Color>(Colors.white),
+  side: MaterialStatePropertyAll<BorderSide>(
+    BorderSide(color: Colors.black, width: 2)));
 
 class EntryControls extends StatelessWidget { // controls to copy, edit, and delete a wallpaper
 
@@ -42,53 +47,34 @@ class EntryControls extends StatelessWidget { // controls to copy, edit, and del
 
   EntryControls(WallpaperObj obj){ //takes a wallpaper obj reference to call it later
 
-  Controls = Container(
-      child: Row(
-    // displays the wallpaper's controls
-    children: [
-      IconButton(
-        onPressed: null, //function here to switch back to main menu
-        icon: Icon(Icons.delete),
-        style: ButtonStyle(
-          padding: MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(32)),
-          backgroundColor: MaterialStatePropertyAll<Color>(Colors.white),
-          side: MaterialStatePropertyAll<BorderSide>(
-            BorderSide(color: Colors.black, width: 2),
-          ),
-        ),
+Controls = Row(
+  // displays the wallpaper's controls
+  children: [
+    IconButton(
+      onPressed: null, //function to delete the wallpaper
+      icon: Icon(Icons.delete),
+      style: controlStyle,
       ),
-      IconButton(
-        onPressed: null, //function here to switch back to main menu
-        icon: Icon(Icons.copy),
-        style: ButtonStyle(
-          padding: MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(32)),
-          backgroundColor: MaterialStatePropertyAll<Color>(Colors.white),
-          side: MaterialStatePropertyAll<BorderSide>(
-            BorderSide(color: Colors.black, width: 2),
-          ),
-        ),
-      ),
-      IconButton(
-        onPressed: null, //function here to switch back to main menu
-        icon: Icon(Icons.edit),
-        style: ButtonStyle(
-          padding: MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(32)),
-          backgroundColor: MaterialStatePropertyAll<Color>(Colors.white),
-          side: MaterialStatePropertyAll<BorderSide>(
-            BorderSide(color: Colors.black, width: 2),
-          ),
-        ),
-      ),
-    ],
-  ));
-  }
+    IconButton(
+      onPressed: null, //function to copy the wallpaper, goes to create screen w/ data
+      // creates new wallpaper when done
+      icon: Icon(Icons.copy),
+      style: controlStyle
+    ),
+    IconButton(
+      onPressed: null, //function to edit the existing wallpaper, goes to create screen w/ data
+      icon: Icon(Icons.edit),
+      style: controlStyle,
+    ),
+  ],
+);
+}
 
   Widget build(BuildContext context) {
     return Controls;
-  }
-
 }
 
+}
 
 class WallpaperEntry extends StatelessWidget {
 
@@ -108,30 +94,30 @@ class WallpaperEntry extends StatelessWidget {
     time = obj.time;
 
     wallPaperThumb = Container( // the wallpaper entry's thumbnail
-      constraints: BoxConstraints(maxHeight: 100, maxWidth: 200),
+      constraints: const BoxConstraints(maxHeight: 100, maxWidth: 200),
       decoration: BoxDecoration(
-      border: Border.all(color: Colors.black, width: 1),
-      ),
-      child: Image.file(File(wallFile), fit: BoxFit.fitWidth,),
+        border: Border.all(color: Colors.black, width: 1)),
+      child: Image.file(File(wallFile), fit: BoxFit.fitWidth),
     );
 
     wallpaperCond = Expanded(
-        child: Column(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              Icon(Icons.local_dining), // placeholder
-              Container( alignment: Alignment.center,
-                child: Text(getTime(0)) ),
-            ],
-          )
+      child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Icon(Icons.cloudy_snowing), // placeholder
+            Container( alignment: Alignment.center,
+              child: Text(getTime(0)) ),
+          ],
+      )
     );
 
     wallpaperControls = EntryControls(obj);
 
   }
- 
+
   Widget build(BuildContext context) {
     return Container(
+      decoration: BoxDecoration(border: Border.all(color: Colors.black, width: 1)),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
@@ -144,74 +130,62 @@ class WallpaperEntry extends StatelessWidget {
   }
 }
 
+Widget listTitle(){
+  return const Text("Saved Wallpapers", style: TextStyle(fontSize: 14));
+}
+
+Widget buttonMenu(BuildContext context){
+  return Container(
+    padding: const EdgeInsets.symmetric(horizontal: 64, vertical: 32),
+    child: Row(
+      children: [
+        OutlinedButton(
+          onPressed: () { Navigator.pop(context); }, //function here to switch back to main menu
+          style: controlStyle,
+          child: const Text("Back"),
+        ),
+        const Spacer(flex: 1),
+        OutlinedButton(
+          onPressed: () {
+            Navigator.pushNamed(context, '/Create');
+          }, //function here to switch to create screen
+          style: controlStyle,
+          child: const Text("Create"),
+        ),
+      ],
+    ),
+  );
+}
+
+Widget wallPapersWindow() {
+  return Expanded(
+    child: Container (
+      padding: const EdgeInsets.all(32),
+      child: Container (
+        constraints: const BoxConstraints(maxWidth: 1000,
+                                    minHeight: 200, minWidth: 100),
+        decoration: BoxDecoration (border: Border.all(color: Colors.black, width: 2)),
+        child: Expanded(
+          child: ListView(
+            children: [ WallpaperEntry(WallpaperObj()), ],
+          ),
+        ),
+      )
+    )
+  );
+}
+
 class ListApp extends StatelessWidget {
   const ListApp({super.key});
 
   @override
   Widget build(BuildContext context) {
-    Widget listTitle = Container(
-      child: Text("Saved Wallpapers", style: TextStyle(fontSize: 14)),
-    );
-
-    Widget wallPapersWindow = Expanded(
-      child: Container (
-        padding: EdgeInsets.all(32),
-        child: Container (
-          constraints: BoxConstraints(maxHeight: 1000, maxWidth: 1000,
-                                      minHeight: 200, minWidth: 100),
-            decoration:
-            BoxDecoration (border: Border.all(color: Colors.black, width: 2)),
-          child: Expanded(
-            child: ListView(
-              children: [
-              WallpaperEntry(WallpaperObj()),
-          ],
-          ),
-          ),
-        )
-      )
-    );
-
-    Widget buttonMenu = Container(
-      padding: const EdgeInsets.symmetric(horizontal: 64, vertical: 32),
-      child: Row(
-        children: [
-          OutlinedButton(
-            onPressed: () {
-              Navigator.pop(context);
-            }, //function here to switch back to main menu
-            child: const Text("Back"),
-            style: ButtonStyle(
-              padding: MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(32)),
-              backgroundColor: MaterialStatePropertyAll<Color>(Colors.white),
-              side: MaterialStatePropertyAll<BorderSide>(
-                BorderSide(color: Colors.black, width: 2),
-              ),
-            ),
-          ),
-          Spacer(),
-          OutlinedButton(
-            onPressed: () {
-              Navigator.pushNamed(context, '/Create');
-            }, //function here to switch to create screen
-            child: const Text("Create"),
-            style: ButtonStyle(
-              padding: MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(32)),
-              backgroundColor: MaterialStatePropertyAll<Color>(Colors.white),
-              side: MaterialStatePropertyAll<BorderSide>(
-                BorderSide(color: Colors.black, width: 2),
-              ),
-            ),
-          ),
-        ],
-      ),
-    );
 
     return MaterialApp(
       home: Scaffold(
         body: Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: [listTitle, wallPapersWindow, buttonMenu],
+          children: [listTitle(), wallPapersWindow(), buttonMenu(context)],
         ),
       ),
     );
