@@ -26,20 +26,14 @@ class WeatherEntry {
   String city = 'london';
 
   WeatherEntry(
-      TimeOfDay startTime,
-      TimeOfDay endTime,
-      DayOfWeek dayOfWeek,
-      String wallpaperFilepath,
-      WeatherCondition weatherCondition,
-      String city) {
-    this.startTime = startTime;
-    this.endTime = endTime;
-    this.weatherCondition = weatherCondition;
-    this.dayOfWeek = dayOfWeek;
-    this.wallpaperFilepath = wallpaperFilepath;
-    this.idSchema +=
-        DateTime.now().millisecondsSinceEpoch.toString(); // unique id
-    this.city = city;
+      this.startTime,
+      this.endTime,
+      this.dayOfWeek,
+      this.wallpaperFilepath,
+      this.weatherCondition,
+      this.city) {
+      idSchema +=
+        DateTime.now().millisecondsSinceEpoch.toString();
   }
 
   // This is what the UI should call to add a new rule, eg (pulled from test code of main):

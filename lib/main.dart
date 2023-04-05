@@ -83,8 +83,8 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     String? cityInput;
 
-    TimeOfDay time = const TimeOfDay(hour: 20, minute: 50);
-    DayOfWeek dow = DayOfWeek.friday;
+    TimeOfDay time = const TimeOfDay(hour: 23, minute: 45);
+    DayOfWeek dow = DayOfWeek.tuesday;
     WeatherCondition wc = WeatherCondition.clear;
     String testPaper = "C:\\Users\\bryan\\Downloads\\test.jpg";
     String city = 'New York';
