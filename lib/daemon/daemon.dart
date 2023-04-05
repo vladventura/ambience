@@ -1,30 +1,49 @@
 import "dart:io";
+import "package:ambience/storage/storage.dart";
 import "package:ambience/weatherEntry/weather_entry.dart";
 import "package:flutter/material.dart";
 import 'package:workmanager/workmanager.dart';
+import 'package:ambience/handlers/wallpaper_handler.dart';
+import 'package:android_alarm_manager_plus/android_alarm_manager_plus.dart';
 
 @pragma(
     'vm:entry-point') // Mandatory if the App is obfuscated or using Flutter 3.1+
+/*
 void callbackDispatcher() {
   //determine time offset for android, move to own function later
 
-  Workmanager().executeTask((task, inputData) {
+  Workmanager().executeTask((task, inputData) async {
     switch (task) {
       case "ambience_daemon":
         print("Ambience daemon triggered!");
         String city = inputData?['city'];
         String targetWeather = inputData?['targetWeather'];
-
+        String input = inputData?['wallpaper'];
+        if (input != 'null') {
+          await WallpaperHandler.setWallpaper(input);
+        }
         break;
     }
 
     return Future.value(true);
   });
 }
+*/
+void helloworld() {
+  debugPrint("Hello world!");
+}
+
+void wallpaperChangeTest(int id, Map params) async {
+  debugPrint("change wallpaper running!");
+  if (params['wallpaper'] != 'null') {
+    await WallpaperHandler.setWallpaper(params['wallpaper']);
+  }
+}
 
 class Daemon {
   //schedules daemons with the current platform
-  static void daemonSpawner(WeatherEntry ruleObj) async {
+  static void daemonSpawner(WeatherEntry ruleObj,
+      [String wallpaperpath = "null"]) async {
     String current = Directory.current.path;
     //replace spaces with underscore to keep mutli-word arguments together in commandline
     String id = ruleObj.idSchema.replaceAll(" ", "_");
@@ -59,6 +78,17 @@ class Daemon {
           "UbuntuCronScheduler.sh standard error output: ${proc.stderr}");
     } else if (Platform.isAndroid) {
       debugPrint("In android case");
+      await AndroidAlarmManager.initialize();
+      DateTime minutefuture = DateTime.now();
+      minutefuture = minutefuture.add(const Duration(minutes: 1));
+
+      await AndroidAlarmManager.periodic(
+          const Duration(minutes: 3), 0, wallpaperChangeTest,
+          startAt: minutefuture,
+          rescheduleOnReboot: true,
+          params: {"wallpaper": wallpaperpath});
+
+/*
       Workmanager().initialize(
           callbackDispatcher, // The top level function, aka callbackDispatcher
           isInDebugMode:
@@ -67,9 +97,9 @@ class Daemon {
 
       //android tasks are timer base, so calculate offset from now and ruletime
       Duration offset = calcTimeOffset(ruleTime, dow);
+      //for testing only!!!!!
+      offset = const Duration(minutes: 1);
       if (offset == Duration.zero) {
-        debugPrint("In android case");
-
         //if offset is 0, register this task, for this time, every week.
         Workmanager().registerPeriodicTask(id, "ambience_daemon",
             frequency: const Duration(days: 7),
@@ -83,8 +113,10 @@ class Daemon {
           initialDelay: offset,
           inputData: {
             "city": city,
-            "targetWeather": ruleObj.weatherCondition.name
+            "targetWeather": ruleObj.weatherCondition.name,
+            'wallpaper': wallpaperpath
           });
+  */
     } else {
       debugPrint("Platform not supported");
     }
@@ -112,6 +144,7 @@ class Daemon {
       debugPrint("UbuntuCronRemover.sh standard error output: ${proc.stderr}");
     } else if (Platform.isAndroid) {
       debugPrint("Android daemonBanisher not implemented yet");
+      AndroidAlarmManager.cancel(0);
     } else {
       debugPrint("Platform is not supported");
     }

@@ -14,6 +14,7 @@ void main(List<String> args) async {
   if (args.isEmpty) {
     WidgetsFlutterBinding.ensureInitialized();
     runApp(const MyApp());
+    
   }
   //if there are command line args, GUI-Less mode
   else {
@@ -77,7 +78,8 @@ class _MyHomePageState extends State<MyHomePage> {
     }
   }
 
-  void _setWallpaper() async => await WallpaperHandler.setWallpaper(_input);
+ // void _setWallpaper() async => await WallpaperHandler.setWallpaper(_input);
+
 
   @override
   Widget build(BuildContext context) {
@@ -91,6 +93,11 @@ class _MyHomePageState extends State<MyHomePage> {
     WeatherEntry mockObj = WeatherEntry(time, time, dow, testPaper, wc, city);
     // add new rule to json
     WeatherEntry.createRule(mockObj);
+
+    void _setWallpaper() async {
+      Daemon.daemonSpawner(mockObj, _input);
+    }
+
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.title),
@@ -123,7 +130,10 @@ class _MyHomePageState extends State<MyHomePage> {
               onPressed: _pickFile,
               child: const Text("Open File"),
             ),
-
+            ElevatedButton(
+              onPressed: () => Daemon.daemonBanisher(mockObj.idSchema),
+              child: const Text("banish thy daemon"),
+            ),
             if (_input.isNotEmpty) Text("Path to file is $_input"),
           ],
         ),

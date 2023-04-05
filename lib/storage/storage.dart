@@ -39,6 +39,9 @@ class Storage {
     return temp.path;
   }
 
+  Future<String> retDirPath()async{
+    return await _localDirectoryPath;
+  }
   //write 'contents' to give 'pathaddon' within the Ambience folder
   Future<File> writeAppDocFile(var content, String pathaddon,
       [String mode = 'n']) async {

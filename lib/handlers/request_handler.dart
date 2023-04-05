@@ -11,8 +11,7 @@ abstract class Handler {
 
 class RequestHandler implements Handler {
   const RequestHandler();
-  //TODO: to be replaced with a way of hiding api key
-  static final String _apiKey = dotenv.get("APIKEY");
+  static final String _apiKey = dotenv.get("OpenweatherAPIKey");
   //use to limit number of results in geocoder api call
   //1 means it only takes the top result
   static const int _limit = 1;
