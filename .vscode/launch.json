@@ -16,6 +16,12 @@
             "program": "lib/GUI/login.dart"
         },
         {
+            "name": "list",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/GUI/list.dart"
+        },
+        {
             "name": "ambience (profile mode)",
             "request": "launch",
             "type": "dart",
