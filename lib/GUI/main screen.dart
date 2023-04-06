@@ -1,7 +1,13 @@
 // ignore_for_file: prefer_const_literals_to_create_immutables, avoid_unnecessary_containers, prefer_const_constructors, sort_child_properties_last, unused_import
 
+// TO DO:
+//  Add location gear button
+//  Add logout button
+
 import 'dart:math';
 
+import 'package:ambience/GUI/create.dart';
+import 'package:ambience/GUI/list.dart';
 import 'package:flutter/material.dart';
 import 'dart:io';
 
@@ -41,7 +47,8 @@ class MainApp extends StatelessWidget {
               Padding(padding: EdgeInsets.only(left: 32)),
               
               Expanded(
-                child: Image.file(
+                child: Image.file( // make check for if no wallpaper exists, 
+                // use .exists() method
                 File("$current/lib/GUI/20210513_095523.jpg"),
                 fit: BoxFit.fitHeight,), // placeholder, retrieve wallpaper image here
               ),
@@ -76,7 +83,8 @@ class MainApp extends StatelessWidget {
           Spacer(),
           OutlinedButton(onPressed: () {
 
-                    Navigator.pushNamed(context, '/Create');
+                    Navigator.push(context, 
+                      MaterialPageRoute(builder: (context) => CreateApp(contextWallpaper: WallpaperObj())));
 
                     }, //function here to switch to create screen
                     child: const Text("Create"),

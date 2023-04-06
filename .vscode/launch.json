@@ -22,6 +22,12 @@
             "program": "lib/GUI/list.dart"
         },
         {
+            "name": "create",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/GUI/create.dart"
+        },
+        {
             "name": "ambience (profile mode)",
             "request": "launch",
             "type": "dart",

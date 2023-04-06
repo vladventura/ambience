@@ -7,8 +7,9 @@ import 'package:path/path.dart' as path;
 import 'dart:io';
 
 import "package:ambience/GUI/list.dart";
+import "package:ambience/handlers/file_handler.dart";
 
-void main() => runApp(const CreateApp(contextWallpaper: WallpaperObj(),));
+void main() => runApp(CreateApp(contextWallpaper: WallpaperObj()));
 
 String current = Directory.current.path;
 
@@ -17,6 +18,13 @@ class WeatherDropMenu extends StatefulWidget {
 
  @override
   State<WeatherDropMenu> createState() => _WeatherDropMenuState();
+}
+
+class WallpaperChooser extends StatefulWidget {
+  const WallpaperChooser({super.key});
+
+  @override
+  State<WallpaperChooser> createState() => _WallpaperChooser();
 }
 
 // List<String> daysActive = List<String>;
@@ -29,6 +37,14 @@ String setWeatherCond(IconData cond) { //converts icon's data to a string
   return cond.toString(); 
 }
 
+Future<String> chooseFile() async {
+  try {
+    var filepath = getImagePathFromPicker();
+    return filepath;
+  } catch (exception) { //invalid file or user chose no file
+    return "";
+  }
+}
 
 class _WeatherDropMenuState extends State<WeatherDropMenu> {
       
@@ -67,14 +83,39 @@ class _WeatherDropMenuState extends State<WeatherDropMenu> {
   }
 }
 
+class _WallpaperChooser extends State<WallpaperChooser> {
+    
+  String chosenFile = "";
 
-class CreateApp extends StatelessWidget {
-  const CreateApp({super.key, this.contextWallpaper = WallpaperObj()});
-
-  WallpaperObj contextWallpaper;
+  _WallpaperChooser(WallpaperObj obj) {
+    chosenFile = obj.filePath;
+  }
 
   @override
   Widget build(BuildContext context) {
+
+    return Expanded(
+    child: IconButton( // placeholder, retrieve wallpaper image here
+      icon: Image.file(
+        File(chosenFile), // make function to return different widget instead if there is no image yet
+        fit: BoxFit.fitHeight,),
+        onPressed: () async {
+        chosenFile = await chooseFile();
+      }, //open file explorer here
+    ),
+  );
+  }
+}
+
+class CreateApp extends StatelessWidget {
+  CreateApp({super.key, required this.contextWallpaper});
+
+  final WallpaperObj contextWallpaper;
+ 
+  @override
+  Widget build(BuildContext context) {
+
+      String chosenFile = contextWallpaper.filePath;
 
       final ButtonStyle dayToggleButton = OutlinedButton.styleFrom(
         backgroundColor: Colors.white,
@@ -90,11 +131,6 @@ class CreateApp extends StatelessWidget {
             children: [
               Padding(padding: EdgeInsets.only(left: 32)),
               
-              Expanded(
-                child: Image.file(
-                File("$current/lib/GUI/20210513_095523.jpg"),
-                fit: BoxFit.fitHeight,), // placeholder, retrieve wallpaper image here
-              ),
               Padding(padding: EdgeInsets.only(right: 32)),
             ],
           ),
