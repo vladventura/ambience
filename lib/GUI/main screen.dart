@@ -15,6 +15,33 @@ void main() => runApp(const MainApp());
 
 String current = Directory.current.path;
 
+Widget checkWallpaper() {
+
+  // ignore: dead_code
+  if( /* get currently displayed wallpaper here */ false) {
+    return Expanded(
+              child: Image.file( // make check for if no wallpaper exists, 
+              // use .exists() method
+              File("$current/lib/GUI/20210513_095523.jpg"),
+              fit: BoxFit.fitHeight,), // placeholder, retrieve wallpaper image here
+            );
+  } else {
+    return Container(
+      decoration: BoxDecoration(
+        border: Border.all(color: Colors.black, width: 2)),
+      child: Expanded(
+        child: Column (
+          children: [
+          Spacer(flex: 1),
+          const Text("No wallpaper currently displayed"),
+          Spacer(flex: 1),
+        ],
+        )
+      )
+    );
+  }
+}
+
 class MainApp extends StatelessWidget {
   const MainApp({super.key});
 
@@ -46,12 +73,8 @@ class MainApp extends StatelessWidget {
             children: [
               Padding(padding: EdgeInsets.only(left: 32)),
               
-              Expanded(
-                child: Image.file( // make check for if no wallpaper exists, 
-                // use .exists() method
-                File("$current/lib/GUI/20210513_095523.jpg"),
-                fit: BoxFit.fitHeight,), // placeholder, retrieve wallpaper image here
-              ),
+              checkWallpaper(),
+
               Padding(padding: EdgeInsets.only(right: 32)),
             ],
           ),
