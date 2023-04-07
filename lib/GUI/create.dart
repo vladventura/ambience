@@ -21,7 +21,9 @@ class WeatherDropMenu extends StatefulWidget {
 }
 
 class WallpaperChooser extends StatefulWidget {
-  const WallpaperChooser({super.key});
+  WallpaperObj chosen;
+
+  WallpaperChooser({ Key? key, required this.chosen}): super(key: key);
 
   @override
   State<WallpaperChooser> createState() => _WallpaperChooser();
@@ -41,7 +43,9 @@ Future<String> chooseFile() async {
   try {
     var filepath = getImagePathFromPicker();
     return filepath;
-  } catch (exception) { //invalid file or user chose no file
+  } on NoFileChosenException{
+    return "";
+  } on FileNotFoundException{
     return "";
   }
 }
@@ -84,23 +88,25 @@ class _WeatherDropMenuState extends State<WeatherDropMenu> {
 }
 
 class _WallpaperChooser extends State<WallpaperChooser> {
-    
-  String chosenFile = "";
-
-  _WallpaperChooser(WallpaperObj obj) {
-    chosenFile = obj.filePath;
-  }
 
   @override
   Widget build(BuildContext context) {
 
+    Widget img = Image.file(
+        File(widget.chosen.filePath),
+        fit: BoxFit.fitHeight,);
+
     return Expanded(
     child: IconButton( // placeholder, retrieve wallpaper image here
-      icon: Image.file(
-        File(chosenFile), // make function to return different widget instead if there is no image yet
-        fit: BoxFit.fitHeight,),
-        onPressed: () async {
-        chosenFile = await chooseFile();
+      icon: img,
+        onPressed: () async { // updates the wallpaper to be the newly selected image
+        widget.chosen.filePath = await chooseFile();
+        imageCache.clear();
+        imageCache.clearLiveImages();
+        img = Image.file(
+        File(widget.chosen.filePath),
+        fit: BoxFit.fitHeight,);
+        setState(() {});
       }, //open file explorer here
     ),
   );
@@ -130,7 +136,7 @@ class CreateApp extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Padding(padding: EdgeInsets.only(left: 32)),
-              
+              WallpaperChooser(chosen: contextWallpaper),
               Padding(padding: EdgeInsets.only(right: 32)),
             ],
           ),
@@ -305,6 +311,12 @@ class CreateApp extends StatelessWidget {
         ],
       ),
     );
+
+/* There's definitely a better way of doing this
+    if(contextWallpaper.filePath != "") {
+      wallpaperSelect(contextWallpaper.filePath);
+    }
+*/
 
     return MaterialApp(
       home: Scaffold(
