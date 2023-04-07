@@ -17,29 +17,36 @@ String current = Directory.current.path;
 
 Widget checkWallpaper() {
 
-  // ignore: dead_code
-  if( /* get currently displayed wallpaper here */ false) {
+  String currentFile = ""; // current wallpaper function goes here
+
+  // ignore: dead_code, dart's just being a baby
+  if(File(currentFile).existsSync()) {
     return Expanded(
-              child: Image.file( // make check for if no wallpaper exists, 
-              // use .exists() method
-              File("$current/lib/GUI/20210513_095523.jpg"),
-              fit: BoxFit.fitHeight,), // placeholder, retrieve wallpaper image here
+              child: Image.file(
+                File(currentFile),
+                fit: BoxFit.fitHeight,), // placeholder, retrieve wallpaper image here
             );
   } else {
     return Container(
-      decoration: BoxDecoration(
-        border: Border.all(color: Colors.black, width: 2)),
-      child: Expanded(
-        child: Column (
-          children: [
-          Spacer(flex: 1),
-          const Text("No wallpaper currently displayed"),
-          Spacer(flex: 1),
-        ],
-        )
-      )
-    );
+            child: const Text("\t No wallpaper currently displayed \t"),
+          );
   }
+}
+
+String checkTime() {
+  
+  String current = ""; //function to retrieve time goes here
+  
+  return current;
+}
+
+
+// function to send new location data to backend,
+// is called when location drop menu is changed.
+void setLocation(String location) { // may not be string, just a placeholder for now
+
+  // send location data to backend here
+
 }
 
 class MainApp extends StatelessWidget {
@@ -58,9 +65,9 @@ class MainApp extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                 const Icon(Icons.sunny, size: 80, color: Colors.amber), // placeholder, attach function to icon to change based on weather
-                const Text ("2:17 P.M.", // (TimeOfDay(hour: 12, minute: 02) !!! SCHEDULE TO UPDATE TIME EVERY MINUTE THROUGH A FUNCTION CALL !!!
-                          style: TextStyle(fontWeight: FontWeight.bold),), // placeholder, attach function to retrieve time
-                const Text("Boston, MA"), // placeholder, retrieve location via function
+                Text (checkTime(), // (TimeOfDay(hour: 12, minute: 02) !!! SCHEDULE TO UPDATE TIME EVERY MINUTE THROUGH A FUNCTION CALL !!!
+                  style: TextStyle(fontWeight: FontWeight.bold),), // placeholder, attach function to retrieve time
+                const Text("Boston, MA"), // placeholder, drop menu goes here
             ],
           ),
           ],

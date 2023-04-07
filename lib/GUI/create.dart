@@ -81,11 +81,11 @@ class _WeatherDropMenuState extends State<WeatherDropMenu> {
                 return DropdownMenuItem<IconData>(
                   value: value,
                   child: Icon(value),
-                );
-              }
-              ).toList(),
-            )
-          );
+            );
+          }
+        ).toList(),
+      )
+    );
   }
 }
 
