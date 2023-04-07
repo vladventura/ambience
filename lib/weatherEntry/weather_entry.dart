@@ -51,7 +51,7 @@ class WeatherEntry {
   // This is what the UI should call to add a new rule, eg (pulled from test code of main):
   // TimeOfDay time = const TimeOfDay(hour: 20, minute: 50);
   // DayOfWeek dow = DayOfWeek.friday;
-  // WeatherCondition wc = WeatherCondition.clear;
+  // WeatherCondition wc = WeatherCondition.Clear;
   // String testPaper = "pathtowallpaper.jpg";
   // String city = 'New York';
   // WeatherEntry mockObj = WeatherEntry(time, time, dow, testPaper, wc, city);
@@ -111,14 +111,30 @@ class WeatherEntry {
     }
   }
 
+  static Future<WeatherEntry> getRule(String idSchema) async {
+    Storage store = Storage();
+    var jsonDecoded = await store.readAppDocJson(constants.jsonPath);
+    if (jsonDecoded is Map<String, dynamic>) {
+      // the file exists so we can delete this entry
+      Map<String, dynamic> temp = jsonDecoded;
+      return temp[idSchema];
+    } else {
+      //placeholder
+      throw "file error";
+    }
+  }
+
   WeatherEntry.fromJson(Map<String, dynamic> json) {
     startTime = TimeOfDay(
-        hour: (json['startTimeHour']), minute: (json['startTimeMinute']));
-    endTime =
-        TimeOfDay(hour: (json['endTimeHour']), minute: (json['endTimeMinute']));
+        hour: (json['startTimeHour']),
+        minute: (json['startTimeMinute']));
+    endTime = TimeOfDay(
+        hour: (json['endTimeHour']),
+        minute: (json['endTimeMinute']));
     dayOfWeek = DayOfWeek.values[(json['dayOfWeek'])];
     wallpaperFilepath = json['wallpaperFilepath'];
-    weatherCondition = WeatherCondition.values[(json['weatherCondition'])];
+    weatherCondition =
+        WeatherCondition.values[(json['weatherCondition'])];
     idSchema = json['idSchema'];
     city = json['city'];
   }

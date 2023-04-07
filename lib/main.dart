@@ -14,7 +14,8 @@ void main(List<String> args) async {
   TimeOfDay time = const TimeOfDay(hour: 23, minute: 45);
   DayOfWeek dow = DayOfWeek.tuesday;
   WeatherCondition wc = WeatherCondition.Clouds;
-  String testPaper = "C:\\Users\\bryan\\Downloads\\test.jpg";
+  String curr = Directory.current.path;
+  String testPaper = "$curr/test.jpg";
   String city = 'New York';
   WeatherEntry mockObj = WeatherEntry(time, time, dow, testPaper, wc, city);
   WeatherEntry.createRule(mockObj);
@@ -22,18 +23,22 @@ void main(List<String> args) async {
   //======================================
   //if not args passed, GUI MODE
   if (args.isEmpty) {
-    //here for testing purposes
+    //here for testing reasons only------
     Daemon.bootWork();
-    /*Commented out for rapid testing
+    //-----------------------------------
     WidgetsFlutterBinding.ensureInitialized();
     runApp(const MyApp());
-    */
   }
   //if there are command line args, GUI-Less mode
   else {
-    //restore spaces that were replaced with underscores
-    String input = args[0].replaceAll("_", " ");
-    await weather(input);
+    //boot daemon case
+    if (args[0] == 'boot') {
+      Daemon.bootWork();
+    } else {
+      String idSchema = args[0];
+      var ruleObj = await WeatherEntry.getRule(idSchema);
+      Daemon.weatherCheck(ruleObj);
+    }
     //explict exit, else Windows task scheduler will never know the task ended
     exit(0);
   }
@@ -101,7 +106,8 @@ class _MyHomePageState extends State<MyHomePage> {
     TimeOfDay time = const TimeOfDay(hour: 23, minute: 45);
     DayOfWeek dow = DayOfWeek.tuesday;
     WeatherCondition wc = WeatherCondition.Clouds;
-    String testPaper = "C:\\Users\\bryan\\Downloads\\test.jpg";
+    String curr = Directory.current.path;
+    String testPaper = "$curr/test.jpg";
     String city = 'New York';
     WeatherEntry mockObj = WeatherEntry(time, time, dow, testPaper, wc, city);
     // add new rule to json

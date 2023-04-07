@@ -43,12 +43,9 @@ void wallpaperChangeTest(int id, Map params) async {
 class Daemon {
   //Boot daemon function to read all ruleobjs to check if any have been missed.
   static void bootWork() async {
-    Storage store = Storage();
-    //read rule-set json
-    var ruleSetJSON = await store.readAppDocJson(jsonPath);
+    Map<String, WeatherEntry> ruleMap = await WeatherEntry.getRuleList();
     //get map from map of maps
-    List<dynamic> entryList =
-        ruleSetJSON.values.map((e) => WeatherEntry.fromJson(e)).toList();
+    List<dynamic> entryList = ruleMap.values.toList();
     for (int i = 0; i < entryList.length; i++) {
       weatherCheck(entryList[i]);
     }
@@ -124,7 +121,6 @@ class Daemon {
         '$current\\winTaskSetter.ps1',
         mode,
         id,
-        city,
         formatedTime,
         '$dow'
       ]);

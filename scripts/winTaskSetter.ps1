@@ -2,12 +2,11 @@
 #replace with what schema to be deteremined
 $daemonType = $args[0]
 $idSchema = $args[1]
-$cityName = $args[2]
-$time = $args[3]
-$dayOfWeek = $args[4]
+$time = $args[2]
+$dayOfWeek = $args[3]
 
 
-if($null -eq $daemonType -or $null -eq $idSchema -or $null -eq $cityName -or $null -eq $time -or $null -eq $dayOfWeek){
+if($null -eq $daemonType -or $null -eq $idSchema -or $null -eq $time -or $null -eq $dayOfWeek){
     Write-Host "Exiting early due to missing arguments -winTaskSetter.ps1"
     exit
 }
@@ -21,13 +20,13 @@ $exePath = Resolve-Path 'ambience.exe'
 #schedule startup daemon
 if ($daemonType -eq "boot") {
     #b as in boot daemon flag
-    $action = New-ScheduledTaskAction -Execute $exePath -Argument 'b'
+    $action = New-ScheduledTaskAction -Execute $exePath -Argument 'boot'
     $trigger = New-ScheduledTask -AtStartup
 }
 #schedule normal daemon
 else {
     #what gets executed when daemon is triggered
-    $action = New-ScheduledTaskAction -Execute $exePath -Argument $cityname
+    $action = New-ScheduledTaskAction -Execute $exePath -Argument $idSchema
     #when daemon is triggered
     $trigger = New-ScheduledTaskTrigger -Weekly -At $time -DaysOfWeek $dayOfWeek
 }
