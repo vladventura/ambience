@@ -10,11 +10,24 @@ import "package:ambience/daemon/daemon.dart";
 void main(List<String> args) async {
   //load dotenv file with enviromental variables
   await dotenv.load();
+  //mock object======================================
+  TimeOfDay time = const TimeOfDay(hour: 23, minute: 45);
+  DayOfWeek dow = DayOfWeek.tuesday;
+  WeatherCondition wc = WeatherCondition.Clouds;
+  String testPaper = "C:\\Users\\bryan\\Downloads\\test.jpg";
+  String city = 'New York';
+  WeatherEntry mockObj = WeatherEntry(time, time, dow, testPaper, wc, city);
+  WeatherEntry.createRule(mockObj);
+
+  //======================================
   //if not args passed, GUI MODE
   if (args.isEmpty) {
+    //here for testing purposes
+    Daemon.bootWork();
+    /*Commented out for rapid testing
     WidgetsFlutterBinding.ensureInitialized();
     runApp(const MyApp());
-    
+    */
   }
   //if there are command line args, GUI-Less mode
   else {
@@ -78,22 +91,22 @@ class _MyHomePageState extends State<MyHomePage> {
     }
   }
 
- // void _setWallpaper() async => await WallpaperHandler.setWallpaper(_input);
-
+  // void _setWallpaper() async => await WallpaperHandler.setWallpaper(_input);
 
   @override
   Widget build(BuildContext context) {
     String? cityInput;
-
+    //mock object for testing
+    //==========================
     TimeOfDay time = const TimeOfDay(hour: 23, minute: 45);
     DayOfWeek dow = DayOfWeek.tuesday;
-    WeatherCondition wc = WeatherCondition.clear;
+    WeatherCondition wc = WeatherCondition.Clouds;
     String testPaper = "C:\\Users\\bryan\\Downloads\\test.jpg";
     String city = 'New York';
     WeatherEntry mockObj = WeatherEntry(time, time, dow, testPaper, wc, city);
     // add new rule to json
     WeatherEntry.createRule(mockObj);
-
+    //===========================
     void _setWallpaper() async {
       Daemon.daemonSpawner(mockObj, _input);
     }

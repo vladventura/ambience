@@ -1,4 +1,6 @@
 import "dart:io";
+import "package:ambience/constants.dart";
+import "package:ambience/models/weather_model.dart";
 import "package:ambience/storage/storage.dart";
 import "package:ambience/weatherEntry/weather_entry.dart";
 import "package:flutter/material.dart";
@@ -29,10 +31,8 @@ void callbackDispatcher() {
   });
 }
 */
-void helloworld() {
-  debugPrint("Hello world!");
-}
 
+//Visual feedback for Android testing
 void wallpaperChangeTest(int id, Map params) async {
   debugPrint("change wallpaper running!");
   if (params['wallpaper'] != 'null') {
@@ -41,6 +41,65 @@ void wallpaperChangeTest(int id, Map params) async {
 }
 
 class Daemon {
+  //Boot daemon function to read all ruleobjs to check if any have been missed.
+  static void bootWork() async {
+    Storage store = Storage();
+    //read rule-set json
+    var ruleSetJSON = await store.readAppDocJson(jsonPath);
+    //get map from map of maps
+    List<dynamic> entryList =
+        ruleSetJSON.values.map((e) => WeatherEntry.fromJson(e)).toList();
+    for (int i = 0; i < entryList.length; i++) {
+      weatherCheck(entryList[i]);
+    }
+  }
+
+  //calculate task offset for Android Work Mananger.
+  static Duration calcTimeOffset(TimeOfDay ruleTime, int dow) {
+    Duration durationBetween = Duration(
+        minutes: ruleTime.minute - TimeOfDay.now().minute,
+        hours: ruleTime.hour - TimeOfDay.now().hour);
+
+    int currentDayofWeek = DateTime.now().weekday;
+    //adjust to weather_entry enum format
+    if (currentDayofWeek == 7) {
+      currentDayofWeek = 0;
+    }
+    int daysBetween = dow - currentDayofWeek;
+    //if negative, then the day has already passed, schedule for next week
+    if (daysBetween < 0) {
+      daysBetween += 7;
+    }
+    int offset = daysBetween * 24 * 60 + durationBetween.inMinutes;
+    //if offset is negative, schedule to next week(This is another edge case of next week)
+    if (offset < 0) {
+      offset += 7 * 24 * 60;
+    }
+    return Duration(minutes: offset);
+  }
+
+  //A daemon that checks all rules on boots
+  static void daemonBoot() async {
+    if (Platform.isWindows) {
+      String current = Directory.current.path;
+      String mode = 'boot';
+      var proc = await Process.run('PowerShell.exe', [
+        '-ExecutionPolicy',
+        'Bypass',
+        '-File',
+        '$current\\winTaskSetter.ps1',
+        mode,
+        bootDaemonID,
+      ]);
+      debugPrint("winTaskSetter.ps1 standard output: ${proc.stdout}");
+      debugPrint("winTaskSetter.ps1 standard error output: ${proc.stderr}");
+    } else if (Platform.isLinux) {
+      debugPrint("Linux boot daemon is not implemented yet!");
+    } else if (Platform.isAndroid) {
+      debugPrint("Android boot daemon is not implemented yet!");
+    }
+  }
+
   //schedules daemons with the current platform
   static void daemonSpawner(WeatherEntry ruleObj,
       [String wallpaperpath = "null"]) async {
@@ -50,6 +109,8 @@ class Daemon {
     String city = ruleObj.city.replaceAll(" ", "_");
     TimeOfDay ruleTime = ruleObj.startTime;
     int dow = ruleObj.dayOfWeek.index;
+    //daemon mode is always normal for daemonspawner
+    const String mode = 'n';
     if (Platform.isWindows) {
       //Turn time in a 24 hour formatted string that is acceptable by task scheduler command
       String formatedTime =
@@ -61,6 +122,7 @@ class Daemon {
         'Bypass',
         '-File',
         '$current\\winTaskSetter.ps1',
+        mode,
         id,
         city,
         formatedTime,
@@ -88,7 +150,7 @@ class Daemon {
           rescheduleOnReboot: true,
           params: {"wallpaper": wallpaperpath});
 
-/*
+/* Android work manager code[currently replaced by AndroidAlarmManager]
       Workmanager().initialize(
           callbackDispatcher, // The top level function, aka callbackDispatcher
           isInDebugMode:
@@ -150,26 +212,23 @@ class Daemon {
     }
   }
 
-  static Duration calcTimeOffset(TimeOfDay ruleTime, int dow) {
-    Duration durationBetween = Duration(
-        minutes: ruleTime.minute - TimeOfDay.now().minute,
-        hours: ruleTime.hour - TimeOfDay.now().hour);
-
-    int currentDayofWeek = DateTime.now().weekday;
-    //adjust to weather_entry enum format
-    if (currentDayofWeek == 7) {
-      currentDayofWeek = 0;
+  //checks for desired weather condition and changes wallpaper if it is.
+  static void weatherCheck(WeatherEntry ruleObj) async {
+    //might want to pull the weather parsing, and finding most current as it's own function or addition to some other handler.
+    Storage store = Storage();
+    var weatherJson = await (store.readAppDocJson(weatherDataPath));
+    //get the list of maps of weather data from the JSON
+    List<dynamic> respDecode = weatherJson['list'];
+    //Take the map from each list element and parse using Weathermodel
+    List<WeatherModel> allWeatherData =
+        respDecode.map((e) => WeatherModel.fromJson(e)).toList();
+    //to-do, add backup to parse through offline data and locate up to date data.
+    //if current weather condition matches desired weather condition, change wallpaper
+    for (int i = 0; i < allWeatherData.length; i++) {
+      bool match = ruleObj.compareWeather(allWeatherData[i].weathers[0].name);
+      if (match) {
+        WallpaperHandler.setWallpaper(ruleObj.wallpaperFilepath);
+      }
     }
-    int daysBetween = dow - currentDayofWeek;
-    //if negative, then the day has already passed, schedule for next week
-    if (daysBetween < 0) {
-      daysBetween += 7;
-    }
-    int offset = daysBetween * 24 * 60 + durationBetween.inMinutes;
-    //if offset is negative, schedule to next week(This is another edge case of next week)
-    if (offset < 0) {
-      offset += 7 * 24 * 60;
-    }
-    return Duration(minutes: offset);
   }
 }
