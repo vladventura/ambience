@@ -41,11 +41,13 @@ String setWeatherCond(IconData cond) { //converts icon's data to a string
 
 Future<String> chooseFile() async {
   try {
-    var filepath = getImagePathFromPicker();
+    var filepath = await getImagePathFromPicker();
     return filepath;
   } on NoFileChosenException{
     return "";
   } on FileNotFoundException{
+    return "";
+  } catch(e){
     return "";
   }
 }
