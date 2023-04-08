@@ -1,4 +1,5 @@
 import 'dart:io';
+import 'package:ambience/GUI/location_request.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:ambience/handlers/file_handler.dart';
 import 'package:ambience/handlers/wallpaper_handler.dart';
@@ -44,6 +45,7 @@ class MyApp extends StatelessWidget {
           '/': (context) => const LoginApp(),
           '/Home': (context) => const MainApp(),
           '/List': (context) => const ListApp(),
+          '/LocationRequest': (context) => const LocationRequest(),
         });
   }
 }
