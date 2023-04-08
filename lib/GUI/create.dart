@@ -6,7 +6,10 @@ import 'package:flutter/material.dart';
 import 'package:path/path.dart' as path;
 import 'dart:io';
 
-void main() => runApp(const CreateApp());
+import "package:ambience/GUI/list.dart";
+import "package:ambience/handlers/file_handler.dart";
+
+void main() => runApp(CreateApp(contextWallpaper: WallpaperObj()));
 
 String current = Directory.current.path;
 
@@ -17,14 +20,46 @@ class WeatherDropMenu extends StatefulWidget {
   State<WeatherDropMenu> createState() => _WeatherDropMenuState();
 }
 
+class WallpaperChooser extends StatefulWidget {
+  WallpaperObj chosen;
+
+  WallpaperChooser({ Key? key, required this.chosen}): super(key: key);
+
+  @override
+  State<WallpaperChooser> createState() => _WallpaperChooser();
+}
+
+// List<String> daysActive = List<String>;
+
+String weatherCond = "";
+
+String wallpaperFilepath = "";
+
+String setWeatherCond(IconData cond) { //converts icon's data to a string
+  return cond.toString(); 
+}
+
+Future<String> chooseFile() async {
+  try {
+    var filepath = await getImagePathFromPicker();
+    return filepath;
+  } on NoFileChosenException{
+    return "";
+  } on FileNotFoundException{
+    return "";
+  } catch(e){
+    return "";
+  }
+}
+
 class _WeatherDropMenuState extends State<WeatherDropMenu> {
       
   List<IconData> weathers = <IconData>[
     Icons.sunny, 
-    Icons.cloud, 
-    Icons.shower, 
+    Icons.cloud,
+    Icons.shower,
     Icons.thunderstorm, 
-    Icons.snowing, 
+    Icons.cloudy_snowing, 
   ];
 
   IconData weatherVal = Icons.hourglass_bottom;
@@ -46,20 +81,49 @@ class _WeatherDropMenuState extends State<WeatherDropMenu> {
                 return DropdownMenuItem<IconData>(
                   value: value,
                   child: Icon(value),
-                );
-              }
-              ).toList(),
-            )
-          );
+            );
+          }
+        ).toList(),
+      )
+    );
   }
 }
 
-
-class CreateApp extends StatelessWidget {
-  const CreateApp({super.key});
+class _WallpaperChooser extends State<WallpaperChooser> {
 
   @override
   Widget build(BuildContext context) {
+
+    Widget img = Image.file(
+        File(widget.chosen.filePath),
+        fit: BoxFit.fitHeight,);
+
+    return Expanded(
+    child: IconButton( // placeholder, retrieve wallpaper image here
+      icon: img,
+        onPressed: () async { // updates the wallpaper to be the newly selected image
+        widget.chosen.filePath = await chooseFile();
+        imageCache.clear();
+        imageCache.clearLiveImages();
+        img = Image.file(
+        File(widget.chosen.filePath),
+        fit: BoxFit.fitHeight,);
+        setState(() {});
+      }, //open file explorer here
+    ),
+  );
+  }
+}
+
+class CreateApp extends StatelessWidget {
+  CreateApp({super.key, required this.contextWallpaper});
+
+  final WallpaperObj contextWallpaper;
+ 
+  @override
+  Widget build(BuildContext context) {
+
+      String chosenFile = contextWallpaper.filePath;
 
       final ButtonStyle dayToggleButton = OutlinedButton.styleFrom(
         backgroundColor: Colors.white,
@@ -74,12 +138,7 @@ class CreateApp extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Padding(padding: EdgeInsets.only(left: 32)),
-              
-              Expanded(
-                child: Image.file(
-                File("$current/lib/GUI/20210513_095523.jpg"),
-                fit: BoxFit.fitHeight,), // placeholder, retrieve wallpaper image here
-              ),
+              WallpaperChooser(chosen: contextWallpaper),
               Padding(padding: EdgeInsets.only(right: 32)),
             ],
           ),
@@ -219,7 +278,7 @@ class CreateApp extends StatelessWidget {
             ),
 
             Spacer(flex: 9),
-
+ 
         ],
         
       ),
@@ -254,6 +313,12 @@ class CreateApp extends StatelessWidget {
         ],
       ),
     );
+
+/* There's definitely a better way of doing this
+    if(contextWallpaper.filePath != "") {
+      wallpaperSelect(contextWallpaper.filePath);
+    }
+*/
 
     return MaterialApp(
       home: Scaffold(

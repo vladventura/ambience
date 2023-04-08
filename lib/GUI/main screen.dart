@@ -1,7 +1,13 @@
 // ignore_for_file: prefer_const_literals_to_create_immutables, avoid_unnecessary_containers, prefer_const_constructors, sort_child_properties_last, unused_import
 
+// TO DO:
+//  Add location gear button
+//  Add logout button
+
 import 'dart:math';
 
+import 'package:ambience/GUI/create.dart';
+import 'package:ambience/GUI/list.dart';
 import 'package:flutter/material.dart';
 import 'dart:io';
 
@@ -9,17 +15,42 @@ void main() => runApp(const MainApp());
 
 String current = Directory.current.path;
 
+Widget checkWallpaper() {
+
+  String currentFile = ""; // current wallpaper function goes here
+
+  // ignore: dead_code, dart's just being a baby
+  if(File(currentFile).existsSync()) {
+    return Expanded(
+              child: Image.file(
+                File(currentFile),
+                fit: BoxFit.fitHeight,), // placeholder, retrieve wallpaper image here
+            );
+  } else {
+    return Container(
+            child: const Text("\t No wallpaper currently displayed \t"),
+          );
+  }
+}
+
+String checkTime() {
+  
+  String current = ""; //function to retrieve time goes here
+  
+  return current;
+}
+
+
+// function to send new location data to backend,
+// is called when location drop menu is changed.
+void setLocation(String location) { // may not be string, just a placeholder for now
+
+  // send location data to backend here
+
+}
+
 class MainApp extends StatelessWidget {
   const MainApp({super.key});
-
-  // element to type in name of city like a search,
-  // displays to user the list of possible cities it could be with a country code
-  // user selects a country and the frontend sends it back to the UI
-
-  // List, Search, and Confirm button possibly
-
-  // Due: Wednesday after PaxEast or something idk
-
 
   @override
   Widget build(BuildContext context) {
@@ -34,9 +65,9 @@ class MainApp extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                 const Icon(Icons.sunny, size: 80, color: Colors.amber), // placeholder, attach function to icon to change based on weather
-                const Text ("2:17 P.M.", // (TimeOfDay(hour: 12, minute: 02) !!! SCHEDULE TO UPDATE TIME EVERY MINUTE THROUGH A FUNCTION CALL !!!
-                          style: TextStyle(fontWeight: FontWeight.bold),), // placeholder, attach function to retrieve time
-                const Text("Boston, MA"), // placeholder, retrieve location via function
+                Text (checkTime(), // (TimeOfDay(hour: 12, minute: 02) !!! SCHEDULE TO UPDATE TIME EVERY MINUTE THROUGH A FUNCTION CALL !!!
+                  style: TextStyle(fontWeight: FontWeight.bold),), // placeholder, attach function to retrieve time
+                const Text("Boston, MA"), // placeholder, drop menu goes here
             ],
           ),
           ],
@@ -49,11 +80,8 @@ class MainApp extends StatelessWidget {
             children: [
               Padding(padding: EdgeInsets.only(left: 32)),
               
-              Expanded(
-                child: Image.file(
-                File("$current/lib/GUI/20210513_095523.jpg"),
-                fit: BoxFit.fitHeight,), // placeholder, retrieve wallpaper image here
-              ),
+              checkWallpaper(),
+
               Padding(padding: EdgeInsets.only(right: 32)),
             ],
           ),
@@ -85,7 +113,8 @@ class MainApp extends StatelessWidget {
           Spacer(),
           OutlinedButton(onPressed: () {
 
-                    Navigator.pushNamed(context, '/Create');
+                    Navigator.push(context, 
+                      MaterialPageRoute(builder: (context) => CreateApp(contextWallpaper: WallpaperObj())));
 
                     }, //function here to switch to create screen
                     child: const Text("Create"),
