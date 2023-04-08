@@ -24,7 +24,7 @@ void main(List<String> args) async {
   //if not args passed, GUI MODE
   if (args.isEmpty) {
     //here for testing reasons only------
-    Daemon.bootWork();
+    //Daemon.bootWork();
     //-----------------------------------
     WidgetsFlutterBinding.ensureInitialized();
     runApp(const MyApp());

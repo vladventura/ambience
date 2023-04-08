@@ -77,21 +77,26 @@ class Daemon {
 
   //A daemon that checks all rules on boots
   static void daemonBoot() async {
+    String current = Directory.current.path;
+    String daemonMode = 'boot';
     if (Platform.isWindows) {
-      String current = Directory.current.path;
-      String mode = 'boot';
       var proc = await Process.run('PowerShell.exe', [
         '-ExecutionPolicy',
         'Bypass',
         '-File',
         '$current\\winTaskSetter.ps1',
-        mode,
+        daemonMode,
         bootDaemonID,
       ]);
       debugPrint("winTaskSetter.ps1 standard output: ${proc.stdout}");
       debugPrint("winTaskSetter.ps1 standard error output: ${proc.stderr}");
     } else if (Platform.isLinux) {
-      debugPrint("Linux boot daemon is not implemented yet!");
+      var proc = await Process.run('bash', [
+        '-c',
+        '$current/UbuntuCronScheduler.sh "$daemonMode" "$bootDaemonID"'
+      ]);
+      debugPrint(
+          "UbuntuCronScheduler.sh standard error output: ${proc.stderr}");
     } else if (Platform.isAndroid) {
       debugPrint("Android boot daemon is not implemented yet!");
     }
@@ -103,11 +108,10 @@ class Daemon {
     String current = Directory.current.path;
     //replace spaces with underscore to keep mutli-word arguments together in commandline
     String id = ruleObj.idSchema.replaceAll(" ", "_");
-    String city = ruleObj.city.replaceAll(" ", "_");
     TimeOfDay ruleTime = ruleObj.startTime;
     int dow = ruleObj.dayOfWeek.index;
     //daemon mode is always normal for daemonspawner
-    const String mode = 'n';
+    const String daemonMode = 'n';
     if (Platform.isWindows) {
       //Turn time in a 24 hour formatted string that is acceptable by task scheduler command
       String formatedTime =
@@ -119,7 +123,7 @@ class Daemon {
         'Bypass',
         '-File',
         '$current\\winTaskSetter.ps1',
-        mode,
+        daemonMode,
         id,
         formatedTime,
         '$dow'
@@ -130,7 +134,7 @@ class Daemon {
     } else if (Platform.isLinux) {
       var proc = await Process.run('bash', [
         '-c',
-        '$current/UbuntuCronScheduler.sh "$id" "$city" ${ruleTime.hour} ${ruleTime.minute} $dow'
+        '$current/UbuntuCronScheduler.sh "$daemonMode" "$id" ${ruleTime.hour} ${ruleTime.minute} $dow'
       ]);
       debugPrint(
           "UbuntuCronScheduler.sh standard error output: ${proc.stderr}");
