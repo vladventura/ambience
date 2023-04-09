@@ -16,7 +16,13 @@ class WallpaperObj {
   WallpaperObj(){
     String filePath = "$current/lib/GUI/20210513_095523.jpg";
     String cond = "placeholder weather";
-    String time = "placeholder time";
+
+    int hour = 0;
+    int minute = 0;
+
+    String time = hour.toString() + ":" + minute.toString();
+
+    List<bool> days = [false,false,false,false,false,false,false]; // 7 days, sun to sat
   }
 } // PLACEHOLDER FOR ACTUAL WALLPAPER OBJ SO FLUTTER WILL STOP COMPLAINING
 

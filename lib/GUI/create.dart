@@ -47,16 +47,25 @@ class WallpaperChooser extends StatefulWidget {
 void confirmCreation(int intend, WallpaperObj origObj, WallpaperObj newObj){
   switch(intend) {
     case 1:
+      // use newObj, create new wallpaper entry(s) with it
 
-    break;
+      break;
 
     case 2: 
 
-    break;
+      // use newObj, create new wallpaper entry(s) with it,
+      // keep original wallpaper entry(s) intact.
+
+      break;
 
     case 3:
+      // delete origObj's wallpaper entries,
+      // create new wallpaper entries with newObj,
 
-    break;
+      break;
+
+    default:
+      return;
   }
 }
 
@@ -384,7 +393,7 @@ class CreateApp extends StatelessWidget {
                     ),
                     ),
           Spacer(),
-          OutlinedButton(onPressed: confirmCreation(intention, contextWallpaper, WallpaperObj()),
+          OutlinedButton(onPressed: () => confirmCreation(intention, contextWallpaper, WallpaperObj()),
                     child: const Text("Confirm"),
                     style: ButtonStyle(
                       padding: MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(32)),
