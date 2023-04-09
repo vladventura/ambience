@@ -200,8 +200,8 @@ class Daemon {
 
       debugPrint("UbuntuCronRemover.sh standard output: ${proc.stdout}");
       debugPrint("UbuntuCronRemover.sh standard error output: ${proc.stderr}");
-      if(proc.exitCode == 0){
-          throw "UbuntuCronRemover.sh does not execute successfully";
+      if (proc.exitCode == 0) {
+        throw "UbuntuCronRemover.sh does not execute successfully";
       }
     } else if (Platform.isAndroid) {
       debugPrint("Android daemonBanisher not implemented yet");
@@ -239,6 +239,10 @@ class Daemon {
       if (!(DateTime.now().isAfter(timeStamp))) {
         break;
       }
+    }
+    //edge case out of bounds prevention
+    if (i == allWeatherData.length) {
+      i = i - 1;
     }
     //check if wallpaper change is needed
     bool match = ruleObj.compareWeather(allWeatherData[i].weathers[0].name);
