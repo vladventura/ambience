@@ -9,9 +9,22 @@ import 'dart:io';
 import "package:ambience/GUI/list.dart";
 import "package:ambience/handlers/file_handler.dart";
 
-void main() => runApp(CreateApp(contextWallpaper: WallpaperObj()));
+void main() => runApp(CreateApp(contextWallpaper: WallpaperObj(), intention: 1,));
+
+
+// Global variables
 
 String current = Directory.current.path;
+
+final ButtonStyle dayToggleButton = OutlinedButton.styleFrom(
+  backgroundColor: Colors.white,
+  side: BorderSide(color: Colors.black, width: 1),
+  fixedSize: Size(48, 48),
+  shape: RoundedRectangleBorder(borderRadius: BorderRadius.zero),
+);
+
+// end of globals
+
 
 class WeatherDropMenu extends StatefulWidget {
   const WeatherDropMenu({super.key});
@@ -29,11 +42,30 @@ class WallpaperChooser extends StatefulWidget {
   State<WallpaperChooser> createState() => _WallpaperChooser();
 }
 
-// List<String> daysActive = List<String>;
+//function that performs the final action before closing the create page
+//decides what to do based on the intention variable
+void confirmCreation(int intend, WallpaperObj origObj, WallpaperObj newObj){
+  switch(intend) {
+    case 1:
 
-String weatherCond = "";
+    break;
 
-String wallpaperFilepath = "";
+    case 2: 
+
+    break;
+
+    case 3:
+
+    break;
+  }
+}
+
+class AmPmToggle extends StatefulWidget {
+  const AmPmToggle({super.key});
+
+ @override
+  State<AmPmToggle> createState() => _AmPmToggle();
+}
 
 String setWeatherCond(IconData cond) { //converts icon's data to a string
   return cond.toString(); 
@@ -115,23 +147,81 @@ class _WallpaperChooser extends State<WallpaperChooser> {
   }
 }
 
+class _AmPmToggle extends State<AmPmToggle> {
+
+
+  bool amPm = true; // true = AM, false = PM
+
+  Text txt = Text("A.M.", style: TextStyle(fontSize: 11));
+
+  @override
+  Widget build(BuildContext context){
+
+    return Container(
+              height: 80,
+              decoration: BoxDecoration(
+                border: Border.all(color: Colors.black, width: 2),
+              ),
+
+              child: OutlinedButton(onPressed: (){
+                if(amPm == true){
+                  setState(() {
+                    txt = Text("P.M.", style: TextStyle(fontSize: 11));
+                    amPm = false;
+                  });
+                }
+                else if(amPm == false){
+                  setState(() {
+                    txt = Text("A.M.", style: TextStyle(fontSize: 11));
+                    amPm = true;
+                  });
+                }
+              }, // switches from A.M. to P.M. and vice versa on click
+                child: txt,
+                style: dayToggleButton,
+          ));
+  }
+
+}
+
+
 class CreateApp extends StatelessWidget {
-  CreateApp({super.key, required this.contextWallpaper});
+  CreateApp({super.key, required this.contextWallpaper, required this.intention});
 
   final WallpaperObj contextWallpaper;
- 
+
+  // 1 = create new wallpaper, 
+  // 2 = copy from existing wallpaper, 
+  // 3 = edit existing wallpaper
+  final int intention; 
+
+  final TextEditingController hourController = TextEditingController();
+  final TextEditingController minuteController = TextEditingController();
+
+
   @override
   Widget build(BuildContext context) {
 
-      String chosenFile = contextWallpaper.filePath;
+    String chosenFile = "";
 
-      final ButtonStyle dayToggleButton = OutlinedButton.styleFrom(
-        backgroundColor: Colors.white,
-        side: BorderSide(color: Colors.black, width: 1),
-        fixedSize: Size(48, 48),
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.zero),
-      );
+    String chosenCond = "";
 
+    String chosenMinute = "";
+
+    String chosenHour = "";
+
+    void updateHour(String str) {
+      chosenHour = str;
+    }
+
+    if(intention > 1){
+      chosenFile = contextWallpaper.filePath;
+
+      chosenCond = contextWallpaper.cond;
+
+      chosenHour = contextWallpaper.time;
+      chosenMinute = contextWallpaper.time;
+    }
 
     Widget wallpaperSection = Expanded(
           child: Row(
@@ -227,10 +317,13 @@ class CreateApp extends StatelessWidget {
                   child: Row( 
                   mainAxisAlignment: MainAxisAlignment.center,
                     children: [
-                      Container(
+                      Container( // Hour text
                         width: 40,
-                        child: TextField(onChanged: null , textAlign: TextAlign.right, // convert to time values, invalid times should be reset.
+                        child: TextFormField(onChanged: null,
+                        textAlign: TextAlign.right, // convert to time values, invalid times should be reset.
                         maxLength: 2,
+                        controller: hourController,
+                        initialValue: chosenHour,
                         decoration: InputDecoration(
                           labelText: "Hour",
                         ),), 
@@ -238,32 +331,24 @@ class CreateApp extends StatelessWidget {
 
                       const Text(":"),
 
-                      Container(
+                      Container( // Minute text
                         width: 40,
-                        child: TextField(onChanged: null , textAlign: TextAlign.left, // convert to time values, invalid times should be reset.
+                        child: TextFormField(onChanged: null , 
+                        textAlign: TextAlign.left, // convert to time values, invalid times should be reset.
                         maxLength: 2,
+                        controller: minuteController,
+                        initialValue: chosenMinute,
                         decoration: InputDecoration(
                           labelText: "Min",
                         ),), 
                       ),
-                    ] 
+                    ]
                   ),
                 )
               ),
-
             Spacer(flex: 1),
 
-            Container(
-              height: 80,
-              decoration: BoxDecoration(
-                border: Border.all(color: Colors.black, width: 2),
-              ),
-
-              child: OutlinedButton(onPressed: null, // switches from A.M. to P.M. and vice versa on click
-                child: const Text("A.M.", style: TextStyle(fontSize: 11)),
-                style: dayToggleButton,
-              ),
-            ),
+            AmPmToggle(),
 
             Spacer(flex: 6),
 
@@ -278,11 +363,8 @@ class CreateApp extends StatelessWidget {
             ),
 
             Spacer(flex: 9),
- 
-        ],
-        
+      ]
       ),
-
     );
 
     Widget buttonMenu = Container(
@@ -302,8 +384,8 @@ class CreateApp extends StatelessWidget {
                     ),
                     ),
           Spacer(),
-          OutlinedButton(onPressed: null, //function here to switch to create screen
-                    child: const Text("Create"),
+          OutlinedButton(onPressed: confirmCreation(intention, contextWallpaper, WallpaperObj()),
+                    child: const Text("Confirm"),
                     style: ButtonStyle(
                       padding: MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(32)),
                       backgroundColor: MaterialStatePropertyAll<Color>(Colors.white),
@@ -313,12 +395,6 @@ class CreateApp extends StatelessWidget {
         ],
       ),
     );
-
-/* There's definitely a better way of doing this
-    if(contextWallpaper.filePath != "") {
-      wallpaperSelect(contextWallpaper.filePath);
-    }
-*/
 
     return MaterialApp(
       home: Scaffold(

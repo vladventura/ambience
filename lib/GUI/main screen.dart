@@ -114,7 +114,7 @@ class MainApp extends StatelessWidget {
           OutlinedButton(onPressed: () {
 
                     Navigator.push(context, 
-                      MaterialPageRoute(builder: (context) => CreateApp(contextWallpaper: WallpaperObj())));
+                      MaterialPageRoute(builder: (context) => CreateApp(contextWallpaper: WallpaperObj(), intention: 1)));
 
                     }, //function here to switch to create screen
                     child: const Text("Create"),
