@@ -1,4 +1,6 @@
 // log-in screen for fire branch functionality to work
+// ignore_for_file: prefer_const_constructors
+
 import 'package:flutter/material.dart';
 import 'dart:io';
 
@@ -6,29 +8,19 @@ String current = Directory.current.path;
 
 class LoginMsg extends StatelessWidget {
   final bool visibleLog;
-  final bool visibleSign;
 
-  const LoginMsg({
+  String errMsg = "";
+
+  LoginMsg({
     super.key,
     required this.visibleLog,
-    required this.visibleSign,
-  });
+    required this.errMsg});
 
-  Text _loginFail() {
-    return const Text(
-      "Failed to log in: \n Username or Password is incorrect.",
-      style: TextStyle(
-        color: Colors.red,
-        fontWeight: FontWeight.bold,
-        fontSize: 20,
-      ),
-      textAlign: TextAlign.center,
-    );
-  }
+  // change to accept custom error messages from firebase
 
-  Text _signupFail() {
-    return const Text(
-      "Failed to sign up: \n Username is already taken.",
+  Text _loginFail(String msg) { 
+    return Text(
+      msg,
       style: TextStyle(
         color: Colors.red,
         fontWeight: FontWeight.bold,
@@ -40,19 +32,16 @@ class LoginMsg extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+
     return Container(
       // needs a "stateful widget" to work properly and change states
       alignment: Alignment.topCenter,
       padding: const EdgeInsets.only(right: 24),
       child: Column(
-        children: [
+        children: [ // change to have only one error message, as there's gonna be a whole lotta messages
           Visibility(
             visible: visibleLog,
-            child: _loginFail(),
-          ),
-          Visibility(
-            visible: visibleSign,
-            child: _signupFail(),
+            child: _loginFail(errMsg), // this will be updated as the error message changes
           ),
         ],
       ),
@@ -69,31 +58,38 @@ class LoginApp extends StatefulWidget {
 
 class _LoginApp extends State<LoginApp> {
   bool _visibleLog = false;
-  bool _visibleSign = false;
   final TextEditingController _nameController = TextEditingController();
   final TextEditingController _passController = TextEditingController();
 
+  String errMsg = "";
+ 
   void _login(String usrname, String passwrd) {
     bool success = false; /* BOOLEAN FUNCTION PART GOES HERE */
 
+    errMsg = "error has occurred"; // GET ERROR MESSAGE HERE
+
     if (success) {
+      _visibleLog = false;
       Navigator.pushNamed(context, '/Home');
     } else {
       setState(() {
         _visibleLog = true;
-        _visibleSign = false;
       });
     }
   }
 
   void _signup(String usrname, String passwrd) {
-    bool success = true; /* BOOLEAN FUNCTION PART GOES HERE */
+    bool success = false; /* BOOLEAN FUNCTION PART GOES HERE */
+
+    errMsg = "error has occurred"; // GET ERROR MESSAGE HERE
 
     if (success) {
+      _visibleLog = false;
       Navigator.pushNamed(context, '/Home');
     } else {
-      _visibleSign = true;
-      _visibleLog = false;
+      setState(() {
+        _visibleLog = true;
+      });
     }
   }
 
@@ -159,6 +155,8 @@ class _LoginApp extends State<LoginApp> {
     return OutlinedButton(
       onPressed: () {
         _login(_nameController.text, _passController.text);
+        errMsg = "error1"; // update error message here
+        setState(() {});
       },
       style: const ButtonStyle(
         padding: MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(20)),
@@ -175,6 +173,8 @@ class _LoginApp extends State<LoginApp> {
     return OutlinedButton(
       onPressed: () {
         _signup(_nameController.text, _passController.text);
+        errMsg = "error2"; // update error message here
+        setState(() {});
       },
       style: const ButtonStyle(
         padding: MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(20)),
@@ -210,7 +210,7 @@ class _LoginApp extends State<LoginApp> {
           _loginSignin(),
           LoginMsg(
             visibleLog: _visibleLog,
-            visibleSign: _visibleSign,
+            errMsg: this.errMsg,
           ),
         ],
       ),

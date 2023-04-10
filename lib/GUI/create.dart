@@ -42,33 +42,6 @@ class WallpaperChooser extends StatefulWidget {
   State<WallpaperChooser> createState() => _WallpaperChooser();
 }
 
-//function that performs the final action before closing the create page
-//decides what to do based on the intention variable
-void confirmCreation(int intend, WallpaperObj origObj, WallpaperObj newObj){
-  switch(intend) {
-    case 1:
-      // use newObj, create new wallpaper entry(s) with it
-
-      break;
-
-    case 2: 
-
-      // use newObj, create new wallpaper entry(s) with it,
-      // keep original wallpaper entry(s) intact.
-
-      break;
-
-    case 3:
-      // delete origObj's wallpaper entries,
-      // create new wallpaper entries with newObj,
-
-      break;
-
-    default:
-      return;
-  }
-}
-
 class AmPmToggle extends StatefulWidget {
   const AmPmToggle({super.key});
 
@@ -193,7 +166,6 @@ class _AmPmToggle extends State<AmPmToggle> {
 
 }
 
-
 class CreateApp extends StatelessWidget {
   CreateApp({super.key, required this.contextWallpaper, required this.intention});
 
@@ -204,8 +176,77 @@ class CreateApp extends StatelessWidget {
   // 3 = edit existing wallpaper
   final int intention; 
 
-  final TextEditingController hourController = TextEditingController();
-  final TextEditingController minuteController = TextEditingController();
+  bool isNumeric(String s) {
+  if(s == null) {
+    return false;
+  }
+
+  return int.tryParse(s) != null;
+  } 
+
+  bool checkFields(String hour, String minute, String file, String cond) { // confirm all fields are filled
+    if(isNumeric(hour)
+      && isNumeric(minute) && minute.length == 2 // confirm 00 format
+      && cond != ""
+      && file != "") {     
+        return true;
+    }
+    else {
+      return false;
+    }
+  }
+
+  Future<void> showWarningWindow(BuildContext context, int type) {
+
+    Text alertMsg = Text("");
+
+    if(type == 1){
+      alertMsg = Text("Warning: Some fields are still empty");
+    } else if(type == 2){
+      alertMsg = Text("Warning: Wallpaper's conditions conflict with an existing wallpaper");
+    } else {
+      alertMsg = Text("Warning: Incorrect information entered");
+    }
+
+    return showDialog(
+      context: context, 
+      builder: (context) {
+        return AlertDialog(
+          title: Text("Alert"),
+          content: alertMsg,
+          actions: [
+            TextButton(onPressed: null, child: Text("Ok"))
+          ]
+        );
+      });
+  }
+
+  //function that performs the final action before closing the create page
+  //decides what to do based on the intention variable
+  void confirmCreation(int intend, WallpaperObj origObj, WallpaperObj newObj){
+    switch(intend) {
+      case 1:
+        // use newObj, create new wallpaper entry(s) with it
+
+        break;
+
+      case 2: 
+
+        // use newObj, create new wallpaper entry(s) with it,
+        // keep original wallpaper entry(s) intact.
+
+        break;
+
+      case 3:
+        // delete origObj's wallpaper entries,
+        // create new wallpaper entries with newObj,
+
+        break;
+
+      default:
+        return;
+    }
+  }
 
 
   @override
@@ -219,9 +260,8 @@ class CreateApp extends StatelessWidget {
 
     String chosenHour = "";
 
-    void updateHour(String str) {
-      chosenHour = str;
-    }
+    TextEditingController hourController = TextEditingController(text: chosenHour);
+    TextEditingController minuteController = TextEditingController(text: chosenMinute);
 
     if(intention > 1){
       chosenFile = contextWallpaper.filePath;
@@ -230,6 +270,9 @@ class CreateApp extends StatelessWidget {
 
       chosenHour = contextWallpaper.time;
       chosenMinute = contextWallpaper.time;
+
+      hourController = TextEditingController(text: chosenHour);
+      minuteController = TextEditingController(text: chosenMinute);
     }
 
     Widget wallpaperSection = Expanded(
@@ -332,7 +375,6 @@ class CreateApp extends StatelessWidget {
                         textAlign: TextAlign.right, // convert to time values, invalid times should be reset.
                         maxLength: 2,
                         controller: hourController,
-                        initialValue: chosenHour,
                         decoration: InputDecoration(
                           labelText: "Hour",
                         ),), 
@@ -346,7 +388,6 @@ class CreateApp extends StatelessWidget {
                         textAlign: TextAlign.left, // convert to time values, invalid times should be reset.
                         maxLength: 2,
                         controller: minuteController,
-                        initialValue: chosenMinute,
                         decoration: InputDecoration(
                           labelText: "Min",
                         ),), 
@@ -393,7 +434,12 @@ class CreateApp extends StatelessWidget {
                     ),
                     ),
           Spacer(),
-          OutlinedButton(onPressed: () => confirmCreation(intention, contextWallpaper, WallpaperObj()),
+          OutlinedButton(onPressed: () {
+                    if(checkFields(hourController.text, minuteController.text, chosenFile, chosenCond)){
+                        confirmCreation(intention, contextWallpaper, WallpaperObj()); // add fields to newWallpaperObj
+                      }
+                    else {showWarningWindow(context, 1);}
+                    },
                     child: const Text("Confirm"),
                     style: ButtonStyle(
                       padding: MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(32)),

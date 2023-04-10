@@ -1,0 +1,40 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ambience",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "the whole shabang",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/GUI/main.dart"
+        },
+        {
+            "name": "list",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/GUI/list.dart"
+        },
+        {
+            "name": "create",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/GUI/create.dart"
+        },
+        {
+            "name": "ambience (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "ambience (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
