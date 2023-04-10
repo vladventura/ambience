@@ -1,0 +1,440 @@
+[
+    {
+        "id": 2431736,
+        "name": "Goundi",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 245338,
+        "name": "Am Timan",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2434584,
+        "name": "Bousso",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2435899,
+        "name": "Batha Region",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 7603258,
+        "name": "Tibesti Region",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 245669,
+        "name": "Adré",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2434985,
+        "name": "Bokoro",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2435854,
+        "name": "Bébédja",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2427315,
+        "name": "Moyen-Chari Region",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2429296,
+        "name": "Laï",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 7603254,
+        "name": "Ville de N'Djaména",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2435014,
+        "name": "Bogomia I",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2435124,
+        "name": "Bitkine",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2427123,
+        "name": "N'Djamena",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 7603251,
+        "name": "Hadjer-Lamis",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 243503,
+        "name": "Kamina",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2427637,
+        "name": "Mongo",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2435474,
+        "name": "Béré",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2429058,
+        "name": "Logone Oriental Region",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2427455,
+        "name": "Moundou",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2426370,
+        "name": "Oum Hadjer",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2428228,
+        "name": "Massakory",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2432193,
+        "name": "Gazira",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2428132,
+        "name": "Mayo-Kebbi East Region",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2429323,
+        "name": "Lac Region",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 7603252,
+        "name": "Mandoul",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2427036,
+        "name": "Ngama",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2425287,
+        "name": "Tandjile Region",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 245785,
+        "name": "Abéché",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2433055,
+        "name": "Dourbali",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2435508,
+        "name": "Benoy",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2436400,
+        "name": "Ati",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2425296,
+        "name": "Tandal",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 243783,
+        "name": "Goz Béïda",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2427336,
+        "name": "Moussoro",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2429344,
+        "name": "Kyabé",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2425714,
+        "name": "Serdégé",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2434508,
+        "name": "Republic of Chad",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2434478,
+        "name": "Chari-Baguirmi Region",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2435837,
+        "name": "Béboto",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2427697,
+        "name": "Moïssala",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2434910,
+        "name": "Bongor",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 243590,
+        "name": "Iriba",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2426991,
+        "name": "Ngardiana",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2436628,
+        "name": "Aozou",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2428231,
+        "name": "Massaguet",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2428334,
+        "name": "Mardan Noûm",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2429060,
+        "name": "Logone Occidental Region",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2434979,
+        "name": "Bol",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 7603253,
+        "name": "Mayo-Kebbi West Region",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 242246,
+        "name": "Ouaddai Region",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2431555,
+        "name": "Guera Region",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 7603255,
+        "name": "Barh el Gazel",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2428216,
+        "name": "Massenya",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2429425,
+        "name": "Koutou-Bébo",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2433437,
+        "name": "Doba",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2426240,
+        "name": "Pala",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 7602866,
+        "name": "Borkou Region",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2427949,
+        "name": "Melfi",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2430873,
+        "name": "Kanem Region",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2428042,
+        "name": "Mboursou Léré",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2428394,
+        "name": "Mao",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 242048,
+        "name": "Salamat Region",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2432678,
+        "name": "Faya-Largeau",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2424015,
+        "name": "Zouar",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2430506,
+        "name": "Kelo",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2431573,
+        "name": "Guelendeng",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 244878,
+        "name": "Biltine",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2431724,
+        "name": "Gounou Gaya",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2436067,
+        "name": "Banda",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2435708,
+        "name": "Beïnamar",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2425791,
+        "name": "Sarh",
+        "state": "",
+        "country": "TD"
+    },
+    {
+        "id": 2429605,
+        "name": "Koumra",
+        "state": "",
+        "country": "TD"
+    }
+]

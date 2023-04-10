@@ -1,0 +1,494 @@
+[
+    {
+        "id": 2409543,
+        "name": "Eastern Province",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2408585,
+        "name": "Hangha",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2408770,
+        "name": "Freetown",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2408683,
+        "name": "Gorahun",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2404614,
+        "name": "Pendembu",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2403056,
+        "name": "Wima",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2570857,
+        "name": "Gbewebu",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2406145,
+        "name": "Mambolo",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2407262,
+        "name": "Kukuna",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2404607,
+        "name": "Pepel",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2409663,
+        "name": "Daru",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2404423,
+        "name": "Potoru",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2571039,
+        "name": "Pujehun",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2410624,
+        "name": "Baiima",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2410708,
+        "name": "Alikalia",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2404472,
+        "name": "Koyima",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2406576,
+        "name": "Magburaka",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2409970,
+        "name": "Bomi",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2402816,
+        "name": "Yengema",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2405701,
+        "name": "Masoyila",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2403407,
+        "name": "Tintafor",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2409829,
+        "name": "Bumbuna",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2408399,
+        "name": "Jojoima",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2407899,
+        "name": "Kassiri",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2410093,
+        "name": "Bindi",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2408250,
+        "name": "Kailahun",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2405729,
+        "name": "Masingbi",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2410312,
+        "name": "Barma",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2410065,
+        "name": "Blama",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2404067,
+        "name": "Sawkta",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2405013,
+        "name": "Moyamba",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2406473,
+        "name": "Makali",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2409382,
+        "name": "Foindu",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2408154,
+        "name": "Kamakwie",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2407790,
+        "name": "Kenema",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2409751,
+        "name": "Buedu",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2407089,
+        "name": "Largo",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2410040,
+        "name": "Boajibu",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2402715,
+        "name": "Yonibana",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2405841,
+        "name": "Masaka",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2403268,
+        "name": "Towama",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2403745,
+        "name": "Southern Province",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2403303,
+        "name": "Tongole",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2405038,
+        "name": "Motema",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2405952,
+        "name": "Manowa",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2403896,
+        "name": "Serabu",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2409823,
+        "name": "Bumpe",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2407829,
+        "name": "Kayima",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2409914,
+        "name": "Bonthe",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2404036,
+        "name": "Seidu",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2407428,
+        "name": "Koribundu",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2407660,
+        "name": "Koidu",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2404433,
+        "name": "Port Loko",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2406407,
+        "name": "Makeni",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2405274,
+        "name": "Mogbwemo",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2408088,
+        "name": "Kambia",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2403513,
+        "name": "Tefeya",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2566569,
+        "name": "Konakridee",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2410048,
+        "name": "Bo",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2406142,
+        "name": "Mamboma",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2403846,
+        "name": "Republic of Sierra Leone",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2403068,
+        "name": "Western Area",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2409215,
+        "name": "Gandorhun",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2406916,
+        "name": "Lunsar",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2403828,
+        "name": "Simbakoro",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2409019,
+        "name": "Gberia Fotombu",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2402689,
+        "name": "Zimmi",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2404663,
+        "name": "Panguma",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2405347,
+        "name": "Mobai",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2406067,
+        "name": "Mange",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2404303,
+        "name": "Rokupr",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2408329,
+        "name": "Kabala",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2404798,
+        "name": "Northern Province",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2404254,
+        "name": "Rotifunk",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2404876,
+        "name": "Giehun",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2403698,
+        "name": "Sumbuya",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2406963,
+        "name": "Loma",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2403324,
+        "name": "Tombodu",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2408582,
+        "name": "Hastings",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2409783,
+        "name": "Bunumbu",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2403094,
+        "name": "Waterloo",
+        "state": "",
+        "country": "SL"
+    },
+    {
+        "id": 2403322,
+        "name": "Tombu",
+        "state": "",
+        "country": "SL"
+    }
+]

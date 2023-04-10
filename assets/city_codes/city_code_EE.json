@@ -1,0 +1,1862 @@
+[
+    {
+        "id": 7522437,
+        "name": "Aegviidu vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591064,
+        "name": "Kõue",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522474,
+        "name": "Türi vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522395,
+        "name": "Torma vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592168,
+        "name": "Harku",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522420,
+        "name": "Kasepää vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590030,
+        "name": "Narva-Jõesuu",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591403,
+        "name": "Kiili",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591381,
+        "name": "Kilingi-Nõmme",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588539,
+        "name": "Sutlema",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590004,
+        "name": "Nehatu",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522357,
+        "name": "Märjamaa vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591523,
+        "name": "Metsakasti",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522428,
+        "name": "Kuusalu vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522339,
+        "name": "Martna vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 587875,
+        "name": "Valgamaa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522389,
+        "name": "Pühalepa vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590939,
+        "name": "Kuressaare",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591476,
+        "name": "Kehra",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588264,
+        "name": "Toila",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591313,
+        "name": "Kiviõli",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590067,
+        "name": "Mustvee",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522433,
+        "name": "Sõmeru vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522272,
+        "name": "Haljala vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588326,
+        "name": "Tarvastu",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522459,
+        "name": "Vihula vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588780,
+        "name": "Saue",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589922,
+        "name": "Karksi-Nuia",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522287,
+        "name": "Järva-Jaani vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589578,
+        "name": "Pärnu-Jaagupi",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591260,
+        "name": "Kohtla-Järve",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589741,
+        "name": "Padise",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592055,
+        "name": "Illuka",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522429,
+        "name": "Sonda vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 794067,
+        "name": "Madise",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 794964,
+        "name": "Laagri",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591876,
+        "name": "Jüri",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591783,
+        "name": "Kadrina",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592396,
+        "name": "Aruküla",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522305,
+        "name": "Kiviõli linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 453733,
+        "name": "Republic of Estonia",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589531,
+        "name": "Peetri",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590753,
+        "name": "Laulasmaa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 587577,
+        "name": "Viljandi",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522468,
+        "name": "Põlva linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591265,
+        "name": "Kohila",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591703,
+        "name": "Kallaste",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522436,
+        "name": "Abja vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590447,
+        "name": "Maardu",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 793457,
+        "name": "Sõmeru",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522335,
+        "name": "Lüganuse vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522410,
+        "name": "Saarde vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522298,
+        "name": "Kehtna vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 794956,
+        "name": "Tutermaa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588045,
+        "name": "Urge",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590775,
+        "name": "Lasnamäe",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522450,
+        "name": "Sindi linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588792,
+        "name": "Särevere",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522301,
+        "name": "Kernu vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522479,
+        "name": "Viru-Nigula vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522484,
+        "name": "Võru linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591283,
+        "name": "Kõdu",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522486,
+        "name": "Vändra vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 587977,
+        "name": "Väänikvere",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522299,
+        "name": "Keila vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522307,
+        "name": "Kohila vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522285,
+        "name": "Jõgeva linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592322,
+        "name": "Eametsa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522353,
+        "name": "Mõisaküla linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522280,
+        "name": "Illuka vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522409,
+        "name": "Räpina vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589379,
+        "name": "Põltsamaa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588015,
+        "name": "Uuemõisa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 862994,
+        "name": "Sillamäe linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589166,
+        "name": "Rakke",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588301,
+        "name": "Tiheda",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590342,
+        "name": "Männiku",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522274,
+        "name": "Hanila vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588365,
+        "name": "Tamsalu",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590818,
+        "name": "Laiaküla",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589117,
+        "name": "Räpina",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522374,
+        "name": "Paldiski linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588532,
+        "name": "Suure-Jaani",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592209,
+        "name": "Hageri",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 587590,
+        "name": "Viljandimaa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589375,
+        "name": "Põlva",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590978,
+        "name": "Kumna",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522464,
+        "name": "Lasva vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592052,
+        "name": "Ilmandu",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522440,
+        "name": "Alatskivi vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 587440,
+        "name": "Vändra",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522275,
+        "name": "Harku vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522448,
+        "name": "Avinurme vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590031,
+        "name": "Narva",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592233,
+        "name": "Haabneeme",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588627,
+        "name": "Sonda",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 794965,
+        "name": "Mustamäe",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 587839,
+        "name": "Valkla",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590657,
+        "name": "Lihula",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 794947,
+        "name": "Odulemma",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522396,
+        "name": "Tudulinna vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590888,
+        "name": "Kuusalu",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522359,
+        "name": "Nissi vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588531,
+        "name": "Suurejõe",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589054,
+        "name": "Reola",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522385,
+        "name": "Põltsamaa linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 587699,
+        "name": "Vasalemma",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592607,
+        "name": "Aespa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522485,
+        "name": "Väike-Maarja vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592478,
+        "name": "Anija",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522427,
+        "name": "Kuressaare linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591472,
+        "name": "Keila",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522402,
+        "name": "Ridala Parish",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589307,
+        "name": "Puhja",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589373,
+        "name": "Põlvamaa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522309,
+        "name": "Tabivere vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591965,
+        "name": "Järvakandi",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588204,
+        "name": "Tõrva",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592170,
+        "name": "Harjumaa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589796,
+        "name": "Orissaare",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522300,
+        "name": "Keila linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588774,
+        "name": "Sauga",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522352,
+        "name": "Valga linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522312,
+        "name": "Kohtla-Nõmme vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522446,
+        "name": "Aseri vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522477,
+        "name": "Viljandi linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589933,
+        "name": "Nõo",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522286,
+        "name": "Jõhvi vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591397,
+        "name": "Kiisa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522426,
+        "name": "Saue linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591382,
+        "name": "Kilingi",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 863519,
+        "name": "Iru",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590397,
+        "name": "Mäetaguse",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588673,
+        "name": "Sindi",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589124,
+        "name": "Rannamõisa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589663,
+        "name": "Paldiski",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522487,
+        "name": "Vändra vald (alev)",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588209,
+        "name": "Torma",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590186,
+        "name": "Mõisaküla",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522443,
+        "name": "Anija vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592334,
+        "name": "Avinurme",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522308,
+        "name": "Kohtla vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589115,
+        "name": "Raplamaa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522369,
+        "name": "Paikuse vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522400,
+        "name": "Ülenurme vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588348,
+        "name": "Tapa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588334,
+        "name": "Tartumaa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522323,
+        "name": "Kõue vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522421,
+        "name": "Rakke vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589576,
+        "name": "Pärnumaa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591263,
+        "name": "Kohtla",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592276,
+        "name": "Emmaste",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522469,
+        "name": "Toila vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591951,
+        "name": "Järveküla",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590468,
+        "name": "Luunja",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522361,
+        "name": "Nõo vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 587923,
+        "name": "Väike-Maarja",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522288,
+        "name": "Järvakandi vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589024,
+        "name": "Riisipere",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522334,
+        "name": "Luunja vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522279,
+        "name": "Iisaku vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592628,
+        "name": "Abjaku",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522392,
+        "name": "Tootsi vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591189,
+        "name": "Kõmsi",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522294,
+        "name": "Kambja vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 794319,
+        "name": "Kannu",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522431,
+        "name": "Suure-Jaani vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590675,
+        "name": "Lepiku",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588153,
+        "name": "Türi",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522306,
+        "name": "Koeru vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522332,
+        "name": "Lohusuu vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592626,
+        "name": "Abja-Paluoja",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522368,
+        "name": "Paide linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522271,
+        "name": "Halinga vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591956,
+        "name": "Järveotsa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 862993,
+        "name": "Pärnu linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522447,
+        "name": "Audru vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522333,
+        "name": "Loksa linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 587826,
+        "name": "Vana-Antsla",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522266,
+        "name": "Elva linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522331,
+        "name": "Lihula vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 587882,
+        "name": "Vaksali",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591450,
+        "name": "Kernu",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522418,
+        "name": "Rae vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588831,
+        "name": "Saku",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592379,
+        "name": "Aseri",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522454,
+        "name": "Vasalemma vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 794976,
+        "name": "Soodevahe",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 798563,
+        "name": "Toompea",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522460,
+        "name": "Viimsi vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522425,
+        "name": "Saue vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592062,
+        "name": "Iisaku",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589253,
+        "name": "Püssi",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588223,
+        "name": "Tootsi",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 793956,
+        "name": "Tabivere",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591392,
+        "name": "Kiiu",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590054,
+        "name": "Muusika",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522388,
+        "name": "Otepää vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522337,
+        "name": "Maardu linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591968,
+        "name": "Järva-Jaani",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 587620,
+        "name": "Viiratsi",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592611,
+        "name": "Aegviidu",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 587445,
+        "name": "Võsu",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522325,
+        "name": "Kärdla linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522434,
+        "name": "Tartu linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590856,
+        "name": "Läänemaa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589709,
+        "name": "Paide",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590322,
+        "name": "Märjamaa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592133,
+        "name": "Hiiumaa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588157,
+        "name": "Turba",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522380,
+        "name": "Puhja vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591276,
+        "name": "Koeru",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592258,
+        "name": "Ereda",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591893,
+        "name": "Jõhvi",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592225,
+        "name": "Haapsalu",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522358,
+        "name": "Narva-Jõesuu linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522413,
+        "name": "Saku vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589947,
+        "name": "Nõmme",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590552,
+        "name": "Loksa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522442,
+        "name": "Ambla vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592351,
+        "name": "Audru",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 794995,
+        "name": "Prillimäe",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590497,
+        "name": "Lüganuse",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522364,
+        "name": "Orissaare vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 587998,
+        "name": "Uuri",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522347,
+        "name": "Mustvee linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588174,
+        "name": "Tudulinna",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591919,
+        "name": "Jõelähtme",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592077,
+        "name": "Hüüru",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590561,
+        "name": "Lohusuu",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591475,
+        "name": "Kehtna",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590747,
+        "name": "Lavassaare",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590854,
+        "name": "Lääne-Virumaa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 587450,
+        "name": "Võru",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522283,
+        "name": "Jõelähtme vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522416,
+        "name": "Püssi linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 587629,
+        "name": "Viimsi",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 587876,
+        "name": "Valga",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592075,
+        "name": "Ida-Virumaa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592200,
+        "name": "Haljala",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 793246,
+        "name": "Kolga",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588686,
+        "name": "Sillamäe",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522417,
+        "name": "Raasiku vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591961,
+        "name": "Järvamaa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 795157,
+        "name": "Mõigu",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522269,
+        "name": "Haapsalu linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588092,
+        "name": "Ülenurme",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590537,
+        "name": "Loo",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522348,
+        "name": "Tamsalu vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522304,
+        "name": "Kiili vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590976,
+        "name": "Kunda",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 794940,
+        "name": "Tõmmiku",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588454,
+        "name": "Tabasalu",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590457,
+        "name": "Määltse",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522401,
+        "name": "Rapla vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522379,
+        "name": "Karksi vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589782,
+        "name": "Otepää",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 862990,
+        "name": "Narva linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588006,
+        "name": "Uue-Virtsu",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588335,
+        "name": "Tartu",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522324,
+        "name": "Käina vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589165,
+        "name": "Rakvere",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588572,
+        "name": "Sõrve",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 587571,
+        "name": "Vinni",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591902,
+        "name": "Jõgeva",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591632,
+        "name": "Kärdla",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 587491,
+        "name": "Voka",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589004,
+        "name": "Ristivälja",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 793505,
+        "name": "Olgina",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591264,
+        "name": "Kohtla-Nõmme",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589116,
+        "name": "Rapla",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522449,
+        "name": "Sauga vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522366,
+        "name": "Padise vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588879,
+        "name": "Saaremaa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522355,
+        "name": "Mäetaguse vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522435,
+        "name": "Tarvastu vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 587448,
+        "name": "Võrumaa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 587938,
+        "name": "Vaida",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522390,
+        "name": "Tapa vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 862989,
+        "name": "Kohtla-Järve linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590540,
+        "name": "Lõo",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589174,
+        "name": "Raja",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 794848,
+        "name": "Pühalepa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591901,
+        "name": "Jõgevamaa",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589580,
+        "name": "Pärnu",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522351,
+        "name": "Vaivara vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588922,
+        "name": "Rummu",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590385,
+        "name": "Mägise",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522461,
+        "name": "Viiratsi vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591076,
+        "name": "Kose",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591746,
+        "name": "Käina",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 591306,
+        "name": "Klooga",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592459,
+        "name": "Antsla",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522423,
+        "name": "Rakvere linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522471,
+        "name": "Tõrva linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 587517,
+        "name": "Võhma",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592137,
+        "name": "Hiiessaare",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589336,
+        "name": "Pringi",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522290,
+        "name": "Kadrina vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522444,
+        "name": "Antsla vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522466,
+        "name": "Lavassaare vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 590947,
+        "name": "Kuremäe",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589223,
+        "name": "Raasiku",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 589703,
+        "name": "Paikuse",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522481,
+        "name": "Võhma linn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 587643,
+        "name": "Vihasoo",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 588409,
+        "name": "Tallinn",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 592279,
+        "name": "Elva",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522478,
+        "name": "Vinni vald",
+        "state": "",
+        "country": "EE"
+    },
+    {
+        "id": 7522267,
+        "name": "Emmaste vald",
+        "state": "",
+        "country": "EE"
+    }
+]

@@ -1,0 +1,992 @@
+[
+    {
+        "id": 617345,
+        "name": "Bilicenii Vechi",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618416,
+        "name": "Ciuciuleni",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618260,
+        "name": "Glodeni",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618136,
+        "name": "Carahasani",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617851,
+        "name": "Mileştii Mici",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617965,
+        "name": "Cricova",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617471,
+        "name": "Saharna",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618406,
+        "name": "Cimişlia",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618345,
+        "name": "Făleşti",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618240,
+        "name": "Grătieşti",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617602,
+        "name": "Pervomaisc",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618370,
+        "name": "Drochia",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617254,
+        "name": "Teleneşti",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617656,
+        "name": "Raionul Ocniţa",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617609,
+        "name": "Peresecina",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617975,
+        "name": "Crasnogorca",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618164,
+        "name": "Raionul Cahul",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 861487,
+        "name": "Municipiul Bender",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618329,
+        "name": "Floreşti",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617501,
+        "name": "Rezina",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617076,
+        "name": "Edineţ",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617182,
+        "name": "Ulmu",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618381,
+        "name": "Donduşeni",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617283,
+        "name": "Raionul Ştefan Vodă",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617973,
+        "name": "Crasnoe",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618455,
+        "name": "Căinari",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618522,
+        "name": "Brăneşti",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618312,
+        "name": "Fîrlădeni",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617993,
+        "name": "Hînceşti",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617480,
+        "name": "Sadaclia",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618207,
+        "name": "Hîrbovăţ",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618409,
+        "name": "Ciumai",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617482,
+        "name": "Rîşcani",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618009,
+        "name": "Coşerniţa",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618422,
+        "name": "Cioc Maidan",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 824134,
+        "name": "Vatra",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617778,
+        "name": "Mîndreşti",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617648,
+        "name": "Olăneşti",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 824137,
+        "name": "Corneşti",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617234,
+        "name": "Tohatin",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618024,
+        "name": "Cotovca",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617795,
+        "name": "Moara de Piatră",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617982,
+        "name": "Cojuşna",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 824153,
+        "name": "Ciorescu",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617891,
+        "name": "Logăneşti",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617467,
+        "name": "Sălcuţa",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617461,
+        "name": "Sărata-Galbenă",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618586,
+        "name": "Baimaclia",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617187,
+        "name": "Tvardița",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617902,
+        "name": "Leuşeni",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618554,
+        "name": "Bobeica",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617302,
+        "name": "Strășeni",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618054,
+        "name": "Codru",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618281,
+        "name": "Ghidighici",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617372,
+        "name": "Şoldăneşti",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618456,
+        "name": "Cahul",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617301,
+        "name": "Raionul Străşeni",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618491,
+        "name": "Bugeac",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617426,
+        "name": "Şerpeni",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617922,
+        "name": "Lăpuşna",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617544,
+        "name": "Puhăceni",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617081,
+        "name": "Iargara",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617897,
+        "name": "Lipcani",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617055,
+        "name": "Zaim",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618469,
+        "name": "Butor",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617094,
+        "name": "Vulcăneşti",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617837,
+        "name": "Mărculeşti",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618015,
+        "name": "Corjeuţi",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617507,
+        "name": "Revaca",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618629,
+        "name": "Avdarma",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617702,
+        "name": "Anenii Noi",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617633,
+        "name": "Palanca",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618605,
+        "name": "Bălţi",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617317,
+        "name": "Stăuceni",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618045,
+        "name": "Coloniţa",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617118,
+        "name": "Vişniovca",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618459,
+        "name": "Bucovăţ",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 873909,
+        "name": "Municipiul Bălţi",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617381,
+        "name": "Slobozia",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618119,
+        "name": "Raionul Căuşeni",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 830975,
+        "name": "Biruinţa",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617181,
+        "name": "Raionul Ungheni",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617363,
+        "name": "Speia",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617830,
+        "name": "Maiac",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617137,
+        "name": "Verejeni",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618453,
+        "name": "Camenca",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617367,
+        "name": "Soroca",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618234,
+        "name": "Hryhoriopol",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618365,
+        "name": "Dubăsari",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617251,
+        "name": "Teliţa",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617288,
+        "name": "Suruceni",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618369,
+        "name": "Raionul Drochia",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618057,
+        "name": "Cocieri",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618323,
+        "name": "Frumuşica",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 831037,
+        "name": "Leordoaia",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617790,
+        "name": "Republic of Moldova",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617481,
+        "name": "Rîşcova",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617252,
+        "name": "Teleşeu",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617903,
+        "name": "Leova",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617824,
+        "name": "Mereni",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618565,
+        "name": "Basarabeasca",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 858889,
+        "name": "Unitatea Teritorială din Stînga Nistrului",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617879,
+        "name": "Lunga",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617923,
+        "name": "Lalova",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618142,
+        "name": "Cantemir",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618450,
+        "name": "Ceadîr-Lunga",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617866,
+        "name": "Maximovca",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618572,
+        "name": "Beşalma",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618162,
+        "name": "Raionul Călăraşi",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617077,
+        "name": "Raionul Edineţ",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618373,
+        "name": "Drăsliceni",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617202,
+        "name": "Tipordei",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617659,
+        "name": "Ocniţa",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617638,
+        "name": "Orhei",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617909,
+        "name": "Leninskiy",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618454,
+        "name": "Călăraşi",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618067,
+        "name": "Chiţcani",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617206,
+        "name": "Ţaul",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617264,
+        "name": "Taraclia",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617873,
+        "name": "Corlăteni",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617874,
+        "name": "Lupăria",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618093,
+        "name": "Horjeşti",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618324,
+        "name": "Frumoasa",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618387,
+        "name": "Dnestrovsc",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617864,
+        "name": "Moleşti",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618120,
+        "name": "Căuşeni",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 829938,
+        "name": "Calinovca",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618631,
+        "name": "Otaci",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618078,
+        "name": "Chirca",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618069,
+        "name": "Municipiul Chişinău",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618558,
+        "name": "Bieşti",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618510,
+        "name": "Briceni",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617279,
+        "name": "Sîngera",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618620,
+        "name": "Baccealia",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617239,
+        "name": "Tiraspol",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617962,
+        "name": "Criuleni",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618426,
+        "name": "Chisinau",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617149,
+        "name": "Varniţa",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618267,
+        "name": "Ţarigrad",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617913,
+        "name": "Sîngerei",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618229,
+        "name": "Grimăncăuţi",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618577,
+        "name": "Bender",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618349,
+        "name": "Giurgiuleşti",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618344,
+        "name": "Fălești",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617441,
+        "name": "Sănătăuca",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617486,
+        "name": "Rîbniţa",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617961,
+        "name": "Criva",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618405,
+        "name": "Comrat",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617991,
+        "name": "Ialoveni",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618140,
+        "name": "Căplani",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617406,
+        "name": "Sireţi",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617753,
+        "name": "Nisporeni",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617180,
+        "name": "Ungheni",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617284,
+        "name": "Ştefan Vodă",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 829868,
+        "name": "Ciuluc",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618589,
+        "name": "Baurci",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617366,
+        "name": "Raionul Soroca",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618056,
+        "name": "Cociulia",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 618597,
+        "name": "Bardar",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 858895,
+        "name": "Găgăuzia",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617164,
+        "name": "Vadul lui Vodă",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617053,
+        "name": "Tiraspolul Nou",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 831188,
+        "name": "Romanovca",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617916,
+        "name": "Piatra",
+        "state": "",
+        "country": "MD"
+    },
+    {
+        "id": 617341,
+        "name": "Dubăsarii Vechi",
+        "state": "",
+        "country": "MD"
+    }
+]

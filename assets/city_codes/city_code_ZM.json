@@ -1,0 +1,620 @@
+[
+    {
+        "id": 905382,
+        "name": "Mufumbwe",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 909887,
+        "name": "Luangwa",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 910361,
+        "name": "Limulunga",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 895949,
+        "name": "Republic of Zambia",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 902106,
+        "name": "Namalindi",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 176146,
+        "name": "Mbala",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 899151,
+        "name": "Sande",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 901344,
+        "name": "Ndola",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 907439,
+        "name": "Masupe",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 920901,
+        "name": "Chama",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 900594,
+        "name": "North-Western Province",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 913613,
+        "name": "Kansanshi",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 905789,
+        "name": "Mpongwe",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 901298,
+        "name": "Ndumbakahehu",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 919544,
+        "name": "Chililabombwe",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 908734,
+        "name": "Lyembo",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 909845,
+        "name": "Luapula Province",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 919814,
+        "name": "Chikonkwelo",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 921028,
+        "name": "Chadiza",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 908718,
+        "name": "Maamba",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 916095,
+        "name": "Kabwe",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 908913,
+        "name": "Luwingu",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 921064,
+        "name": "Central Province",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 900969,
+        "name": "Ngwata",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 920106,
+        "name": "Chichili",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 920233,
+        "name": "Chibombo",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 905395,
+        "name": "Mufulira",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 916978,
+        "name": "Highlands",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 912764,
+        "name": "Kasama",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 905846,
+        "name": "Mpika",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 895953,
+        "name": "Zambezi",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 916211,
+        "name": "Kabuko",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 909137,
+        "name": "Lusaka",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 916246,
+        "name": "Kabompo",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 913323,
+        "name": "Kaoma",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 913029,
+        "name": "Kapiri Mposhi",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 900601,
+        "name": "Northern Province",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 898947,
+        "name": "Senanga",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 896662,
+        "name": "Thornton",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 901218,
+        "name": "Ngambo",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 904422,
+        "name": "Mumbwa",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 906054,
+        "name": "Mongu",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 915471,
+        "name": "Kalabo",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 898905,
+        "name": "Sesheke",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 918702,
+        "name": "Chipata",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 919255,
+        "name": "Chimese",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 917388,
+        "name": "Eastern Province",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 906044,
+        "name": "Monze",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 917011,
+        "name": "Gwembe",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 907111,
+        "name": "Mazabuka",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 914555,
+        "name": "Kamboka",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 919009,
+        "name": "Chingola",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 176947,
+        "name": "Kambwali",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 917889,
+        "name": "Chiwempala",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 920820,
+        "name": "Chambishi",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 904264,
+        "name": "Mungule Court",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 905149,
+        "name": "Mukoko",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 902721,
+        "name": "Mwense",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 899825,
+        "name": "Petauke",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 914959,
+        "name": "Kalulushi",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 906221,
+        "name": "Mkushi",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 918905,
+        "name": "Chinsali",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 898188,
+        "name": "Siavonga",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 910111,
+        "name": "Livingstone",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 176758,
+        "name": "Kaputa",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 917688,
+        "name": "Chongwe",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 904241,
+        "name": "Mungwi",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 176555,
+        "name": "Kawambwa",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 902344,
+        "name": "Nakambala",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 175499,
+        "name": "Nchelenge",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 175555,
+        "name": "Nakonde",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 912628,
+        "name": "Kasempa",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 899903,
+        "name": "Panku",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 907770,
+        "name": "Mansa",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 909488,
+        "name": "Lukulu",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 175967,
+        "name": "Mporokoso",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 915883,
+        "name": "Kafue",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 917524,
+        "name": "Copperbelt Province",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 901766,
+        "name": "Namwala",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 909299,
+        "name": "Lundazi",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 175961,
+        "name": "Mpulungu",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 902620,
+        "name": "Mwinilunga",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 917748,
+        "name": "Choma",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 911148,
+        "name": "Kitwe",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 909863,
+        "name": "Luanshya",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 897456,
+        "name": "Sinazongwe",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 899274,
+        "name": "Samfya",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 896972,
+        "name": "Southern Province",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 898586,
+        "name": "Shimpanya",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 904838,
+        "name": "Mulaya",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 908248,
+        "name": "Malabo",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 916668,
+        "name": "Isoka",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 909129,
+        "name": "Lusaka Province",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 898912,
+        "name": "Serenje",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 900813,
+        "name": "Nkana",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 915680,
+        "name": "Kanjonja",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 920928,
+        "name": "Chalimbana",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 897045,
+        "name": "Solwezi",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 896140,
+        "name": "Western Province",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 915285,
+        "name": "Kalengwa",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 900056,
+        "name": "Nyimba",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 918009,
+        "name": "Chiulu",
+        "state": "",
+        "country": "ZM"
+    },
+    {
+        "id": 921061,
+        "name": "Chaba",
+        "state": "",
+        "country": "ZM"
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "id": 2562734,
+        "name": "Mġarr",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562320,
+        "name": "Ta’ Xbiex",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562850,
+        "name": "Swieqi",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562305,
+        "name": "Valletta",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562504,
+        "name": "Siġġiewi",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562816,
+        "name": "Kerċem",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562698,
+        "name": "Imsida",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562619,
+        "name": "Victoria",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562617,
+        "name": "Paola",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562620,
+        "name": "Rabat",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562683,
+        "name": "Naxxar",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562792,
+        "name": "Senglea",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562815,
+        "name": "Kirkop",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562687,
+        "name": "Nadur",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562801,
+        "name": "Lija",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562966,
+        "name": "Vittoriosa",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562541,
+        "name": "San Pawl il-Baħar",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562261,
+        "name": "Haz-Zebbug",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562349,
+        "name": "Tarxien",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562465,
+        "name": "Ta’ Danieli",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562529,
+        "name": "Santa Luċija",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562545,
+        "name": "Sannat",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562744,
+        "name": "Mellieħa",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2563191,
+        "name": "Birkirkara",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562501,
+        "name": "Sliema",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562800,
+        "name": "L-Iklin",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562280,
+        "name": "Xagħra",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562998,
+        "name": "Ħamrun",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2563046,
+        "name": "Għaxaq",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2563115,
+        "name": "Fgura",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2563232,
+        "name": "Attard",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562735,
+        "name": "Imġarr",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562755,
+        "name": "Marsa",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562955,
+        "name": "Floriana",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562557,
+        "name": "San Ġiljan",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562701,
+        "name": "Mqabba",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2563020,
+        "name": "Gudja",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562704,
+        "name": "Mosta",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562266,
+        "name": "Żabbar",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2563062,
+        "name": "Hal Gharghur",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2563015,
+        "name": "Ħal-Bajjada",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562247,
+        "name": "Marsaxlokk",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562258,
+        "name": "Żejtun",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2563217,
+        "name": "Balzan",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562518,
+        "name": "Santa Venera",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2563181,
+        "name": "Cospicua",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2563189,
+        "name": "Birżebbuġa",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562788,
+        "name": "Luqa",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562598,
+        "name": "Safi",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2567539,
+        "name": "Saint John",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562946,
+        "name": "Gżira",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562830,
+        "name": "Kalkara",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562250,
+        "name": "Żurrieq",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562629,
+        "name": "Qormi",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562746,
+        "name": "Imdina",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562274,
+        "name": "Xewkija",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562770,
+        "name": "Republic of Malta",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2563140,
+        "name": "Dingli",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562655,
+        "name": "Qala",
+        "state": "",
+        "country": "MT"
+    },
+    {
+        "id": 2562622,
+        "name": "Qrendi",
+        "state": "",
+        "country": "MT"
+    }
+]

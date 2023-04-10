@@ -1,0 +1,776 @@
+[
+    {
+        "id": 1209308,
+        "name": "Bhāgyakul",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1188909,
+        "name": "Sāmāir",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1193823,
+        "name": "Nabīnagar",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185262,
+        "name": "Bherāmāra",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185127,
+        "name": "Rāmganj",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1204206,
+        "name": "Dopākul",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1336136,
+        "name": "Bhola",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1200682,
+        "name": "Iswardi",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1192366,
+        "name": "Pār Naogaon",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1462681,
+        "name": "Manikchari",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185116,
+        "name": "Netrakona",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1194898,
+        "name": "Manoharpur",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185276,
+        "name": "Bājitpur",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 7486211,
+        "name": "Gāllāmāri",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185236,
+        "name": "Rāipur",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185181,
+        "name": "Lalmonirhat",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1209562,
+        "name": "Bera",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185100,
+        "name": "Dohār",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1337210,
+        "name": "Khulna Division",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185755,
+        "name": "Unāisār",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1197895,
+        "name": "Kesabpur",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1337166,
+        "name": "Rājshāhi Division",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185249,
+        "name": "Chhāgalnāiya",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 6415935,
+        "name": "Lamuni Para",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1348441,
+        "name": "Mānikganj",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185156,
+        "name": "Nālchiti",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1207870,
+        "name": "Chak Brindāban",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1336143,
+        "name": "Pābna",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185252,
+        "name": "Khagrachhari",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1193239,
+        "name": "Nārāyanpur",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 7488262,
+        "name": "Lālbāgkhāmār",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185270,
+        "name": "Bāndarban",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185106,
+        "name": "Jamālpur",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185920,
+        "name": "Tungipāra",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185204,
+        "name": "Jhingergācha",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1188569,
+        "name": "Sarishābāri",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1337233,
+        "name": "Bogra",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185117,
+        "name": "Narsingdi",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 6413898,
+        "name": "Ahmad Hossaīn pāra",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1210997,
+        "name": "Bangladesh",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 7671048,
+        "name": "Rangpur Division",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1191368,
+        "name": "Pālang",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1186675,
+        "name": "Takipur",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 7487343,
+        "name": "Kristopur",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1337240,
+        "name": "Nawābganj",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185207,
+        "name": "Ishurdi",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1207339,
+        "name": "Chāndpur",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 7701342,
+        "name": "Bangshal",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185283,
+        "name": "Badarganj",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1210565,
+        "name": "Burhānuddin",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1203344,
+        "name": "Farīdpur",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1336135,
+        "name": "Khulna",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185173,
+        "name": "Mathba",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1337245,
+        "name": "Mādārīpur",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185183,
+        "name": "Lākshām",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185272,
+        "name": "Kālia",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1189638,
+        "name": "Raojān",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185186,
+        "name": "Comilla",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185165,
+        "name": "Mirzāpur",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185108,
+        "name": "Shibganj",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185293,
+        "name": "Narail",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185199,
+        "name": "Kālīganj",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1201753,
+        "name": "Hājīganj",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 6415551,
+        "name": "Charpāra",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1191139,
+        "name": "Phultala",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185260,
+        "name": "Bhātpāra Abhaynagar",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185164,
+        "name": "Muktāgācha",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185247,
+        "name": "Chilmāri",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185171,
+        "name": "Mehendiganj",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1192691,
+        "name": "Pānchgaon",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185251,
+        "name": "Lālmohan",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185155,
+        "name": "Nārāyanganj",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1190716,
+        "name": "Purbapāra",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185254,
+        "name": "Chhātak",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185218,
+        "name": "Gafargaon",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185099,
+        "name": "Sylhet",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1212152,
+        "name": "Badarpāsa",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185239,
+        "name": "Sarankhola",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1205481,
+        "name": "Uttar Char Fasson",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1336134,
+        "name": "Cox’s Bāzār",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185224,
+        "name": "Feni",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185111,
+        "name": "Sātkhira",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185188,
+        "name": "Rangpur",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1200902,
+        "name": "Huzrāpur",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185095,
+        "name": "Teknāf",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185958,
+        "name": "Tulāpāra",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185128,
+        "name": "Rājshāhi",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185241,
+        "name": "Dhaka",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1337229,
+        "name": "Barisal Division",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 7921384,
+        "name": "Gaibandha",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185191,
+        "name": "Kushtia",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185121,
+        "name": "Shāhzādpur",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1477498,
+        "name": "Bhāndāria",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1337249,
+        "name": "Kishorganj",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185274,
+        "name": "Baniachang",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1336137,
+        "name": "Barisāl",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185148,
+        "name": "Patiya",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1336133,
+        "name": "Sātkania",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185092,
+        "name": "Thākurgaon",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185141,
+        "name": "Panchagarh",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185263,
+        "name": "Bhairab Bāzār",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1337179,
+        "name": "Dhaka Division",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185166,
+        "name": "Maulavi Bāzār",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185210,
+        "name": "Gaurnadi",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185138,
+        "name": "Pirojpur",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1337248,
+        "name": "Sherpur",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 6413609,
+        "name": "Purba Firoz Shah Colony",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1188348,
+        "name": "Sehara",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185115,
+        "name": "Sirajganj",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1336144,
+        "name": "Tāngāil",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185120,
+        "name": "Sandwīp",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185160,
+        "name": "Nageswari",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1207047,
+        "name": "Char Bhadrāsan",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1336140,
+        "name": "Jessore",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185206,
+        "name": "Joypur Hāt",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1337239,
+        "name": "Pīrgaaj",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1205733,
+        "name": "Chittagong",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1189056,
+        "name": "Sakhipur",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185209,
+        "name": "Habiganj",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185149,
+        "name": "Parbatipur",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1203891,
+        "name": "Dinājpur",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185162,
+        "name": "Mymensingh",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 6414184,
+        "name": "Bibir Hat",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 6545349,
+        "name": "Saidpur",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185167,
+        "name": "Morrelgonj",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1196292,
+        "name": "Lakshmīpur",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1187197,
+        "name": "Srīpur",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1185098,
+        "name": "Tungi",
+        "state": "",
+        "country": "BD"
+    },
+    {
+        "id": 1477362,
+        "name": "Sylhet Division",
+        "state": "",
+        "country": "BD"
+    }
+]

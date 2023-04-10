@@ -1,0 +1,680 @@
+[
+    {
+        "id": 2356738,
+        "name": "Pama",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2355737,
+        "name": "Province du Séno",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2359142,
+        "name": "Kongoussi",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2360286,
+        "name": "Goulouré",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2360541,
+        "name": "Gayéri",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2577164,
+        "name": "Orodara",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2361177,
+        "name": "Djibo",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2361586,
+        "name": "Dano",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 6930712,
+        "name": "Plateau-Central",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2357048,
+        "name": "Ouagadougou",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2361082,
+        "name": "Dori",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 6930713,
+        "name": "Sahel",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2353197,
+        "name": "Zorgo",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 6930705,
+        "name": "Centre-Est",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2357611,
+        "name": "Province du Namentenga",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2597261,
+        "name": "Province du Koulpélogo",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2577162,
+        "name": "Gaoua",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2597260,
+        "name": "Province de la Kompienga",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2361477,
+        "name": "Dédougou",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2597250,
+        "name": "Province des Banwa",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2362644,
+        "name": "Bazega Province",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2353169,
+        "name": "Zoundweogo Province",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2360627,
+        "name": "Province du Ganzourgou",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2354675,
+        "name": "Tenkodogo",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 6930711,
+        "name": "Nord",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2356983,
+        "name": "Oubritenga",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2357012,
+        "name": "Ouargaye",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2356410,
+        "name": "Poï",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2357043,
+        "name": "Ouahigouya",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2357548,
+        "name": "Nahouri Province",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2356459,
+        "name": "Pitmoaga",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2355548,
+        "name": "Sindou",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2359923,
+        "name": "Kadiogo Province",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2597266,
+        "name": "Province du Noumbièl",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2597248,
+        "name": "Province des Balé",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2360372,
+        "name": "Gorom-Gorom",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2353688,
+        "name": "Yako",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2353785,
+        "name": "Wèndou",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2362047,
+        "name": "Province de la Bougouriba",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2355404,
+        "name": "Salanso",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2359317,
+        "name": "Kokologo",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2354176,
+        "name": "Tougan",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2360075,
+        "name": "Province du Houet",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2597270,
+        "name": "Province du Zondoma",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2361809,
+        "name": "Burkina Faso",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2597262,
+        "name": "Province du Kourwéogo",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2361845,
+        "name": "Boussé",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2360223,
+        "name": "Province du Gourma",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2597259,
+        "name": "Province de la Komandjoari",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2357163,
+        "name": "Nouna",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 6930703,
+        "name": "Cascades Region",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2358382,
+        "name": "Léo",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2597264,
+        "name": "Province du Loroum",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2353568,
+        "name": "Province du Yatenga",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 6930708,
+        "name": "Centre-Sud",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2361946,
+        "name": "Boulsa",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 6930710,
+        "name": "High-Basins Region",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2362006,
+        "name": "Province du Boulgou",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2362150,
+        "name": "Boromo",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2597265,
+        "name": "Province du Nayala",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2597267,
+        "name": "Province du Tuy",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2359227,
+        "name": "Kombissiri",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2355996,
+        "name": "Samogan",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2359027,
+        "name": "Province de la Kossi",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2362344,
+        "name": "Bobo-Dioulasso",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2358946,
+        "name": "Koudougou",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2354771,
+        "name": "Province de la Tapoa",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2360516,
+        "name": "Gnagna Province",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2356948,
+        "name": "Oufré",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2358100,
+        "name": "Manga",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2358738,
+        "name": "Koupéla",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2355869,
+        "name": "Sapouy",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2597263,
+        "name": "Province de la Léraba",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2362323,
+        "name": "Bogandé",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2355474,
+        "name": "Province de la Sissili",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2362909,
+        "name": "Banfora",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2357858,
+        "name": "Province du Mouhoun",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 6930707,
+        "name": "Centre-Ouest",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2359209,
+        "name": "Province de la Comoé",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2362973,
+        "name": "Province du Bam",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 6930714,
+        "name": "Southwest Region",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2360238,
+        "name": "Gourcy",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2356386,
+        "name": "Province du Poni",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2361988,
+        "name": "Province du Boulkiemdé",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2355803,
+        "name": "Sebba",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2356667,
+        "name": "Province du Passoré",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2356228,
+        "name": "Réo",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2356454,
+        "name": "Pô",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 6930709,
+        "name": "Est",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2360886,
+        "name": "Fada N'gourma",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2597251,
+        "name": "Province du Ioba",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2355211,
+        "name": "Province du Sourou",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2355914,
+        "name": "Province du Sanmatenga",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2353257,
+        "name": "Ziniaré",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2355248,
+        "name": "Province du Soum",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 6930706,
+        "name": "Centre-Nord",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2354349,
+        "name": "Titao",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2362669,
+        "name": "Batié",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2360073,
+        "name": "Houndé",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2356982,
+        "name": "Province de l’Oudalan",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 6930701,
+        "name": "Boucle du Mouhoun Region",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 6930704,
+        "name": "Centre",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2360615,
+        "name": "Garango",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2597269,
+        "name": "Province du Ziro",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2359569,
+        "name": "Province du Kénédougou",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2359608,
+        "name": "Kaya",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2358700,
+        "name": "Kouritenga Province",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2361145,
+        "name": "Dogona",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2597268,
+        "name": "Province du Yagha",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2355930,
+        "name": "Province du Sanguié",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2354265,
+        "name": "Toma",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2361342,
+        "name": "Diébougou",
+        "state": "",
+        "country": "BF"
+    },
+    {
+        "id": 2361373,
+        "name": "Diapaga",
+        "state": "",
+        "country": "BF"
+    }
+]

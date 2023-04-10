@@ -1,0 +1,542 @@
+[
+    {
+        "id": 3574038,
+        "name": "New Grant",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573890,
+        "name": "Port of Spain",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573882,
+        "name": "Princes Town",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574497,
+        "name": "Gran Couva",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574323,
+        "name": "La Pastora",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574729,
+        "name": "Coryal",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574738,
+        "name": "Corbeaux Town",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573604,
+        "name": "Toco",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 7521940,
+        "name": "Eastern Tobago",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574689,
+        "name": "Cumuto",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573638,
+        "name": "Talparo",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573781,
+        "name": "Saint Helena",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574957,
+        "name": "Boissiere Village",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574878,
+        "name": "Cantaro",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573665,
+        "name": "Speyside",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573643,
+        "name": "Paradise",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573773,
+        "name": "Saint Joseph",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573703,
+        "name": "Scarborough",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573652,
+        "name": "Success",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574116,
+        "name": "Mon Repos",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574524,
+        "name": "Gasparillo",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574578,
+        "name": "Exchange",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 7521939,
+        "name": "Diego Martin",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574773,
+        "name": "Claxton Bay",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574536,
+        "name": "Fyzabad",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573854,
+        "name": "Red Hill",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574766,
+        "name": "Coco",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573591,
+        "name": "Republic of Trinidad and Tobago",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573819,
+        "name": "Roxborough",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573995,
+        "name": "Palo Seco",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574888,
+        "name": "Canaan",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574103,
+        "name": "Morichal",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3575039,
+        "name": "Arouca",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574081,
+        "name": "Morvant",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3575051,
+        "name": "Arima",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573541,
+        "name": "Waterloo",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573850,
+        "name": "Reform",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574466,
+        "name": "Green Hill",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574604,
+        "name": "El Dorado",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574517,
+        "name": "Glamorgan",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574659,
+        "name": "Debe",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574952,
+        "name": "Bon Accord Village",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573732,
+        "name": "Sangre Grande",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574104,
+        "name": "Moriah",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574806,
+        "name": "Chaguaramas",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574345,
+        "name": "La Finette",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573764,
+        "name": "Saint Marys",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574928,
+        "name": "Brickfield",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573957,
+        "name": "Petit Bourg",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573972,
+        "name": "Patience Hill",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573738,
+        "name": "San Fernando",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3575073,
+        "name": "Adelphi",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573885,
+        "name": "Preysal",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574794,
+        "name": "Chase Village",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574184,
+        "name": "Maraval",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573918,
+        "name": "Piparo",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573794,
+        "name": "Saint Clair",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574087,
+        "name": "Moruga",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573650,
+        "name": "Tabaquite",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573899,
+        "name": "Point Fortin",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574671,
+        "name": "Curepe",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573645,
+        "name": "Tableland",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573891,
+        "name": "City of Port of Spain",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574874,
+        "name": "Cap-de-Ville",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573681,
+        "name": "Siparia",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574168,
+        "name": "Matura",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574877,
+        "name": "Caparo",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574724,
+        "name": "Couva",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574194,
+        "name": "Marabella",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573606,
+        "name": "Tobago",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573768,
+        "name": "Saint Margaret",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574810,
+        "name": "Chaguanas",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574069,
+        "name": "Mucurapo",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573822,
+        "name": "Roussillac",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 7521941,
+        "name": "Penal/Debe",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 7521947,
+        "name": "Tunapuna/Piarco",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574632,
+        "name": "Dinsley",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574986,
+        "name": "Black Rock",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573576,
+        "name": "Tunapuna",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574309,
+        "name": "Laventille",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573935,
+        "name": "Petit Valley",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574263,
+        "name": "Lopinot",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573804,
+        "name": "Saint Andrew",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574552,
+        "name": "Four Roads",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573596,
+        "name": "Tortuga",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573965,
+        "name": "Peñal",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573520,
+        "name": "Woodlands",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3573840,
+        "name": "Rio Claro",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574211,
+        "name": "Manahambre",
+        "state": "",
+        "country": "TT"
+    },
+    {
+        "id": 3574655,
+        "name": "Delaford",
+        "state": "",
+        "country": "TT"
+    }
+]

@@ -1,0 +1,446 @@
+[
+    {
+        "id": 2412279,
+        "name": "Pateh Sam",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413246,
+        "name": "Jenoi",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2411703,
+        "name": "Wassu",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413515,
+        "name": "Farafenni",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413874,
+        "name": "Banjul NDing",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413660,
+        "name": "Chilla",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413746,
+        "name": "Brikama Nding",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413875,
+        "name": "Banjul",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2412992,
+        "name": "Kerewan",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2411989,
+        "name": "Serekunda",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413926,
+        "name": "Bakadagy",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2411970,
+        "name": "Si Kunda",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2412344,
+        "name": "Nyamanari",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2411885,
+        "name": "Sudowol",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413990,
+        "name": "Abuko",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2412248,
+        "name": "Sabi",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2411765,
+        "name": "Toniataba",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2411862,
+        "name": "Sutukung",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413041,
+        "name": "Katchang",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413106,
+        "name": "Kanifing",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2412355,
+        "name": "No Kunda",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413160,
+        "name": "Kaiaf",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413645,
+        "name": "Dankunku",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413070,
+        "name": "Karantaba",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2411999,
+        "name": "Saruja",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413265,
+        "name": "Jarreng",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413437,
+        "name": "Georgetown",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2411683,
+        "name": "West Coast",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2412749,
+        "name": "Lamin",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413533,
+        "name": "Essau",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413451,
+        "name": "Gambia",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413895,
+        "name": "Bambali",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413697,
+        "name": "Busumbala",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2411692,
+        "name": "Wellingara Ba",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2412775,
+        "name": "Kunting",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413417,
+        "name": "Gunjur Kuta",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413856,
+        "name": "Bantanto",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2411866,
+        "name": "Sun Kunda",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413052,
+        "name": "Kass Wollof",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2412408,
+        "name": "Nioro",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2412158,
+        "name": "Sankwia",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2411877,
+        "name": "Sukuta",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2412778,
+        "name": "Kuntaur",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413866,
+        "name": "Bansang",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413456,
+        "name": "Galleh Manda",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2412135,
+        "name": "Sara Kunda",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413344,
+        "name": "Jali",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2412868,
+        "name": "Koina",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413580,
+        "name": "Diabugu",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413920,
+        "name": "Bakau",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2411905,
+        "name": "Soma",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413827,
+        "name": "Barra",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413818,
+        "name": "Basse Santa Su",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2412807,
+        "name": "Kumbija",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2412353,
+        "name": "North Bank",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413598,
+        "name": "Demba Kunda",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413623,
+        "name": "Daru Rilwan",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413023,
+        "name": "Keneba",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2412199,
+        "name": "Sami",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2412272,
+        "name": "Perai",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413365,
+        "name": "Jakhaly",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413653,
+        "name": "Daba Kunda",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413753,
+        "name": "Brikama",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413830,
+        "name": "Baro Kunda",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413588,
+        "name": "Denton",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2411863,
+        "name": "Sutukoba",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413235,
+        "name": "Jifarong",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413703,
+        "name": "Bureng",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413579,
+        "name": "Diabugu Basilla",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413418,
+        "name": "Gunjur",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2411903,
+        "name": "Somita",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2412605,
+        "name": "Mansa Konko",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2412252,
+        "name": "Saba",
+        "state": "",
+        "country": "GM"
+    },
+    {
+        "id": 2413755,
+        "name": "Brifu",
+        "state": "",
+        "country": "GM"
+    }
+]

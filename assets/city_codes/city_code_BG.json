@@ -1,0 +1,6584 @@
+[
+    {
+        "id": 725924,
+        "name": "Vetrino",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728143,
+        "name": "Poleto",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728824,
+        "name": "Obshtina Nesebar",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728447,
+        "name": "Obshtina Panagyurishte",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461227,
+        "name": "Granica",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726114,
+        "name": "Ugarchin",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726859,
+        "name": "Stara Reka",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727476,
+        "name": "Obshtina Sadovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731741,
+        "name": "Dzhebel",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732905,
+        "name": "Brestnik",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725933,
+        "name": "Obshtina Vetovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460270,
+        "name": "Cherkovica",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726581,
+        "name": "Sveta Petka",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730040,
+        "name": "Koynare",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727078,
+        "name": "Obshtina Sliven",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726653,
+        "name": "Obshtina Saedinenie",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727797,
+        "name": "Rakov Dol",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730504,
+        "name": "Kaynardzha",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726368,
+        "name": "Totleben",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725239,
+        "name": "Zornitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729086,
+        "name": "Milevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725293,
+        "name": "Obshtina Zlataritsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731108,
+        "name": "Gotse Delchev",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726802,
+        "name": "Stefanovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726461,
+        "name": "Ticha",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727628,
+        "name": "Rila",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731452,
+        "name": "Obshtina Dolni Chiflik",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732720,
+        "name": "Byala",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732883,
+        "name": "Breznik",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728945,
+        "name": "Mramor",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459302,
+        "name": "Belovec",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733066,
+        "name": "Obshtina Borino",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733585,
+        "name": "Obshtina Avren",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727461,
+        "name": "Obshtina Samokov",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731822,
+        "name": "Dalgopol",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727735,
+        "name": "Ravno",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729968,
+        "name": "Krasno Selo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729228,
+        "name": "Markovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729530,
+        "name": "Loznitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728056,
+        "name": "Pordim",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459910,
+        "name": "Kurnare",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461192,
+        "name": "Kapitan Dimitrievo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729316,
+        "name": "Malo Konare",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729507,
+        "name": "Lukovit",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728387,
+        "name": "Pavelsko",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728742,
+        "name": "Nova Zagora",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730418,
+        "name": "Obshtina Hisarya",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730959,
+        "name": "Obshtina Garmen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727987,
+        "name": "Veliki Preslav",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726286,
+        "name": "Obshtina Tryavna",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731978,
+        "name": "Dragichevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727322,
+        "name": "Sharanite",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732048,
+        "name": "Dolno Sahrane",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732455,
+        "name": "Obshtina Chiprovtsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729645,
+        "name": "Obshtina Letnitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732919,
+        "name": "Obshtina Bratya Daskalovi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728851,
+        "name": "Nedelino",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731016,
+        "name": "Sredets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733731,
+        "name": "Agatovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725611,
+        "name": "Yablanitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732060,
+        "name": "Dolno Linevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727371,
+        "name": "Semchinovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727454,
+        "name": "Obshtina Samuil",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732038,
+        "name": "Dolno Tserovene",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732817,
+        "name": "Bukovets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729313,
+        "name": "Malomir",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728315,
+        "name": "Obshtina Peshtera",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459295,
+        "name": "Podajva",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727564,
+        "name": "Rozovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727524,
+        "name": "Oblast Ruse",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726244,
+        "name": "Obshtina Tsenovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726708,
+        "name": "Stroevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459396,
+        "name": "Ribarica",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727704,
+        "name": "Razdel",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728376,
+        "name": "Obshtina Pazardzhik",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729834,
+        "name": "Kuklen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732500,
+        "name": "Cherven",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727441,
+        "name": "Sapareva Banya",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730287,
+        "name": "Knezha",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733368,
+        "name": "Belashtitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727608,
+        "name": "Rogosh",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728685,
+        "name": "Obnova",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726816,
+        "name": "Startsevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864574,
+        "name": "Obshtina Chelopech",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459599,
+        "name": "Dolna Gradeshnica",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732012,
+        "name": "Obshtina Dospat",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460435,
+        "name": "Obrochishhe",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726702,
+        "name": "Struma",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730435,
+        "name": "Haskovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726333,
+        "name": "Tri Kladentsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727925,
+        "name": "Prosenik",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728733,
+        "name": "Obshtina Novi Pazar",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727462,
+        "name": "Samokov",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729224,
+        "name": "Marten",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729559,
+        "name": "Lovech",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733618,
+        "name": "Asenovgrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461131,
+        "name": "Bjaga",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732055,
+        "name": "Dolno Osenovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732133,
+        "name": "Dolna Koznitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725295,
+        "name": "Zlataritsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726848,
+        "name": "Stara Zagora",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729437,
+        "name": "Obshtina Madan",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726261,
+        "name": "Tsarichina",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729170,
+        "name": "Medovene",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726274,
+        "name": "Tsaratsovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727970,
+        "name": "Prezhda",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729634,
+        "name": "Levunovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731779,
+        "name": "Daskotna",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732091,
+        "name": "Dolni Lukovit",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725452,
+        "name": "Zamfirovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460657,
+        "name": "Dunavci",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726320,
+        "name": "Troyan",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731364,
+        "name": "Golema Rakovitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726954,
+        "name": "Spasovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864554,
+        "name": "Oblast Kyustendil",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733486,
+        "name": "Balvan",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727551,
+        "name": "Obshtina Rudozem",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728830,
+        "name": "Nenovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732088,
+        "name": "Dolni Okol",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732444,
+        "name": "Choba",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864555,
+        "name": "Oblast Shumen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726828,
+        "name": "Staro Selishte",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460063,
+        "name": "Akhtopol",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730301,
+        "name": "Klisura",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732196,
+        "name": "Dobromir",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733540,
+        "name": "Bagra",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730558,
+        "name": "Obshtina Karnobat",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460722,
+        "name": "Dobri Vojnikovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6458938,
+        "name": "Obshtina Kuklen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727926,
+        "name": "Prosena",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728388,
+        "name": "Obshtina Pavel Banya",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730496,
+        "name": "Kazanlak",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730866,
+        "name": "Isperih",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726888,
+        "name": "Stambolovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729794,
+        "name": "Kardzhali",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731880,
+        "name": "Obshtina Dryanovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459638,
+        "name": "Katunci",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727964,
+        "name": "Primorsko",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725234,
+        "name": "Zanzarite",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727843,
+        "name": "Radinovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732717,
+        "name": "Byala Cherkva",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732491,
+        "name": "Cherven Bryag",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732972,
+        "name": "Obshtina Boynitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728921,
+        "name": "Marchaevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725577,
+        "name": "Obshtina Yambol",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730731,
+        "name": "Obshtina Kaloyanovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732627,
+        "name": "Chepelare",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731107,
+        "name": "Obshtina Gotse Delchev",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733141,
+        "name": "Boeritsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727068,
+        "name": "Obshtina Slivnitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728250,
+        "name": "Pirgovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727358,
+        "name": "Senovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727762,
+        "name": "Rastnik",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729681,
+        "name": "Leshko",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725732,
+        "name": "Vrachesh",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727986,
+        "name": "Obshtina Veliki Preslav",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728147,
+        "name": "Polena",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461645,
+        "name": "Gradec",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732954,
+        "name": "Bozhurishte",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727483,
+        "name": "Sadovets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727759,
+        "name": "Ravda",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459590,
+        "name": "Dubnica",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730565,
+        "name": "Karlovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730522,
+        "name": "Katuntsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728513,
+        "name": "Ostrov",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727547,
+        "name": "Ruen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730083,
+        "name": "Obshtina Kostinbrod",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732198,
+        "name": "Dobrogled",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732277,
+        "name": "Obshtina Devnya",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725738,
+        "name": "Vrabevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727067,
+        "name": "Slivo Pole",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728987,
+        "name": "Momina Klisura",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729035,
+        "name": "Mladen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729072,
+        "name": "Obshtina Mineralni Bani",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733042,
+        "name": "Obshtina Borovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727336,
+        "name": "Obshtina Sevlievo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864571,
+        "name": "Obshtina Maritsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460597,
+        "name": "Stara reka",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731395,
+        "name": "Gluhar",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725615,
+        "name": "Varzulitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726048,
+        "name": "Obshtina Varna",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727791,
+        "name": "Rakovski",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727568,
+        "name": "Rozino",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728895,
+        "name": "Musomishta",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729125,
+        "name": "Tsarevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730987,
+        "name": "Gŭlŭbovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733285,
+        "name": "Obshtina Belovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732489,
+        "name": "Cherveni Bryag",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733715,
+        "name": "Obshtina Aksakovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725966,
+        "name": "Obshtina Venets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729909,
+        "name": "Krivodol",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729729,
+        "name": "Obshtina Kyustendil",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732878,
+        "name": "Breznitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730161,
+        "name": "Koprivlen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729892,
+        "name": "Krumovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731882,
+        "name": "Dryanovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727679,
+        "name": "Rebrovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733515,
+        "name": "Balchik",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733551,
+        "name": "Bachevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726399,
+        "name": "Topolchane",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726545,
+        "name": "Obshtina Svilengrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732121,
+        "name": "Obshtina Dolna Mitropolia",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731468,
+        "name": "Kvartal Popovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732253,
+        "name": "Dimovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726066,
+        "name": "Vaklinovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460662,
+        "name": "Pokrajna",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727328,
+        "name": "Obshtina Shabla",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731061,
+        "name": "Sofia-Grad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728722,
+        "name": "Novosel",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725461,
+        "name": "Zagrade",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459390,
+        "name": "Bulgarski izvor",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730143,
+        "name": "Korten",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731803,
+        "name": "Durankulak",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730159,
+        "name": "Koprivshtitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725945,
+        "name": "Veselina",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731415,
+        "name": "Glavinitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731114,
+        "name": "Gostilitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726524,
+        "name": "Svoge",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729667,
+        "name": "Lesichovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725682,
+        "name": "Obshtina Valchedram",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732465,
+        "name": "Chilnov",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733263,
+        "name": "Obshtina Berkovitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726327,
+        "name": "Trite Kashti",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732262,
+        "name": "Obshtina Dimitrovgrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730960,
+        "name": "Garmen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727261,
+        "name": "Shivachevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731818,
+        "name": "Dulovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726489,
+        "name": "Batanovtsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731960,
+        "name": "Obshtina Dragoman",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732205,
+        "name": "Dobrinishte",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731233,
+        "name": "Gorna Oryahovitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732252,
+        "name": "Obshtina Dimovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731220,
+        "name": "Gorni Bogrov",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731054,
+        "name": "Obshtina Gramada",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728487,
+        "name": "Ovchartsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733292,
+        "name": "Obshtina Beloslav",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726384,
+        "name": "Topolovgrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730268,
+        "name": "Kocherinovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732247,
+        "name": "Dinkata",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729879,
+        "name": "Obshtina Krushari",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731100,
+        "name": "Gyovren",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461687,
+        "name": "Svidnja",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727495,
+        "name": "Ruzhintsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864577,
+        "name": "Obshtina Pravets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864558,
+        "name": "Oblast Smolyan",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727446,
+        "name": "Obshtina Sandanski",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728730,
+        "name": "Novo Delchevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728191,
+        "name": "Plovdivtsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461698,
+        "name": "Vladaja",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726141,
+        "name": "Tutrakan",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725905,
+        "name": "Vidin",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726130,
+        "name": "Tvarditsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864563,
+        "name": "Oblast Yambol",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730618,
+        "name": "Karageorgievo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732280,
+        "name": "Devnya",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864567,
+        "name": "Obshtina Rodopi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729704,
+        "name": "Toros",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725270,
+        "name": "Obshtina Zlatograd",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729039,
+        "name": "Obshtina Mizia",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726418,
+        "name": "Dobrich",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729528,
+        "name": "Obshtina Loznitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732122,
+        "name": "Dolna Mitropolia",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732862,
+        "name": "Brusartsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727133,
+        "name": "Skrat",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727443,
+        "name": "San Stefano",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729509,
+        "name": "Laki",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727689,
+        "name": "Razlog",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725284,
+        "name": "Zlatitrap",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725711,
+        "name": "Obshtina Vratsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729907,
+        "name": "Obshtina Krivodol",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461154,
+        "name": "Aprilci",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726010,
+        "name": "Velchevska",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730789,
+        "name": "Kadievo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725977,
+        "name": "Velkovtsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733284,
+        "name": "Belozem",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460252,
+        "name": "Sadovec",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725923,
+        "name": "Obshtina Vetrino",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732874,
+        "name": "Brezovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726642,
+        "name": "Obshtina Suhindol",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729173,
+        "name": "Obshtina Medkovets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726473,
+        "name": "Obshtina Tervel",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733462,
+        "name": "Bansko",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727011,
+        "name": "Sofia",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460409,
+        "name": "Ploska mogila",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727645,
+        "name": "Ribaritsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732938,
+        "name": "Branichevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729784,
+        "name": "Karnare",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732742,
+        "name": "Butovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728781,
+        "name": "Obshtina Nikopol",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726975,
+        "name": "Sopot",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725594,
+        "name": "Yagodina",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729709,
+        "name": "Laskarevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730059,
+        "name": "Kovachevets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729941,
+        "name": "Obshtina Kresna",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731239,
+        "name": "Gorna Malina",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733679,
+        "name": "Alfatar",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727402,
+        "name": "Sedlarevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729636,
+        "name": "Levski",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461361,
+        "name": "Nedjalsko",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730729,
+        "name": "Kaltinets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732358,
+        "name": "Debeli Lag",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727837,
+        "name": "Obshtina Radnevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728196,
+        "name": "Ploska Mogila",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726962,
+        "name": "Obshtina Sozopol",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728928,
+        "name": "Maglizh",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725585,
+        "name": "Obshtina Yakoruda",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729264,
+        "name": "Manole",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730969,
+        "name": "Gurkovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460144,
+        "name": "Slavjanci",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460822,
+        "name": "Pchelishhe",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726113,
+        "name": "Obshtina Ugarchin",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728152,
+        "name": "Pokrayna",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728317,
+        "name": "Peshtera",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731821,
+        "name": "Obshtina Dalgopol",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728385,
+        "name": "Pavlikeni",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728203,
+        "name": "Pleven",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732285,
+        "name": "Devin",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460022,
+        "name": "Bulgarovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733660,
+        "name": "Anton",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730013,
+        "name": "Kozloduy",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729722,
+        "name": "Lakatnik",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733191,
+        "name": "Blagoevgrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459938,
+        "name": "Caracovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729194,
+        "name": "Mechka",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461719,
+        "name": "Bistrica",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729896,
+        "name": "Krumovgrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728741,
+        "name": "Obshtina Nova Zagora",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729404,
+        "name": "Makotsevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730497,
+        "name": "Kazanka",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727552,
+        "name": "Rudozem",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729506,
+        "name": "Obshtina Lukovit",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733443,
+        "name": "Barutin",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459663,
+        "name": "Slashhen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733338,
+        "name": "Beli Izvor",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733594,
+        "name": "Mokren",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725895,
+        "name": "Vievo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731384,
+        "name": "Godech",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727119,
+        "name": "Slashten",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732922,
+        "name": "Obshtina Bratsigovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732275,
+        "name": "Dibich",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732655,
+        "name": "Chavdar",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459581,
+        "name": "Breznica",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461207,
+        "name": "Slavovica",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731383,
+        "name": "Obshtina Godech",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726748,
+        "name": "Straldzha",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729785,
+        "name": "Karnalovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729508,
+        "name": "Obshtina Laki",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732590,
+        "name": "Cherkovna",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461690,
+        "name": "Aldomirovci",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729489,
+        "name": "Lyaskovets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727847,
+        "name": "Radilovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729807,
+        "name": "Kunevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729895,
+        "name": "Obshtina Krumovgrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732704,
+        "name": "Byala Slatina",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726561,
+        "name": "Svetlen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727832,
+        "name": "Radomir",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729392,
+        "name": "Malchika",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729972,
+        "name": "Krasimir",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733468,
+        "name": "Bankya",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733539,
+        "name": "Bagrentsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730518,
+        "name": "Kavarna",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733474,
+        "name": "Banite",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730495,
+        "name": "Obshtina Kazanlŭk",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460836,
+        "name": "Polikraishhe",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728414,
+        "name": "Partizanin",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726359,
+        "name": "Trapoklovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727494,
+        "name": "Obshtina Ruzhintsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731770,
+        "name": "Obshtina Dve Mogili",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731897,
+        "name": "Druzhba",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728235,
+        "name": "Pishtigovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732284,
+        "name": "Obshtina Devin",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733423,
+        "name": "Batishnitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732481,
+        "name": "Cheshnegirovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459837,
+        "name": "Medovec",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864564,
+        "name": "Obshtina Primorsko",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727353,
+        "name": "Obshtina Septemvri",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728288,
+        "name": "Petrich",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728044,
+        "name": "Posabina",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727932,
+        "name": "Prolesha",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728674,
+        "name": "Obzor",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725890,
+        "name": "Vinarovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730799,
+        "name": "Kabile",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726872,
+        "name": "Dupnitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460826,
+        "name": "Khotnica",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731947,
+        "name": "Dragovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732200,
+        "name": "Dobri Voynikovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731414,
+        "name": "Obshtina Glavinitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725394,
+        "name": "Zgorigrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730776,
+        "name": "Kalchovska",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733043,
+        "name": "Borovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727337,
+        "name": "Sevlievo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864570,
+        "name": "Obshtina Stamboliyski",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731238,
+        "name": "Obshtina Gorna Malina",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726463,
+        "name": "Obshtina Teteven",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726727,
+        "name": "Strazhitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727831,
+        "name": "Obshtina Radomir",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727886,
+        "name": "Parvomay",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731187,
+        "name": "Gorno Draglishte",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731420,
+        "name": "Glavatar",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732871,
+        "name": "Obshtina Brezovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864565,
+        "name": "Obshtina Dobrich-Selska",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727079,
+        "name": "Sliven",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725639,
+        "name": "Varbovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726464,
+        "name": "Teteven",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732098,
+        "name": "Obshtina Dolni Dabnik",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733190,
+        "name": "Obshtina Blagoevgrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728108,
+        "name": "Pomorie",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733700,
+        "name": "Aleko Konstantinovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733221,
+        "name": "Biser",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725721,
+        "name": "Vranya",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732456,
+        "name": "Chiprovtsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733657,
+        "name": "Antonovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461586,
+        "name": "Selanovci",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728818,
+        "name": "Nevestino",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461658,
+        "name": "Govedarci",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726309,
+        "name": "Trudovets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731922,
+        "name": "Dren",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459299,
+        "name": "Staro selishhe",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864561,
+        "name": "Oblast Veliko Tarnovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725588,
+        "name": "Yakimovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728612,
+        "name": "Oreshak",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730577,
+        "name": "Karavelovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733461,
+        "name": "Obshtina Bansko",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727546,
+        "name": "Obshtina Ruen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733115,
+        "name": "Bogomilovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729467,
+        "name": "Lyubichevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732813,
+        "name": "Bukovlak",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729133,
+        "name": "Obshtina Mezdra",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461487,
+        "name": "Ostrec",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733722,
+        "name": "Ahtopol",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728704,
+        "name": "Obshtina Novo Selo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727522,
+        "name": "Obshtina Ruse",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727820,
+        "name": "Raduil",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728055,
+        "name": "Obshtina Pordim",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730073,
+        "name": "Kotel",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730981,
+        "name": "Obshtina Gulyantsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731463,
+        "name": "Obshtina General Toshevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731669,
+        "name": "Elkhovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728123,
+        "name": "Obshtina Polski Trambesh",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725505,
+        "name": "Yordan Yovkovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728193,
+        "name": "Plovdiv",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728540,
+        "name": "Osikovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731874,
+        "name": "Daben",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732162,
+        "name": "Dolen Bliznak",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731871,
+        "name": "Dabnitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725513,
+        "name": "Yoakim-Gruevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728899,
+        "name": "Muselievo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732915,
+        "name": "Bregovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726284,
+        "name": "Tsalapitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726885,
+        "name": "Obshtina Stambolovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864562,
+        "name": "Oblast Vidin",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461188,
+        "name": "Oborishhe",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728564,
+        "name": "Obshtina Oryahovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727232,
+        "name": "Obshtina Shumen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726140,
+        "name": "Obshtina Tutrakan",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733286,
+        "name": "Belovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459521,
+        "name": "Vurbovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461414,
+        "name": "Ilijno",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729466,
+        "name": "Lyubimets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732452,
+        "name": "Chirpan",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730087,
+        "name": "Kostievo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727598,
+        "name": "Roman",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730442,
+        "name": "Harmanli",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726747,
+        "name": "Obshtina Straldzha",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727030,
+        "name": "Smolyan",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728567,
+        "name": "Oryahovitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731929,
+        "name": "Drangovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733701,
+        "name": "Aldomirovtsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460393,
+        "name": "Dulboki",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725434,
+        "name": "Obshtina Zavet",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731498,
+        "name": "Gavril Genovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728726,
+        "name": "Novo Leski",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727175,
+        "name": "Sitovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731268,
+        "name": "Gorichevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725988,
+        "name": "Velingrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731626,
+        "name": "Etropole",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728477,
+        "name": "Ovoshtnik",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729854,
+        "name": "Krushuna",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729579,
+        "name": "Obshtina Lom",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731523,
+        "name": "Gara Elin Pelin",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731612,
+        "name": "Ezerovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732636,
+        "name": "Chelopech",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733656,
+        "name": "Obshtina Antonovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460887,
+        "name": "Kozlovec",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731103,
+        "name": "Govedartsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730680,
+        "name": "Kameno",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726019,
+        "name": "Vazovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726547,
+        "name": "Svidnya",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727174,
+        "name": "Obshtina Sitovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732794,
+        "name": "Balgarski Izvor",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730264,
+        "name": "Kochmar",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730367,
+        "name": "Kilifarevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729488,
+        "name": "Obshtina Lyaskovets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461064,
+        "name": "Skalna glava",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730982,
+        "name": "Gulyantsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725679,
+        "name": "Valchidol",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731873,
+        "name": "Dabene",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729465,
+        "name": "Obshtina Lyubimets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726262,
+        "name": "Tsar Ferdinand",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729179,
+        "name": "Medeni Polyani",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729975,
+        "name": "Krasen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726419,
+        "name": "Oblast Dobrich",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730478,
+        "name": "Kermen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726163,
+        "name": "Tarnava",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728955,
+        "name": "Moskovets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726040,
+        "name": "Varvara",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728199,
+        "name": "Pliska",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726085,
+        "name": "Ustrem",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728524,
+        "name": "Ostrets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6956552,
+        "name": "Асенова махала",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728177,
+        "name": "Podayva",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732973,
+        "name": "Boynitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730818,
+        "name": "Izvor",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460037,
+        "name": "Zornica",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727800,
+        "name": "Obshtina Rakitovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727696,
+        "name": "Razgrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729825,
+        "name": "Kula",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725395,
+        "name": "Zgalevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732825,
+        "name": "Buhovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727221,
+        "name": "Silistra",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733119,
+        "name": "Bogolin",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725401,
+        "name": "Obshtina Zemen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732937,
+        "name": "Branipole",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728321,
+        "name": "Perushtitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728053,
+        "name": "Porominovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728565,
+        "name": "Oryahovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731067,
+        "name": "Gradnitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729708,
+        "name": "Latinka",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460370,
+        "name": "Dolno Sakhrane",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728348,
+        "name": "Iskar",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726723,
+        "name": "Strelcha",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726630,
+        "name": "Sumer",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732233,
+        "name": "Divotino",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726245,
+        "name": "Tsenovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460055,
+        "name": "Krumovo gradishhe",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731104,
+        "name": "Govedare",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730650,
+        "name": "Obshtina Kaolinovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725289,
+        "name": "Zlatina",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726060,
+        "name": "Vankovtsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732114,
+        "name": "Dolna Studena",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729661,
+        "name": "Leskovdol",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730361,
+        "name": "Kirchevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733165,
+        "name": "Bliznatsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730836,
+        "name": "Obshtina Ivaylovgrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864573,
+        "name": "Obshtina Chavdar",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730127,
+        "name": "Kosharna",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732369,
+        "name": "Daveri",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725816,
+        "name": "Sveti Vlas",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733347,
+        "name": "Beli Breg",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731695,
+        "name": "Obshtina Elena",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733669,
+        "name": "Anevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727640,
+        "name": "Riben",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725271,
+        "name": "Zlatograd",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727086,
+        "name": "Slavyantsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725935,
+        "name": "Vetovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727212,
+        "name": "Simitli",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728995,
+        "name": "Momchilgrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459170,
+        "name": "Velkovci",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459400,
+        "name": "Beli Osum",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729099,
+        "name": "Miladinovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731809,
+        "name": "Dunavtsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732353,
+        "name": "Debnevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729985,
+        "name": "Kran",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728736,
+        "name": "Novi Han",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460767,
+        "name": "Mirovci",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730918,
+        "name": "Ihtiman",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731241,
+        "name": "Gorna Luka",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725749,
+        "name": "Voyvodinovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727217,
+        "name": "Simeonovgrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732516,
+        "name": "Obshtina Chernoochene",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732984,
+        "name": "Obshtina Boychinovtsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733308,
+        "name": "Obshtina Belogradchik",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728734,
+        "name": "Novi Pazar",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728825,
+        "name": "Nesebar",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733153,
+        "name": "Boboshevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733090,
+        "name": "Obshtina Bolyarovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727597,
+        "name": "Obshtina Roman",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725587,
+        "name": "Obshtina Yakimovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731696,
+        "name": "Elena",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730627,
+        "name": "Karabunar",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729123,
+        "name": "Obshtina Tsarevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725578,
+        "name": "Yambol",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732805,
+        "name": "Balgarene",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733359,
+        "name": "Belene",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730332,
+        "name": "Kitka",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726657,
+        "name": "Saedinenie",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726878,
+        "name": "Stanchevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729845,
+        "name": "Krastina",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728548,
+        "name": "Osetenovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730542,
+        "name": "Kaspichan",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728792,
+        "name": "Nikolaevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725230,
+        "name": "Zverino",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727859,
+        "name": "Radanovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728157,
+        "name": "Podrvrah",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725404,
+        "name": "Zelenikovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727440,
+        "name": "Obshtina Sapareva Banya",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728297,
+        "name": "Petleshkovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732359,
+        "name": "Debelets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733513,
+        "name": "Obshtina Balchik",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459904,
+        "name": "Dubene",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460618,
+        "name": "Gostilica",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727195,
+        "name": "Sinitovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725709,
+        "name": "Vrajdebna",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729552,
+        "name": "Lovsko",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728361,
+        "name": "Pchelishte",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459184,
+        "name": "Batanovci",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460307,
+        "name": "Kojnare",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726692,
+        "name": "Obshtina Strumyani",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733638,
+        "name": "Ardino",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729155,
+        "name": "Melyane",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727447,
+        "name": "Sandanski",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726028,
+        "name": "Vasil Levski",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729670,
+        "name": "Lesiche",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864575,
+        "name": "Obshtina Pirdop",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459630,
+        "name": "Gorno Draglishhe",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730699,
+        "name": "Kamenets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732861,
+        "name": "Obshtina Brusartsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728631,
+        "name": "Opaka",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729558,
+        "name": "Obshtina Lovech",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731059,
+        "name": "Gradat",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732099,
+        "name": "Dolni Dabnik",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733649,
+        "name": "Apriltsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730425,
+        "name": "Hayredin",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729543,
+        "name": "Lozen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727023,
+        "name": "Obshtina Smyadovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461455,
+        "name": "Kovachevec",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727211,
+        "name": "Obshtina Simitli",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460944,
+        "name": "Chakalci",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733322,
+        "name": "Belitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725993,
+        "name": "Veliko Tŭrnovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728353,
+        "name": "Pehlivantsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729936,
+        "name": "Krichim",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732515,
+        "name": "Chernook",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864566,
+        "name": "Obshtina Hayredin",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461141,
+        "name": "Medeni poljani",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733426,
+        "name": "Batin",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726287,
+        "name": "Tryavna",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732451,
+        "name": "Obshtina Chirpan",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731464,
+        "name": "General Toshevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731207,
+        "name": "Gorni Kray",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731996,
+        "name": "Dragalevtsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731961,
+        "name": "Dragoman",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725283,
+        "name": "Zlatitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729646,
+        "name": "Letnitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731519,
+        "name": "Obshtina Hitrino",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732132,
+        "name": "Dolna Kremena",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725554,
+        "name": "Yarebitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726398,
+        "name": "Topoli",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728451,
+        "name": "Pamidovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726791,
+        "name": "Stob",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729994,
+        "name": "Kraishte",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461406,
+        "name": "Ljubichevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461578,
+        "name": "Krushovica",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732882,
+        "name": "Obshtina Breznik",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461235,
+        "name": "Nikolichevci",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727288,
+        "name": "Shipkovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731668,
+        "name": "Obshtina Elhovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727422,
+        "name": "Obshtina Satovcha",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459586,
+        "name": "Musomishha",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725551,
+        "name": "Yarlovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461620,
+        "name": "Golema Rakovica",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727657,
+        "name": "Resen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733264,
+        "name": "Berkovitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733587,
+        "name": "Avren",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727129,
+        "name": "Skutare",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727394,
+        "name": "Sekulovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726174,
+        "name": "Targovishte",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733623,
+        "name": "Asen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727087,
+        "name": "Slavyanovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728782,
+        "name": "Nikopol",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732900,
+        "name": "Brestovene",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461525,
+        "name": "Beli izvor",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729114,
+        "name": "Montana",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728141,
+        "name": "Polikrayshte",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732015,
+        "name": "Dospat",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727919,
+        "name": "Obshtina Provadia",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728709,
+        "name": "Novo Selo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731670,
+        "name": "Elhovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730103,
+        "name": "Kostandovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459918,
+        "name": "Moskovec",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729040,
+        "name": "Mizia",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729880,
+        "name": "Krushari",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725435,
+        "name": "Zavet",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732986,
+        "name": "Boychinovtsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727460,
+        "name": "Samoranovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733640,
+        "name": "Arda",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729159,
+        "name": "Melnik",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729428,
+        "name": "Madzharovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730395,
+        "name": "Hristo-Danovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726533,
+        "name": "Obshtina Svishtov",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731548,
+        "name": "Obshtina Gabrovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461539,
+        "name": "Tri kladenci",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732898,
+        "name": "Brestovitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727752,
+        "name": "Ravna",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726055,
+        "name": "Vardim",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733578,
+        "name": "Obshtina Aytos",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728347,
+        "name": "Obshtina Iskar",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728634,
+        "name": "Omurtag",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730035,
+        "name": "Kozar Belene",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459923,
+        "name": "Vojvodinovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725334,
+        "name": "Zhizhevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461038,
+        "name": "Glukhar",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731023,
+        "name": "Gromshin",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727787,
+        "name": "Obshtina Rakovski",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732953,
+        "name": "Obshtina Bozhurishte",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730158,
+        "name": "Obshtina Koprivshtitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733330,
+        "name": "Beli Osŭm",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727066,
+        "name": "Obshtina Slivo Pole",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727523,
+        "name": "Ruse",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729113,
+        "name": "Obshtina Montana",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728675,
+        "name": "Obruchishte",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725904,
+        "name": "Obshtina Vidin",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733151,
+        "name": "Bobov Dol",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461146,
+        "name": "Surnica",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730900,
+        "name": "Iliyno",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726189,
+        "name": "Tulovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727354,
+        "name": "Septemvri",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733014,
+        "name": "Botevgrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729889,
+        "name": "Krumovo Gradishte",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729979,
+        "name": "Krapets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730840,
+        "name": "Ivan-Vazovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729064,
+        "name": "Mirkovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731740,
+        "name": "Obshtina Dzhebel",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864553,
+        "name": "Oblast Kardzhali",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727187,
+        "name": "Sipets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460134,
+        "name": "Chernomorec",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730280,
+        "name": "Knyazhevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732591,
+        "name": "Cherkovitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727921,
+        "name": "Provadia",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726474,
+        "name": "Tervel",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727838,
+        "name": "Radnevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461627,
+        "name": "Novi khan",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460293,
+        "name": "Slavjanovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461674,
+        "name": "Jarlovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728927,
+        "name": "Obshtina Maglizh",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730012,
+        "name": "Obshtina Kozloduy",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733653,
+        "name": "Aprilovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732920,
+        "name": "Bratya Daskalovi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727393,
+        "name": "Selanovtsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728330,
+        "name": "Pernik",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732499,
+        "name": "Chervena",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727884,
+        "name": "Parvomaytsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727069,
+        "name": "Slivnitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728192,
+        "name": "Obshtina Plovdiv",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730795,
+        "name": "Kableshkovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728195,
+        "name": "Ploski",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732924,
+        "name": "Bratsigovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730415,
+        "name": "Tsar Kaloyan",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460406,
+        "name": "Orjakhovica",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730128,
+        "name": "Kosharitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730414,
+        "name": "Obshtina Tsar Kaloyan",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726070,
+        "name": "Vakarel",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728204,
+        "name": "Oblast Pleven",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732942,
+        "name": "Bradvari",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732519,
+        "name": "Chernomorets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726719,
+        "name": "Strelets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725584,
+        "name": "Yakovitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726917,
+        "name": "Obshtina Zlatitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727760,
+        "name": "Ravadinovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461714,
+        "name": "Bukhovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725992,
+        "name": "Obshtina Veliko Tŭrnovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729322,
+        "name": "Malko Tarnovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725841,
+        "name": "Vladaya",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733358,
+        "name": "Obshtina Belene",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728329,
+        "name": "Obshtina Pernik",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729174,
+        "name": "Medkovets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725712,
+        "name": "Vratsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729206,
+        "name": "Matsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727291,
+        "name": "Shipka",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731457,
+        "name": "Obshtina Georgi Damyanovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732800,
+        "name": "Republic of Bulgaria",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461223,
+        "name": "Bagrenci",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726590,
+        "name": "Obshtina Suvorovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727941,
+        "name": "Profesor Ishirkovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728074,
+        "name": "Obshtina Popovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727029,
+        "name": "Obshtina Smolyan",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728378,
+        "name": "Pazardzhik",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728389,
+        "name": "Pavel Banya",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729519,
+        "name": "Ladzhene",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733150,
+        "name": "Obshtina Bobov Dol",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460071,
+        "name": "Kosharica",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731015,
+        "name": "Obshtina Sredets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461265,
+        "name": "Jagodina",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729730,
+        "name": "Kyustendil",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728737,
+        "name": "Novi Iskar",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730489,
+        "name": "Kazichene",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728340,
+        "name": "Pepelishte",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726523,
+        "name": "Obshtina Svoge",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864569,
+        "name": "Obshtina Krichim",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864576,
+        "name": "Obshtina Anton",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459222,
+        "name": "Bukovec",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729774,
+        "name": "Kurtovo Konare",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730337,
+        "name": "Kiten",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726310,
+        "name": "Trud",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731088,
+        "name": "Gradevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733055,
+        "name": "Borovets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726847,
+        "name": "Obshtina Stara Zagora",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733057,
+        "name": "Obshtina Borovan",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728553,
+        "name": "Osenovlag",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729134,
+        "name": "Mezdra",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732138,
+        "name": "Dolna Gradeshnitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728840,
+        "name": "Nedyalsko",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726890,
+        "name": "Stamboliyski",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730571,
+        "name": "Kardam",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460952,
+        "name": "Dzherovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461287,
+        "name": "Starcevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728397,
+        "name": "Patalenitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732770,
+        "name": "Burgas",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733289,
+        "name": "Belovets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731757,
+        "name": "Dyankovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864559,
+        "name": "Oblast Stara Zagora",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864600,
+        "name": "Obshtina Madzharovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732145,
+        "name": "Dolna Banya",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460832,
+        "name": "Dolna Orjakhovica",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728676,
+        "name": "Obrochishte",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733273,
+        "name": "Benkovski",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732718,
+        "name": "Obshtina Byala",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725428,
+        "name": "Zaychar",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733550,
+        "name": "Bachkovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727134,
+        "name": "Skrinyano",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460165,
+        "name": "Sturmen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864568,
+        "name": "Obshtina Perushtitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726050,
+        "name": "Varna",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728032,
+        "name": "Potop",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726144,
+        "name": "Taran",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729380,
+        "name": "Malina",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733431,
+        "name": "Obshtina Batak",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728241,
+        "name": "Pisarevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728106,
+        "name": "Obshtina Pomorie",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730286,
+        "name": "Obshtina Knezha",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864557,
+        "name": "Oblast Sliven",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726612,
+        "name": "Sarnitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729073,
+        "name": "Mineralni Bani",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730072,
+        "name": "Obshtina Kotel",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864560,
+        "name": "Oblast Targovishte",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459784,
+        "name": "Ljuben Karavelovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733617,
+        "name": "Obshtina Asenovgrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729248,
+        "name": "Marchevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725928,
+        "name": "Vetren",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728016,
+        "name": "Pravda",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726381,
+        "name": "Topolovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728124,
+        "name": "Polski Trambesh",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728448,
+        "name": "Panagyurishte",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726534,
+        "name": "Svishtov",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460811,
+        "name": "Debelec",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732490,
+        "name": "Obshtina Cherven Bryag",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459335,
+        "name": "Djankovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460935,
+        "name": "Mishevsko",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731453,
+        "name": "Dolni Chiflik",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725407,
+        "name": "Zelenika",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727150,
+        "name": "Sklave",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726721,
+        "name": "Obshtina Strelcha",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729439,
+        "name": "Madan",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726725,
+        "name": "Obshtina Strazhitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726871,
+        "name": "Obshtina Dupnitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726991,
+        "name": "Sokolovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729792,
+        "name": "Obshtina Kardzhali",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729321,
+        "name": "Obshtina Malko Tarnovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459895,
+        "name": "Ivan Vazovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729919,
+        "name": "Krivina",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730651,
+        "name": "Kaolinovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732118,
+        "name": "Dolna Oryahovitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460098,
+        "name": "Zajchar",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728827,
+        "name": "Neofit Rilski",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731837,
+        "name": "Dalboki",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726963,
+        "name": "Sozopol",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732107,
+        "name": "Dolni Bogrov",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732144,
+        "name": "Obshtina Dolna Banya",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728011,
+        "name": "Pravets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731426,
+        "name": "Glava",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730910,
+        "name": "Ilinden",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729838,
+        "name": "Obshtina Kubrat",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733069,
+        "name": "Borima",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733447,
+        "name": "Barakovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727098,
+        "name": "Slavovitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728591,
+        "name": "Orizovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726469,
+        "name": "Terziysko",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726643,
+        "name": "Suhindol",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726693,
+        "name": "Strumyani",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727233,
+        "name": "Shumen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461171,
+        "name": "Ognjanovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729581,
+        "name": "Lom",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731564,
+        "name": "Gabrene",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730540,
+        "name": "Obshtina Kaspichan",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728075,
+        "name": "Popovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728633,
+        "name": "Obshtina Omurtag",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864599,
+        "name": "Obshtina Nikolaevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733058,
+        "name": "Borovan",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725586,
+        "name": "Yakoruda",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460854,
+        "name": "Bjala cherkva",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726128,
+        "name": "Obshtina Tvarditsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732769,
+        "name": "Obshtina Burgas",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729054,
+        "name": "Mirovtsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730752,
+        "name": "Kalipetrovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730864,
+        "name": "Isperihovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729942,
+        "name": "Kresna",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727693,
+        "name": "Obshtina Razgrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726804,
+        "name": "Stefan Karadzha",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726176,
+        "name": "Turchinovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731520,
+        "name": "Gara Hitrino",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730564,
+        "name": "Obshtina Karlovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731013,
+        "name": "Gruevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727246,
+        "name": "Shtraklevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733067,
+        "name": "Borino",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728614,
+        "name": "Oresh",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732617,
+        "name": "Obshtina Chepelare",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731232,
+        "name": "Obshtina Gorna Oryahovitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460173,
+        "name": "Batishnica",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727801,
+        "name": "Rakitovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729857,
+        "name": "Krushovitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729547,
+        "name": "Lozarevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731056,
+        "name": "Gramada",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730355,
+        "name": "Kirkovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730266,
+        "name": "Kochevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864572,
+        "name": "Obshtina Mirkovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461699,
+        "name": "Murchaevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727216,
+        "name": "Obshtina Simeonovgrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730837,
+        "name": "Ivaylovgrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726434,
+        "name": "Tochilari",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461246,
+        "name": "Ovcharci",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732164,
+        "name": "Dolen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728202,
+        "name": "Obshtina Pleven",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6355004,
+        "name": "Zlatni Pyasatsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729335,
+        "name": "Malko Kadievo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727423,
+        "name": "Satovcha",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728630,
+        "name": "Obshtina Opaka",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729635,
+        "name": "Obshtina Levski",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730640,
+        "name": "Kapitan-Dimitrievo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725713,
+        "name": "Oblast Vratsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726670,
+        "name": "Starmen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727434,
+        "name": "Sarafovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730865,
+        "name": "Obshtina Isperih",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731036,
+        "name": "Grashevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728084,
+        "name": "Popkralevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728415,
+        "name": "Partizani",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730267,
+        "name": "Obshtina Kocherinovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733433,
+        "name": "Batak",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461607,
+        "name": "Trudovec",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727656,
+        "name": "Resilovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733295,
+        "name": "Belopoptsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725644,
+        "name": "Obshtina Varbitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726548,
+        "name": "Svezhen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727632,
+        "name": "Ribnovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730353,
+        "name": "Obshtina Kirkovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730512,
+        "name": "Kavrakirovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725683,
+        "name": "Valchedram",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729145,
+        "name": "Mesta",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727951,
+        "name": "Prisovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729260,
+        "name": "Manolsko Konare",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725987,
+        "name": "Obshtina Velingrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729698,
+        "name": "Ledenik",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730273,
+        "name": "Kochan",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732335,
+        "name": "Dekov",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729650,
+        "name": "Lesovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730419,
+        "name": "Hisarya",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729244,
+        "name": "Marikostinovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731355,
+        "name": "Golemo Buchino",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732199,
+        "name": "Dobrodan",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726409,
+        "name": "Tonchevtsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731400,
+        "name": "Glogovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459611,
+        "name": "Kurnalovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733648,
+        "name": "Obshtina Apriltsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728923,
+        "name": "Rupite",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459565,
+        "name": "Kraishhe",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727479,
+        "name": "Sadovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459621,
+        "name": "Skrut",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461172,
+        "name": "Patalenica",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727345,
+        "name": "Sestrimo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726591,
+        "name": "Suvorovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461356,
+        "name": "Kamenec",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729824,
+        "name": "Obshtina Kula",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730851,
+        "name": "Obshtina Ivanovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728111,
+        "name": "Polyatsite",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732356,
+        "name": "Debelt",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726628,
+        "name": "Obshtina Sungurlare",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728251,
+        "name": "Pirdop",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461049,
+        "name": "Makedonci",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461132,
+        "name": "Isperikhovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 453753,
+        "name": "Oblast Montana",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730616,
+        "name": "Karaisen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728472,
+        "name": "Padesh",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727439,
+        "name": "Saparevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729984,
+        "name": "Kranevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730744,
+        "name": "Kalofer",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726863,
+        "name": "Stara Kresna",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731121,
+        "name": "Gorunaka",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731621,
+        "name": "Evlogievo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733581,
+        "name": "Aydemir",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730463,
+        "name": "Hadzhidimovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460838,
+        "name": "Purvomajci",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729169,
+        "name": "Medovets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733152,
+        "name": "Obshtina Boboshevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730590,
+        "name": "Karapelit",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459272,
+        "name": "Dolno Cerovene",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730009,
+        "name": "Kozlovets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728815,
+        "name": "Obshtina Nevestino",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459916,
+        "name": "Khristo Danovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726679,
+        "name": "Studenets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729665,
+        "name": "Lesidren",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730852,
+        "name": "Ivanovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729884,
+        "name": "Krupnik",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730517,
+        "name": "Obshtina Kavarna",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727455,
+        "name": "Samuil",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730084,
+        "name": "Kostinbrod",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864556,
+        "name": "Oblast Silistra",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725213,
+        "name": "Beloslav",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725829,
+        "name": "Vladislav",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460281,
+        "name": "Bukovluk",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733473,
+        "name": "Obshtina Banite",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725623,
+        "name": "Varshets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728850,
+        "name": "Obshtina Nedelino",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732559,
+        "name": "Cherniche",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731674,
+        "name": "Obshtina Elin Pelin",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726172,
+        "name": "Obshtina Targovishte",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726629,
+        "name": "Sungurlare",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727445,
+        "name": "Sandrovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461309,
+        "name": "Plovdivci",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461611,
+        "name": "Belopopci",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733309,
+        "name": "Belogradchik",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728693,
+        "name": "Obedinenie",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728286,
+        "name": "Obshtina Petrich",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730559,
+        "name": "Karnobat",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733001,
+        "name": "Bov",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728683,
+        "name": "Oborishte",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459964,
+        "name": "Brestovica",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726845,
+        "name": "Starchevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730441,
+        "name": "Obshtina Harmanli",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731549,
+        "name": "Gabrovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728784,
+        "name": "Nikolovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730434,
+        "name": "Obshtina Haskovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6458935,
+        "name": "Obshtina Sopot",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733013,
+        "name": "Obshtina Botevgrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459839,
+        "name": "Poljacite",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732796,
+        "name": "Balgarovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727025,
+        "name": "Smyadovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461128,
+        "name": "Momina klisura",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730733,
+        "name": "Kaloyanovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727450,
+        "name": "Samuilovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733637,
+        "name": "Obshtina Ardino",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728739,
+        "name": "Novgrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730502,
+        "name": "Obshtina Kaynardzha",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728787,
+        "name": "Nikolichevtsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733480,
+        "name": "Banevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726383,
+        "name": "Obshtina Topolovgrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725967,
+        "name": "Venets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727329,
+        "name": "Shabla",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727688,
+        "name": "Obshtina Razlog",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459745,
+        "name": "Ajdemir",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732745,
+        "name": "Busmantsi",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728384,
+        "name": "Obshtina Pavlikeni",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733315,
+        "name": "Obshtina Belitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730407,
+        "name": "Hotnitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729666,
+        "name": "Obshtina Lesichovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459740,
+        "name": "Jarebica",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727220,
+        "name": "Obshtina Silistra",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731675,
+        "name": "Elin Pelin",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731816,
+        "name": "Obshtina Dulovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733208,
+        "name": "Bistritsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726306,
+        "name": "Tran",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727627,
+        "name": "Obshtina Rila",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731771,
+        "name": "Dve Mogili",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733020,
+        "name": "Bosnek",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 864601,
+        "name": "Obshtina Tundzha",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732703,
+        "name": "Obshtina Byala Slatina",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725402,
+        "name": "Zemen",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733579,
+        "name": "Aytos",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732723,
+        "name": "Byaga",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6458974,
+        "name": "Stolichna Obshtina",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460096,
+        "name": "Duskotna",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726546,
+        "name": "Svilengrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731038,
+        "name": "Granitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730679,
+        "name": "Obshtina Kameno",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725943,
+        "name": "Veselinovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6459559,
+        "name": "Dobrinishhe",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725622,
+        "name": "Obshtina Varshets",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733092,
+        "name": "Bolyarovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728169,
+        "name": "Podgumer",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460186,
+        "name": "Shhruklevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 453751,
+        "name": "Oblast Razgrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725649,
+        "name": "Varbitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 733716,
+        "name": "Aksakovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6460039,
+        "name": "Krustina",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728994,
+        "name": "Obshtina Momchilgrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726485,
+        "name": "Temnisko",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727668,
+        "name": "Redina",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461327,
+        "name": "Turun",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728660,
+        "name": "Ognyanovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 725608,
+        "name": "Obshtina Yablanitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 730308,
+        "name": "Kliment",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 728440,
+        "name": "Pancharevo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 731625,
+        "name": "Obshtina Etropole",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 727059,
+        "name": "Slokoshtitsa",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461173,
+        "name": "Pishhigovo",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 6461522,
+        "name": "Turnava",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 729839,
+        "name": "Kubrat",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 732263,
+        "name": "Dimitrovgrad",
+        "state": "",
+        "country": "BG"
+    },
+    {
+        "id": 726319,
+        "name": "Obshtina Troyan",
+        "state": "",
+        "country": "BG"
+    }
+]

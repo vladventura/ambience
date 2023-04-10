@@ -1,0 +1,3260 @@
+[
+    {
+        "id": 1178456,
+        "name": "Ghotki",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1170706,
+        "name": "Mastung",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1107346,
+        "name": "Abbas Kili",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1164970,
+        "name": "Shujaabad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168307,
+        "name": "Pasrur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1167342,
+        "name": "Rajo Khanani",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1162868,
+        "name": "Usta Muhammad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1166381,
+        "name": "Sakrand",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1180787,
+        "name": "Daggar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1161983,
+        "name": "Rawala Kot",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1172513,
+        "name": "Lachi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1183460,
+        "name": "Bannu",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1184330,
+        "name": "Ārya",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179061,
+        "name": "Gambat",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1397479,
+        "name": "Dera Murad Jamali",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1166164,
+        "name": "Sanghar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1174408,
+        "name": "Khadro",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168749,
+        "name": "Nushki",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1182577,
+        "name": "Bhopalwala",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1181096,
+        "name": "Chiniot",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1330650,
+        "name": "Badduki",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1184752,
+        "name": "Akora",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1169116,
+        "name": "Nawabshah",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1170157,
+        "name": "Model Town",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1174220,
+        "name": "Khanewal",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1180809,
+        "name": "Dadu",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1166827,
+        "name": "Rohri",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1339742,
+        "name": "Gulishah Kach",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1173687,
+        "name": "Khushāb",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1182872,
+        "name": "Bhag",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1386385,
+        "name": "Saiyidan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1163965,
+        "name": "Tando Allahyar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1185056,
+        "name": "Abbottabad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 7101573,
+        "name": "Dhok Halyan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1169278,
+        "name": "Narowal",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1413746,
+        "name": "Sawan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1170219,
+        "name": "Mithi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1336755,
+        "name": "Mari Bazar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1164987,
+        "name": "Shorkot",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 7634835,
+        "name": "Bindor",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179724,
+        "name": "Doaba",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175012,
+        "name": "Kandiari",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1167386,
+        "name": "Raja Jang",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1330335,
+        "name": "Jhang City",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1176035,
+        "name": "Jatoi Shimali",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1166118,
+        "name": "Sanjwal",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1393797,
+        "name": "Kasi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1164896,
+        "name": "Sibi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1178841,
+        "name": "Garh Maharaja",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1176800,
+        "name": "Hujra Shah Muqim",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1448637,
+        "name": "Risalpur Cantonment",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168700,
+        "name": "Ormara",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1167579,
+        "name": "Qila Abdullah",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1183018,
+        "name": "Begowala",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179902,
+        "name": "Dhoro Naro",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1162738,
+        "name": "Wah",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1176229,
+        "name": "Jamshoro",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1162275,
+        "name": "Zahir Pir",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1337336,
+        "name": "Chibwari",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1453226,
+        "name": "Noorabad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179346,
+        "name": "Faruka",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1177662,
+        "name": "Gujranwala",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1174074,
+        "name": "Karak",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175678,
+        "name": "Johi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1176608,
+        "name": "Islamkot",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1169372,
+        "name": "Nankana Sahib",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168197,
+        "name": "Peshawar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168077,
+        "name": "Pirahin Tok",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1163968,
+        "name": "Tandlianwala",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1399489,
+        "name": "Ziarat Shah-i-Mardan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1410796,
+        "name": "Chowki Jamali",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175453,
+        "name": "Kahna Nau",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1180454,
+        "name": "Darya Khan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1172128,
+        "name": "Larkana",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1180825,
+        "name": "Dadhar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1170312,
+        "name": "Miro Khan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1166000,
+        "name": "Sargodha",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1177654,
+        "name": "Gujrat",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179450,
+        "name": "Dunyapur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179030,
+        "name": "Gandava",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1183883,
+        "name": "Bahawalnagar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175892,
+        "name": "Jhang Sadr",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1176832,
+        "name": "Hoshab",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1166547,
+        "name": "Sahiwal",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1164216,
+        "name": "Swabi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1170013,
+        "name": "Moro",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179757,
+        "name": "Upper Dir",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1182295,
+        "name": "Bozdar Wada",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1178954,
+        "name": "Ganz",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1183880,
+        "name": "Bahawalpur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1177384,
+        "name": "Hafizabad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1166231,
+        "name": "Samungli",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1184701,
+        "name": "Aliabad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 7041388,
+        "name": "Abdullahabad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1165486,
+        "name": "Shahr Sultan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1173889,
+        "name": "Khipro",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1180339,
+        "name": "Dehpalal",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1180491,
+        "name": "Daromehar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1169143,
+        "name": "Naushahro Firoz",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1177278,
+        "name": "Hala",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1337368,
+        "name": "Akil Iomak",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1173055,
+        "name": "Kotli",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1162862,
+        "name": "Uthal",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1177107,
+        "name": "Haripur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175297,
+        "name": "Kalaswala",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1163964,
+        "name": "Tando Bago",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1169254,
+        "name": "Nasirabad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1183992,
+        "name": "Bagh",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 7649128,
+        "name": "Nazir Town",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1180295,
+        "name": "Dera Bugti",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1166275,
+        "name": "Samaro",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179951,
+        "name": "Dhok Mangtal",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1412008,
+        "name": "Setharja Old",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1178843,
+        "name": "Garhiyasin",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1182665,
+        "name": "Bhera",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1339510,
+        "name": "Jammun",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1164076,
+        "name": "Thal",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168412,
+        "name": "Pano Aqil",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175156,
+        "name": "Kamalia",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1163953,
+        "name": "Tando Mitha Khan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1382461,
+        "name": "Chak Two Hundred Thirty-one Rakh Branch",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1403734,
+        "name": "Jām Sāhib",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1180942,
+        "name": "Chunian",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168555,
+        "name": "Pakpattan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1170425,
+        "name": "Mianwali",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1169605,
+        "name": "Muzaffargarh",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168718,
+        "name": "Okara",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1182829,
+        "name": "Mianke Mor",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1163958,
+        "name": "Tando Jam",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1340375,
+        "name": "Shakai",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175088,
+        "name": "Kamoke",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1174870,
+        "name": "Karāchi District",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1171502,
+        "name": "Mailsi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179185,
+        "name": "Gadani",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1171123,
+        "name": "Mandi Bahauddin",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168633,
+        "name": "Paharpur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1184249,
+        "name": "Attock City",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168399,
+        "name": "Goth Nabi Bakhsh Panhwar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1174451,
+        "name": "Keti Bandar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1171965,
+        "name": "Lodhran",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1182607,
+        "name": "Bhit Shah",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1165635,
+        "name": "Shahdadpur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1180752,
+        "name": "Dajal",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 7427390,
+        "name": "Dasu",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1337108,
+        "name": "Ziarat Shah Jawan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168579,
+        "name": "Islamic Republic of Pakistan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168166,
+        "name": "Phalia",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175125,
+        "name": "Kamar Mushani",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1176303,
+        "name": "Jamak",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179837,
+        "name": "Digri",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1162285,
+        "name": "Zafarwal",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1166146,
+        "name": "Sangla Hill",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1357699,
+        "name": "New Bādāh",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1181636,
+        "name": "Chakwal",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1177073,
+        "name": "Harunabad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1171868,
+        "name": "Loralai",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1162015,
+        "name": "Islamabad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1178858,
+        "name": "Garhi Khairo",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1181407,
+        "name": "Isa Bazar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1336514,
+        "name": "Log Mulla Qadar Bakhsh",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1181053,
+        "name": "Choa Saidan Shah",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1162316,
+        "name": "Yazman",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 6949083,
+        "name": "Basti Dosa",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1177446,
+        "name": "Gwadar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1169027,
+        "name": "New Mirpur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175180,
+        "name": "Kalur Kot",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168446,
+        "name": "Panjgur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1162589,
+        "name": "Warah",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1167031,
+        "name": "Ratodero",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1180283,
+        "name": "Derai Baba",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175712,
+        "name": "Jiwani",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1167550,
+        "name": "Qila Saifullah",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1167648,
+        "name": "Qadirpur Ran",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1174867,
+        "name": "Karachi Lines",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1336379,
+        "name": "Nigor",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1162456,
+        "name": "Wazirabad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1170974,
+        "name": "Mankera",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1176022,
+        "name": "Jauharabad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1164807,
+        "name": "Sindh",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1170880,
+        "name": "Mardan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1173692,
+        "name": "Khurrianwala",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1411140,
+        "name": "Bahawalpur Ghallu",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1166720,
+        "name": "Rustam",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1162035,
+        "name": "Adilpur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 7043574,
+        "name": "Iqbal Camp",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1180071,
+        "name": "Dhaunkal",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1173272,
+        "name": "Kot Ghulam Muhammad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1176241,
+        "name": "Jampur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 8224628,
+        "name": "Amirabad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1336786,
+        "name": "Kārez",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1381523,
+        "name": "Mianapura Khurd",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1170395,
+        "name": "Mingora",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175365,
+        "name": "Kalabagh",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1162959,
+        "name": "Umarkot",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1178902,
+        "name": "Goth Garelo",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1165955,
+        "name": "Sarikoran",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1174167,
+        "name": "Khanpur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1342787,
+        "name": "Dal",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1177682,
+        "name": "Gujar Khan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1164306,
+        "name": "Surab",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1174344,
+        "name": "Khairpur Nathan Shah",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179305,
+        "name": "Chak Two Hundred Forty-nine Thal Development Authority",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1176358,
+        "name": "Jalalpur Pirwala",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1165518,
+        "name": "Shahpur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168042,
+        "name": "Pind",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1111188,
+        "name": "Timargara",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1164064,
+        "name": "Talamba",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1171165,
+        "name": "Mananwala",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1180374,
+        "name": "Daur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168101,
+        "name": "Goth Phulji",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1178560,
+        "name": "Ghauspur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1169825,
+        "name": "Multan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1342999,
+        "name": "Surtagan Pass",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175446,
+        "name": "Kahror Pakka",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1183606,
+        "name": "Balochistan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1337123,
+        "name": "Gondi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1172964,
+        "name": "Kot Mumin",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1173025,
+        "name": "Kotli Loharan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175506,
+        "name": "Kadhan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175296,
+        "name": "Kalat",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1174217,
+        "name": "Khangah Dogran",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1182953,
+        "name": "Berani",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1176862,
+        "name": "Hirok",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1352874,
+        "name": "Shamshai",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1333002,
+        "name": "Tahsil",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1163021,
+        "name": "Ubauro",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1356491,
+        "name": "Ahmadpur Sial",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179758,
+        "name": "Diplo",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179406,
+        "name": "Eminabad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1176368,
+        "name": "Jalalpur Jattan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1336846,
+        "name": "Niami Kalag",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1180757,
+        "name": "Daira Din Panah",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1170295,
+        "name": "Mirpur Khas",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1180133,
+        "name": "Dhanot",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1174094,
+        "name": "Khapalu",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1183224,
+        "name": "Basirpur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1165108,
+        "name": "Shikarpur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1172993,
+        "name": "Kot Malik Barkhurdar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1176948,
+        "name": "Hazro City",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1180397,
+        "name": "Daulatpur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1172295,
+        "name": "Lalian",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1170667,
+        "name": "Matli",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1181065,
+        "name": "Chitral",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1163927,
+        "name": "Tangi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1169334,
+        "name": "Narang Mandi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175870,
+        "name": "Jhawarian",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 7041468,
+        "name": "Sabzi Mandi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1403303,
+        "name": "Sadabad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1170564,
+        "name": "Mehrabpur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168544,
+        "name": "Palandri",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1166933,
+        "name": "Renala Khurd",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1173302,
+        "name": "Kot Diji",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1174625,
+        "name": "Kasur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1171757,
+        "name": "Mach",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1337078,
+        "name": "Rekani",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1182637,
+        "name": "Bhimbar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1184845,
+        "name": "Ahmadpur East",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1163952,
+        "name": "Tando Muhammad Khan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1165057,
+        "name": "Shinpokh",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 7353443,
+        "name": "Jinda Mirasi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1163967,
+        "name": "Tando Adam",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1172915,
+        "name": "Kot Radha Kishan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179790,
+        "name": "Dinga",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1183749,
+        "name": "Bakhri Ahmad Khan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1177757,
+        "name": "Goth Warayo",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1173491,
+        "name": "Kohat",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1180729,
+        "name": "Dalbandin",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1347134,
+        "name": "Alik Ghund",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175748,
+        "name": "Chak Jhumra",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1169620,
+        "name": "Mustafābād",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1171991,
+        "name": "Liliani",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175436,
+        "name": "Kahuta",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1172866,
+        "name": "Kot Sultan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 6457378,
+        "name": "Malakwal City",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175762,
+        "name": "Jhol",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1177307,
+        "name": "Haji Rahim Khan Jokhio",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1181163,
+        "name": "Chichawatni",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1337071,
+        "name": "Kakhor",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1413176,
+        "name": "Babian",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1172888,
+        "name": "Kot Samaba",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1164709,
+        "name": "Skardu",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1172389,
+        "name": "Lakhi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1184196,
+        "name": "Azad Kashmir",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1165789,
+        "name": "Sehwan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1394355,
+        "name": "Ziarat Kharwari Baba",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1174357,
+        "name": "Khairpur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1336708,
+        "name": "Dram Kol",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175232,
+        "name": "Kallar Kahar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1164776,
+        "name": "Sinjhoro",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175864,
+        "name": "Jhelum",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1167710,
+        "name": "Punjab Province",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1170299,
+        "name": "Mirpur Bhtoro",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1333161,
+        "name": "Tāzān",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1174720,
+        "name": "Karor",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1177042,
+        "name": "Hasilpur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1176444,
+        "name": "Jahanian Shah",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1183307,
+        "name": "Barkhan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1183090,
+        "name": "Bat Khela",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1163724,
+        "name": "Taunsa",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1181022,
+        "name": "Chhor",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168312,
+        "name": "Pasni",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175290,
+        "name": "Kalat Lines",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1110054,
+        "name": "Balgattar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1172779,
+        "name": "Kulachi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1184247,
+        "name": "Attock Khurd",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1337314,
+        "name": "Ghati Dor",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1336789,
+        "name": "Chibi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 6949140,
+        "name": "Moza Shahwala",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 7041202,
+        "name": "Kashifabad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1170281,
+        "name": "Mirwah Gorchani",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1373491,
+        "name": "Balach",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 7423527,
+        "name": "Sonikot",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1184205,
+        "name": "Awaran",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168864,
+        "name": "Nowshera",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1162105,
+        "name": "Zhob",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1172488,
+        "name": "Ladhewala Waraich",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1381923,
+        "name": "Chak Twenty-nine Bahawal Canal",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 7098828,
+        "name": "Barkat Bhāi Town",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1166475,
+        "name": "Saidu Sharif",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1176218,
+        "name": "Jand",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1176997,
+        "name": "Haveli Lakha",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1482305,
+        "name": "Alpurai",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168021,
+        "name": "Pindi Bhattian",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1167873,
+        "name": "Pir Mahal",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1360491,
+        "name": "Tando Ghulam Ali",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1172904,
+        "name": "Kotri",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179377,
+        "name": "Faqirwali",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1109671,
+        "name": "Karez",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1351762,
+        "name": "Linju",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1178231,
+        "name": "Gojra",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1176734,
+        "name": "Hyderabad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1181352,
+        "name": "Chawinda",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1165260,
+        "name": "Sharqpur Sharif",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168873,
+        "name": "Khyber Pakhtunkhwa Province",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1162813,
+        "name": "Vihari",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1170677,
+        "name": "Matiari",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1170951,
+        "name": "Mansehra",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1174355,
+        "name": "Khairpur Tamewah",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179082,
+        "name": "Gakuch",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1172682,
+        "name": "Kundian",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 7041209,
+        "name": "Paoka",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1181611,
+        "name": "Chaman",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1169607,
+        "name": "Muzaffarābād",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1169684,
+        "name": "Murree",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1183511,
+        "name": "Bandhi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 7427939,
+        "name": "Barishal",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1171677,
+        "name": "Madeji",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1172339,
+        "name": "Lakki",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1174171,
+        "name": "Khanpur Mahar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1178587,
+        "name": "Gharo",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1173464,
+        "name": "Kohlu",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1166866,
+        "name": "Rohbar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175283,
+        "name": "Kaleke Mandi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1173920,
+        "name": "Khewra",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1347927,
+        "name": "Khadan Khak",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1172451,
+        "name": "Lahore",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1182998,
+        "name": "Bela",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1182092,
+        "name": "Būrewāla",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1184655,
+        "name": "Alipur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1169145,
+        "name": "Naushahra Virkan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1172208,
+        "name": "Landi Kotal",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1176106,
+        "name": "Jaranwala",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1170367,
+        "name": "Miran Shah",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1165507,
+        "name": "Shahpur Chakar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1181959,
+        "name": "Chad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 7331464,
+        "name": "Haji Dur Muhammad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1176048,
+        "name": "Jati",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 6940901,
+        "name": "Mehmand Chak",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1180983,
+        "name": "Chuchar-kana Mandi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1169692,
+        "name": "Muridke",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1172061,
+        "name": "Laro",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168680,
+        "name": "Pabbi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1357445,
+        "name": "Wahan Murad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1163595,
+        "name": "Tharu Shah",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1182622,
+        "name": "Bhiria",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 7419775,
+        "name": "Sneuron",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1343000,
+        "name": "Surtagan Chib",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1163912,
+        "name": "Tangwani",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1164716,
+        "name": "Sīta Road",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1166652,
+        "name": "Saddiqabad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1169187,
+        "name": "Naudero",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1162855,
+        "name": "Utmanzai",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1166115,
+        "name": "Sann",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1165221,
+        "name": "Shekhupura",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1171376,
+        "name": "Malakwal",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1177089,
+        "name": "Harnoli",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1163224,
+        "name": "Topi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1166073,
+        "name": "Sarai Alamgir",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1169367,
+        "name": "Naukot",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1184008,
+        "name": "Bagarji",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1172657,
+        "name": "Kunri",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1176260,
+        "name": "Jam Gwang",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 7038466,
+        "name": "Allahabad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1164825,
+        "name": "Sillanwali",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175098,
+        "name": "Chak One Hundred Twenty Nine Left",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1182775,
+        "name": "Bhan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1184055,
+        "name": "Badin",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1172161,
+        "name": "Langrial",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1173378,
+        "name": "Kot Addu",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1169663,
+        "name": "Musa Khel Bazar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1178148,
+        "name": "Gorcop",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1181910,
+        "name": "Chak",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1166819,
+        "name": "Rojhan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1170486,
+        "name": "Mian Channun",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1171389,
+        "name": "Malakand",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175021,
+        "name": "Kandhkot",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1167380,
+        "name": "Rajanpur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1333497,
+        "name": "Nāmdārwāla",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168652,
+        "name": "Pad Idan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1360941,
+        "name": "Goth Vi Machhi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175873,
+        "name": "Dera Allahyar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168015,
+        "name": "Pindi Gheb",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1337102,
+        "name": "Kochah",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1184075,
+        "name": "Baddomalhi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1167398,
+        "name": "Raiwind",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1336381,
+        "name": "Daud",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1176515,
+        "name": "Jacobabad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1170294,
+        "name": "Mirpur Mathelo",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1164430,
+        "name": "Chak Seventy-eight North Branch",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1161991,
+        "name": "Pir Jo Goth",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1180419,
+        "name": "Daud Khel",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1178915,
+        "name": "Garangwala",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179760,
+        "name": "Dipalpur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1167064,
+        "name": "Rasulnagar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1174765,
+        "name": "Kario Ghanwar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1176206,
+        "name": "Jandiala Sher Khan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179463,
+        "name": "Dunga Bunga",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1359850,
+        "name": "Goth Obhaio Mehar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1184020,
+        "name": "Baffa",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1181073,
+        "name": "Chishtian",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1176995,
+        "name": "Havelian",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1184626,
+        "name": "Alizai",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175082,
+        "name": "Kamra",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1167798,
+        "name": "Pithoro",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1163582,
+        "name": "Thatta",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179245,
+        "name": "Federally Administered Tribal Areas",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1166062,
+        "name": "Sarai Sidhu",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1177397,
+        "name": "Hadali",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1174984,
+        "name": "Kanganpur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179400,
+        "name": "Faisalabad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1180379,
+        "name": "Daultala",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1164069,
+        "name": "Talagang",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1171050,
+        "name": "Mangla",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1180289,
+        "name": "Dera Ghazi Khan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1172035,
+        "name": "Layyah",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 7536245,
+        "name": "Athmuqam",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1174211,
+        "name": "Khangarh",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1174872,
+        "name": "Karachi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1162004,
+        "name": "Khairpur Mir’s",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 7033631,
+        "name": "Goth Chaudhary Attāullāh",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1167821,
+        "name": "Pishin",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179660,
+        "name": "Dokri",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1163054,
+        "name": "Turbat",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1166066,
+        "name": "Sarai Naurang",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175334,
+        "name": "Kalam",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1181138,
+        "name": "Chilas",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1341204,
+        "name": "Nowshera Cantonment",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1163272,
+        "name": "Toba Tek Singh",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1165744,
+        "name": "Shabqadar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1162261,
+        "name": "Zaida",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1174042,
+        "name": "Kharian",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1174815,
+        "name": "Karaundi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168878,
+        "name": "Gilgit-Baltistan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1166993,
+        "name": "Rawalpindi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179496,
+        "name": "Dullewala",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1382698,
+        "name": "Chak Fourteen- Eight Right",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1172663,
+        "name": "Kunjah",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1337320,
+        "name": "Kiya Kalat",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 7082481,
+        "name": "Khuzdar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1165638,
+        "name": "Shahdad Kot",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1163414,
+        "name": "Thul",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1162572,
+        "name": "Chak Five Hundred Seventy-five",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1164419,
+        "name": "Sukheke Mandi",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175010,
+        "name": "Kandiaro",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1181327,
+        "name": "Cherat Cantonement",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1175560,
+        "name": "Kabirwala",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1162634,
+        "name": "Wana",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179834,
+        "name": "Dijkot",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1181887,
+        "name": "Chak Azam Sahu",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1171198,
+        "name": "Mamu Kanjan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1347925,
+        "name": "Cantonment",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1336479,
+        "name": "Gaz Mar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1180436,
+        "name": "Daska Kalan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1174653,
+        "name": "Kashmor",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1170290,
+        "name": "Mirpur Sakro",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1162094,
+        "name": "Ziarat",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1182159,
+        "name": "Bulri",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1418826,
+        "name": "Subedar Khan Khosa",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1166265,
+        "name": "Sambrial",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1172318,
+        "name": "Lala Musa",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1182682,
+        "name": "Bhawana",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1164679,
+        "name": "Sodhri",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1163905,
+        "name": "Tank",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1177098,
+        "name": "Harnai",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1109143,
+        "name": "Kamal Halq",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1184370,
+        "name": "Arifwala",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1177203,
+        "name": "Hangu",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1169214,
+        "name": "Goth Nathu Khan Khoso",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1169160,
+        "name": "Naushahra",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1167501,
+        "name": "Goth Radhan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1164909,
+        "name": "Sialkot",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1164660,
+        "name": "Sohbatpur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1164045,
+        "name": "Talhar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1182787,
+        "name": "Bhalwal",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1336509,
+        "name": "Passu",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1170222,
+        "name": "Mitha Tiwana",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 7423730,
+        "name": "Eidgah",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1178285,
+        "name": "Gush Tang",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1181600,
+        "name": "Chamber",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1164408,
+        "name": "Sukkur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168226,
+        "name": "Pattoki",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179223,
+        "name": "Fort Abbas",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1184569,
+        "name": "Aman Garh",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1180453,
+        "name": "Darya Khan Marri",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1170398,
+        "name": "Minchianabad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1403126,
+        "name": "Relan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1174301,
+        "name": "Khalabat",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1419065,
+        "name": "Sarai",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1178338,
+        "name": "Gilgit",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1167622,
+        "name": "Kambar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1336638,
+        "name": "Darbar Gharib Shah",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1343001,
+        "name": "Hajiabad",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1180281,
+        "name": "Dera Ismail Khan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1108161,
+        "name": "Chuhar Jamali",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1377754,
+        "name": "Dhunel Ganj",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1177064,
+        "name": "Chak Thirty-one -Eleven Left",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1183105,
+        "name": "Battagram",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179255,
+        "name": "Fazilpur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1181439,
+        "name": "Charsadda",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1167142,
+        "name": "Ranipur",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1167528,
+        "name": "Quetta",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1164698,
+        "name": "Sobhodero",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1168036,
+        "name": "Pind Dadan Khan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1341330,
+        "name": "Dhok Gangal",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1165388,
+        "name": "Shakargarh",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1182815,
+        "name": "Bhakkar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1169580,
+        "name": "Nabisar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1174062,
+        "name": "Kharan",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1176889,
+        "name": "Hingorja",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1170584,
+        "name": "Mehar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1179515,
+        "name": "Duki",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1169557,
+        "name": "Nagak Bazar",
+        "state": "",
+        "country": "PK"
+    },
+    {
+        "id": 1170102,
+        "name": "Mohra Nur",
+        "state": "",
+        "country": "PK"
+    }
+]

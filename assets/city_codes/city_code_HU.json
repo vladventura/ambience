@@ -1,0 +1,6626 @@
+[
+    {
+        "id": 715989,
+        "name": "Rudabánya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722738,
+        "name": "Bagamér",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042841,
+        "name": "Violatag",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052417,
+        "name": "Galgamácsa",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052366,
+        "name": "Gátér",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714793,
+        "name": "Tiszabercel",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052391,
+        "name": "Gara",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716948,
+        "name": "Nyírbátor",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049002,
+        "name": "Lajosmizse",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042536,
+        "name": "Zirc",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721856,
+        "name": "Csanytelek",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053938,
+        "name": "Csopak",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284900,
+        "name": "Szelevény",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047460,
+        "name": "Nándorliget",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721225,
+        "name": "Egerszalók",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717779,
+        "name": "Második Rozsréti Bokor",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044088,
+        "name": "Taszár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719668,
+        "name": "Járdánháza",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047896,
+        "name": "Mosonmagyaróvár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715355,
+        "name": "Szendrő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717669,
+        "name": "Mezőberény",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054328,
+        "name": "Csávoly",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044909,
+        "name": "Szany",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715283,
+        "name": "Sziget",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042638,
+        "name": "Zalaegerszeg",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042871,
+        "name": "Villány",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050212,
+        "name": "Keszthely",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050907,
+        "name": "Jászberény",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043674,
+        "name": "Turbina",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714397,
+        "name": "Újtanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714951,
+        "name": "Tarnalelesz",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716356,
+        "name": "Polgár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722775,
+        "name": "Aszaló",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042613,
+        "name": "Zala megye",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718602,
+        "name": "Konyár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046856,
+        "name": "Ősi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717758,
+        "name": "Mátraderecske",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718615,
+        "name": "Kondoros",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052241,
+        "name": "Göd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054533,
+        "name": "Celldömölk",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055584,
+        "name": "Balatonboglár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048250,
+        "name": "Mecseknádasd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051657,
+        "name": "Harta",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042872,
+        "name": "Villa",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048447,
+        "name": "Marceltanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722432,
+        "name": "Békéssámson",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053986,
+        "name": "Csolnok",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714736,
+        "name": "Tiszanagyfalu",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719555,
+        "name": "Kaba",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049878,
+        "name": "Kiskunlacháza",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715867,
+        "name": "Sárospatak",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715199,
+        "name": "Szirmabesenyő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047922,
+        "name": "Mórahalom",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048847,
+        "name": "Lenti",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051822,
+        "name": "Halásztelek",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3056355,
+        "name": "Ajkai Tanyák",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720290,
+        "name": "Hajdúdorog",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045226,
+        "name": "Somogy megye",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721861,
+        "name": "Csanádpalota",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045017,
+        "name": "Szabadszállás",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044574,
+        "name": "Szentlőrinckáta",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053562,
+        "name": "Dorog",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720064,
+        "name": "Hejce",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720776,
+        "name": "Földes",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054543,
+        "name": "Cegléd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714724,
+        "name": "Tiszapüspöki",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043345,
+        "name": "Uradalmi Szőllőtelep",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717406,
+        "name": "Nagycserkesz",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042516,
+        "name": "Zomba",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284840,
+        "name": "Budapest XX. kerület",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051324,
+        "name": "Hort",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722431,
+        "name": "Békésszentandrás",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715126,
+        "name": "Szolnok",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042621,
+        "name": "Zalakomár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043887,
+        "name": "Tóalmás",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050922,
+        "name": "Jansentanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720417,
+        "name": "Gulyalegelő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048591,
+        "name": "Magyarlak",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048725,
+        "name": "Lőrinci",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722095,
+        "name": "Borbélytanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053203,
+        "name": "Érsekcsanád",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714739,
+        "name": "Tiszalúc",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043111,
+        "name": "Városföld",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722281,
+        "name": "Biharkeresztes",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717662,
+        "name": "Mezőhegyes",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718315,
+        "name": "Kunmadaras",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718528,
+        "name": "Körösladány",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718058,
+        "name": "Lökösihatár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046686,
+        "name": "Pápa",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053073,
+        "name": "Farmos",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714714,
+        "name": "Tiszaszentimre",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043865,
+        "name": "Tokod",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722849,
+        "name": "Apátfalva",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046526,
+        "name": "Pécs",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051294,
+        "name": "Hosszúhát",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719396,
+        "name": "Karcsa",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718780,
+        "name": "Kistanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054726,
+        "name": "Bősárkány",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046431,
+        "name": "Pest megye",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722803,
+        "name": "Arló",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714948,
+        "name": "Tarnaörs",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719656,
+        "name": "Jászalsószentgyörgy",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718113,
+        "name": "Létavértes",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049430,
+        "name": "Körmend",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3056235,
+        "name": "Alsódolina",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714258,
+        "name": "Váraditag",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044600,
+        "name": "Szentkirályszabadja",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714697,
+        "name": "Tiszaújváros",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047282,
+        "name": "Nyergesújfalu",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719404,
+        "name": "Karcag",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044156,
+        "name": "Tápióság",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717844,
+        "name": "Maradékdűlő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055551,
+        "name": "Balatonlelle",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049491,
+        "name": "Kóny",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054850,
+        "name": "Boldog",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714659,
+        "name": "Tokaj",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721589,
+        "name": "Csongrád megye",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048852,
+        "name": "Lengyeltóti",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050964,
+        "name": "Jánosháza",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043820,
+        "name": "Tompa",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716301,
+        "name": "Püspökladány",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054240,
+        "name": "Cserepes",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055674,
+        "name": "Bajna",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046456,
+        "name": "Perkáta",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044083,
+        "name": "Tata",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048444,
+        "name": "Marczpuszta",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717902,
+        "name": "Makó",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717400,
+        "name": "Nagydobos",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719252,
+        "name": "Kenderes",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049512,
+        "name": "Komló",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048096,
+        "name": "Mezőssytanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051788,
+        "name": "Hamvasbánya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047872,
+        "name": "Murahid",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048963,
+        "name": "Lánycsók",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722876,
+        "name": "Anarcs",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043627,
+        "name": "Tyúkosdűlő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043845,
+        "name": "Tolna megye",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054280,
+        "name": "Csengőd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714973,
+        "name": "Tarcal",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717357,
+        "name": "Nagygajla",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049111,
+        "name": "Kunfehértó",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716954,
+        "name": "Nyírábrány",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717591,
+        "name": "Mindszent",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051187,
+        "name": "Iklad",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047309,
+        "name": "Nyárlőrinc",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051977,
+        "name": "Győr-Moson-Sopron megye",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716480,
+        "name": "Peregpuszta",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714782,
+        "name": "Tiszadada",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3056331,
+        "name": "Alap",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044615,
+        "name": "Szentjánoskúti Dűlő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716717,
+        "name": "Orsószög",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714642,
+        "name": "Tolcsva",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715763,
+        "name": "Sirok",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718334,
+        "name": "Kunágota",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720604,
+        "name": "Garadna",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722650,
+        "name": "Balkány",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722866,
+        "name": "Andrástanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045512,
+        "name": "Sárosd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714593,
+        "name": "Tornyospálca",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720574,
+        "name": "Gégény",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050434,
+        "name": "Kecskemét",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052553,
+        "name": "Forráskút",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3056159,
+        "name": "Alsókörtvélyes",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717172,
+        "name": "Nagyrábé",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721349,
+        "name": "Doboz",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051477,
+        "name": "Hévíz",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045744,
+        "name": "Rőtivölgy",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044575,
+        "name": "Szentlőrinc",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717530,
+        "name": "Monok",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045341,
+        "name": "Simontornya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046027,
+        "name": "Ráckeresztúr",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050750,
+        "name": "Kakucs",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053485,
+        "name": "Dunaharaszti",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043048,
+        "name": "Vaskút",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3338787,
+        "name": "Tiszaalpár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719830,
+        "name": "Hosztán",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054359,
+        "name": "Császár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050710,
+        "name": "Kálvária Dűlő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715951,
+        "name": "Sajóörös",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052645,
+        "name": "Fertőd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046663,
+        "name": "Paphegy",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720862,
+        "name": "Felsőtárkány",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720988,
+        "name": "Fehérgyarmat",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045409,
+        "name": "Sejce",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051133,
+        "name": "Inárcs",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043358,
+        "name": "Üllés",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048194,
+        "name": "Mélykút",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043984,
+        "name": "Tengelic",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044786,
+        "name": "Székelytelep",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046230,
+        "name": "Pomáz",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044330,
+        "name": "Szolnokihegy",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717741,
+        "name": "Medgyesegyháza",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055835,
+        "name": "Ásotthalom",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718699,
+        "name": "Kocsord",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045332,
+        "name": "Siófok",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053423,
+        "name": "Dusnok",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721208,
+        "name": "Egyek",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050594,
+        "name": "Kapuvár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719717,
+        "name": "Ivánkapuszta",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046073,
+        "name": "Pusztavám",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054260,
+        "name": "Csepreg",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055556,
+        "name": "Balatonkenese",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722872,
+        "name": "Andornaktálya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047679,
+        "name": "Nagykanizsa",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716671,
+        "name": "Ózd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722406,
+        "name": "Bellegelő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048835,
+        "name": "Lepsény",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716204,
+        "name": "Rakamaz",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052729,
+        "name": "Felsőtag",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284834,
+        "name": "Budapest X. keruelet",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049751,
+        "name": "Kisszállás",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714188,
+        "name": "Vásárosnamény",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3056380,
+        "name": "Ágfalva",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719489,
+        "name": "Kálmánháza",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715536,
+        "name": "Szalmaré",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054648,
+        "name": "Budakeszi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719511,
+        "name": "Kál",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045884,
+        "name": "Répcelak",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715185,
+        "name": "Szlobodatanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046355,
+        "name": "Pilis",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050475,
+        "name": "Katymár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055414,
+        "name": "Baracs",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284836,
+        "name": "Budapest XVIII. kerület",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047765,
+        "name": "Nagydorog",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052035,
+        "name": "Gyöngyöshalász",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714478,
+        "name": "Ugari Tanyák",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054211,
+        "name": "Cserhátpuszta",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721986,
+        "name": "Buj",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048456,
+        "name": "Marcali",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055399,
+        "name": "Baranya county",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717632,
+        "name": "Mezőzombor",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046505,
+        "name": "Pécsvárad",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046800,
+        "name": "Pacsa",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722471,
+        "name": "Baytanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717570,
+        "name": "Mocsolya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052013,
+        "name": "Gyönk",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3056437,
+        "name": "Ács",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044669,
+        "name": "Szentgotthárd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048627,
+        "name": "Mágocs",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055586,
+        "name": "Balatonberény",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284839,
+        "name": "Budapest XXI. kerület",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045991,
+        "name": "Rajka",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043685,
+        "name": "Túlatarna",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044144,
+        "name": "Táplánszentkereszt",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047201,
+        "name": "Őcsény",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051520,
+        "name": "Hercegszántó",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715976,
+        "name": "Ruzsatanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045493,
+        "name": "Sárszentmihály",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715939,
+        "name": "Sajóvámos",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720228,
+        "name": "Halmaj",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046446,
+        "name": "Pest",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717658,
+        "name": "Mezőkeresztes",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050785,
+        "name": "Kadarkút",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055895,
+        "name": "Apostagi Tanyák",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720533,
+        "name": "Gesztely",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045212,
+        "name": "Somogyvár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722682,
+        "name": "Baktalórántháza",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044681,
+        "name": "Szentendre",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055603,
+        "name": "Baláczaidűlő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719640,
+        "name": "Jászladány",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046711,
+        "name": "Palotás",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048186,
+        "name": "Mende",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053497,
+        "name": "Dunaalmás",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046916,
+        "name": "Örkény",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053402,
+        "name": "Ecser",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044147,
+        "name": "Tápiószőlős",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715924,
+        "name": "Sándorfalva",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044160,
+        "name": "Tápiógyörgye",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715415,
+        "name": "Szegvár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719466,
+        "name": "Kántorjánosi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045883,
+        "name": "Répcelaki Tanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051969,
+        "name": "Győrszemere",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052786,
+        "name": "Felsőpakony",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718516,
+        "name": "Köröstarcsa",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050454,
+        "name": "Kecel",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 723030,
+        "name": "Abony",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055721,
+        "name": "Bag",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714816,
+        "name": "Tibrik",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717582,
+        "name": "Miskolc",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045406,
+        "name": "Sellye",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718108,
+        "name": "Levelek",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045836,
+        "name": "Révfülöp",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720480,
+        "name": "Görbeháza",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046769,
+        "name": "Pákozd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052040,
+        "name": "Gyöngyös",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054651,
+        "name": "Budakalász",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046344,
+        "name": "Pilisszentiván",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721472,
+        "name": "Debrecen",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044001,
+        "name": "Temetődűlő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046768,
+        "name": "Paks",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721304,
+        "name": "Domoszló",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049041,
+        "name": "Kutyahegy",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054800,
+        "name": "Borbás",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052236,
+        "name": "Gödöllő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051881,
+        "name": "Hajmáskér",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044181,
+        "name": "Taksony",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053228,
+        "name": "Érd-Parkváros",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715009,
+        "name": "Taktaharkány",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717825,
+        "name": "Máriapócs",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042652,
+        "name": "Zákányszék",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043356,
+        "name": "Üllő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3056450,
+        "name": "Aba",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048464,
+        "name": "Mány",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050160,
+        "name": "Kincsesbánya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045404,
+        "name": "Selyemgyártelep",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052526,
+        "name": "Franktanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722439,
+        "name": "Békés",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052614,
+        "name": "Flinkmalom",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3056347,
+        "name": "Akasztó",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046488,
+        "name": "Pér",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046343,
+        "name": "Pilisszentkereszt",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714718,
+        "name": "Tiszasüly",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046580,
+        "name": "Pásztó",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721611,
+        "name": "Csökmő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717497,
+        "name": "Múcsony",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722301,
+        "name": "Besenyőtelek",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048888,
+        "name": "Lébény",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722852,
+        "name": "Apagy",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048282,
+        "name": "Mátraterenye",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055255,
+        "name": "Becsehely",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714774,
+        "name": "Tiszaföldvár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049647,
+        "name": "Kőbánya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721411,
+        "name": "Deszk",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049882,
+        "name": "Kiskunfélegyházi Tanyák",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718321,
+        "name": "Kunhegyes",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045070,
+        "name": "Sümeg",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055760,
+        "name": "Bácsalmás",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049719,
+        "name": "Kistelek",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716526,
+        "name": "Pátroha",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722300,
+        "name": "Besenyszög",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044310,
+        "name": "Szombathely",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047373,
+        "name": "Németkér",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722555,
+        "name": "Báránd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716943,
+        "name": "Nyírbogdány",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044941,
+        "name": "Szalkszentmárton",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049421,
+        "name": "Környe",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048895,
+        "name": "Leányfalu",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715217,
+        "name": "Szilvásvárad",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717667,
+        "name": "Mezőcsát",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050719,
+        "name": "Kalocsa",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051018,
+        "name": "Izguntanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284831,
+        "name": "Budapest IV. kerület",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054606,
+        "name": "Bugyi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718214,
+        "name": "Lapistó",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049013,
+        "name": "Lajoskomárom",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055772,
+        "name": "Bábolna",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719232,
+        "name": "Kengyel",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049033,
+        "name": "Lábod",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042661,
+        "name": "Zagyvaszántó",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284828,
+        "name": "Budapest VI. kerület",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 723044,
+        "name": "Abádszalók",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046336,
+        "name": "Pincehely",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715053,
+        "name": "Szucsányitanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050550,
+        "name": "Károlyakna",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716853,
+        "name": "Okány",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045045,
+        "name": "Süttő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055878,
+        "name": "Aranyhegy",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717943,
+        "name": "Magyarbánhegyes",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721119,
+        "name": "Erdőtelek",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719895,
+        "name": "Hortobágy",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715962,
+        "name": "Sajókaza",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047927,
+        "name": "Mór",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054456,
+        "name": "Csabrendek",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043803,
+        "name": "Torbágyi Tanyák",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046340,
+        "name": "Pilisvörösvár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053836,
+        "name": "Dabas",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053918,
+        "name": "Csorna",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050588,
+        "name": "Karád",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055091,
+        "name": "Berhida",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055539,
+        "name": "Balatonszabadi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046056,
+        "name": "Rábapatona",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717397,
+        "name": "Nagyecsed",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720284,
+        "name": "Hajdúnánás",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046806,
+        "name": "Ozora",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715930,
+        "name": "Sály",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048762,
+        "name": "Litér",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052854,
+        "name": "Felsőkolónia",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042603,
+        "name": "Zalaszentgrót",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714060,
+        "name": "Vidólapos",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720547,
+        "name": "Gergelyffinagytanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722171,
+        "name": "Bogács",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715862,
+        "name": "Sárrétudvari",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053147,
+        "name": "Etyek",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716603,
+        "name": "Pap Elek-tanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050627,
+        "name": "Kaposmérő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047689,
+        "name": "Nagyigmánd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047986,
+        "name": "Mogyoród",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047348,
+        "name": "Nógrád megye",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714785,
+        "name": "Tiszacsege",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717721,
+        "name": "Méhkerék",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719655,
+        "name": "Jászapáti",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044154,
+        "name": "Sülysáp",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050573,
+        "name": "Karancskeszi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720274,
+        "name": "Hajdúszovát",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284835,
+        "name": "Budapest XIX. kerület",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714548,
+        "name": "Tótkomlós",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720857,
+        "name": "Felsőzsolca",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715195,
+        "name": "Szirtó",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046036,
+        "name": "Rácalmás",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716736,
+        "name": "Orosháza",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052101,
+        "name": "Gyál",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047474,
+        "name": "dunaújváros",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051001,
+        "name": "Ják",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055535,
+        "name": "Balatonszárszó",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714367,
+        "name": "Újtelep",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044171,
+        "name": "Tamási",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717833,
+        "name": "Máriafürdő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718739,
+        "name": "Kisvárda",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044821,
+        "name": "Százhalombatta",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718045,
+        "name": "Lórántffykert",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719710,
+        "name": "Izsófalva",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048713,
+        "name": "Lovasberény",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055151,
+        "name": "Belső Új Sor",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3056290,
+        "name": "Almásfüzitő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045039,
+        "name": "Szabadbattyán",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716941,
+        "name": "Nyírcsaholy",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049896,
+        "name": "Kiskőrös",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044800,
+        "name": "Szedres",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053459,
+        "name": "Dunapataj",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284899,
+        "name": "Algyő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043678,
+        "name": "Tura",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055568,
+        "name": "Balatonföldvár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047141,
+        "name": "Oncsatelep",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720061,
+        "name": "Hejőbába",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042977,
+        "name": "Vép",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044161,
+        "name": "Tápióbicske",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049630,
+        "name": "Kocsér",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045428,
+        "name": "Scherctanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053199,
+        "name": "Érsekvadkert",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046577,
+        "name": "Pásztorúti Dűlő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044370,
+        "name": "Sződliget",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050311,
+        "name": "Kerekegyháza",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720149,
+        "name": "Harsány",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721159,
+        "name": "Encs",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046646,
+        "name": "Pappuszta",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722324,
+        "name": "Berettyóújfalu",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047127,
+        "name": "Őrbottyán",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042685,
+        "name": "Webertanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721812,
+        "name": "Cseberér",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045192,
+        "name": "Soponya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047005,
+        "name": "Öreghegy",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051100,
+        "name": "Iregszemcse",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284843,
+        "name": "Budapest II. kerület",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045758,
+        "name": "Romhány",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047819,
+        "name": "Nagyatád",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050208,
+        "name": "Kesztölc",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718026,
+        "name": "Ludaddűlő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052749,
+        "name": "Felsőszentiván",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055196,
+        "name": "Beled",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054811,
+        "name": "Bőny",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284830,
+        "name": "Budapest XIII. kerület",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044227,
+        "name": "Szurdokpüspöki",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045364,
+        "name": "Siklós",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053684,
+        "name": "Diósd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046434,
+        "name": "Pestiúti Kültelek",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053863,
+        "name": "Csurgó",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719967,
+        "name": "Hodász",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722882,
+        "name": "Alsózsolca",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046346,
+        "name": "Pilismarót",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 6690440,
+        "name": "Győr-Szabadhegy",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721068,
+        "name": "Fábiánsebestyén",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045581,
+        "name": "Sándortanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717635,
+        "name": "Mezőtúr",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046269,
+        "name": "Pogány",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055757,
+        "name": "Bácsbokod",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714504,
+        "name": "Túrkeve",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051016,
+        "name": "Izsák",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720907,
+        "name": "Felsőbánya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043306,
+        "name": "Úsztatómajor",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053476,
+        "name": "Dunakeszi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047316,
+        "name": "Nyáregyháza",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718480,
+        "name": "Kótaj",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720280,
+        "name": "Hajdúsámson",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044131,
+        "name": "Tar",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046825,
+        "name": "Öttevény",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714421,
+        "name": "Újszász",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714742,
+        "name": "Tiszalök",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721575,
+        "name": "Csontoskert",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053489,
+        "name": "Dunaföldvár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054600,
+        "name": "Buják",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054795,
+        "name": "Bordány",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055623,
+        "name": "Bakonyszentlászló",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716197,
+        "name": "Rákóczifalva",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055776,
+        "name": "Babócsa",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284829,
+        "name": "Budapest XIV. keruelet",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718312,
+        "name": "Kunszentmárton",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049631,
+        "name": "Kocs",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716893,
+        "name": "Nyírtelek",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043542,
+        "name": "Újhegy",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053483,
+        "name": "Dunaharaszti Rév",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715904,
+        "name": "Sáránd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720026,
+        "name": "Hernádnémeti",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042507,
+        "name": "Zsámbék",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717521,
+        "name": "Monostorpályi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048984,
+        "name": "Lakitelek",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053810,
+        "name": "Dánszentmiklós",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721161,
+        "name": "Emőd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716889,
+        "name": "Nyírvasvári",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722906,
+        "name": "Alsórét",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719806,
+        "name": "Ibrány",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721428,
+        "name": "Derecske",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043117,
+        "name": "Várkonyitanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284823,
+        "name": "Budapest XII. kerület",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3056211,
+        "name": "Alsógalla",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714789,
+        "name": "Tiszabő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050052,
+        "name": "Kiscsőszi Tanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049860,
+        "name": "Kisláng",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714464,
+        "name": "Újfehértó",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049100,
+        "name": "Kunszentmiklós",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045201,
+        "name": "Somoskőújfalu",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054878,
+        "name": "Bogyiszló",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721864,
+        "name": "Csanádapáca",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 723036,
+        "name": "Abaújszántó",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046487,
+        "name": "Perbál",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718744,
+        "name": "Kisújszállás",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714914,
+        "name": "Téglás",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720992,
+        "name": "Fegyvernek",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048281,
+        "name": "Mátraverebély",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714772,
+        "name": "Tiszafüred",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045386,
+        "name": "Seregélyes",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3056436,
+        "name": "Acsa",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284824,
+        "name": "Budapest XI. kerület",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722884,
+        "name": "Alsóváros",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046353,
+        "name": "Piliscsaba",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720334,
+        "name": "Gyula",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284833,
+        "name": "Budapest XVI. kerület",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046409,
+        "name": "Péteri",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053583,
+        "name": "Domony",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053253,
+        "name": "Erdőkertes",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055410,
+        "name": "Baracska",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043317,
+        "name": "Üröm",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045542,
+        "name": "Sárisáp",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046026,
+        "name": "Ráckeve",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715888,
+        "name": "Sarkad",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284826,
+        "name": "Budapest VIII. kerület",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046076,
+        "name": "Pusztaszer",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716686,
+        "name": "Ószőlőskert",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043849,
+        "name": "Tolna",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048094,
+        "name": "Mezőszilas",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048657,
+        "name": "Madaras",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716151,
+        "name": "Recsk",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 713929,
+        "name": "Záhony",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043124,
+        "name": "Varjúdűlő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048647,
+        "name": "Madocsa",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053434,
+        "name": "Dunavarsány",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722011,
+        "name": "Bucsa",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052021,
+        "name": "Gyöngyöstarján",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043895,
+        "name": "Tisztviselőtelep",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052545,
+        "name": "Forrópuszta",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046450,
+        "name": "Perőcsitanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051621,
+        "name": "Hatvan",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718618,
+        "name": "Kompolt",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054542,
+        "name": "Ceglédbercel",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722823,
+        "name": "Aranyosapáti",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722491,
+        "name": "Báthoritanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046922,
+        "name": "Őriszentpéter",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042929,
+        "name": "Veszprém",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3056108,
+        "name": "Alsónémedi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044671,
+        "name": "Szentgálpuszta",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050572,
+        "name": "Karancslapujtő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 713991,
+        "name": "Vitéztelek",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714751,
+        "name": "Tiszakeszi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044861,
+        "name": "Szárliget",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054400,
+        "name": "Csány",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046619,
+        "name": "Parádsasvár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052009,
+        "name": "Győr",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046349,
+        "name": "Piliscsév",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052542,
+        "name": "Fót",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045804,
+        "name": "Rimóc",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047606,
+        "name": "Nagyoroszi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3056361,
+        "name": "Agyagbánya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053321,
+        "name": "Előszállás",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053760,
+        "name": "Délegyháza",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720364,
+        "name": "Gyomaendrőd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721257,
+        "name": "Ebes",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716913,
+        "name": "Nyírkarász",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716924,
+        "name": "Nyírgyulaj",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050053,
+        "name": "Kiscsősz",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051839,
+        "name": "Halastó",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044191,
+        "name": "Tahitótfalu",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715941,
+        "name": "Sajószöged",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284903,
+        "name": "Kismaros",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716437,
+        "name": "Petneháza",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717805,
+        "name": "Maroslele",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717616,
+        "name": "Mikepércs",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043210,
+        "name": "Vámosgyörk",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722133,
+        "name": "Bököny",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284910,
+        "name": "Mosonszentmiklós",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714570,
+        "name": "Tószeg",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045926,
+        "name": "Rédeymajor",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715839,
+        "name": "Sátoraljaújhely",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054586,
+        "name": "Bükkösd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719211,
+        "name": "Kerecsend",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718060,
+        "name": "Lőkösháza",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054940,
+        "name": "Bodakút",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717281,
+        "name": "Nagykálló",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043278,
+        "name": "Vácszentlászló",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714756,
+        "name": "Tiszakarád",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053495,
+        "name": "Dunabogdány",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054144,
+        "name": "Csetény",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714477,
+        "name": "Ugaritanyák",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047428,
+        "name": "Némediszőlő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043832,
+        "name": "Töltéstava",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045190,
+        "name": "Sopron",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050290,
+        "name": "Kistarcsa",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047509,
+        "name": "Nagytarcsa",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052717,
+        "name": "Felsőtelep",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053764,
+        "name": "Dég",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054713,
+        "name": "Bothmerpuszta",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044122,
+        "name": "Tardos",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284825,
+        "name": "Budapest IX. keruelet",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284842,
+        "name": "Budapest III. kerület",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050616,
+        "name": "Kaposvár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714265,
+        "name": "Vámospércs",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715189,
+        "name": "Szivattyútelep",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716909,
+        "name": "Nyírlugos",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042956,
+        "name": "Verőce",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048630,
+        "name": "Maglód",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055590,
+        "name": "Balatonalmádi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043778,
+        "name": "Törökbálint",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050872,
+        "name": "Jobbágyi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052963,
+        "name": "Felsőbányatelep",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054027,
+        "name": "Csobánka",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717904,
+        "name": "Maklár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715970,
+        "name": "Sajóbábony",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044211,
+        "name": "Táborfalva",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044469,
+        "name": "Szigetvár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046284,
+        "name": "Pityerdűlő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716952,
+        "name": "Nyíracsád",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714081,
+        "name": "Verpelét",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053454,
+        "name": "Dunaszekcső",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715296,
+        "name": "Szeszgyárdűlő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053132,
+        "name": "Fadd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719635,
+        "name": "Jászszentandrás",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715338,
+        "name": "Szentes",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042504,
+        "name": "Zsámbok",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045688,
+        "name": "Ruzsa",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046354,
+        "name": "Pilisborosjenő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046719,
+        "name": "Pálmonostora",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721712,
+        "name": "Cserkeszőlő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049885,
+        "name": "Kiskunfélegyháza",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043581,
+        "name": "Újhartyán",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717612,
+        "name": "Mikitatanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047942,
+        "name": "Monor",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719819,
+        "name": "Hungary",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055108,
+        "name": "Beremend",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047811,
+        "name": "Nagybajom",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051077,
+        "name": "Isaszeg",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284837,
+        "name": "Budapest XXIII. kerület",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051415,
+        "name": "Hőgyész",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043634,
+        "name": "Tüzérlaktanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715449,
+        "name": "Szatymaz",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715614,
+        "name": "Szabadkígyós",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716372,
+        "name": "Pocsaj",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716791,
+        "name": "Ópusztaszer",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716951,
+        "name": "Nyíradony",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045520,
+        "name": "Sármellék",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042617,
+        "name": "Zalalövő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046156,
+        "name": "Priglitanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714552,
+        "name": "Tóthtanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050828,
+        "name": "Józsefpuszta",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722636,
+        "name": "Balmazújváros",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054823,
+        "name": "Bolyok",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055896,
+        "name": "Apostag",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048068,
+        "name": "Miketelep",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717771,
+        "name": "Mátészalka",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716028,
+        "name": "Röszke",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722280,
+        "name": "Biharkeresztesi Tanyák",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716864,
+        "name": "Öcsöd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055298,
+        "name": "Bátaszék",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716945,
+        "name": "Nyírbogát",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717042,
+        "name": "Napkor",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042622,
+        "name": "Zalakarosi Puszta",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044371,
+        "name": "Sződ",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055038,
+        "name": "Biatorbágy",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044221,
+        "name": "Tab",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055969,
+        "name": "Angyalisziget",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720846,
+        "name": "Fényeslitke",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3056357,
+        "name": "Ajka",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047399,
+        "name": "Nemesnádudvar",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053577,
+        "name": "Dömsöd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715001,
+        "name": "Tállya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716611,
+        "name": "Pankotaitanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046531,
+        "name": "Pécel",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3056418,
+        "name": "Ádánd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049518,
+        "name": "Komárom-Esztergom",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049201,
+        "name": "Központimajor",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716844,
+        "name": "Ököritófülpös",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053406,
+        "name": "Ecséd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719419,
+        "name": "Karácsond",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722437,
+        "name": "Békéscsaba",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047646,
+        "name": "Nagykovácsi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051280,
+        "name": "Hosszúhetény",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053611,
+        "name": "Dognyai Tanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053033,
+        "name": "Fehérvárcsurgó",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046387,
+        "name": "Petőfibánya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716903,
+        "name": "Nyírmihálydi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715177,
+        "name": "Szoboszlaitanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715332,
+        "name": "Szentistván",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722214,
+        "name": "Bodahegyes",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720494,
+        "name": "Gönc",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716559,
+        "name": "Parád",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719311,
+        "name": "Kazincbarcika",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047651,
+        "name": "Nagykőrös",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047835,
+        "name": "Nádormajor",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716706,
+        "name": "Ostoros",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721158,
+        "name": "Encsencs",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053028,
+        "name": "Fejér megye",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053779,
+        "name": "Dávod",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054380,
+        "name": "Csárda",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722477,
+        "name": "Battonya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054693,
+        "name": "Aszód",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284844,
+        "name": "Budapest I. kerület",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720643,
+        "name": "Gádoros",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051965,
+        "name": "Győrújbarát",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047443,
+        "name": "Naszály",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722494,
+        "name": "Bata",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051774,
+        "name": "Hangyásmál",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715302,
+        "name": "Szerencs",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719843,
+        "name": "Hosszúpályi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049377,
+        "name": "Kosd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720330,
+        "name": "Gyulaháza",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714692,
+        "name": "Tiszavasvári",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049570,
+        "name": "Kokashegy",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045846,
+        "name": "Rétság",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714488,
+        "name": "Tyukod",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715423,
+        "name": "Szegfűdűlő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717118,
+        "name": "Nagyszőllő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716439,
+        "name": "Pétervására",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717980,
+        "name": "Mád",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716081,
+        "name": "Ricse",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055644,
+        "name": "Bakonycsernye",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053450,
+        "name": "Dunaszentgyörgy",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719317,
+        "name": "Kavics-banya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722448,
+        "name": "Bekecs",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716339,
+        "name": "Poroszló",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043217,
+        "name": "Valkó",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717694,
+        "name": "Mérgeszug",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714296,
+        "name": "Vaja",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048005,
+        "name": "Mocsa",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053623,
+        "name": "Döbrököz",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284841,
+        "name": "Budapest XVII. kerület",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719280,
+        "name": "Kék",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721305,
+        "name": "Domonicstanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045838,
+        "name": "Revetekdűlő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715945,
+        "name": "Sajószentpéter",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050165,
+        "name": "Kimle",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716317,
+        "name": "Prügy",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714073,
+        "name": "Vésztő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718723,
+        "name": "Kiszombor",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722691,
+        "name": "Baks",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720006,
+        "name": "Heves",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049574,
+        "name": "Kóka",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050714,
+        "name": "Káloz",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722223,
+        "name": "Bőcs",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042610,
+        "name": "Zalasárszeg",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714581,
+        "name": "Törökszentmiklós",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042520,
+        "name": "Zöldmalom",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046537,
+        "name": "Pázmánd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716860,
+        "name": "Ófehértó",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053712,
+        "name": "Devecser",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716799,
+        "name": "Onga",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714518,
+        "name": "Tunyogmatolcs",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052026,
+        "name": "Gyöngyöspata",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715570,
+        "name": "Szajol",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3056326,
+        "name": "Albertirsa",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050967,
+        "name": "Jánoshalma",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719093,
+        "name": "Kevermes",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719493,
+        "name": "Kállósemjén",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045564,
+        "name": "Sárbogárd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721022,
+        "name": "Farkaslyuk",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045303,
+        "name": "Solt",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716963,
+        "name": "Nyerjesszőllő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053595,
+        "name": "Dombhátdűlő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050022,
+        "name": "Kisfái",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052330,
+        "name": "Gencsapáti",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051473,
+        "name": "Hidas",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716186,
+        "name": "Rákócziújfalu",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047574,
+        "name": "Nagyréde",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044254,
+        "name": "Szuhahuta",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051499,
+        "name": "Hernád",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042657,
+        "name": "Zajk",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717726,
+        "name": "Megyaszó",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3056414,
+        "name": "Adony",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043860,
+        "name": "Tököl",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042575,
+        "name": "Zámoly",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045704,
+        "name": "Rózsaszentmárton",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722998,
+        "name": "Ajak",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044990,
+        "name": "Szada",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720679,
+        "name": "Füzesgyarmat",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721246,
+        "name": "Edelény",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055685,
+        "name": "Baja",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055130,
+        "name": "Bercel",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043321,
+        "name": "Úri",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053590,
+        "name": "Dombóvár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284912,
+        "name": "Kerepes",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052640,
+        "name": "Fertőrákos",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042968,
+        "name": "Veresegyház",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722973,
+        "name": "Alattyán",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715422,
+        "name": "Szeghalom",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714721,
+        "name": "Tiszaroff",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055302,
+        "name": "Báta",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719126,
+        "name": "Kétegyháza",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044149,
+        "name": "Tápiószentmárton",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053768,
+        "name": "Decs",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053085,
+        "name": "Farkasmály",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047894,
+        "name": "Mosonszentjánosi Tanyák",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055575,
+        "name": "Balatonfenyves",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716908,
+        "name": "Nyírmada",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719700,
+        "name": "Jakabtanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043224,
+        "name": "Vál",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3056391,
+        "name": "Ágasegyháza",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042998,
+        "name": "Velence",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721314,
+        "name": "Dombegyház",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715518,
+        "name": "Szamosszeg",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046499,
+        "name": "Pellérd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043033,
+        "name": "Vasvár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048326,
+        "name": "Martonvásár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054547,
+        "name": "Cece",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048107,
+        "name": "Mezőfalva",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052045,
+        "name": "Gyömrő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043233,
+        "name": "Vajszló",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720174,
+        "name": "Harkányidűlő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722676,
+        "name": "Balástya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046087,
+        "name": "Pusztaszabolcs",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721559,
+        "name": "Csorvás",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044492,
+        "name": "Szigetcsép",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045530,
+        "name": "Sárkeresztúr",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050204,
+        "name": "Kéthely",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051597,
+        "name": "Hegy",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717883,
+        "name": "Malombirtokosság",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714144,
+        "name": "Véghtanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720687,
+        "name": "Füzesabony",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714754,
+        "name": "Tiszakécske",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051035,
+        "name": "Iváncsa",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054164,
+        "name": "Cserszegtomaj",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721404,
+        "name": "Dévaványa",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044487,
+        "name": "Szigethalom",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043946,
+        "name": "Tét",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721315,
+        "name": "Dombár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720780,
+        "name": "Földeák",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719644,
+        "name": "Jászkarajenő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044004,
+        "name": "Telki",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052639,
+        "name": "Fertőszentmiklós",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715558,
+        "name": "Szakoly",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720292,
+        "name": "Hajdúböszörmény",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044084,
+        "name": "Tát",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284908,
+        "name": "Héhalom",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044305,
+        "name": "Szomód",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718318,
+        "name": "Kunlapos",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717693,
+        "name": "Mérk",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714779,
+        "name": "Tiszadob",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042746,
+        "name": "Vonyarcvashegy",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054287,
+        "name": "Csengele",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046693,
+        "name": "Pannonhalma",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051535,
+        "name": "Helvécia",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055753,
+        "name": "Bácsborsód",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721418,
+        "name": "Derzsicsere",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050447,
+        "name": "Kecskéd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717656,
+        "name": "Mezőkovácsháza",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052894,
+        "name": "Felsőhalom",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721913,
+        "name": "Cigánd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050526,
+        "name": "Kartal",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718180,
+        "name": "Lászlótanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054945,
+        "name": "Bodajk",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047364,
+        "name": "Neszmély",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049380,
+        "name": "Kosárhegy",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047804,
+        "name": "Nagybaracska",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050406,
+        "name": "Kelebia",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046397,
+        "name": "Petesmalom",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053809,
+        "name": "Dány",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055730,
+        "name": "Badacsonytomaj",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717345,
+        "name": "Nagyhalász",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049875,
+        "name": "Kiskunmajsa",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715429,
+        "name": "Szeged",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052208,
+        "name": "Gomba",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715272,
+        "name": "Szihalom",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044475,
+        "name": "Szigetszentmiklós",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715005,
+        "name": "Taktaszada",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719637,
+        "name": "Jász-Nagykun-Szolnok",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044119,
+        "name": "Tarján",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054828,
+        "name": "Bóly",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715958,
+        "name": "Sajólád",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044195,
+        "name": "Tagosztály",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054863,
+        "name": "Bokod",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052419,
+        "name": "Galgahévíz",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043293,
+        "name": "Vác",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044567,
+        "name": "Szentmártonkáta",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716894,
+        "name": "Nyírtass",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284832,
+        "name": "Budapest XV. kerület",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716949,
+        "name": "Nyirántanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284827,
+        "name": "Budapest VII. keruelet",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044153,
+        "name": "Tápiószecső",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052500,
+        "name": "Fülöpszállás",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716935,
+        "name": "Nyíregyháza",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046345,
+        "name": "Pilisszántó",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044093,
+        "name": "Tass",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721239,
+        "name": "Eger",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052267,
+        "name": "Gindeletanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047619,
+        "name": "Nagymaros",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043047,
+        "name": "Vas megye",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054296,
+        "name": "Csemő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720287,
+        "name": "Hajdúhadház",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719260,
+        "name": "Kemecse",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047781,
+        "name": "Nagycenk",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050647,
+        "name": "Kápolnásnyék",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714546,
+        "name": "Tótkomlósi Tanyák",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717652,
+        "name": "Mezőkövesd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047871,
+        "name": "Murakeresztúr",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715975,
+        "name": "Ruzsiczkytanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048080,
+        "name": "Mihályi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053163,
+        "name": "Esztergom",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043318,
+        "name": "Úrkút",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044380,
+        "name": "Szob",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716946,
+        "name": "Nyírbéltek",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052023,
+        "name": "Gyöngyössolymos",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052069,
+        "name": "Gyenesdiás",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053502,
+        "name": "Dugdelpuszta",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055287,
+        "name": "Bátonyterenye",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722832,
+        "name": "Aranyág",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714490,
+        "name": "Tuzsér",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048291,
+        "name": "Mátranovák",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054352,
+        "name": "Császártöltés",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717936,
+        "name": "Magyardombegyházi Dűlő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047622,
+        "name": "Nagymányok",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047967,
+        "name": "Mohács",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043095,
+        "name": "Várpalota",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052574,
+        "name": "Fonyód",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714734,
+        "name": "Tiszanána",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714419,
+        "name": "Újszeged",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714449,
+        "name": "Újkígyós",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055563,
+        "name": "Balatonfűzfő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722424,
+        "name": "Bélapátfalva",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722057,
+        "name": "Borsodnádasd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044916,
+        "name": "Szank",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053971,
+        "name": "Csömör",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042441,
+        "name": "Zsombó",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049036,
+        "name": "Lábatlan",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721024,
+        "name": "Farkashegyi Szőlő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044607,
+        "name": "Szentkirály",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721189,
+        "name": "Elek",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721338,
+        "name": "Döge",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043927,
+        "name": "Tihany",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044774,
+        "name": "Székesfehérvár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055601,
+        "name": "Balassagyarmat",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042583,
+        "name": "Zalavár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716899,
+        "name": "Nyírpazony",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045144,
+        "name": "Sóskút",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046249,
+        "name": "Polgárdi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054809,
+        "name": "Bonyhád",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043448,
+        "name": "Újszilvás",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 713932,
+        "name": "Zagyvarékas",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720293,
+        "name": "Hajdú-Bihar",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048820,
+        "name": "Letenye",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717130,
+        "name": "Nagyszénás",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717853,
+        "name": "Mándok",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042824,
+        "name": "Visegrád",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721923,
+        "name": "Cibakháza",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051516,
+        "name": "Heréd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053682,
+        "name": "Diósjenő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046039,
+        "name": "Rabkertészet",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721444,
+        "name": "Demecser",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716877,
+        "name": "Nyulasszőllő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045076,
+        "name": "Sükösd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718653,
+        "name": "Kölcsei Kendergyár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043096,
+        "name": "Városrétidűlő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718897,
+        "name": "Kisléta",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717861,
+        "name": "Mályi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042925,
+        "name": "Veszprém megye",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714623,
+        "name": "Tömörkény",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721789,
+        "name": "Csenger",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3052381,
+        "name": "Gárdony",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714787,
+        "name": "Tiszabura",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718911,
+        "name": "Kisköre",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043889,
+        "name": "Tizenháromváros",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045411,
+        "name": "Segesd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3056424,
+        "name": "Adács",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044151,
+        "name": "Tápiószele",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055281,
+        "name": "Bátya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042974,
+        "name": "Verdungos",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718882,
+        "name": "Kismező",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3056445,
+        "name": "Abda",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054853,
+        "name": "Bölcske",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 7284838,
+        "name": "Budapest XXII. kerület",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043700,
+        "name": "Trombitásmalom",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722433,
+        "name": "Bekes County",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050997,
+        "name": "Fülöpjakab",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045298,
+        "name": "Soltvadkert",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055368,
+        "name": "Barcs",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716247,
+        "name": "Putnok",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044082,
+        "name": "Tatabánya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715593,
+        "name": "Szabolcs-Szatmár-Bereg",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054839,
+        "name": "Bolgártelep",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716282,
+        "name": "Pusztaföldvár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716793,
+        "name": "Ópályi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050088,
+        "name": "Kisbér",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719645,
+        "name": "Jászjákóhalma",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050901,
+        "name": "Jászszentlászló",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053283,
+        "name": "Ercsi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045294,
+        "name": "Solymár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050459,
+        "name": "Kazár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719678,
+        "name": "Jánoshida",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720295,
+        "name": "Hajdúbagos",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719965,
+        "name": "Hódmezővásárhely",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055901,
+        "name": "Apc",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046545,
+        "name": "Patyiház",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043019,
+        "name": "Vecsés",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051873,
+        "name": "Hajós",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 713872,
+        "name": "Zsellérföldek",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 718637,
+        "name": "Komádi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045643,
+        "name": "Salgótarján",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717449,
+        "name": "Nádudvar",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042569,
+        "name": "Zánka",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714791,
+        "name": "Tiszabezdéd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722278,
+        "name": "Biharnagybajom",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043034,
+        "name": "Vasúti Újlaktanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721309,
+        "name": "Dombrád",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049366,
+        "name": "Kőszeg",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721592,
+        "name": "Csongrád",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050927,
+        "name": "Jánossomorja",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044760,
+        "name": "Szekszárd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716343,
+        "name": "Porcsalma",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 713949,
+        "name": "Weinstocktanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715259,
+        "name": "Szikszó",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045487,
+        "name": "Sárvár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053297,
+        "name": "Enying",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715393,
+        "name": "Székkutas",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055069,
+        "name": "Berzence",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055686,
+        "name": "Baj",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716828,
+        "name": "Olaszliszka",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046396,
+        "name": "Pétfürdő",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053281,
+        "name": "Érd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721660,
+        "name": "Csikóslapostanya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042840,
+        "name": "Virághegy",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042941,
+        "name": "Vértesszőlős",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055030,
+        "name": "Bicske",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049519,
+        "name": "Komárom",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054597,
+        "name": "Bük",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046110,
+        "name": "Pusztagyimót Felső",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717016,
+        "name": "Németi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716968,
+        "name": "Nyékládháza",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050466,
+        "name": "Kavicsbánya",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055744,
+        "name": "Bács-Kiskun county",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 8063076,
+        "name": "Kuruc-domb",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043238,
+        "name": "Vajdamajor",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043671,
+        "name": "Türje",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719346,
+        "name": "Kaszaper",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722118,
+        "name": "Boldva",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047386,
+        "name": "Nemesvámos",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051829,
+        "name": "Halászi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047669,
+        "name": "Nagykáta",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3042580,
+        "name": "Zamárdi",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721316,
+        "name": "Domaszék",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 717642,
+        "name": "Mezőssytag",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 723041,
+        "name": "Abasár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719649,
+        "name": "Jászdózsa",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3043758,
+        "name": "Törtel",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054874,
+        "name": "Böhönye",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053109,
+        "name": "Farád",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722064,
+        "name": "Borsod-Abauj Zemplen county",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714487,
+        "name": "Tyukodi Újtelep",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044835,
+        "name": "Szászvár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714938,
+        "name": "Tarpa",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3045479,
+        "name": "Sásd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047206,
+        "name": "Ócsa",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719643,
+        "name": "Jászkisér",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3050909,
+        "name": "Jászárokszállás",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051718,
+        "name": "Harkány",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053876,
+        "name": "Csukásitanyák",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044141,
+        "name": "Tapolca",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3047229,
+        "name": "Nyúl",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049277,
+        "name": "Kozármisleny",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053432,
+        "name": "Dunavecse",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716906,
+        "name": "Nyírmártonfalva",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046888,
+        "name": "Oroszlány",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 721312,
+        "name": "Dombiratos",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054612,
+        "name": "Bugac",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3053438,
+        "name": "Dunaújváros",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055566,
+        "name": "Balatonfüred",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716796,
+        "name": "Ónod",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044809,
+        "name": "Szécsény",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 715466,
+        "name": "Szarvas",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 722802,
+        "name": "Arnót",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055827,
+        "name": "Ásványráró",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044470,
+        "name": "Szigetújfalu",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051512,
+        "name": "Herend",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044103,
+        "name": "Tárnok",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046700,
+        "name": "Pánd",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714776,
+        "name": "Tiszaeszlár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3055497,
+        "name": "Ballószög",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 714119,
+        "name": "Veresföld",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046546,
+        "name": "Páty",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720002,
+        "name": "Heves megye",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054434,
+        "name": "Csákvár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3046940,
+        "name": "Orgovány",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3048438,
+        "name": "Margitmajor",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 720276,
+        "name": "Hajdúszoboszló",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3049880,
+        "name": "Kiskunhalas",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054646,
+        "name": "Budaörs",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3044062,
+        "name": "Tázlár",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 716905,
+        "name": "Nyírmeggyes",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 719482,
+        "name": "Kálvária",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3051476,
+        "name": "Hévízgyörk",
+        "state": "",
+        "country": "HU"
+    },
+    {
+        "id": 3054638,
+        "name": "Budapest",
+        "state": "",
+        "country": "HU"
+    }
+]

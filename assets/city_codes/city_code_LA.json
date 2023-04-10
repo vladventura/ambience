@@ -1,0 +1,416 @@
+[
+    {
+        "id": 1655078,
+        "name": "Muang Xay",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1655199,
+        "name": "Thakhèk",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1653814,
+        "name": "Phou Pialông",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1655192,
+        "name": "Muang Không",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1663526,
+        "name": "Ban Houayxay",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1655561,
+        "name": "Louangnamtha",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1657818,
+        "name": "Champasak",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1655177,
+        "name": "Muang Long",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1664331,
+        "name": "Ban Xékaman",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1663064,
+        "name": "Ban Khankeung",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1653894,
+        "name": "Phôngsali",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1665046,
+        "name": "Attapeu",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1655087,
+        "name": "Vangviang",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1904391,
+        "name": "Ban Houakhoua",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 7648330,
+        "name": "Viengthong",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1657114,
+        "name": "Houaphan",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 7648299,
+        "name": "Sanaxy",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1655140,
+        "name": "Pakxan",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1654379,
+        "name": "Pakse",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 7648310,
+        "name": "Huameung",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1664013,
+        "name": "Ban Houakèng",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 7648323,
+        "name": "Viengxay",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1653316,
+        "name": "Savannakhet",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1655094,
+        "name": "Ban Thatèng",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1655123,
+        "name": "Muang Phônsavan",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1661950,
+        "name": "Ban Nahin",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1662897,
+        "name": "Ban Khouaphan",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 7648072,
+        "name": "Dak Cheung",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1651944,
+        "name": "Vientiane",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1655562,
+        "name": "Luang Namtha",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1659990,
+        "name": "Lamam",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1662615,
+        "name": "Ban Lao",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1659203,
+        "name": "Ban Sithan Nua",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1653315,
+        "name": "Khouèng Savannakhét",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1661065,
+        "name": "Ban Nathong",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1655842,
+        "name": "Lao People’s Democratic Republic",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1655112,
+        "name": "Muang Sanakham",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1655139,
+        "name": "Pakxong",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1957148,
+        "name": "Ban Xangkhong",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1656538,
+        "name": "Khammouan",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1652210,
+        "name": "Xaignabouli",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1655558,
+        "name": "Luang Prabang Province",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1655559,
+        "name": "Luang Prabang",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1657897,
+        "name": "Borikhan",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1652238,
+        "name": "Vientiane Province",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1658343,
+        "name": "Ban Toun",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1655104,
+        "name": "Ban Soukhouma",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1904616,
+        "name": "Khouèng Bokèo",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1652077,
+        "name": "Xiangkhouang",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1957226,
+        "name": "Ban Louangnamtha",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 7648328,
+        "name": "Xamtay",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1654491,
+        "name": "Khouèng Oudômxai",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1655124,
+        "name": "Muang Phôn-Hông",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1904443,
+        "name": "Ban Tinpha",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1665045,
+        "name": "Attapu",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1655186,
+        "name": "Ban Pakla",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1652203,
+        "name": "Xam Nua",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1655212,
+        "name": "Muang Hinboun",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1904617,
+        "name": "Bolikhamxai",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1655244,
+        "name": "Ban Mounlapamôk",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1904618,
+        "name": "Vientiane Prefecture",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1956309,
+        "name": "Muang Nalè",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1655201,
+        "name": "Muang Kènthao",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1952156,
+        "name": "Ban Phonsavan",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1654401,
+        "name": "Pakkading",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1655122,
+        "name": "Phônthong",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1659223,
+        "name": "Ban Sikhai",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1655084,
+        "name": "Sainyabuli",
+        "state": "",
+        "country": "LA"
+    },
+    {
+        "id": 1653333,
+        "name": "Salavan",
+        "state": "",
+        "country": "LA"
+    }
+]
