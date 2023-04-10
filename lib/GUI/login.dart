@@ -76,7 +76,6 @@ class _LoginApp extends State<LoginApp> {
 
   void _login(String usrname, String passwrd) async {
     bool success = false; /* BOOLEAN FUNCTION PART GOES HERE */
-    FireHandler.initialize();
     FireHandler hand = FireHandler();
     success = await hand.fireSignIn(usrname,passwrd);
     if (success) {
@@ -89,8 +88,12 @@ class _LoginApp extends State<LoginApp> {
     }
   }
 
-  void _signup(String usrname, String passwrd) {
+  void _signup(String usrname, String passwrd) async{
     bool success = true; /* BOOLEAN FUNCTION PART GOES HERE */
+    FireHandler hand = FireHandler();
+    //commented out so it doesn't spam firebase with new accounts
+    //to-do: add accurate errors.
+    //success = await hand.fireSignUp(usrname,passwrd);
 
     if (success) {
       Navigator.pushNamed(context, '/Home');
