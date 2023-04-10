@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'dart:io';
 import 'package:ambience/GUI/location_request.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
@@ -18,7 +19,13 @@ void main(List<String> args) async {
   dotenv.testLoad(fileInput: "APIKEY=91c86752769af03ca919b23664114cda");
   //if not args passed, GUI MODE
   if (args.isEmpty) {
-    runApp(const MyApp());
+    runZonedGuarded(() {
+      WidgetsFlutterBinding.ensureInitialized();
+      runApp(const MyApp());
+    }, (error, stack) {
+      print(error);
+      print(stack);
+    });
   }
   //if there are command line args, GUI-Less mode
   else {
@@ -40,7 +47,7 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
-        initialRoute: '/',
+        initialRoute: '/LocationRequest',
         routes: {
           '/': (context) => const LoginApp(),
           '/Home': (context) => const MainApp(),
