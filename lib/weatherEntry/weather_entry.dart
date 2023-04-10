@@ -1,9 +1,27 @@
+// ignore_for_file: constant_identifier_names
+
 import 'package:ambience/constants.dart' as constants;
 import 'package:flutter/material.dart';
 import 'package:ambience/storage/storage.dart';
 import 'dart:convert';
 
-enum WeatherCondition { clear, cloudy, rain, snow, thunderstorm }
+enum WeatherCondition {
+  Clear,
+  Clouds,
+  Rain,
+  Snow,
+  Thunderstorm,
+  Drizzle,
+  Mist,
+  Smoke,
+  Haze,
+  Dust,
+  Fog,
+  Sand,
+  Ash,
+  Squall,
+  Tornado
+}
 
 enum DayOfWeek {
   sunday,
@@ -21,31 +39,19 @@ class WeatherEntry {
   TimeOfDay endTime = const TimeOfDay(hour: 23, minute: 59);
   DayOfWeek dayOfWeek = DayOfWeek.friday;
   String wallpaperFilepath = "";
-  WeatherCondition weatherCondition = WeatherCondition.clear;
+  WeatherCondition weatherCondition = WeatherCondition.Clear;
   String idSchema = 'ambience_daemon_';
   String city = 'london';
 
-  WeatherEntry(
-      TimeOfDay startTime,
-      TimeOfDay endTime,
-      DayOfWeek dayOfWeek,
-      String wallpaperFilepath,
-      WeatherCondition weatherCondition,
-      String city) {
-    this.startTime = startTime;
-    this.endTime = endTime;
-    this.weatherCondition = weatherCondition;
-    this.dayOfWeek = dayOfWeek;
-    this.wallpaperFilepath = wallpaperFilepath;
-    this.idSchema +=
-        DateTime.now().millisecondsSinceEpoch.toString(); // unique id
-    this.city = city;
+  WeatherEntry(this.startTime, this.endTime, this.dayOfWeek,
+      this.wallpaperFilepath, this.weatherCondition, this.city) {
+    idSchema += DateTime.now().millisecondsSinceEpoch.toString();
   }
 
   // This is what the UI should call to add a new rule, eg (pulled from test code of main):
   // TimeOfDay time = const TimeOfDay(hour: 20, minute: 50);
   // DayOfWeek dow = DayOfWeek.friday;
-  // WeatherCondition wc = WeatherCondition.clear;
+  // WeatherCondition wc = WeatherCondition.Clear;
   // String testPaper = "pathtowallpaper.jpg";
   // String city = 'New York';
   // WeatherEntry mockObj = WeatherEntry(time, time, dow, testPaper, wc, city);
@@ -68,7 +74,7 @@ class WeatherEntry {
       Map<String, dynamic> newRuleset = {};
       newRuleset[newEntry.idSchema] = newEntry;
       String rulesetToJson = jsonEncode(newRuleset);
-      store.writeAppDocFile(rulesetToJson, constants.jsonPath);
+      await store.writeAppDocFile(rulesetToJson, constants.jsonPath);
     }
   }
 
@@ -105,17 +111,27 @@ class WeatherEntry {
     }
   }
 
+  static Future<WeatherEntry> getRule(String idSchema) async {
+    Storage store = Storage();
+    var jsonDecoded = await store.readAppDocJson(constants.jsonPath);
+    if (jsonDecoded is Map<String, dynamic>) {
+      // the file exists so we can delete this entry
+      Map<String, dynamic> temp = jsonDecoded;
+      return temp[idSchema];
+    } else {
+      //placeholder
+      throw "file error";
+    }
+  }
+
   WeatherEntry.fromJson(Map<String, dynamic> json) {
     startTime = TimeOfDay(
-        hour: int.parse(json['startTimeHour']),
-        minute: int.parse(json['startTimeMinute']));
-    endTime = TimeOfDay(
-        hour: int.parse(json['endTimeHour']),
-        minute: int.parse(json['endTimeMinute']));
-    dayOfWeek = DayOfWeek.values[int.parse(json['dayOfWeek'])];
+        hour: (json['startTimeHour']), minute: (json['startTimeMinute']));
+    endTime =
+        TimeOfDay(hour: (json['endTimeHour']), minute: (json['endTimeMinute']));
+    dayOfWeek = DayOfWeek.values[(json['dayOfWeek'])];
     wallpaperFilepath = json['wallpaperFilepath'];
-    weatherCondition =
-        WeatherCondition.values[int.parse(json['weatherCondition'])];
+    weatherCondition = WeatherCondition.values[(json['weatherCondition'])];
     idSchema = json['idSchema'];
     city = json['city'];
   }
@@ -131,4 +147,10 @@ class WeatherEntry {
         'idSchema': idSchema,
         'city': city
       };
+  bool compareWeather(String incomingWeather) {
+    if (incomingWeather == weatherCondition.name) {
+      return true;
+    }
+    return false;
+  }
 }

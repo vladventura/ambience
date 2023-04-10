@@ -13,8 +13,7 @@ import "package:ambience/GUI/login.dart";
 import "package:ambience/GUI/main screen.dart";
 
 void main(List<String> args) async {
-  // Ideally, we have already .env files set up
-  dotenv.testLoad(fileInput: "APIKEY=91c86752769af03ca919b23664114cda");
+  await dotenv.load();  
   //if not args passed, GUI MODE
   if (args.isEmpty) {
     runApp(const MyApp());
@@ -90,14 +89,13 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     String? cityInput;
-
-    TimeOfDay time = const TimeOfDay(hour: 20, minute: 50);
-    DayOfWeek dow = DayOfWeek.friday;
-    WeatherCondition wc = WeatherCondition.clear;
-    String testPaper = "C:\\Users\\bryan\\Downloads\\test.jpg";
+    TimeOfDay time = const TimeOfDay(hour: 23, minute: 45);
+    DayOfWeek dow = DayOfWeek.tuesday;
+    WeatherCondition wc = WeatherCondition.Clouds;
+    String curr = Directory.current.path;
+    String testPaper = "$curr/test.jpg";
     String city = 'New York';
     WeatherEntry mockObj = WeatherEntry(time, time, dow, testPaper, wc, city);
-    // add new rule to json
     WeatherEntry.createRule(mockObj);
     return Scaffold(
       appBar: AppBar(

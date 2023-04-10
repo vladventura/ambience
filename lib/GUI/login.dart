@@ -1,5 +1,6 @@
 // log-in screen for fire branch functionality to work
 import 'package:flutter/material.dart';
+import 'package:ambience/firebase/file_hander.dart';
 import 'dart:io';
 
 String current = Directory.current.path;
@@ -73,9 +74,11 @@ class _LoginApp extends State<LoginApp> {
   final TextEditingController _nameController = TextEditingController();
   final TextEditingController _passController = TextEditingController();
 
-  void _login(String usrname, String passwrd) {
+  void _login(String usrname, String passwrd) async {
     bool success = false; /* BOOLEAN FUNCTION PART GOES HERE */
-
+    FireHandler.initialize();
+    FireHandler hand = FireHandler();
+    success = await hand.fireSignIn(usrname,passwrd);
     if (success) {
       Navigator.pushNamed(context, '/Home');
     } else {
