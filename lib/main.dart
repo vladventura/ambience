@@ -6,15 +6,17 @@ import 'package:ambience/weatherEntry/weather_entry.dart';
 import 'package:flutter/material.dart';
 import 'package:ambience/api/weather.dart';
 import "package:ambience/daemon/daemon.dart";
-
+import 'package:ambience/Firebase/fire_handler.dart';
 import "package:ambience/GUI/create.dart";
 import "package:ambience/GUI/list.dart";
 import "package:ambience/GUI/login.dart";
 import "package:ambience/GUI/main screen.dart";
 
+
 void main(List<String> args) async {
-  // Ideally, we have already .env files set up
-  dotenv.testLoad(fileInput: "APIKEY=91c86752769af03ca919b23664114cda");
+  await dotenv.load();
+  FireHandler.initialize();
+
   //if not args passed, GUI MODE
   if (args.isEmpty) {
     runApp(const MyApp());
