@@ -104,8 +104,8 @@ Once installed, install the GCC compiler tool by entering the following command:
 
 ### Visual Studio 2019 Build Tools
 As of right now, Flutter requires us to use the 2019 version of Build Tools. At the time of writing, We know of at least two different
-computers that are using version 16.11.25 specifically, and they've had no complaints from Flutter yet. Because of this, we'll recommend to
-install that version 16.11.22.
+computers that are using version 16.11.22 specifically, and they've had no complaints from Flutter yet. Because of this, we'll recommend to
+install that version.
 
 Feel more than free, however, to try any version above it, as long as it's 2019 Build Tools. Please choose your preferred Build Tools version
 number from [their release history](https://learn.microsoft.com/en-us/visualstudio/releases/2019/history#release-dates-and-build-numbers).
