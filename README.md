@@ -92,7 +92,7 @@ This should result in having a new directory with this path: ```~/android-studio
 These tools are needed for Flutter to properly make and build its dependencies.
 
 ### C languages Tools: Windows
-Msys2, the tool we're recommending here, only works with Windows 8.1 or above.
+[Msys2](), the tool we're recommending here, only works with Windows 8.1 or above.
 For older versions of Windows, please look at the separate [mingw](https://www.mingw-w64.org/) installer.
 
 - Download the installer [here](https://github.com/msys2/msys2-installer/releases/download/2023-01-27/msys2-x86_64-20230127.exe).
@@ -101,6 +101,17 @@ For older versions of Windows, please look at the separate [mingw](https://www.m
 
 Once installed, install the GCC compiler tool by entering the following command: <br />
 `$ pacman -S mingw-w64-ucrt-x86_64-gcc`
+
+### Visual Studio 2019 Build Tools
+As of right now, Flutter requires us to use the 2019 version of Build Tools. At the time of writing, We know of at least two different
+computers that are using version 16.11.25 specifically, and they've had no complaints from Flutter yet. Because of this, we'll recommend to
+install that version 16.11.22.
+
+Feel more than free, however, to try any version above it, as long as it's 2019 Build Tools. Please choose your preferred Build Tools version
+number from [their release history](https://learn.microsoft.com/en-us/visualstudio/releases/2019/history#release-dates-and-build-numbers).
+
+- Run the downloaded installer
+- After the first setup ends, a new screen will show up prompting to either download while installing, or download then install dependencies.
 
 ### C languages Tools: Linux
 Instead of Msys2, we use the build-essentials bundle. xvfb is used in Linux to 
