@@ -35,7 +35,7 @@ void main(List<String> args) async {
     if (args[0] == 'boot') {
       Daemon.bootWork();
     } else {
-      String idSchema = args[0];
+      String idSchema = args[1];
       var ruleObj = await WeatherEntry.getRule(idSchema);
       Daemon.weatherCheck(ruleObj);
     }
