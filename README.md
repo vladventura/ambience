@@ -29,7 +29,7 @@ Google's cross-platform SDK that allows to create applications for multiple plat
 Download the latest stable build of Flutter for your current operating system [here](https://docs.flutter.dev/get-started/install/).
 
 ### Flutter installation: Windows
-- Extract the contents of the downloaded zip file, and copy them to a folder of your preference. It is recommended that you extract it in your user's root folder.
+- Extract the contents of the downloaded Flutter zip file, and copy them to a folder of your preference. It is recommended that you extract it in your user's root folder.
 Usually, the path is in the shape of ```C:\Users\%user_name%\```. This should result in having a new folder with this path: ```C:\Users\%user_name%\flutter```.
 
 **Do not extract the zip file in a folder that requires special permissions. This will make Flutter only be accessible by elevated permissions shells.**
@@ -47,7 +47,7 @@ Usually, the path is in the shape of ```C:\Users\%user_name%\```. This should re
 The command will check the status of the Flutter installation, and will inform you if any needed software or tools are missing in bold text.
 
 ### Flutter installation: Linux
-- Extract the contents of the downloaded zip file, and copy them to a directory of your preference. It is recommended that you extract it in your user's root directory.
+- Extract the contents of the downloaded Flutter zip file, and copy them to a directory of your preference. It is recommended that you extract it in your user's root directory.
 A shorthand for this path is usually ```~/```. This should result in having a new directory with this path: ```~/flutter```.
 
 **Do not extract the zip file in a directory that requires special permissions. This will make Flutter only be accessible with elevated permissions, such as sudo.**
@@ -67,7 +67,7 @@ Download the latest stable version of Android Studio for your current operating 
 
 ### Android Studio installation: Windows
 
-- Execute the downloaded installer
+- Execute the downloaded Android Studio installer
 - Follow the instructions provided by the setup program
 - If you wish to run the Android version of Ambience on a virtual Android device, click the check-box for the "Android Virtual Device" option.
 - **It is recommended that you chose the default installation path that the setup tool selects.**
@@ -80,18 +80,18 @@ Download the latest stable version of Android Studio for your current operating 
 **For 64-bit Fedora users:**
 - install the same 32-bit libraries using the following command: <br />
   `sudo yum install zlib.i686 ncurses-libs.i686 bzip2-libs.i686`
-  
-- Extract the contents of the downloaded zip file, and copy them to a directory of your preference. It is recommended that you extract it in your user's root directory.
+
+After installing the missing dependencies/libraries, if applicable:
+
+- Extract the contents of the downloaded Android Studio zip file, and copy them to a directory of your preference. It is recommended that you extract it in your user's root directory.
 This should result in having a new directory with this path: ```~/android-studio/```.
-
 - Run the ```studio.sh``` script inside the ```bin/``` directory of the extracted file. Ex: ```~/android_studio/bin/studio.sh```.
-
 - Follow the instructions provided by the setup program.
 
 ## C languages Tools
 These tools are needed for Flutter to properly make and build its dependencies.
 
-## C languages Tools: Windows
+### C languages Tools: Windows
 Msys2, the tool we're recommending here, only works with Windows 8.1 or above.
 For older versions of Windows, please look at the separate [mingw](https://www.mingw-w64.org/) installer.
 
@@ -102,12 +102,12 @@ For older versions of Windows, please look at the separate [mingw](https://www.m
 Once installed, install the GCC compiler tool by entering the following command: <br />
 `$ pacman -S mingw-w64-ucrt-x86_64-gcc`
 
-## C languages Tools: Linux
+### C languages Tools: Linux
 Instead of Msys2, we use the build-essentials bundle. xvfb is used in Linux to 
 
 - In a terminal window, run `sudo apt install build-essential`
 
-## xbvf for Linux
+### xbvf for Linux
 The default Linux behavior for Flutter applictions is draw a Window. Cron jobs run in a "minimalistic" terminal enviroment with no display, which doesn't allow Flutter
 to render since it cannot find a display. Xfvb comes in by giving a dummy display to make everyone happy.
 
@@ -206,6 +206,8 @@ be generated, and the installable .apk files (several are made for different arc
 To build an Android Appbundle (to distribute through Google Play Store or any other Android storefronts), please use ```flutter build appbundle```.
 A new build directory will be generated, and the appbundle will be in the path ```/build/app/outputs/bundle/release/```.
 
+More information about distributing Flutter apps in Android can be found [here](https://docs.flutter.dev/deployment/android)
+
 # Compatibility
 Currently, our project is available for Windows, Linux, and Android.
 We decided to exclude the Apple operating systems MacOS and iOS because of the following reasons:
@@ -224,5 +226,5 @@ This section has information that is relevant to the project, but had no space f
 Does NOT work in debug mode (the platform specific daemon manager cannot find executable in debug)!
 Instead, for the time being, we've opted to make distribution builds to test that they're working.
 
-To make a distribution bundle, please see [Distribution](#distribution).
+To make a distribution build, please see [Distribution](#distribution).
 
