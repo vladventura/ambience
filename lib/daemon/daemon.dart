@@ -109,9 +109,9 @@ class Daemon {
     //daemon mode is always normal for daemonspawner
     const String daemonMode = 'n';
     if (Platform.isWindows) {
-      File checkExist = File("'$current\\winTaskSetter.ps1'");
+      File checkExist = File("$current\\winTaskSetter.ps1");
       if (!(await checkExist.exists())) {
-        throw ("winTaskSetter.ps1 does not exist");
+        throw ("winTaskSetter.ps1 at ${checkExist.path}");
       }
       //Turn time in a 24 hour formatted string that is acceptable by task scheduler command
       String formatedTime =

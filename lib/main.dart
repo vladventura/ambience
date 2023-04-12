@@ -22,7 +22,7 @@ void main(List<String> args) async {
 
   //======================================
   //if not args passed, GUI MODE
-  if (args.isEmpty) {
+  if(args.isEmpty) {
     //here for testing reasons only------
     //Daemon.bootWork();
     //-----------------------------------
