@@ -92,7 +92,7 @@ This should result in having a new directory with this path: ```~/android-studio
 These tools are needed for Flutter to properly make and build its dependencies.
 
 ### C languages Tools: Windows
-[Msys2](), the tool we're recommending here, only works with Windows 8.1 or above.
+[Msys2](https://www.msys2.org/), the tool we're recommending here, only works with Windows 8.1 or above.
 For older versions of Windows, please look at the separate [mingw](https://www.mingw-w64.org/) installer.
 
 - Download the installer [here](https://github.com/msys2/msys2-installer/releases/download/2023-01-27/msys2-x86_64-20230127.exe).
