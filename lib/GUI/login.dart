@@ -16,8 +16,6 @@ class LoginMsg extends StatelessWidget {
     required this.visibleLog,
     required this.errMsg});
 
-  // change to accept custom error messages from firebase
-
   Text _loginFail(String msg) { 
     return Text(
       msg,

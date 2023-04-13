@@ -166,7 +166,61 @@ class _AmPmToggle extends State<AmPmToggle> {
 
 }
 
-class CreateApp extends StatelessWidget {
+class CreateMsg extends StatelessWidget {
+  final bool visibleErr;
+
+  String errMsg = "";
+
+  int type = 0;
+
+  CreateMsg({
+    super.key,
+    required this.visibleErr,
+    required this.type});
+
+  // change to accept custom error messages from firebase
+
+  Text _createFail(int type) {
+
+    if (type == 1) {
+      errMsg = "Warning: Please fill all of the fields correctly";
+    } else if (type == 2) {
+      errMsg = "Warning: Wallpaper's conditions conflict with an existing wallpaper";
+    } else {
+      errMsg = "Warning: Incorrect information entered";
+    }
+
+    return Text(
+      errMsg,
+      style: TextStyle(
+        color: Colors.red,
+        fontWeight: FontWeight.bold,
+        fontSize: 20,
+      ),
+      textAlign: TextAlign.center,
+    );
+  }
+
+  @override
+  Widget build(BuildContext context) {
+
+    return Container(
+      // needs a "stateful widget" to work properly and change states
+      alignment: Alignment.topCenter,
+      padding: const EdgeInsets.only(right: 24),
+      child: Column(
+        children: [ // change to have only one error message, as there's gonna be a whole lotta messages
+          Visibility(
+            visible: visibleErr,
+            child: _createFail(type), // this will be updated as the error message changes
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+class CreateApp extends StatefulWidget {
   CreateApp({super.key, required this.contextWallpaper, required this.intention});
 
   final WallpaperObj contextWallpaper;
@@ -175,6 +229,12 @@ class CreateApp extends StatelessWidget {
   // 2 = copy from existing wallpaper, 
   // 3 = edit existing wallpaper
   final int intention; 
+
+ @override
+  State<CreateApp> createState() => _CreateApp();
+}
+
+class _CreateApp extends State<CreateApp> {
 
   bool isNumeric(String s) {
   if(s == null) {
@@ -185,8 +245,8 @@ class CreateApp extends StatelessWidget {
   } 
 
   bool checkFields(String hour, String minute, String file, String cond) { // confirm all fields are filled
-    if(isNumeric(hour)
-      && isNumeric(minute) && minute.length == 2 // confirm 00 format
+    if(isNumeric(hour) && int.parse(hour) <= 12 && int.parse(hour) > 00 // confirm format, 1 to 12 hours 
+      && isNumeric(minute) && minute.length == 2 && int.parse(minute) <= 59 // confirm 00 format, 00 to 59 minutes
       && cond != ""
       && file != "") {     
         return true;
@@ -196,37 +256,27 @@ class CreateApp extends StatelessWidget {
     }
   }
 
-  Future<void> showWarningWindow(BuildContext context, int type) {
+  String chosenFile = "";
 
-    Text alertMsg = Text("");
+  String chosenCond = "";
 
-    if(type == 1){
-      alertMsg = Text("Warning: Some fields are still empty");
-    } else if(type == 2){
-      alertMsg = Text("Warning: Wallpaper's conditions conflict with an existing wallpaper");
-    } else {
-      alertMsg = Text("Warning: Incorrect information entered");
-    }
+  String chosenMinute = "";
 
-    return showDialog(
-      context: context, 
-      builder: (context) {
-        return AlertDialog(
-          title: Text("Alert"),
-          content: alertMsg,
-          actions: [
-            TextButton(onPressed: null, child: Text("Ok"))
-          ]
-        );
-      });
-  }
+  String chosenHour = "";
+
 
   //function that performs the final action before closing the create page
   //decides what to do based on the intention variable
-  void confirmCreation(int intend, WallpaperObj origObj, WallpaperObj newObj){
+  bool confirmCreation(int intend, WallpaperObj origObj, WallpaperObj newObj){
+
+    // return true if created successfully
+    // return false if new wallpaper is a duplicate
+
     switch(intend) {
       case 1:
         // use newObj, create new wallpaper entry(s) with it
+
+        return true; // temp bool
 
         break;
 
@@ -235,16 +285,20 @@ class CreateApp extends StatelessWidget {
         // use newObj, create new wallpaper entry(s) with it,
         // keep original wallpaper entry(s) intact.
 
+        return true; // temp bool
+
         break;
 
       case 3:
         // delete origObj's wallpaper entries,
         // create new wallpaper entries with newObj,
 
+        return true; // temp bool
+
         break;
 
       default:
-        return;
+        return false;
     }
   }
 
@@ -252,27 +306,19 @@ class CreateApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
 
-    String chosenFile = "";
-
-    String chosenCond = "";
-
-    String chosenMinute = "";
-
-    String chosenHour = "";
+    bool _visibleErr = false;
+    int errType = 0;
 
     TextEditingController hourController = TextEditingController(text: chosenHour);
     TextEditingController minuteController = TextEditingController(text: chosenMinute);
 
-    if(intention > 1){
-      chosenFile = contextWallpaper.filePath;
+    if(widget.intention > 1){
+      chosenFile = widget.contextWallpaper.filePath;
 
-      chosenCond = contextWallpaper.cond;
+      chosenCond = widget.contextWallpaper.cond;
 
-      chosenHour = contextWallpaper.time;
-      chosenMinute = contextWallpaper.time;
-
-      hourController = TextEditingController(text: chosenHour);
-      minuteController = TextEditingController(text: chosenMinute);
+      chosenHour = widget.contextWallpaper.time;
+      chosenMinute = widget.contextWallpaper.time;
     }
 
     Widget wallpaperSection = Expanded(
@@ -280,7 +326,7 @@ class CreateApp extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Padding(padding: EdgeInsets.only(left: 32)),
-              WallpaperChooser(chosen: contextWallpaper),
+              WallpaperChooser(chosen: widget.contextWallpaper),
               Padding(padding: EdgeInsets.only(right: 32)),
             ],
           ),
@@ -417,7 +463,8 @@ class CreateApp extends StatelessWidget {
       ),
     );
 
-    Widget buttonMenu = Container(
+    Container buttonMenu() {
+    return Container(
       padding: const EdgeInsets.symmetric(horizontal: 64, vertical: 32),    
       child: Row(
         children: [
@@ -436,9 +483,20 @@ class CreateApp extends StatelessWidget {
           Spacer(),
           OutlinedButton(onPressed: () {
                     if(checkFields(hourController.text, minuteController.text, chosenFile, chosenCond)){
-                        confirmCreation(intention, contextWallpaper, WallpaperObj()); // add fields to newWallpaperObj
+                        if(confirmCreation(widget.intention, widget.contextWallpaper, WallpaperObj())){ // add fields to newWallpaperObj
+                          Navigator.pop(context); // return to previous menu
+                        }
+                        else {
+                          setState( (){
+                        errType = 2;
+                        _visibleErr = true;});
+                        } 
                       }
-                    else {showWarningWindow(context, 1);}
+                    else { setState( (){
+                        errType = 1;
+                        _visibleErr = true;}
+                        );
+                      }
                     },
                     child: const Text("Confirm"),
                     style: ButtonStyle(
@@ -450,19 +508,25 @@ class CreateApp extends StatelessWidget {
         ],
       ),
     );
+    }
 
     return MaterialApp(
       home: Scaffold(
-        body:Column(
+        body: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             dayButtonsSection,
             timeAndWeather,
             wallpaperSection,
-            buttonMenu,
+            buttonMenu(),
+            CreateMsg(
+            visibleErr: _visibleErr,
+            type: errType,
+            )
           ],
         ),
         ),
       );
   }
+
 }
