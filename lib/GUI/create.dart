@@ -1,7 +1,13 @@
 // ignore_for_file: prefer_const_literals_to_create_immutables, avoid_unnecessary_containers, prefer_const_constructors, sort_child_properties_last, unused_import, sized_box_for_whitespace
 
+
+// TO DO: 
+//  make data persistent past setstate() calls
+//  probably gonna have to change WallpaperObj to accept WallpaperEntry data
+
 import 'dart:math';
 
+import 'package:ambience/api/weather.dart';
 import 'package:flutter/material.dart';
 import 'package:path/path.dart' as path;
 import 'dart:io';
@@ -27,16 +33,44 @@ final ButtonStyle dayToggleButton = OutlinedButton.styleFrom(
 
 
 class WeatherDropMenu extends StatefulWidget {
-  const WeatherDropMenu({super.key});
+  WeatherDropMenu({super.key});
+
+  List<IconData> weathers = <IconData>[
+    Icons.sunny, 
+    Icons.cloud,
+    Icons.water_drop,
+    Icons.thunderstorm, 
+    Icons.cloudy_snowing, 
+  ];
+
+   //for translating the icondata to a more...readable value
+  Map translatedWeathers = {
+    Icons.sunny:"Sunny",
+    Icons.cloud:"Cloudy",
+    Icons.water_drop:"Rain",
+    Icons.thunderstorm:"Thunder",
+    Icons.cloudy_snowing:"Snowing"};
+
+  IconData weatherVal = Icons.hourglass_bottom;
+
+  // returns a translated value for the current weather condition
+  String getCondition() { 
+    return translatedWeathers[weatherVal];
+  }
+
 
  @override
   State<WeatherDropMenu> createState() => _WeatherDropMenuState();
 }
 
 class WallpaperChooser extends StatefulWidget {
-  WallpaperObj chosen;
 
-  WallpaperChooser({ Key? key, required this.chosen}): super(key: key);
+  String currentFile = "";
+
+  WallpaperChooser({ Key? key, required this.currentFile}): super(key: key);
+
+  String getCurrentFile(){ return currentFile; }
+  void setCurrentFile(String s){ currentFile = s; }
 
   @override
   State<WallpaperChooser> createState() => _WallpaperChooser();
@@ -67,16 +101,6 @@ Future<String> chooseFile() async {
 }
 
 class _WeatherDropMenuState extends State<WeatherDropMenu> {
-      
-  List<IconData> weathers = <IconData>[
-    Icons.sunny, 
-    Icons.cloud,
-    Icons.shower,
-    Icons.thunderstorm, 
-    Icons.cloudy_snowing, 
-  ];
-
-  IconData weatherVal = Icons.hourglass_bottom;
 
   @override
   Widget build(BuildContext context) {
@@ -84,14 +108,14 @@ class _WeatherDropMenuState extends State<WeatherDropMenu> {
             alignment: Alignment.topCenter,
             padding: EdgeInsets.only(right: 24),
             child: DropdownButton<IconData>(
-              icon: Icon(weatherVal), //placeholder icon value for now
+              icon: Icon(widget.weatherVal), //placeholder icon value for now
               iconSize: 64,
               onChanged: (IconData? newVal) {
                 setState(() {
-                  weatherVal = newVal!;
+                  widget.weatherVal = newVal!;
                 });
               }, // update current weather value
-              items: weathers.map<DropdownMenuItem<IconData>>((IconData value) {
+              items: widget.weathers.map<DropdownMenuItem<IconData>>((IconData value) {
                 return DropdownMenuItem<IconData>(
                   value: value,
                   child: Icon(value),
@@ -108,24 +132,22 @@ class _WallpaperChooser extends State<WallpaperChooser> {
   @override
   Widget build(BuildContext context) {
 
-    Widget img = Image.file(
-        File(widget.chosen.filePath),
-        fit: BoxFit.fitHeight,);
+    Widget img = checkWallpaper(widget.currentFile);
 
     return Expanded(
-    child: IconButton( // placeholder, retrieve wallpaper image here
-      icon: img,
-        onPressed: () async { // updates the wallpaper to be the newly selected image
-        widget.chosen.filePath = await chooseFile();
-        imageCache.clear();
-        imageCache.clearLiveImages();
-        img = Image.file(
-        File(widget.chosen.filePath),
-        fit: BoxFit.fitHeight,);
-        setState(() {});
-      }, //open file explorer here
-    ),
-  );
+      child: InkWell(
+        onTap: () async {
+          // updates the wallpaper to be the newly selected image
+          widget.currentFile = await chooseFile();
+          imageCache.clear();
+          imageCache.clearLiveImages();
+          checkWallpaper(widget.currentFile);
+          setState(() {});
+        },
+        child: Container(
+            child: img,
+        )),
+    );
   }
 }
 
@@ -220,6 +242,24 @@ class CreateMsg extends StatelessWidget {
   }
 }
 
+Widget checkWallpaper(String str) {
+
+  if(File(str).existsSync()) {
+    return Expanded(
+      child: Image.file(
+        File(str),
+        fit: BoxFit.fitHeight,), // placeholder, retrieve wallpaper image here
+    );
+  } else {
+    return Container(
+            alignment: Alignment.center,
+            child:Expanded(
+            child: const Text("\t No wallpaper currently displayed \t"),
+            )
+          );
+  }
+}
+
 class CreateApp extends StatefulWidget {
   CreateApp({super.key, required this.contextWallpaper, required this.intention});
 
@@ -238,6 +278,7 @@ class _CreateApp extends State<CreateApp> {
 
   bool isNumeric(String s) {
   if(s == null) {
+    print("was not numeric\n");
     return false;
   }
 
@@ -245,16 +286,26 @@ class _CreateApp extends State<CreateApp> {
   } 
 
   bool checkFields(String hour, String minute, String file, String cond) { // confirm all fields are filled
-    if(isNumeric(hour) && int.parse(hour) <= 12 && int.parse(hour) > 00 // confirm format, 1 to 12 hours 
-      && isNumeric(minute) && minute.length == 2 && int.parse(minute) <= 59 // confirm 00 format, 00 to 59 minutes
-      && cond != ""
-      && file != "") {     
-        return true;
-    }
-    else {
-      return false;
-    }
+      if(isNumeric(hour) && int.parse(hour) <= 12 && int.parse(hour) > 0){}
+      else{print("didn't pass field check for hour\n"); return false;}
+
+      if(isNumeric(minute) && minute.length == 2 && int.parse(minute) <= 59){}
+      else{print("didn't pass field check for minute\n"); return false;}
+
+      print("condition is: \n");
+      print(cond);
+      if(cond != ""){}
+      else{print("didn't pass field check for condition\n"); return false;}
+
+      if(file != ""){}
+      else{print("didn't pass field check for file\n"); return false;}
+
+      return true;
   }
+
+  WeatherDropMenu weatherDrops = WeatherDropMenu();
+
+  WallpaperChooser fileChooser = WallpaperChooser(currentFile: "");
 
   String chosenFile = "";
 
@@ -264,6 +315,9 @@ class _CreateApp extends State<CreateApp> {
 
   String chosenHour = "";
 
+
+  bool _visibleErr = false;
+  int errType = 0;
 
   //function that performs the final action before closing the create page
   //decides what to do based on the intention variable
@@ -302,12 +356,10 @@ class _CreateApp extends State<CreateApp> {
     }
   }
 
-
   @override
   Widget build(BuildContext context) {
 
-    bool _visibleErr = false;
-    int errType = 0;
+    fileChooser = WallpaperChooser(currentFile: widget.contextWallpaper.filePath);
 
     TextEditingController hourController = TextEditingController(text: chosenHour);
     TextEditingController minuteController = TextEditingController(text: chosenMinute);
@@ -326,7 +378,7 @@ class _CreateApp extends State<CreateApp> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Padding(padding: EdgeInsets.only(left: 32)),
-              WallpaperChooser(chosen: widget.contextWallpaper),
+              fileChooser,
               Padding(padding: EdgeInsets.only(right: 32)),
             ],
           ),
@@ -454,7 +506,7 @@ class _CreateApp extends State<CreateApp> {
                 border: Border.all(color: Colors.black, width: 2),
               ),
 
-              child: WeatherDropMenu(),
+              child: weatherDrops,
             
             ),
 
@@ -482,17 +534,20 @@ class _CreateApp extends State<CreateApp> {
                     ),
           Spacer(),
           OutlinedButton(onPressed: () {
-                    if(checkFields(hourController.text, minuteController.text, chosenFile, chosenCond)){
+                    if(checkFields(hourController.text, minuteController.text, fileChooser.getCurrentFile(), weatherDrops.getCondition())){
                         if(confirmCreation(widget.intention, widget.contextWallpaper, WallpaperObj())){ // add fields to newWallpaperObj
                           Navigator.pop(context); // return to previous menu
                         }
                         else {
+                        print("error 2 found \n");
                           setState( (){
                         errType = 2;
                         _visibleErr = true;});
                         } 
                       }
-                    else { setState( (){
+                    else {
+                        print("error 1 found \n"); 
+                        setState( (){
                         errType = 1;
                         _visibleErr = true;}
                         );
@@ -518,11 +573,11 @@ class _CreateApp extends State<CreateApp> {
             dayButtonsSection,
             timeAndWeather,
             wallpaperSection,
-            buttonMenu(),
             CreateMsg(
             visibleErr: _visibleErr,
             type: errType,
-            )
+            ),
+            buttonMenu(),
           ],
         ),
         ),
