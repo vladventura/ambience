@@ -4,6 +4,8 @@
 // TO DO: 
 //  make data persistent past setstate() calls
 //  probably gonna have to change WallpaperObj to accept WallpaperEntry data
+// make day buttons do stuff, 'cause they currently don't
+
 
 import 'dart:math';
 
@@ -28,6 +30,17 @@ final ButtonStyle dayToggleButton = OutlinedButton.styleFrom(
   fixedSize: Size(48, 48),
   shape: RoundedRectangleBorder(borderRadius: BorderRadius.zero),
 );
+
+const List<String> Days =
+[
+  "Sunday",
+  "Monday",
+  "Tuesday",
+ "Wednesday",
+  "Thursday",
+  "Friday",
+  "Saturday"
+];
 
 // end of globals
 
@@ -185,7 +198,6 @@ class _AmPmToggle extends State<AmPmToggle> {
                 style: dayToggleButton,
           ));
   }
-
 }
 
 class CreateMsg extends StatelessWidget {
@@ -260,6 +272,69 @@ Widget checkWallpaper(String str) {
   }
 }
 
+class DayButtons extends StatefulWidget{
+  
+  List<String> daysActive = []; 
+
+  List<String> getDays(){
+    return daysActive;
+  }
+
+  DayButtons({super.key, required this.daysActive});
+
+ @override
+  State<DayButtons> createState() => DayButtonsState();
+}
+
+class DayButtonsState extends State<DayButtons>{
+
+  List<Widget> dayNames = <Widget>[
+    Text("Sun", style: TextStyle(fontSize: 11)),
+    Text("Mon", style: TextStyle(fontSize: 11)),
+    Text("Tue", style: TextStyle(fontSize: 11)),
+    Text("Wed", style: TextStyle(fontSize: 11)),
+    Text("Thu", style: TextStyle(fontSize: 11)),
+    Text("Fri", style: TextStyle(fontSize: 11)),
+    Text("Sat", style: TextStyle(fontSize: 11))
+  ];
+
+  //TO DO: Give this an initial value when the user has an intention of 2 or 3
+  // and of course save it to the daysActive list if applicable
+  final List<bool> _selectedDays = <bool>[false,false,false,false,false,false,false];
+
+
+  // checks if button is toggled or not
+  // if the day is already currently selected, then the day is toggled off and removed from the list
+  // if the day is not selected yet, the day is toggled on, and is added to the list
+  void updateDays(int index){ 
+    if(_selectedDays[index]){
+      widget.daysActive.remove(Days[index]);
+    } else {
+      widget.daysActive.add(Days[index]);
+    }
+    for(int i = 0; i < Days.length; i++)
+    {
+      _selectedDays[i] = widget.daysActive.contains(Days[i]);
+    }
+  }
+
+  @override
+  Widget build(BuildContext context){
+
+    return ToggleButtons(
+      direction: Axis.horizontal,
+      onPressed: (int index) { 
+        updateDays(index);
+        setState(() {});
+      },
+      selectedBorderColor: Color.fromARGB(255, 0, 75, 205),
+      selectedColor: Color.fromARGB(255, 41, 187, 255),
+      children: dayNames,
+      isSelected: _selectedDays,
+    );
+  }
+}
+
 class CreateApp extends StatefulWidget {
   CreateApp({super.key, required this.contextWallpaper, required this.intention});
 
@@ -285,12 +360,14 @@ class _CreateApp extends State<CreateApp> {
   return int.tryParse(s) != null;
   } 
 
-  bool checkFields(String hour, String minute, String file, String cond) { // confirm all fields are filled
+  bool checkFields(String hour, String minute, String file, String cond, List<String> days) { // confirm all fields are filled
       if(isNumeric(hour) && int.parse(hour) <= 12 && int.parse(hour) > 0){}
       else{print("didn't pass field check for hour\n"); return false;}
 
       if(isNumeric(minute) && minute.length == 2 && int.parse(minute) <= 59){}
       else{print("didn't pass field check for minute\n"); return false;}
+
+      if(days.isEmpty){return false;}
 
       print("condition is: \n");
       print(cond);
@@ -306,6 +383,8 @@ class _CreateApp extends State<CreateApp> {
   WeatherDropMenu weatherDrops = WeatherDropMenu();
 
   WallpaperChooser fileChooser = WallpaperChooser(currentFile: "");
+
+  DayButtons dayToggles = DayButtons(daysActive: []); // will probably give initial values here or something
 
   String chosenFile = "";
 
@@ -383,70 +462,6 @@ class _CreateApp extends State<CreateApp> {
             ],
           ),
     ); 
-
-    Widget dayButtonsSection = Container(
-      padding: EdgeInsets.all(16),
-
-      child: Row(
-
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-
-          Spacer(flex: 12),
-
-          OutlinedButton(onPressed: null, //place function call within toggle button function
-          child: const Text("Sun", style: TextStyle(fontSize: 11)),
-          style: dayToggleButton,
-          ),
-          
-          Spacer(flex: 1),
-
-          OutlinedButton(onPressed: null,
-          child: const Text("Mon", style: TextStyle(fontSize: 11)),
-          style: dayToggleButton,
-          ),
-
-          Spacer(flex: 1),
-
-          OutlinedButton(onPressed: null, 
-          child: const Text("Tue", style: TextStyle(fontSize: 11)),
-          style: dayToggleButton,
-          ),
-
-          Spacer(flex: 1),
-
-          OutlinedButton(onPressed: null, 
-          child: const Text("Wed", style: TextStyle(fontSize: 11)),
-          style: dayToggleButton,
-          ),
-
-          Spacer(flex: 1),
-
-          OutlinedButton(onPressed: null, 
-          child: const Text("Thu", style: TextStyle(fontSize: 11)),
-          style: dayToggleButton,
-          ),
-
-          Spacer(flex: 1),
-
-          OutlinedButton(onPressed: null, 
-          child: const Text("Fri", style: TextStyle(fontSize: 11)),
-          style: dayToggleButton,
-          ),
-
-          Spacer(flex: 1),
-
-          OutlinedButton(onPressed: null, 
-          child: const Text("Sat", style: TextStyle(fontSize: 11)),
-          style: dayToggleButton,
-          ),
-
-          Spacer(flex: 12),
-
-        ],
-      ),
-
-    );
 
     Widget timeAndWeather = Container(
       padding: EdgeInsets.all(16),
@@ -534,19 +549,27 @@ class _CreateApp extends State<CreateApp> {
                     ),
           Spacer(),
           OutlinedButton(onPressed: () {
-                    if(checkFields(hourController.text, minuteController.text, fileChooser.getCurrentFile(), weatherDrops.getCondition())){
+                    if(checkFields(hourController.text, minuteController.text, fileChooser.getCurrentFile(), weatherDrops.getCondition(), dayToggles.getDays())){
                         if(confirmCreation(widget.intention, widget.contextWallpaper, WallpaperObj())){ // add fields to newWallpaperObj
+
+                          print(hourController.text);
+                          print(minuteController.text);
+
+                          print(fileChooser.getCurrentFile());
+
+                          print(weatherDrops.getCondition());
+
+                          print(dayToggles.getDays());
+
                           Navigator.pop(context); // return to previous menu
                         }
                         else {
-                        print("error 2 found \n");
                           setState( (){
                         errType = 2;
                         _visibleErr = true;});
                         } 
                       }
                     else {
-                        print("error 1 found \n"); 
                         setState( (){
                         errType = 1;
                         _visibleErr = true;}
@@ -570,7 +593,7 @@ class _CreateApp extends State<CreateApp> {
         body: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            dayButtonsSection,
+            dayToggles, // not initialized juuuuust yet
             timeAndWeather,
             wallpaperSection,
             CreateMsg(
