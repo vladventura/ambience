@@ -7,6 +7,7 @@ import 'package:ambience/Firebase/fire_handler.dart';
 
 String current = Directory.current.path;
 
+// ignore: must_be_immutable
 class LoginMsg extends StatelessWidget {
   final bool visibleLog;
 
@@ -59,10 +60,10 @@ class _LoginApp extends State<LoginApp> {
   bool _visibleLog = false;
   final TextEditingController _nameController = TextEditingController();
   final TextEditingController _passController = TextEditingController();
-
+  bool _obscureFlag = true;
   String errMsg = "";
   FireHandler hand = FireHandler();
-  void _login(String usrname, String passwrd)async {
+  void _login(String usrname, String passwrd) async {
     bool success = false; /* BOOLEAN FUNCTION PART GOES HERE */
     try {
       success = await hand.fireSignIn(usrname, passwrd);
@@ -79,7 +80,7 @@ class _LoginApp extends State<LoginApp> {
     }
   }
 
-  void _signup(String usrname, String passwrd) async{
+  void _signup(String usrname, String passwrd) async {
     bool success = false; /* BOOLEAN FUNCTION PART GOES HERE */
     try {
       success = await hand.fireSignUp(usrname, passwrd);
@@ -130,12 +131,21 @@ class _LoginApp extends State<LoginApp> {
       child: TextField(
         onChanged: null,
         controller: _passController,
+        obscureText: _obscureFlag,
         textAlign: TextAlign.left,
-        obscureText: true,
         maxLength: 50,
-        decoration: const InputDecoration(
+        decoration: InputDecoration(
           labelText: "Password",
-          labelStyle: TextStyle(fontSize: 20),
+          labelStyle: const TextStyle(fontSize: 20),
+          suffixIcon: IconButton(
+            // ignore: dead_code
+            icon: Icon(_obscureFlag ? Icons.visibility : Icons.visibility_off),
+            onPressed: () {
+              setState(() {
+                _obscureFlag = !_obscureFlag;
+              });
+            },
+          ),
         ),
       ),
     );
@@ -214,7 +224,7 @@ class _LoginApp extends State<LoginApp> {
           _loginSignin(),
           LoginMsg(
             visibleLog: _visibleLog,
-            errMsg: this.errMsg,
+            errMsg: errMsg,
           ),
         ],
       ),

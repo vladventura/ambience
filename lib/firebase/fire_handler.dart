@@ -6,29 +6,8 @@ import 'package:flutter/material.dart';
 import "dart:io";
 
 class FireHandler {
-  final testmail = dotenv.env['TestEmail'];
-  final testpassword = dotenv.env['TestPwd'];
   late FirebaseAuth auth;
   late String userID;
-  //testing purposes
-  String get _testmail {
-    String? email = dotenv.env['TestEmail'];
-    if (email != null) {
-      return email;
-    } else {
-      throw FirebaseHandlerError("Cannot extract testemail from .env file");
-    }
-  }
-
-  //testing purposes
-  String get _testpassword {
-    String? pwd = dotenv.env['TestPwd'];
-    if (pwd != null) {
-      return pwd;
-    } else {
-      throw FirebaseHandlerError("Cannot extract _testpassword from .env file");
-    }
-  }
 
   String get _imagePathUp {
     return "${Directory.current.path}/test.jpg";
