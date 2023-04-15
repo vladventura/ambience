@@ -59,6 +59,7 @@ class WeatherEntry {
       String rulesetToJson = jsonEncode(newRuleset);
       store.writeAppDocFile(rulesetToJson, constants.jsonPath);
     }
+    Daemon.daemonSpawner(newEntry);
   }
 
   // deletes the rule matching key idSchema from the json
