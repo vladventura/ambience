@@ -56,7 +56,7 @@ class WeatherDropMenu extends StatefulWidget {
     Icons.cloudy_snowing, 
   ];
 
-   //for translating the icondata to a more...readable value
+   //for translating the icondata to a more readable value
   Map translatedWeathers = {
     Icons.sunny:"Sunny",
     Icons.cloud:"Cloudy",

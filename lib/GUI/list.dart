@@ -3,28 +3,69 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:path/path.dart' as path;
 import 'dart:io';
+import 'package:ambience/weatherEntry/weather_entry.dart';
+import 'package:ambience/GUI/create.dart';
 
 void main() => runApp(const ListApp());
 
 String current = Directory.current.path;
+
+//translates WeatherCondition enum to a string
+// TODO: make a function that turns it back
+Map translatedConditions = 
+{
+  WeatherCondition.clear:"Sunny",
+  WeatherCondition.cloudy:"Cloudy",
+  WeatherCondition.rain:"Rain",
+  WeatherCondition.snow:"Thunder",
+  WeatherCondition.thunderstorm:"Snowing"
+};
+
 
 class WallpaperObj {
   String filePath = "$current/lib/GUI/20210513_095523.jpg";
   String cond = "placeholder weather";
   String time = "placeholder time";
 
-  WallpaperObj(){
-    String filePath = "$current/lib/GUI/20210513_095523.jpg";
-    String cond = "placeholder weather";
+  int hour = 0;
+  int minute = 0;
 
-    int hour = 0;
-    int minute = 0;
+  //stores Weather entries of the same kind on different days
+  List<WeatherEntry> entries;
 
-    String time = hour.toString() + ":" + minute.toString();
+  // constructor for an existing WeatherEntry(s)
+  // list MUST be in order from sunday to saturday
+  WallpaperObj([this.entries = const[]]){
+    filePath = entries[0].wallpaperFilepath;
+    cond = translatedConditions[entries[0].weatherCondition];
 
-    List<bool> days = [false,false,false,false,false,false,false]; // 7 days, sun to sat
+    hour = entries[0].startTime.hour;
+    minute = entries[0].startTime.minute;
+
+    time = hour.toString() + ":" + minute.toString();
+
+    //initializing list in order fron sun to sat
+
+    List<WeatherEntry> temp = [];
+    for(int i = 0; i < 7; i++) {
+      for(int j = 0; j < 7; j++){
+        if (entries[i].dayOfWeek == DayOfWeek.values[j]){
+          temp[i] = entries[i];
+        }
+      }
+    }
+    entries = temp; // assign sorted list to entries list
+
+    // 7 days, sun to sat
+    List<bool> days = [entries[0].dayOfWeek == DayOfWeek.sunday,
+                      entries[1].dayOfWeek == DayOfWeek.monday,
+                      entries[2].dayOfWeek == DayOfWeek.tuesday,
+                      entries[3].dayOfWeek == DayOfWeek.wednesday,
+                      entries[4].dayOfWeek == DayOfWeek.thursday,
+                      entries[5].dayOfWeek == DayOfWeek.friday,
+                      entries[6].dayOfWeek == DayOfWeek.saturday,];
   }
-} // PLACEHOLDER FOR ACTUAL WALLPAPER OBJ SO FLUTTER WILL STOP COMPLAINING
+}
 
 String getWallpaper(int index) {
   return "$current/lib/GUI/20210513_095523.jpg";
@@ -38,9 +79,6 @@ String getTime(int index) {
   return "12:30";
 }
 
-// List<Widget> wallpapers;
-
-
 const ButtonStyle controlStyle = ButtonStyle(
   padding: MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(32)),
   backgroundColor: MaterialStatePropertyAll<Color>(Colors.white),
@@ -53,27 +91,27 @@ class EntryControls extends StatelessWidget { // controls to copy, edit, and del
 
   EntryControls(WallpaperObj obj){ //takes a wallpaper obj reference to call it later
 
-Controls = Row(
-  // displays the wallpaper's controls
-  children: [
-    IconButton(
-      onPressed: null, //function to delete the wallpaper
-      icon: Icon(Icons.delete),
-      style: controlStyle,
+  Controls = Row(
+    // displays the wallpaper's controls
+    children: [
+      IconButton(
+        onPressed: null, //function to delete the wallpaper
+        icon: Icon(Icons.delete),
+        style: controlStyle,
+        ),
+      IconButton(
+        onPressed: null, //function to copy the wallpaper, goes to create screen w/ data
+        // creates new wallpaper when done
+        icon: Icon(Icons.copy),
+        style: controlStyle
       ),
-    IconButton(
-      onPressed: null, //function to copy the wallpaper, goes to create screen w/ data
-      // creates new wallpaper when done
-      icon: Icon(Icons.copy),
-      style: controlStyle
-    ),
-    IconButton(
-      onPressed: null, //function to edit the existing wallpaper, goes to create screen w/ data
-      icon: Icon(Icons.edit),
-      style: controlStyle,
-    ),
-  ],
-);
+      IconButton(
+        onPressed: null, //function to edit the existing wallpaper, goes to create screen w/ data
+        icon: Icon(Icons.edit),
+        style: controlStyle,
+      ),
+    ],
+  );
 }
 
   Widget build(BuildContext context) {
