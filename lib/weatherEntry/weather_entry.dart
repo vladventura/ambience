@@ -1,4 +1,5 @@
 import 'package:ambience/constants.dart' as constants;
+import 'package:ambience/daemon/daemon.dart';
 import 'package:flutter/material.dart';
 import 'package:ambience/storage/storage.dart';
 import 'dart:convert';
@@ -25,15 +26,9 @@ class WeatherEntry {
   String idSchema = 'ambience_daemon_';
   String city = 'london';
 
-  WeatherEntry(
-      this.startTime,
-      this.endTime,
-      this.dayOfWeek,
-      this.wallpaperFilepath,
-      this.weatherCondition,
-      this.city) {
-    idSchema +=
-        DateTime.now().millisecondsSinceEpoch.toString();
+  WeatherEntry(this.startTime, this.endTime, this.dayOfWeek,
+      this.wallpaperFilepath, this.weatherCondition, this.city) {
+    idSchema += DateTime.now().millisecondsSinceEpoch.toString();
   }
 
   // This is what the UI should call to add a new rule, eg (pulled from test code of main):
@@ -73,6 +68,8 @@ class WeatherEntry {
     if (jsonDecoded is Map<String, dynamic>) {
       // the file exists so we can delete this entry
       Map<String, dynamic> temp = jsonDecoded;
+      //delete daemon
+      Daemon.daemonBanisher(idSchema);
       temp.remove(idSchema);
       String rulesetToJson = jsonEncode(temp);
       store.writeAppDocFile(rulesetToJson, constants.jsonPath);
