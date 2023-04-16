@@ -18,7 +18,7 @@ enum DayOfWeek {
 class WeatherEntry {
   // values here will get overwritten by constructor
   TimeOfDay startTime = const TimeOfDay(hour: 21, minute: 05);
-  TimeOfDay endTime = const TimeOfDay(hour: 23, minute: 59);
+//  TimeOfDay endTime = const TimeOfDay(hour: 23, minute: 59); //removed endTime
   DayOfWeek dayOfWeek = DayOfWeek.friday;
   String wallpaperFilepath = "";
   WeatherCondition weatherCondition = WeatherCondition.clear;
@@ -27,13 +27,13 @@ class WeatherEntry {
 
   WeatherEntry(
       TimeOfDay startTime,
-      TimeOfDay endTime,
+//      TimeOfDay endTime,
       DayOfWeek dayOfWeek,
       String wallpaperFilepath,
       WeatherCondition weatherCondition,
       String city) {
     this.startTime = startTime;
-    this.endTime = endTime;
+//    this.endTime = endTime;
     this.weatherCondition = weatherCondition;
     this.dayOfWeek = dayOfWeek;
     this.wallpaperFilepath = wallpaperFilepath;
@@ -109,9 +109,9 @@ class WeatherEntry {
     startTime = TimeOfDay(
         hour: int.parse(json['startTimeHour']),
         minute: int.parse(json['startTimeMinute']));
-    endTime = TimeOfDay(
-        hour: int.parse(json['endTimeHour']),
-        minute: int.parse(json['endTimeMinute']));
+//    endTime = TimeOfDay(
+//        hour: int.parse(json['endTimeHour']),
+//        minute: int.parse(json['endTimeMinute']));
     dayOfWeek = DayOfWeek.values[int.parse(json['dayOfWeek'])];
     wallpaperFilepath = json['wallpaperFilepath'];
     weatherCondition =
@@ -123,8 +123,8 @@ class WeatherEntry {
   Map<String, dynamic> toJson() => {
         'startTimeHour': startTime.hour,
         'startTimeMinute': startTime.minute,
-        'endTimeHour': endTime.hour,
-        'endTimeMinute': endTime.minute,
+//        'endTimeHour': endTime.hour,
+//        'endTimeMinute': endTime.minute,
         'dayOfWeek': dayOfWeek.index,
         'wallpaperFilepath': wallpaperFilepath,
         'weatherCondition': weatherCondition.index,

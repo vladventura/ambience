@@ -96,7 +96,7 @@ class _MyHomePageState extends State<MyHomePage> {
     WeatherCondition wc = WeatherCondition.clear;
     String testPaper = "C:\\Users\\bryan\\Downloads\\test.jpg";
     String city = 'New York';
-    WeatherEntry mockObj = WeatherEntry(time, time, dow, testPaper, wc, city);
+    WeatherEntry mockObj = WeatherEntry(time, dow, testPaper, wc, city);
     // add new rule to json
     WeatherEntry.createRule(mockObj);
     return Scaffold(

@@ -7,9 +7,11 @@
 // make day buttons do stuff, 'cause they currently don't
 
 
+import 'dart:async';
 import 'dart:math';
 
 import 'package:ambience/api/weather.dart';
+import 'package:ambience/weatherEntry/weather_entry.dart';
 import 'package:flutter/material.dart';
 import 'package:path/path.dart' as path;
 import 'dart:io';
@@ -42,6 +44,13 @@ const List<String> Days =
   "Saturday"
 ];
 
+Map iconToWeatherCond = {
+  Icons.sunny:WeatherCondition.clear,
+  Icons.cloud:WeatherCondition.cloudy,
+  Icons.water_drop:WeatherCondition.rain,
+  Icons.thunderstorm:WeatherCondition.thunderstorm,
+  Icons.cloudy_snowing:WeatherCondition.snow};
+
 // end of globals
 
 
@@ -64,7 +73,7 @@ class WeatherDropMenu extends StatefulWidget {
     Icons.thunderstorm:"Thunder",
     Icons.cloudy_snowing:"Snowing"};
 
-  IconData weatherVal = Icons.hourglass_bottom;
+  IconData weatherVal = Icons.ads_click;
 
   // returns a translated value for the current weather condition
   String getCondition() { 
@@ -352,12 +361,11 @@ class CreateApp extends StatefulWidget {
 class _CreateApp extends State<CreateApp> {
 
   bool isNumeric(String s) {
-  if(s == null) {
-    print("was not numeric\n");
-    return false;
+    return int.tryParse(s) != null;
   }
-
-  return int.tryParse(s) != null;
+  
+  int toNumber(String s) {
+    return int.tryParse(s)!;
   } 
 
   bool checkFields(String hour, String minute, String file, String cond, List<String> days) { // confirm all fields are filled
@@ -416,9 +424,25 @@ class _CreateApp extends State<CreateApp> {
       case 2: 
 
         // use newObj, create new wallpaper entry(s) with it,
-        // keep original wallpaper entry(s) intact.
+        // keep original wallpaper entry(s) intact
+        if(newObj.time == origObj.time)
+        {
+          return false; // the time is duplicate, cancel creation
+        }
+        else
+        {
+          for(int i = 0; i < newObj.days.length; i++){
+            if(newObj.days[i]){
+              // create new rule for specific day (ex: i = 0 is a sunday wallpaper)
+              TimeOfDay newTime = TimeOfDay(hour: newObj.hour, minute: newObj.minute);
+              WeatherEntry newWeather = WeatherEntry(newTime, DayOfWeek.values[i], newObj.filePath,
+                                                    iconToWeatherCond[weatherDrops.weatherVal], "City", ); // we NEED to find a way to retrieve the city string
 
-        return true; // temp bool
+              WeatherEntry.createRule(newWeather);
+            }
+          }
+          return true; // success, the times are different
+        }
 
         break;
 
@@ -433,6 +457,8 @@ class _CreateApp extends State<CreateApp> {
       default:
         return false;
     }
+
+    return false;
   }
 
   @override
@@ -550,6 +576,9 @@ class _CreateApp extends State<CreateApp> {
           Spacer(),
           OutlinedButton(onPressed: () {
                     if(checkFields(hourController.text, minuteController.text, fileChooser.getCurrentFile(), weatherDrops.getCondition(), dayToggles.getDays())){
+                        
+                        
+                        
                         if(confirmCreation(widget.intention, widget.contextWallpaper, WallpaperObj())){ // add fields to newWallpaperObj
 
                           print(hourController.text);

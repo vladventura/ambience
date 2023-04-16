@@ -40,7 +40,6 @@ String checkTime() {
   return current;
 }
 
-
 // function to send new location data to backend,
 // is called when location drop menu is changed.
 void setLocation(String location) { // may not be string, just a placeholder for now

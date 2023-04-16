@@ -32,7 +32,8 @@ class WallpaperObj {
 
   //stores Weather entries of the same kind on different days
   List<WeatherEntry> entries;
-
+  
+  List<bool> days = [false, false, false, false, false, false, false];
   // constructor for an existing WeatherEntry(s)
   // list MUST be in order from sunday to saturday
   WallpaperObj([this.entries = const[]]){
@@ -57,13 +58,13 @@ class WallpaperObj {
     entries = temp; // assign sorted list to entries list
 
     // 7 days, sun to sat
-    List<bool> days = [entries[0].dayOfWeek == DayOfWeek.sunday,
-                      entries[1].dayOfWeek == DayOfWeek.monday,
-                      entries[2].dayOfWeek == DayOfWeek.tuesday,
-                      entries[3].dayOfWeek == DayOfWeek.wednesday,
-                      entries[4].dayOfWeek == DayOfWeek.thursday,
-                      entries[5].dayOfWeek == DayOfWeek.friday,
-                      entries[6].dayOfWeek == DayOfWeek.saturday,];
+    days = [entries[0].dayOfWeek == DayOfWeek.sunday,
+            entries[1].dayOfWeek == DayOfWeek.monday,
+            entries[2].dayOfWeek == DayOfWeek.tuesday,
+            entries[3].dayOfWeek == DayOfWeek.wednesday,
+            entries[4].dayOfWeek == DayOfWeek.thursday,
+            entries[5].dayOfWeek == DayOfWeek.friday,
+            entries[6].dayOfWeek == DayOfWeek.saturday,];
   }
 }
 
