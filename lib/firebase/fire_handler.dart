@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 import "dart:io";
 
 class FireHandler {
-  late FirebaseAuth auth;
+  static FirebaseAuth auth = FirebaseAuth.instance;
   late String userID;
 
   String get _imagePathUp {
@@ -35,7 +35,6 @@ class FireHandler {
 
   //true on success
   Future<bool> fireSignIn(String email, String password) async {
- 
     FirebaseAuth auth = FirebaseAuth.instance;
     //TO-DO: Add limited cilent hashing
     try {
@@ -51,15 +50,14 @@ class FireHandler {
 
   //true on success
   Future<bool> fireSignUp(String email, String password) async {
-
     FirebaseAuth auth = FirebaseAuth.instance;
     try {
       await auth.signUp(email, password);
     } on AuthException catch (e) {
       //to-do allow retries for incorrect attempts
-      throw(e.errorCode);
+      throw (e.errorCode);
     }
-     userID = auth.userId;
+    userID = auth.userId;
 
     return true;
   }

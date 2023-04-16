@@ -169,7 +169,7 @@ class _LoginApp extends State<LoginApp> {
     return OutlinedButton(
       onPressed: () {
         _login(_nameController.text, _passController.text);
-        errMsg = "error1"; // update error message here
+        errMsg = ""; // update error message here
         setState(() {});
       },
       style: const ButtonStyle(
@@ -187,7 +187,7 @@ class _LoginApp extends State<LoginApp> {
     return OutlinedButton(
       onPressed: () {
         _signup(_nameController.text, _passController.text);
-        errMsg = "error2"; // update error message here
+        errMsg = ""; // update error message here
         setState(() {});
       },
       style: const ButtonStyle(
