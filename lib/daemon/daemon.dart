@@ -11,14 +11,6 @@ import 'package:ambience/api/weather_api.dart';
 @pragma(
     'vm:entry-point') // Mandatory if the App is obfuscated or using Flutter 3.1+
 
-//Visual feedback for Android testing
-void wallpaperChangeTest(int id, Map params) async {
-  debugPrint("change wallpaper running!");
-  if (params['wallpaper'] != 'null') {
-    await WallpaperHandler.setWallpaper(params['wallpaper']);
-  }
-}
-
 class Daemon {
   //Boot daemon function to read all ruleobjs to check if any have been missed.
   static void bootWork() async {
@@ -99,8 +91,7 @@ class Daemon {
   }
 
   //schedules daemons with the current platform
-  static void daemonSpawner(WeatherEntry ruleObj,
-      [String wallpaperpath = "null"]) async {
+  static void daemonSpawner(WeatherEntry ruleObj) async {
     String current = Directory.current.path;
     //replace spaces with underscore to keep mutli-word arguments together in commandline
     String id = ruleObj.idSchema.replaceAll(" ", "_");
@@ -152,16 +143,21 @@ class Daemon {
         throw "UbuntuCronScheduler.sh did not execute successfully";
       }
     } else if (Platform.isAndroid) {
-      debugPrint("In android case");
       await AndroidAlarmManager.initialize();
-      DateTime minutefuture = DateTime.now();
-      minutefuture = minutefuture.add(const Duration(minutes: 1));
-
+      Duration offset = calcTimeOffset(ruleTime, dow);
+      DateTime start = DateTime.now();
+      start.add(offset);
+      //alarm manager uses 32 bit ints(will accept 64 bit int, but crashs if bit length is > 32), dart uses 64 bit
+      //Take arbitery amount of last digits of idschema, which uses
+      //seconds since epoc, last digits because those are the most likely to be different
+      String last8 = id.substring(id.length - 8);
+      int last8Int = int.parse(last8);
       await AndroidAlarmManager.periodic(
-          const Duration(minutes: 3), 0, wallpaperChangeTest,
-          startAt: minutefuture,
+          const Duration(days: 7), last8Int, androidWeatherCheck,
+          startAt: start,
           rescheduleOnReboot: true,
-          params: {"wallpaper": wallpaperpath});
+          allowWhileIdle: true,
+          params: {"ruleobj": ruleObj});
     } else {
       debugPrint("Platform not supported");
     }
@@ -204,8 +200,9 @@ class Daemon {
         throw "UbuntuCronRemover.sh does not execute successfully";
       }
     } else if (Platform.isAndroid) {
-      debugPrint("Android daemonBanisher not implemented yet");
-      AndroidAlarmManager.cancel(0);
+      String last8 = idSchema.substring(idSchema.length - 8);
+      int last8Int = int.parse(last8);
+      AndroidAlarmManager.cancel(last8Int);
     } else {
       debugPrint("Platform is not supported");
     }
@@ -248,6 +245,19 @@ class Daemon {
     bool match = ruleObj.compareWeather(allWeatherData[i].weathers[0].name);
     if (match) {
       WallpaperHandler.setWallpaper(ruleObj.wallpaperFilepath);
+    }
+  }
+
+  //function wrapper for Android, acts as callback function for Android Alarm Manager Plus(AAMP)
+  //takes int,map because that's the format AAMP expects
+  static void androidWeatherCheck(int id, Map params) {
+    String key = "ruleobj";
+    if (params.containsKey(key)) {
+      WeatherEntry ruleobj = params[key];
+      weatherCheck(ruleobj);
+    } else {
+      debugPrint(
+          "Android daemon couldn't find ruleobj in androidWeatherCheck!");
     }
   }
 }

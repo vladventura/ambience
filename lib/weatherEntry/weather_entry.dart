@@ -36,15 +36,14 @@ enum DayOfWeek {
 class WeatherEntry {
   // values here will get overwritten by constructor
   TimeOfDay startTime = const TimeOfDay(hour: 21, minute: 05);
-  TimeOfDay endTime = const TimeOfDay(hour: 23, minute: 59);
   DayOfWeek dayOfWeek = DayOfWeek.friday;
   String wallpaperFilepath = "";
   WeatherCondition weatherCondition = WeatherCondition.Clear;
   String idSchema = 'ambience_daemon_';
   String city = 'london';
 
-  WeatherEntry(this.startTime, this.endTime, this.dayOfWeek,
-      this.wallpaperFilepath, this.weatherCondition, this.city) {
+  WeatherEntry(this.startTime, this.dayOfWeek, this.wallpaperFilepath,
+      this.weatherCondition, this.city) {
     idSchema += DateTime.now().millisecondsSinceEpoch.toString();
   }
 
@@ -127,8 +126,6 @@ class WeatherEntry {
   WeatherEntry.fromJson(Map<String, dynamic> json) {
     startTime = TimeOfDay(
         hour: (json['startTimeHour']), minute: (json['startTimeMinute']));
-    endTime =
-        TimeOfDay(hour: (json['endTimeHour']), minute: (json['endTimeMinute']));
     dayOfWeek = DayOfWeek.values[(json['dayOfWeek'])];
     wallpaperFilepath = json['wallpaperFilepath'];
     weatherCondition = WeatherCondition.values[(json['weatherCondition'])];
@@ -136,11 +133,23 @@ class WeatherEntry {
     city = json['city'];
   }
 
+  static Future<void> deleteRuleList() async {
+    Storage store = Storage();
+    var jsonDecoded = await store.readAppDocJson(constants.jsonPath);
+    if (jsonDecoded is Map<String, dynamic>) {
+      Map<String, dynamic> temp = jsonDecoded;
+      temp.forEach((key, value) {
+        deleteRule(WeatherEntry.fromJson(value).idSchema);
+      });
+    } else {
+      // file error
+      return;
+    }
+  }
+
   Map<String, dynamic> toJson() => {
         'startTimeHour': startTime.hour,
         'startTimeMinute': startTime.minute,
-        'endTimeHour': endTime.hour,
-        'endTimeMinute': endTime.minute,
         'dayOfWeek': dayOfWeek.index,
         'wallpaperFilepath': wallpaperFilepath,
         'weatherCondition': weatherCondition.index,
