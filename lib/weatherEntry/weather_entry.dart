@@ -3,7 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:ambience/storage/storage.dart';
 import 'dart:convert';
 
-enum WeatherCondition { clear, cloudy, rain, snow, thunderstorm }
+// added empty for when the user hasn't entered anything yet
+enum WeatherCondition { clear, cloudy, rain, snow, thunderstorm, empty }
 
 enum DayOfWeek {
   sunday,

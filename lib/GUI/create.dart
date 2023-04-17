@@ -17,9 +17,10 @@ import 'package:path/path.dart' as path;
 import 'dart:io';
 
 import "package:ambience/GUI/list.dart";
+import "package:ambience/GUI/wallpaperobj.dart";
 import "package:ambience/handlers/file_handler.dart";
 
-void main() => runApp(CreateApp(contextWallpaper: WallpaperObj(), intention: 1,));
+void main() => runApp(CreateApp(contextWallpaper: WallpaperObj(), intention: 1, location: ""));
 
 
 // Global variables
@@ -32,24 +33,6 @@ final ButtonStyle dayToggleButton = OutlinedButton.styleFrom(
   fixedSize: Size(48, 48),
   shape: RoundedRectangleBorder(borderRadius: BorderRadius.zero),
 );
-
-const List<String> Days =
-[
-  "Sunday",
-  "Monday",
-  "Tuesday",
- "Wednesday",
-  "Thursday",
-  "Friday",
-  "Saturday"
-];
-
-Map iconToWeatherCond = {
-  Icons.sunny:WeatherCondition.clear,
-  Icons.cloud:WeatherCondition.cloudy,
-  Icons.water_drop:WeatherCondition.rain,
-  Icons.thunderstorm:WeatherCondition.thunderstorm,
-  Icons.cloudy_snowing:WeatherCondition.snow};
 
 // end of globals
 
@@ -65,19 +48,13 @@ class WeatherDropMenu extends StatefulWidget {
     Icons.cloudy_snowing, 
   ];
 
-   //for translating the icondata to a more readable value
-  Map translatedWeathers = {
-    Icons.sunny:"Sunny",
-    Icons.cloud:"Cloudy",
-    Icons.water_drop:"Rain",
-    Icons.thunderstorm:"Thunder",
-    Icons.cloudy_snowing:"Snowing"};
+   //for translating the icondata to WeatherCondition
 
   IconData weatherVal = Icons.ads_click;
 
   // returns a translated value for the current weather condition
-  String getCondition() { 
-    return translatedWeathers[weatherVal];
+  WeatherCondition getCondition() { 
+    return iconToWeatherCond[weatherVal];
   }
 
 
@@ -283,9 +260,9 @@ Widget checkWallpaper(String str) {
 
 class DayButtons extends StatefulWidget{
   
-  List<String> daysActive = []; 
+  List<bool> daysActive = [false,false,false,false,false,false,false]; 
 
-  List<String> getDays(){
+  List<bool> getDays(){
     return daysActive;
   }
 
@@ -317,9 +294,9 @@ class DayButtonsState extends State<DayButtons>{
   // if the day is not selected yet, the day is toggled on, and is added to the list
   void updateDays(int index){ 
     if(_selectedDays[index]){
-      widget.daysActive.remove(Days[index]);
+      widget.daysActive[index] = false;
     } else {
-      widget.daysActive.add(Days[index]);
+      widget.daysActive[index] = true; //currently causes an exception when I click a day button
     }
     for(int i = 0; i < Days.length; i++)
     {
@@ -345,7 +322,7 @@ class DayButtonsState extends State<DayButtons>{
 }
 
 class CreateApp extends StatefulWidget {
-  CreateApp({super.key, required this.contextWallpaper, required this.intention});
+  CreateApp({super.key, required this.contextWallpaper, required this.intention, required this.location});
 
   final WallpaperObj contextWallpaper;
 
@@ -353,6 +330,8 @@ class CreateApp extends StatefulWidget {
   // 2 = copy from existing wallpaper, 
   // 3 = edit existing wallpaper
   final int intention; 
+
+  final String location;
 
  @override
   State<CreateApp> createState() => _CreateApp();
@@ -368,18 +347,18 @@ class _CreateApp extends State<CreateApp> {
     return int.tryParse(s)!;
   } 
 
-  bool checkFields(String hour, String minute, String file, String cond, List<String> days) { // confirm all fields are filled
+  bool checkFields(String hour, String minute, String file, WeatherCondition cond, List<bool> days) { // confirm all fields are filled
       if(isNumeric(hour) && int.parse(hour) <= 12 && int.parse(hour) > 0){}
       else{print("didn't pass field check for hour\n"); return false;}
 
       if(isNumeric(minute) && minute.length == 2 && int.parse(minute) <= 59){}
       else{print("didn't pass field check for minute\n"); return false;}
 
-      if(days.isEmpty){return false;}
+      if(days.every((element) => element == false)){return false;}
 
       print("condition is: \n");
       print(cond);
-      if(cond != ""){}
+      if(cond != WeatherCondition.empty){}
       else{print("didn't pass field check for condition\n"); return false;}
 
       if(file != ""){}
@@ -396,7 +375,7 @@ class _CreateApp extends State<CreateApp> {
 
   String chosenFile = "";
 
-  String chosenCond = "";
+  IconData chosenCond = Icons.clear; //the value for clear is invalid, which is later checked for
 
   String chosenMinute = "";
 
@@ -472,7 +451,7 @@ class _CreateApp extends State<CreateApp> {
     if(widget.intention > 1){
       chosenFile = widget.contextWallpaper.filePath;
 
-      chosenCond = widget.contextWallpaper.cond;
+      chosenCond = weathercondToIcon[widget.contextWallpaper.cond];
 
       chosenHour = widget.contextWallpaper.time;
       chosenMinute = widget.contextWallpaper.time;
@@ -575,11 +554,13 @@ class _CreateApp extends State<CreateApp> {
                     ),
           Spacer(),
           OutlinedButton(onPressed: () {
+
                     if(checkFields(hourController.text, minuteController.text, fileChooser.getCurrentFile(), weatherDrops.getCondition(), dayToggles.getDays())){
-                        
-                        
-                        
-                        if(confirmCreation(widget.intention, widget.contextWallpaper, WallpaperObj())){ // add fields to newWallpaperObj
+
+                        WallpaperObj newObj = WallpaperObj.newObj(fileChooser.getCurrentFile(), weatherDrops.getCondition(), 
+                                                                  toNumber(hourController.text), toNumber(minuteController.text), dayToggles.getDays());
+
+                        if(confirmCreation(widget.intention, widget.contextWallpaper, newObj)){ // add fields to newWallpaperObj
 
                           print(hourController.text);
                           print(minuteController.text);

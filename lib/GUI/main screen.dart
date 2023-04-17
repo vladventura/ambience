@@ -9,6 +9,7 @@ import 'dart:math';
 import 'package:ambience/GUI/create.dart';
 import 'package:ambience/GUI/list.dart';
 import 'package:flutter/material.dart';
+import "package:ambience/GUI/wallpaperobj.dart";
 import 'dart:io';
 
 void main() => runApp(const MainApp());
@@ -46,6 +47,12 @@ void setLocation(String location) { // may not be string, just a placeholder for
 
   // send location data to backend here
 
+}
+
+String getLocation(){ // retrieve the current location here
+  String location = "placeholder location";
+  
+  return location;
 }
 
 class MainApp extends StatelessWidget {
@@ -113,7 +120,7 @@ class MainApp extends StatelessWidget {
           OutlinedButton(onPressed: () {
 
                     Navigator.push(context, 
-                      MaterialPageRoute(builder: (context) => CreateApp(contextWallpaper: WallpaperObj(), intention: 1)));
+                      MaterialPageRoute(builder: (context) => CreateApp(contextWallpaper: WallpaperObj(), intention: 1, location: getLocation())));
 
                     }, //function here to switch to create screen
                     child: const Text("Create"),

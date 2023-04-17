@@ -5,68 +5,11 @@ import 'package:path/path.dart' as path;
 import 'dart:io';
 import 'package:ambience/weatherEntry/weather_entry.dart';
 import 'package:ambience/GUI/create.dart';
+import "package:ambience/GUI/wallpaperobj.dart";
 
 void main() => runApp(const ListApp());
 
 String current = Directory.current.path;
-
-//translates WeatherCondition enum to a string
-// TODO: make a function that turns it back
-Map translatedConditions = 
-{
-  WeatherCondition.clear:"Sunny",
-  WeatherCondition.cloudy:"Cloudy",
-  WeatherCondition.rain:"Rain",
-  WeatherCondition.snow:"Thunder",
-  WeatherCondition.thunderstorm:"Snowing"
-};
-
-
-class WallpaperObj {
-  String filePath = "$current/lib/GUI/20210513_095523.jpg";
-  String cond = "placeholder weather";
-  String time = "placeholder time";
-
-  int hour = 0;
-  int minute = 0;
-
-  //stores Weather entries of the same kind on different days
-  List<WeatherEntry> entries;
-  
-  List<bool> days = [false, false, false, false, false, false, false];
-  // constructor for an existing WeatherEntry(s)
-  // list MUST be in order from sunday to saturday
-  WallpaperObj([this.entries = const[]]){
-    filePath = entries[0].wallpaperFilepath;
-    cond = translatedConditions[entries[0].weatherCondition];
-
-    hour = entries[0].startTime.hour;
-    minute = entries[0].startTime.minute;
-
-    time = hour.toString() + ":" + minute.toString();
-
-    //initializing list in order fron sun to sat
-
-    List<WeatherEntry> temp = [];
-    for(int i = 0; i < 7; i++) {
-      for(int j = 0; j < 7; j++){
-        if (entries[i].dayOfWeek == DayOfWeek.values[j]){
-          temp[i] = entries[i];
-        }
-      }
-    }
-    entries = temp; // assign sorted list to entries list
-
-    // 7 days, sun to sat
-    days = [entries[0].dayOfWeek == DayOfWeek.sunday,
-            entries[1].dayOfWeek == DayOfWeek.monday,
-            entries[2].dayOfWeek == DayOfWeek.tuesday,
-            entries[3].dayOfWeek == DayOfWeek.wednesday,
-            entries[4].dayOfWeek == DayOfWeek.thursday,
-            entries[5].dayOfWeek == DayOfWeek.friday,
-            entries[6].dayOfWeek == DayOfWeek.saturday,];
-  }
-}
 
 String getWallpaper(int index) {
   return "$current/lib/GUI/20210513_095523.jpg";
@@ -125,7 +68,7 @@ class WallpaperEntry extends StatelessWidget {
 
   String wallFile = "Null";
 
-  String cond = "";
+  WeatherCondition cond = WeatherCondition.empty;
 
   String time = "";
 
