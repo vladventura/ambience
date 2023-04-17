@@ -4,18 +4,13 @@ import 'package:firedart/auth/exceptions.dart';
 import 'package:firedart/firedart.dart';
 import 'package:flutter/material.dart';
 import "dart:io";
+import "package:ambience/weatherEntry/weather_entry.dart";
+import "package:ambience/storage/storage.dart";
+import "package:ambience/constants.dart" as constants;
 
 class FireHandler {
   static FirebaseAuth auth = FirebaseAuth.instance;
-  late String userID;
-
-  String get _imagePathUp {
-    return "${Directory.current.path}/test.jpg";
-  }
-
-  String get _imagePathDown {
-    return "${Directory.current.path}/downloadTest.jpg";
-  }
+  static String userID = auth.userId;
 
   //to-be broken down into sub functions
   FireHandler() {
@@ -57,21 +52,15 @@ class FireHandler {
       //to-do allow retries for incorrect attempts
       throw (e.errorCode);
     }
-    userID = auth.userId;
-
     return true;
   }
 
   //optional values is for testing purposes for now
   //yes I know it has hardcoded paths
-  Future<void> imageUpload(
-      [String userId = "testUser", String imagePathAddon = '1']) async {
+  Future<void> imageUpload(String imagePathAddon) async {
     //since the path of ambience needs to be dynamically resolved, it cannot be passed as an optional parameter directly
-
-    String imagePath = _imagePathUp;
-
-    var docRef = Firestore.instance.collection(userId).document("wallpapers");
-    File image = File(imagePath);
+    var docRef = Firestore.instance.collection(userID).document("wallpapers");
+    File image = File(imagePathAddon);
     //byte data
     List<int> imageData = await image.readAsBytes();
     //to-do check is base64Encode works with UTF-16, or replace with something that does
@@ -79,15 +68,10 @@ class FireHandler {
   }
 
   //optional values is for testing purposes for now
-  Future<void> imageDownload(
-      [String userId = "testUser", String imagePathAddon = "1"]) async {
-    //since the path of ambience needs to be dynamically resolved, it cannot be passed as an optional parameter directly
-    if (imagePathAddon == '1') {
-      imagePathAddon = _imagePathDown;
-    }
+  Future<void> imageDownload(String imagePathAddon) async {
     DocumentReference docRef =
-        Firestore.instance.collection(userId).document('wallpapers');
-    var snapshot = await docRef.get();
+        Firestore.instance.collection(userID).document('wallpapers');
+    Document snapshot = await docRef.get();
     String base64Image = snapshot.map['imageData'];
     //to-do check is base64Encode works with UTF-16, or replace with something that does
 
@@ -95,7 +79,29 @@ class FireHandler {
     File output = File(imagePathAddon);
     await output.writeAsBytes(imageData);
   }
-}
+
+  Future<void> jsonUpload() async {
+    DocumentReference docRef =
+        Firestore.instance.collection(userID).document("ruleset");
+    //get ruleset json rules
+    Map<String, WeatherEntry> ruleMap = await WeatherEntry.getRuleList();
+    //upload the rules
+    await docRef.update(ruleMap);
+  }
+
+  Future<void> jsonDownload() async {
+    DocumentReference docRef =
+        Firestore.instance.collection(userID).document("ruleset");
+    Document snapshot = await docRef.get();
+    //get the ruleset map
+    Map<String, dynamic> ruleMap = snapshot.map;
+    Storage store = Storage();
+    //Overwrite prior map
+    store.writeAppDocFile(ruleMap, constants.jsonPath);
+  }
+  //to-do: test the upload and download functions
+  //to-do: handle weather entry rule creation/deletion, and intergrate with firebase
+  }
 
 class FirebaseHandlerError implements Exception {
   final String message;

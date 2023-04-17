@@ -7,11 +7,21 @@ import 'package:flutter/material.dart';
 import 'package:ambience/api/weather.dart';
 import "package:ambience/daemon/daemon.dart";
 import 'package:ambience/Firebase/fire_handler.dart';
+import "package:ambience/GUI/create.dart";
+import "package:ambience/GUI/list.dart";
+import "package:ambience/GUI/login.dart";
+import "package:ambience/GUI/main screen.dart";
 
 void main(List<String> args) async {
   await dotenv.load();
   FireHandler.initialize();
-  WeatherEntry.deleteRuleList();
+  TimeOfDay time = const TimeOfDay(hour: 23, minute: 45);
+  DayOfWeek dow = DayOfWeek.tuesday;
+  WeatherCondition wc = WeatherCondition.Clouds;
+  String curr = Directory.current.path;
+  String testPaper = "$curr/test.jpg";
+  String city = 'New York';
+  WeatherEntry mockObj = WeatherEntry(time, dow, testPaper, wc, city);
   // add new rule to json
   //if not args passed, GUI MODE
   if (args.isEmpty) {
@@ -33,12 +43,16 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
-    );
+        title: 'Flutter Demo',
+        theme: ThemeData(
+          primarySwatch: Colors.blue,
+        ),
+        initialRoute: '/',
+        routes: {
+          '/': (context) => const LoginApp(),
+          '/Home': (context) => const MainApp(),
+          '/List': (context) => const ListApp(),
+        });
   }
 }
 
@@ -95,7 +109,6 @@ class _MyHomePageState extends State<MyHomePage> {
     WeatherEntry mockObj = WeatherEntry(time, dow, testPaper, wc, city);
     //===========================
 
-
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.title),
@@ -106,6 +119,28 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
             //weather api text field
             // ignore: prefer_const_constructors
+             TextField(
+              // ignore: prefer_const_constructors
+              decoration: InputDecoration(
+                // ignore: prefer_const_constructors
+                border: OutlineInputBorder(),
+                labelText: 'enter email',
+              ),
+              onChanged: (text) {
+                cityInput = text;
+              },
+            ),
+             TextField(
+              // ignore: prefer_const_constructors
+              decoration: InputDecoration(
+                // ignore: prefer_const_constructors
+                border: OutlineInputBorder(),
+                labelText: 'Enter password',
+              ),
+              onChanged: (text) {
+                cityInput = text;
+              },
+            ),
             TextField(
               // ignore: prefer_const_constructors
               decoration: InputDecoration(
