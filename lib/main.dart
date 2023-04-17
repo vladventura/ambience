@@ -18,12 +18,7 @@ void main(List<String> args) async {
   String testPaper = "$curr/test.jpg";
   String city = 'New York';
   WeatherEntry mockObj = WeatherEntry(time, dow, testPaper, wc, city);
-  // add new rule to json
-  WeatherEntry.createRule(mockObj);
-  FireHandler firehand = FireHandler();
-  await firehand.fireSignIn('test@server.com', '123456');
-  firehand.jsonUpload();
-  firehand.jsonDownload();
+
   //if not args passed, GUI MODE
   if (args.isEmpty) {
     runApp(const MyApp());

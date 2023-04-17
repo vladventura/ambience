@@ -80,25 +80,27 @@ class FireHandler {
     await output.writeAsBytes(imageData);
   }
 
-  Future<void> jsonUpload() async {
+  Future<void> ruleJSONUpload() async {
     DocumentReference docRef =
         Firestore.instance.collection(userID).document("ruleset");
     Storage store = Storage();
     var ruleJSON = await store.readAppDocJson(constants.jsonPath);
     //upload json
     await docRef.update(ruleJSON);
+    //to-do: extract wallpapers from ruleset and upload
   }
 
-  Future<void> jsonDownload() async {
+  Future<void> ruleJSONDownload() async {
     DocumentReference docRef =
         Firestore.instance.collection(userID).document("ruleset");
     Document snapshot = await docRef.get();
     //get the ruleset map
     Map<String, dynamic> ruleMap = snapshot.map;
-    var tostr = ruleMap.toString();
+    //properly encodes map in a json format string
+    String encodedMap = jsonEncode(ruleMap);
     Storage store = Storage();
-    //Overwrite prior map
-    store.writeAppDocFile(tostr, constants.jsonPath);
+    //write to file, overwritting existing map
+    store.writeAppDocFile(encodedMap, constants.jsonPath);
   }
   //to-do: test the upload and download functions
   //to-do: handle weather entry rule creation/deletion, and intergrate with firebase
