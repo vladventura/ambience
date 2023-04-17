@@ -83,10 +83,10 @@ class FireHandler {
   Future<void> jsonUpload() async {
     DocumentReference docRef =
         Firestore.instance.collection(userID).document("ruleset");
-    //get ruleset json rules
-    Map<String, WeatherEntry> ruleMap = await WeatherEntry.getRuleList();
-    //upload the rules
-    await docRef.update(ruleMap);
+    Storage store = Storage();
+    var ruleJSON = await store.readAppDocJson(constants.jsonPath);
+    //upload json
+    await docRef.update(ruleJSON);
   }
 
   Future<void> jsonDownload() async {
@@ -95,13 +95,14 @@ class FireHandler {
     Document snapshot = await docRef.get();
     //get the ruleset map
     Map<String, dynamic> ruleMap = snapshot.map;
+    var tostr = ruleMap.toString();
     Storage store = Storage();
     //Overwrite prior map
-    store.writeAppDocFile(ruleMap, constants.jsonPath);
+    store.writeAppDocFile(tostr, constants.jsonPath);
   }
   //to-do: test the upload and download functions
   //to-do: handle weather entry rule creation/deletion, and intergrate with firebase
-  }
+}
 
 class FirebaseHandlerError implements Exception {
   final String message;

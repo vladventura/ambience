@@ -6,11 +6,7 @@ import 'package:ambience/weatherEntry/weather_entry.dart';
 import 'package:flutter/material.dart';
 import 'package:ambience/api/weather.dart';
 import "package:ambience/daemon/daemon.dart";
-import 'package:ambience/Firebase/fire_handler.dart';
-import "package:ambience/GUI/create.dart";
-import "package:ambience/GUI/list.dart";
-import "package:ambience/GUI/login.dart";
-import "package:ambience/GUI/main screen.dart";
+import 'package:ambience/firebase/fire_handler.dart';
 
 void main(List<String> args) async {
   await dotenv.load();
@@ -23,6 +19,11 @@ void main(List<String> args) async {
   String city = 'New York';
   WeatherEntry mockObj = WeatherEntry(time, dow, testPaper, wc, city);
   // add new rule to json
+  WeatherEntry.createRule(mockObj);
+  FireHandler firehand = FireHandler();
+  await firehand.fireSignIn('test@server.com', '123456');
+  firehand.jsonUpload();
+  firehand.jsonDownload();
   //if not args passed, GUI MODE
   if (args.isEmpty) {
     runApp(const MyApp());
@@ -43,16 +44,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'Flutter Demo',
-        theme: ThemeData(
-          primarySwatch: Colors.blue,
-        ),
-        initialRoute: '/',
-        routes: {
-          '/': (context) => const LoginApp(),
-          '/Home': (context) => const MainApp(),
-          '/List': (context) => const ListApp(),
-        });
+      title: 'Flutter Demo',
+      theme: ThemeData(
+        primarySwatch: Colors.blue,
+      ),
+      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+    );
   }
 }
 
@@ -119,7 +116,7 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
             //weather api text field
             // ignore: prefer_const_constructors
-             TextField(
+            TextField(
               // ignore: prefer_const_constructors
               decoration: InputDecoration(
                 // ignore: prefer_const_constructors
@@ -130,7 +127,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 cityInput = text;
               },
             ),
-             TextField(
+            TextField(
               // ignore: prefer_const_constructors
               decoration: InputDecoration(
                 // ignore: prefer_const_constructors
