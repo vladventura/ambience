@@ -17,8 +17,10 @@ class Daemon {
     Map<String, WeatherEntry> ruleMap = await WeatherEntry.getRuleList();
     //get map from map of maps
     List<dynamic> entryList = ruleMap.values.toList();
+    //get weather data(assume location is shared across all rules)
+    WeatherModel weatherData = await getWeatherData(entryList[0]);
     for (int i = 0; i < entryList.length; i++) {
-      weatherCheck(entryList[i]);
+      await weatherCheck(entryList[i], weatherData);
     }
   }
 
@@ -209,14 +211,39 @@ class Daemon {
   }
 
   //checks for desired weather condition and changes wallpaper if it is.
-  static void weatherCheck(WeatherEntry ruleObj) async {
-    //if cannot access weather api, use offline data
+  static Future<void> weatherCheck(
+      WeatherEntry ruleObj, WeatherModel weatherData) async {
+    //check if wallpaper change is needed
+    bool match = ruleObj.compareWeather(weatherData.weathers[0].name);
+    if (match) {
+      WallpaperHandler.setWallpaper(ruleObj.wallpaperFilepath);
+    }
+  }
+
+  //function wrapper for Android, acts as callback function for Android Alarm Manager Plus(AAMP)
+  //takes int,map because that's the format AAMP expects
+  static void androidWeatherCheck(int id, Map params) async {
+    String key = "ruleobj";
+    if (params.containsKey(key)) {
+      WeatherEntry ruleobj = params[key];
+      WeatherModel weatherData = await getWeatherData(ruleobj);
+      await weatherCheck(ruleobj, weatherData);
+    } else {
+      debugPrint(
+          "Android daemon couldn't find ruleobj in androidWeatherCheck!");
+    }
+  }
+
+  static Future<WeatherModel> getWeatherData(WeatherEntry ruleObj) async {
+    //get current time, so data fetch time doesn't effect finding the most up to date weather data
+    var nowTime = DateTime.now();
+    //if cannot access weather api
     if ((await getAndWriteWeather(ruleObj.city)) == false) {
       debugPrint(
           "Cannot access online weather data, checking offline weather data. -Daemon.weathercheck");
     }
-    //might want to pull the weather parsing, and finding most current as it's own function or addition to some other handler.
     Storage store = Storage();
+    //get offline data
     var weatherJson = await (store.readAppDocJson(weatherDataPath));
     if (weatherJson == 'failed') {
       debugPrint("Cannot read weatherData.JSON,exiting -Daemon.weathercheck");
@@ -233,7 +260,7 @@ class Daemon {
     for (i = 0; i < allWeatherData.length; i++) {
       var timeStamp = DateTime.parse(allWeatherData[i].datetimeText).toLocal();
       //stop once, most up to date weather is found
-      if (!(DateTime.now().isAfter(timeStamp))) {
+      if (!(nowTime.isAfter(timeStamp))) {
         break;
       }
     }
@@ -241,23 +268,7 @@ class Daemon {
     if (i == allWeatherData.length) {
       i = i - 1;
     }
-    //check if wallpaper change is needed
-    bool match = ruleObj.compareWeather(allWeatherData[i].weathers[0].name);
-    if (match) {
-      WallpaperHandler.setWallpaper(ruleObj.wallpaperFilepath);
-    }
-  }
-
-  //function wrapper for Android, acts as callback function for Android Alarm Manager Plus(AAMP)
-  //takes int,map because that's the format AAMP expects
-  static void androidWeatherCheck(int id, Map params) {
-    String key = "ruleobj";
-    if (params.containsKey(key)) {
-      WeatherEntry ruleobj = params[key];
-      weatherCheck(ruleobj);
-    } else {
-      debugPrint(
-          "Android daemon couldn't find ruleobj in androidWeatherCheck!");
-    }
+    //return the
+    return allWeatherData[i];
   }
 }

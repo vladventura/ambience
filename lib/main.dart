@@ -1,4 +1,5 @@
 import 'dart:io';
+import 'package:ambience/models/weather_model.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:ambience/handlers/file_handler.dart';
 import 'package:ambience/handlers/wallpaper_handler.dart';
@@ -24,14 +25,15 @@ void main(List<String> args) async {
     runApp(const MyApp());
   }
   //if there are command line args, GUI-Less mode
- else {
+  else {
     //boot daemon case
     if (args[0] == 'boot') {
       Daemon.bootWork();
     } else {
       String idSchema = args[1];
       var ruleObj = await WeatherEntry.getRule(idSchema);
-      Daemon.weatherCheck(ruleObj);
+      WeatherModel weatherData = await Daemon.getWeatherData(ruleObj);
+      Daemon.weatherCheck(ruleObj, weatherData);
     }
     //explict exit, else Windows task scheduler will never know the task ended
     exit(0);
