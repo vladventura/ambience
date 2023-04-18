@@ -24,10 +24,15 @@ void main(List<String> args) async {
     runApp(const MyApp());
   }
   //if there are command line args, GUI-Less mode
-  else {
-    //restore spaces that were replaced with underscores
-    String input = args[0].replaceAll("_", " ");
-    await weather(input);
+ else {
+    //boot daemon case
+    if (args[0] == 'boot') {
+      Daemon.bootWork();
+    } else {
+      String idSchema = args[1];
+      var ruleObj = await WeatherEntry.getRule(idSchema);
+      Daemon.weatherCheck(ruleObj);
+    }
     //explict exit, else Windows task scheduler will never know the task ended
     exit(0);
   }
