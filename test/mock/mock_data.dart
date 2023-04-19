@@ -28,7 +28,7 @@ Map<String, dynamic> fakeWeatherEntry = {
   "endTimeMinute": "10",
   "dayOfWeek": DayOfWeek.friday.index.toString(),
   "wallpaperFilepath": "fake/path",
-  "weatherCondition": WeatherCondition.rain.index.toString(),
+  "weatherCondition": WeatherCondition.Rain.index.toString(),
   "idSchema": "ambience_daemon_fakentry",
   "city": "Incheon",
 };

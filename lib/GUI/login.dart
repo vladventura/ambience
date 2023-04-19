@@ -3,21 +3,24 @@
 
 import 'package:flutter/material.dart';
 import 'dart:io';
+import 'package:ambience/Firebase/fire_handler.dart';
 
 String current = Directory.current.path;
 
+// ignore: must_be_immutable
 class LoginMsg extends StatelessWidget {
   final bool visibleLog;
 
   String errMsg = "";
 
-  LoginMsg({
-    super.key,
-    required this.visibleLog,
-    required this.errMsg});
 
-  Text _loginFail(String msg) { 
-    return Text(
+  LoginMsg({super.key, required this.visibleLog, required this.errMsg});
+
+  // change to accept custom error messages from firebase
+
+  Text _loginFail(String msg) {
+
+return Text(
       msg,
       style: TextStyle(
         color: Colors.red,
@@ -36,10 +39,13 @@ class LoginMsg extends StatelessWidget {
       alignment: Alignment.topCenter,
       padding: const EdgeInsets.only(right: 24),
       child: Column(
-        children: [ // change to have only one error message, as there's gonna be a whole lotta messages
+
+        children: [
+          // change to have only one error message, as there's gonna be a whole lotta messages
           Visibility(
             visible: visibleLog,
-            child: _loginFail(errMsg), // this will be updated as the error message changes
+            child: _loginFail(
+                errMsg), // this will be updated as the error message changes
           ),
         ],
       ),
@@ -59,13 +65,16 @@ class _LoginApp extends State<LoginApp> {
   final TextEditingController _nameController = TextEditingController();
   final TextEditingController _passController = TextEditingController();
 
+  bool _obscureFlag = true;
   String errMsg = "";
- 
-  void _login(String usrname, String passwrd) {
+  FireHandler hand = FireHandler();
+  void _login(String usrname, String passwrd) async {
     bool success = false; /* BOOLEAN FUNCTION PART GOES HERE */
-
-    errMsg = "error has occurred"; // GET ERROR MESSAGE HERE
-
+    try {
+      success = await hand.fireSignIn(usrname, passwrd);
+    } catch (e) {
+      errMsg = e.toString(); // set error message
+    }
     if (success) {
       _visibleLog = false;
       Navigator.pushNamed(context, '/Home');
@@ -76,11 +85,17 @@ class _LoginApp extends State<LoginApp> {
     }
   }
 
-  void _signup(String usrname, String passwrd) {
-    bool success = false; /* BOOLEAN FUNCTION PART GOES HERE */
 
-    errMsg = "error has occurred"; // GET ERROR MESSAGE HERE
-
+  void _signup(String usrname, String passwrd) async {
+    //always true for testing
+    bool success = true; /* BOOLEAN FUNCTION PART GOES HERE */
+    /*
+    try {
+      success = await hand.fireSignUp(usrname, passwrd);
+    } catch (e) {
+      errMsg = e.toString(); // set error message
+    }
+    */
     if (success) {
       _visibleLog = false;
       Navigator.pushNamed(context, '/Home');
@@ -108,7 +123,7 @@ class _LoginApp extends State<LoginApp> {
         textAlign: TextAlign.left,
         maxLength: 100,
         decoration: const InputDecoration(
-          labelText: "Username",
+          labelText: "Email",
           labelStyle: TextStyle(fontSize: 20),
         ),
       ),
@@ -125,11 +140,21 @@ class _LoginApp extends State<LoginApp> {
       child: TextField(
         onChanged: null,
         controller: _passController,
+        obscureText: _obscureFlag,
         textAlign: TextAlign.left,
         maxLength: 50,
-        decoration: const InputDecoration(
+        decoration: InputDecoration(
           labelText: "Password",
-          labelStyle: TextStyle(fontSize: 20),
+          labelStyle: const TextStyle(fontSize: 20),
+          suffixIcon: IconButton(
+            // ignore: dead_code
+            icon: Icon(_obscureFlag ? Icons.visibility : Icons.visibility_off),
+            onPressed: () {
+              setState(() {
+                _obscureFlag = !_obscureFlag;
+              });
+            },
+          ),
         ),
       ),
     );
@@ -153,7 +178,8 @@ class _LoginApp extends State<LoginApp> {
     return OutlinedButton(
       onPressed: () {
         _login(_nameController.text, _passController.text);
-        errMsg = "error1"; // update error message here
+
+        errMsg = ""; // update error message here
         setState(() {});
       },
       style: const ButtonStyle(
@@ -171,7 +197,8 @@ class _LoginApp extends State<LoginApp> {
     return OutlinedButton(
       onPressed: () {
         _signup(_nameController.text, _passController.text);
-        errMsg = "error2"; // update error message here
+
+        errMsg = ""; // update error message here
         setState(() {});
       },
       style: const ButtonStyle(
@@ -208,7 +235,8 @@ class _LoginApp extends State<LoginApp> {
           _loginSignin(),
           LoginMsg(
             visibleLog: _visibleLog,
-            errMsg: this.errMsg,
+
+            errMsg: errMsg,
           ),
         ],
       ),
