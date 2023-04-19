@@ -1,25 +1,21 @@
-import 'dart:math';
-
 import 'package:flutter/material.dart';
-import 'package:path/path.dart' as path;
 import 'dart:io';
 import 'package:ambience/weatherEntry/weather_entry.dart';
-import 'package:ambience/GUI/create.dart';
 import "package:ambience/GUI/wallpaperobj.dart";
 
 void main() => runApp(const ListApp());
 
 String current = Directory.current.path;
 
-String getWallpaper(int index) {
+String getWallpaper(int index) { // may not be final
   return "$current/lib/GUI/20210513_095523.jpg";
 }
 
-String getCond(int index) {
+String getCond(int index) { // may not be final
   return "placeholder weather";
 }
 
-String getTime(int index) {
+String getTime(int index) { // may not be final
   return "12:30";
 }
 
@@ -39,12 +35,12 @@ class EntryControls extends StatelessWidget { // controls to copy, edit, and del
     // displays the wallpaper's controls
     children: [
       IconButton(
-        onPressed: null, //function to delete the wallpaper
+        onPressed: null, // function to delete the wallpaperObj, deleting the rules associated with it
         icon: Icon(Icons.delete),
         style: controlStyle,
         ),
       IconButton(
-        onPressed: null, //function to copy the wallpaper, goes to create screen w/ data
+        onPressed: null, // function to copy the wallpaperObj, goes to create screen w/ data from wallpaperObj
         // creates new wallpaper when done
         icon: Icon(Icons.copy),
         style: controlStyle
@@ -66,9 +62,27 @@ class EntryControls extends StatelessWidget { // controls to copy, edit, and del
 
 class WallpaperEntry extends StatelessWidget {
 
+  // function that creates a list of WallpaperObjs.
+  // Searches list of created WeatherEntries and groups them together
+  // into a list of WallpaperObjects.
+
+/*
+
+  List<WallpaperObj> savedWallpapers(){
+
+    Map<String, WeatherEntry> rulesList = WeatherEntry.getRuleList() as Map<String, WeatherEntry>;
+
+    
+
+  }
+
+*/
+
+
+
   String wallFile = "Null";
 
-  WeatherCondition cond = WeatherCondition.empty;
+  WeatherCondition cond = WeatherCondition.Empty;
 
   String time = "";
 
@@ -76,6 +90,8 @@ class WallpaperEntry extends StatelessWidget {
   Widget wallpaperCond = Container();
   Widget wallpaperControls = Container();
 
+
+  //constructor placeholder to just test list screen
   WallpaperEntry(WallpaperObj obj) {
     wallFile = obj.filePath;
     cond = obj.cond;

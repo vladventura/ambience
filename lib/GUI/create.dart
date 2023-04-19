@@ -5,7 +5,7 @@
 //  make data persistent past setstate() calls
 //  probably gonna have to change WallpaperObj to accept WallpaperEntry data
 // make day buttons do stuff, 'cause they currently don't
-
+// Scrap the copy option
 
 import 'dart:async';
 import 'dart:math';
@@ -347,6 +347,7 @@ class _CreateApp extends State<CreateApp> {
     return int.tryParse(s)!;
   } 
 
+  // gonna need to change this 
   bool checkFields(String hour, String minute, String file, WeatherCondition cond, List<bool> days) { // confirm all fields are filled
       if(isNumeric(hour) && int.parse(hour) <= 12 && int.parse(hour) > 0){}
       else{print("didn't pass field check for hour\n"); return false;}
@@ -358,7 +359,7 @@ class _CreateApp extends State<CreateApp> {
 
       print("condition is: \n");
       print(cond);
-      if(cond != WeatherCondition.empty){}
+      if(cond != WeatherCondition.Empty){}
       else{print("didn't pass field check for condition\n"); return false;}
 
       if(file != ""){}
@@ -392,6 +393,11 @@ class _CreateApp extends State<CreateApp> {
     // return true if created successfully
     // return false if new wallpaper is a duplicate
 
+    // don't check for duplicate filepaths, only conditions can cause conflicts
+
+    // call WeatherEntry.createrule
+    // if false, return failure, because a duplicate has been found
+
     switch(intend) {
       case 1:
         // use newObj, create new wallpaper entry(s) with it
@@ -400,28 +406,7 @@ class _CreateApp extends State<CreateApp> {
 
         break;
 
-      case 2: 
-
-        // use newObj, create new wallpaper entry(s) with it,
-        // keep original wallpaper entry(s) intact
-        if(newObj.time == origObj.time)
-        {
-          return false; // the time is duplicate, cancel creation
-        }
-        else
-        {
-          for(int i = 0; i < newObj.days.length; i++){
-            if(newObj.days[i]){
-              // create new rule for specific day (ex: i = 0 is a sunday wallpaper)
-              TimeOfDay newTime = TimeOfDay(hour: newObj.hour, minute: newObj.minute);
-              WeatherEntry newWeather = WeatherEntry(newTime, DayOfWeek.values[i], newObj.filePath,
-                                                    iconToWeatherCond[weatherDrops.weatherVal], "City", ); // we NEED to find a way to retrieve the city string
-
-              WeatherEntry.createRule(newWeather);
-            }
-          }
-          return true; // success, the times are different
-        }
+      case 2: // we don't talk about copy
 
         break;
 

@@ -19,6 +19,12 @@
             "program": "lib/GUI/list.dart"
         },
         {
+            "name": "main screen",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/GUI/main screen.dart"
+        },
+        {
             "name": "create",
             "request": "launch",
             "type": "dart",

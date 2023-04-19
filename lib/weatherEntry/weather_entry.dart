@@ -4,7 +4,24 @@ import 'package:ambience/storage/storage.dart';
 import 'dart:convert';
 
 // added empty for when the user hasn't entered anything yet
-enum WeatherCondition { clear, cloudy, rain, snow, thunderstorm, empty }
+enum WeatherCondition {
+  Empty, // the NULL case
+  Clear,
+  Clouds,
+  Rain,
+  Snow,
+  Thunderstorm,
+  Drizzle,
+  Mist,
+  Smoke,
+  Haze,
+  Dust,
+  Fog,
+  Sand,
+  Ash,
+  Squall,
+  Tornado
+}
 
 enum DayOfWeek {
   sunday,
@@ -22,7 +39,7 @@ class WeatherEntry {
 //  TimeOfDay endTime = const TimeOfDay(hour: 23, minute: 59); //removed endTime
   DayOfWeek dayOfWeek = DayOfWeek.friday;
   String wallpaperFilepath = "";
-  WeatherCondition weatherCondition = WeatherCondition.clear;
+  WeatherCondition weatherCondition = WeatherCondition.Clear;
   String idSchema = 'ambience_daemon_';
   String city = 'london';
 

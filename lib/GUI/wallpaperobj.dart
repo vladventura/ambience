@@ -23,26 +23,26 @@ const List<String> Days =
 ];
 
 Map iconToWeatherCond = {
-  Icons.sunny:WeatherCondition.clear,
-  Icons.cloud:WeatherCondition.cloudy,
-  Icons.water_drop:WeatherCondition.rain,
-  Icons.thunderstorm:WeatherCondition.thunderstorm,
-  Icons.cloudy_snowing:WeatherCondition.snow,
-  Icons.ads_click:WeatherCondition.empty
+  Icons.sunny:WeatherCondition.Clear,
+  Icons.cloud:WeatherCondition.Clouds,
+  Icons.water_drop:WeatherCondition.Rain,
+  Icons.thunderstorm:WeatherCondition.Thunderstorm,
+  Icons.cloudy_snowing:WeatherCondition.Snow,
+  Icons.ads_click:WeatherCondition.Empty
   };
 
 Map weathercondToIcon = {
-  WeatherCondition.clear:Icons.sunny,
-  WeatherCondition.cloudy:Icons.cloud,
-  WeatherCondition.rain:Icons.water_drop,
-  WeatherCondition.thunderstorm:Icons.thunderstorm,
-  WeatherCondition.snow:Icons.cloudy_snowing,
-  WeatherCondition.empty:Icons.ads_click
+  WeatherCondition.Clear:Icons.sunny,
+  WeatherCondition.Clouds:Icons.cloud,
+  WeatherCondition.Rain:Icons.water_drop,
+  WeatherCondition.Thunderstorm:Icons.thunderstorm,
+  WeatherCondition.Snow:Icons.cloudy_snowing,
+  WeatherCondition.Empty:Icons.ads_click
   };
 
 class WallpaperObj {
   String filePath = "$current/lib/GUI/20210513_095523.jpg";
-  WeatherCondition cond = WeatherCondition.clear;
+  WeatherCondition cond = WeatherCondition.Clear;
   String time = "placeholder time";
   String city = "placeholder city";
 
@@ -93,7 +93,7 @@ class WallpaperObj {
 
     else { // if there is no WeatherEntry passed
       filePath = "";
-      cond = WeatherCondition.empty;
+      cond = WeatherCondition.Empty;
       hour = 0;
       minute = 0;
       time = hour.toString() + ":" + minute.toString();
@@ -107,7 +107,7 @@ class WallpaperObj {
                       this.days, [this.entries = const[]]){
 
       filePath = "";
-      cond = WeatherCondition.empty;
+      cond = WeatherCondition.Empty;
       hour = 0;
       minute = 0;
       time = hour.toString() + ":" + minute.toString();

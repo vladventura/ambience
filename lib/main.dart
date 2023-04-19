@@ -93,7 +93,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
     TimeOfDay time = const TimeOfDay(hour: 20, minute: 50);
     DayOfWeek dow = DayOfWeek.friday;
-    WeatherCondition wc = WeatherCondition.clear;
+    WeatherCondition wc = WeatherCondition.Clear;
     String testPaper = "C:\\Users\\bryan\\Downloads\\test.jpg";
     String city = 'New York';
     WeatherEntry mockObj = WeatherEntry(time, dow, testPaper, wc, city);
