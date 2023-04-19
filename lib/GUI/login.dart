@@ -13,12 +13,14 @@ class LoginMsg extends StatelessWidget {
 
   String errMsg = "";
 
+
   LoginMsg({super.key, required this.visibleLog, required this.errMsg});
 
   // change to accept custom error messages from firebase
 
   Text _loginFail(String msg) {
-    return Text(
+
+return Text(
       msg,
       style: TextStyle(
         color: Colors.red,
@@ -31,11 +33,13 @@ class LoginMsg extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+
     return Container(
       // needs a "stateful widget" to work properly and change states
       alignment: Alignment.topCenter,
       padding: const EdgeInsets.only(right: 24),
       child: Column(
+
         children: [
           // change to have only one error message, as there's gonna be a whole lotta messages
           Visibility(
@@ -60,6 +64,7 @@ class _LoginApp extends State<LoginApp> {
   bool _visibleLog = false;
   final TextEditingController _nameController = TextEditingController();
   final TextEditingController _passController = TextEditingController();
+
   bool _obscureFlag = true;
   String errMsg = "";
   FireHandler hand = FireHandler();
@@ -79,6 +84,7 @@ class _LoginApp extends State<LoginApp> {
       });
     }
   }
+
 
   void _signup(String usrname, String passwrd) async {
     //always true for testing
@@ -172,6 +178,7 @@ class _LoginApp extends State<LoginApp> {
     return OutlinedButton(
       onPressed: () {
         _login(_nameController.text, _passController.text);
+
         errMsg = ""; // update error message here
         setState(() {});
       },
@@ -190,6 +197,7 @@ class _LoginApp extends State<LoginApp> {
     return OutlinedButton(
       onPressed: () {
         _signup(_nameController.text, _passController.text);
+
         errMsg = ""; // update error message here
         setState(() {});
       },
@@ -227,6 +235,7 @@ class _LoginApp extends State<LoginApp> {
           _loginSignin(),
           LoginMsg(
             visibleLog: _visibleLog,
+
             errMsg: errMsg,
           ),
         ],

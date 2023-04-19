@@ -1,39 +1,86 @@
 // ignore_for_file: prefer_const_literals_to_create_immutables, avoid_unnecessary_containers, prefer_const_constructors, sort_child_properties_last, unused_import, sized_box_for_whitespace
 
+
+// TO DO: 
+//  make data persistent past setstate() calls
+//  probably gonna have to change WallpaperObj to accept WallpaperEntry data
+// make day buttons do stuff, 'cause they currently don't
+// Scrap the copy option
+
+import 'dart:async';
 import 'dart:math';
 
+import 'package:ambience/api/weather.dart';
+import 'package:ambience/weatherEntry/weather_entry.dart';
 import 'package:flutter/material.dart';
 import 'package:path/path.dart' as path;
 import 'dart:io';
 
 import "package:ambience/GUI/list.dart";
+import "package:ambience/GUI/wallpaperobj.dart";
 import "package:ambience/handlers/file_handler.dart";
 
-void main() => runApp(CreateApp(contextWallpaper: WallpaperObj()));
+void main() => runApp(CreateApp(contextWallpaper: WallpaperObj(), intention: 1, location: ""));
+
+
+// Global variables
 
 String current = Directory.current.path;
 
+final ButtonStyle dayToggleButton = OutlinedButton.styleFrom(
+  backgroundColor: Colors.white,
+  side: BorderSide(color: Colors.black, width: 1),
+  fixedSize: Size(48, 48),
+  shape: RoundedRectangleBorder(borderRadius: BorderRadius.zero),
+);
+
+// end of globals
+
+
 class WeatherDropMenu extends StatefulWidget {
-  const WeatherDropMenu({super.key});
+  WeatherDropMenu({super.key});
+
+  List<IconData> weathers = <IconData>[
+    Icons.sunny, 
+    Icons.cloud,
+    Icons.water_drop,
+    Icons.thunderstorm, 
+    Icons.cloudy_snowing, 
+  ];
+
+   //for translating the icondata to WeatherCondition
+
+  IconData weatherVal = Icons.ads_click;
+
+  // returns a translated value for the current weather condition
+  WeatherCondition getCondition() { 
+    return iconToWeatherCond[weatherVal];
+  }
+
 
  @override
   State<WeatherDropMenu> createState() => _WeatherDropMenuState();
 }
 
 class WallpaperChooser extends StatefulWidget {
-  WallpaperObj chosen;
 
-  WallpaperChooser({ Key? key, required this.chosen}): super(key: key);
+  String currentFile = "";
+
+  WallpaperChooser({ Key? key, required this.currentFile}): super(key: key);
+
+  String getCurrentFile(){ return currentFile; }
+  void setCurrentFile(String s){ currentFile = s; }
 
   @override
   State<WallpaperChooser> createState() => _WallpaperChooser();
 }
 
-// List<String> daysActive = List<String>;
+class AmPmToggle extends StatefulWidget {
+  const AmPmToggle({super.key});
 
-String weatherCond = "";
-
-String wallpaperFilepath = "";
+ @override
+  State<AmPmToggle> createState() => _AmPmToggle();
+}
 
 String setWeatherCond(IconData cond) { //converts icon's data to a string
   return cond.toString(); 
@@ -53,16 +100,6 @@ Future<String> chooseFile() async {
 }
 
 class _WeatherDropMenuState extends State<WeatherDropMenu> {
-      
-  List<IconData> weathers = <IconData>[
-    Icons.sunny, 
-    Icons.cloud,
-    Icons.shower,
-    Icons.thunderstorm, 
-    Icons.cloudy_snowing, 
-  ];
-
-  IconData weatherVal = Icons.hourglass_bottom;
 
   @override
   Widget build(BuildContext context) {
@@ -70,14 +107,14 @@ class _WeatherDropMenuState extends State<WeatherDropMenu> {
             alignment: Alignment.topCenter,
             padding: EdgeInsets.only(right: 24),
             child: DropdownButton<IconData>(
-              icon: Icon(weatherVal), //placeholder icon value for now
+              icon: Icon(widget.weatherVal), //placeholder icon value for now
               iconSize: 64,
               onChanged: (IconData? newVal) {
                 setState(() {
-                  weatherVal = newVal!;
+                  widget.weatherVal = newVal!;
                 });
               }, // update current weather value
-              items: weathers.map<DropdownMenuItem<IconData>>((IconData value) {
+              items: widget.weathers.map<DropdownMenuItem<IconData>>((IconData value) {
                 return DropdownMenuItem<IconData>(
                   value: value,
                   child: Icon(value),
@@ -94,119 +131,327 @@ class _WallpaperChooser extends State<WallpaperChooser> {
   @override
   Widget build(BuildContext context) {
 
-    Widget img = Image.file(
-        File(widget.chosen.filePath),
-        fit: BoxFit.fitHeight,);
+    Widget img = checkWallpaper(widget.currentFile);
 
     return Expanded(
-    child: IconButton( // placeholder, retrieve wallpaper image here
-      icon: img,
-        onPressed: () async { // updates the wallpaper to be the newly selected image
-        widget.chosen.filePath = await chooseFile();
-        imageCache.clear();
-        imageCache.clearLiveImages();
-        img = Image.file(
-        File(widget.chosen.filePath),
-        fit: BoxFit.fitHeight,);
-        setState(() {});
-      }, //open file explorer here
-    ),
-  );
+      child: InkWell(
+        onTap: () async {
+          // updates the wallpaper to be the newly selected image
+          widget.currentFile = await chooseFile();
+          imageCache.clear();
+          imageCache.clearLiveImages();
+          checkWallpaper(widget.currentFile);
+          setState(() {});
+        },
+        child: Container(
+            child: img,
+        )),
+    );
   }
 }
 
-class CreateApp extends StatelessWidget {
-  CreateApp({super.key, required this.contextWallpaper});
+class _AmPmToggle extends State<AmPmToggle> {
 
-  final WallpaperObj contextWallpaper;
- 
+
+  bool amPm = true; // true = AM, false = PM
+
+  Text txt = Text("A.M.", style: TextStyle(fontSize: 11));
+
+  @override
+  Widget build(BuildContext context){
+
+    return Container(
+              height: 80,
+              decoration: BoxDecoration(
+                border: Border.all(color: Colors.black, width: 2),
+              ),
+
+              child: OutlinedButton(onPressed: (){
+                if(amPm == true){
+                  setState(() {
+                    txt = Text("P.M.", style: TextStyle(fontSize: 11));
+                    amPm = false;
+                  });
+                }
+                else if(amPm == false){
+                  setState(() {
+                    txt = Text("A.M.", style: TextStyle(fontSize: 11));
+                    amPm = true;
+                  });
+                }
+              }, // switches from A.M. to P.M. and vice versa on click
+                child: txt,
+                style: dayToggleButton,
+          ));
+  }
+}
+
+class CreateMsg extends StatelessWidget {
+  final bool visibleErr;
+
+  String errMsg = "";
+
+  int type = 0;
+
+  CreateMsg({
+    super.key,
+    required this.visibleErr,
+    required this.type});
+
+  // change to accept custom error messages from firebase
+
+  Text _createFail(int type) {
+
+    if (type == 1) {
+      errMsg = "Warning: Please fill all of the fields correctly";
+    } else if (type == 2) {
+      errMsg = "Warning: Wallpaper's conditions conflict with an existing wallpaper";
+    } else {
+      errMsg = "Warning: Incorrect information entered";
+    }
+
+    return Text(
+      errMsg,
+      style: TextStyle(
+        color: Colors.red,
+        fontWeight: FontWeight.bold,
+        fontSize: 20,
+      ),
+      textAlign: TextAlign.center,
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
 
-      String chosenFile = contextWallpaper.filePath;
+    return Container(
+      // needs a "stateful widget" to work properly and change states
+      alignment: Alignment.topCenter,
+      padding: const EdgeInsets.only(right: 24),
+      child: Column(
+        children: [ // change to have only one error message, as there's gonna be a whole lotta messages
+          Visibility(
+            visible: visibleErr,
+            child: _createFail(type), // this will be updated as the error message changes
+          ),
+        ],
+      ),
+    );
+  }
+}
 
-      final ButtonStyle dayToggleButton = OutlinedButton.styleFrom(
-        backgroundColor: Colors.white,
-        side: BorderSide(color: Colors.black, width: 1),
-        fixedSize: Size(48, 48),
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.zero),
-      );
+Widget checkWallpaper(String str) {
 
+  if(File(str).existsSync()) {
+    return Expanded(
+      child: Image.file(
+        File(str),
+        fit: BoxFit.fitHeight,), // placeholder, retrieve wallpaper image here
+    );
+  } else {
+    return Container(
+            alignment: Alignment.center,
+            child:Expanded(
+            child: const Text("\t No wallpaper currently displayed \t"),
+            )
+          );
+  }
+}
+
+class DayButtons extends StatefulWidget{
+  
+  List<bool> daysActive = [false,false,false,false,false,false,false]; 
+
+  List<bool> getDays(){
+    return daysActive;
+  }
+
+  DayButtons({super.key, required this.daysActive});
+
+ @override
+  State<DayButtons> createState() => DayButtonsState();
+}
+
+class DayButtonsState extends State<DayButtons>{
+
+  List<Widget> dayNames = <Widget>[
+    Text("Sun", style: TextStyle(fontSize: 11)),
+    Text("Mon", style: TextStyle(fontSize: 11)),
+    Text("Tue", style: TextStyle(fontSize: 11)),
+    Text("Wed", style: TextStyle(fontSize: 11)),
+    Text("Thu", style: TextStyle(fontSize: 11)),
+    Text("Fri", style: TextStyle(fontSize: 11)),
+    Text("Sat", style: TextStyle(fontSize: 11))
+  ];
+
+  //TO DO: Give this an initial value when the user has an intention of 2 or 3
+  // and of course save it to the daysActive list if applicable
+  final List<bool> _selectedDays = <bool>[false,false,false,false,false,false,false];
+
+
+  // checks if button is toggled or not
+  // if the day is already currently selected, then the day is toggled off and removed from the list
+  // if the day is not selected yet, the day is toggled on, and is added to the list
+  void updateDays(int index){ 
+    if(_selectedDays[index]){
+      widget.daysActive[index] = false;
+    } else {
+      widget.daysActive[index] = true; //currently causes an exception when I click a day button
+    }
+    for(int i = 0; i < Days.length; i++)
+    {
+      _selectedDays[i] = widget.daysActive.contains(Days[i]);
+    }
+  }
+
+  @override
+  Widget build(BuildContext context){
+
+    return ToggleButtons(
+      direction: Axis.horizontal,
+      onPressed: (int index) { 
+        updateDays(index);
+        setState(() {});
+      },
+      selectedBorderColor: Color.fromARGB(255, 0, 75, 205),
+      selectedColor: Color.fromARGB(255, 41, 187, 255),
+      children: dayNames,
+      isSelected: _selectedDays,
+    );
+  }
+}
+
+class CreateApp extends StatefulWidget {
+  CreateApp({super.key, required this.contextWallpaper, required this.intention, required this.location});
+
+  final WallpaperObj contextWallpaper;
+
+  // 1 = create new wallpaper, 
+  // 2 = copy from existing wallpaper, 
+  // 3 = edit existing wallpaper
+  final int intention; 
+
+  final String location;
+
+ @override
+  State<CreateApp> createState() => _CreateApp();
+}
+
+class _CreateApp extends State<CreateApp> {
+
+  bool isNumeric(String s) {
+    return int.tryParse(s) != null;
+  }
+  
+  int toNumber(String s) {
+    return int.tryParse(s)!;
+  } 
+
+  // gonna need to change this 
+  bool checkFields(String hour, String minute, String file, WeatherCondition cond, List<bool> days) { // confirm all fields are filled
+      if(isNumeric(hour) && int.parse(hour) <= 12 && int.parse(hour) > 0){}
+      else{print("didn't pass field check for hour\n"); return false;}
+
+      if(isNumeric(minute) && minute.length == 2 && int.parse(minute) <= 59){}
+      else{print("didn't pass field check for minute\n"); return false;}
+
+      if(days.every((element) => element == false)){return false;}
+
+      print("condition is: \n");
+      print(cond);
+      if(cond != WeatherCondition.Empty){}
+      else{print("didn't pass field check for condition\n"); return false;}
+
+      if(file != ""){}
+      else{print("didn't pass field check for file\n"); return false;}
+
+      return true;
+  }
+
+  WeatherDropMenu weatherDrops = WeatherDropMenu();
+
+  WallpaperChooser fileChooser = WallpaperChooser(currentFile: "");
+
+  DayButtons dayToggles = DayButtons(daysActive: []); // will probably give initial values here or something
+
+  String chosenFile = "";
+
+  IconData chosenCond = Icons.clear; //the value for clear is invalid, which is later checked for
+
+  String chosenMinute = "";
+
+  String chosenHour = "";
+
+
+  bool _visibleErr = false;
+  int errType = 0;
+
+  //function that performs the final action before closing the create page
+  //decides what to do based on the intention variable
+  bool confirmCreation(int intend, WallpaperObj origObj, WallpaperObj newObj){
+
+    // return true if created successfully
+    // return false if new wallpaper is a duplicate
+
+    // don't check for duplicate filepaths, only conditions can cause conflicts
+
+    // call WeatherEntry.createrule
+    // if false, return failure, because a duplicate has been found
+
+    switch(intend) {
+      case 1:
+        // use newObj, create new wallpaper entry(s) with it
+
+        return true; // temp bool
+
+        break;
+
+      case 2: // we don't talk about copy
+
+        break;
+
+      case 3:
+        // delete origObj's wallpaper entries,
+        // create new wallpaper entries with newObj,
+
+        return true; // temp bool
+
+        break;
+
+      default:
+        return false;
+    }
+
+    return false;
+  }
+
+  @override
+  Widget build(BuildContext context) {
+
+    fileChooser = WallpaperChooser(currentFile: widget.contextWallpaper.filePath);
+
+    TextEditingController hourController = TextEditingController(text: chosenHour);
+    TextEditingController minuteController = TextEditingController(text: chosenMinute);
+
+    if(widget.intention > 1){
+      chosenFile = widget.contextWallpaper.filePath;
+
+      chosenCond = weathercondToIcon[widget.contextWallpaper.cond];
+
+      chosenHour = widget.contextWallpaper.time;
+      chosenMinute = widget.contextWallpaper.time;
+    }
 
     Widget wallpaperSection = Expanded(
           child: Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Padding(padding: EdgeInsets.only(left: 32)),
-              WallpaperChooser(chosen: contextWallpaper),
+              fileChooser,
               Padding(padding: EdgeInsets.only(right: 32)),
             ],
           ),
     ); 
-
-    Widget dayButtonsSection = Container(
-      padding: EdgeInsets.all(16),
-
-      child: Row(
-
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-
-          Spacer(flex: 12),
-
-          OutlinedButton(onPressed: null, //place function call within toggle button function
-          child: const Text("Sun", style: TextStyle(fontSize: 11)),
-          style: dayToggleButton,
-          ),
-          
-          Spacer(flex: 1),
-
-          OutlinedButton(onPressed: null,
-          child: const Text("Mon", style: TextStyle(fontSize: 11)),
-          style: dayToggleButton,
-          ),
-
-          Spacer(flex: 1),
-
-          OutlinedButton(onPressed: null, 
-          child: const Text("Tue", style: TextStyle(fontSize: 11)),
-          style: dayToggleButton,
-          ),
-
-          Spacer(flex: 1),
-
-          OutlinedButton(onPressed: null, 
-          child: const Text("Wed", style: TextStyle(fontSize: 11)),
-          style: dayToggleButton,
-          ),
-
-          Spacer(flex: 1),
-
-          OutlinedButton(onPressed: null, 
-          child: const Text("Thu", style: TextStyle(fontSize: 11)),
-          style: dayToggleButton,
-          ),
-
-          Spacer(flex: 1),
-
-          OutlinedButton(onPressed: null, 
-          child: const Text("Fri", style: TextStyle(fontSize: 11)),
-          style: dayToggleButton,
-          ),
-
-          Spacer(flex: 1),
-
-          OutlinedButton(onPressed: null, 
-          child: const Text("Sat", style: TextStyle(fontSize: 11)),
-          style: dayToggleButton,
-          ),
-
-          Spacer(flex: 12),
-
-        ],
-      ),
-
-    );
 
     Widget timeAndWeather = Container(
       padding: EdgeInsets.all(16),
@@ -227,10 +472,12 @@ class CreateApp extends StatelessWidget {
                   child: Row( 
                   mainAxisAlignment: MainAxisAlignment.center,
                     children: [
-                      Container(
+                      Container( // Hour text
                         width: 40,
-                        child: TextField(onChanged: null , textAlign: TextAlign.right, // convert to time values, invalid times should be reset.
+                        child: TextFormField(onChanged: null,
+                        textAlign: TextAlign.right, // convert to time values, invalid times should be reset.
                         maxLength: 2,
+                        controller: hourController,
                         decoration: InputDecoration(
                           labelText: "Hour",
                         ),), 
@@ -238,32 +485,23 @@ class CreateApp extends StatelessWidget {
 
                       const Text(":"),
 
-                      Container(
+                      Container( // Minute text
                         width: 40,
-                        child: TextField(onChanged: null , textAlign: TextAlign.left, // convert to time values, invalid times should be reset.
+                        child: TextFormField(onChanged: null , 
+                        textAlign: TextAlign.left, // convert to time values, invalid times should be reset.
                         maxLength: 2,
+                        controller: minuteController,
                         decoration: InputDecoration(
                           labelText: "Min",
                         ),), 
                       ),
-                    ] 
+                    ]
                   ),
                 )
               ),
-
             Spacer(flex: 1),
 
-            Container(
-              height: 80,
-              decoration: BoxDecoration(
-                border: Border.all(color: Colors.black, width: 2),
-              ),
-
-              child: OutlinedButton(onPressed: null, // switches from A.M. to P.M. and vice versa on click
-                child: const Text("A.M.", style: TextStyle(fontSize: 11)),
-                style: dayToggleButton,
-              ),
-            ),
+            AmPmToggle(),
 
             Spacer(flex: 6),
 
@@ -273,19 +511,17 @@ class CreateApp extends StatelessWidget {
                 border: Border.all(color: Colors.black, width: 2),
               ),
 
-              child: WeatherDropMenu(),
+              child: weatherDrops,
             
             ),
 
             Spacer(flex: 9),
- 
-        ],
-        
+      ]
       ),
-
     );
 
-    Widget buttonMenu = Container(
+    Container buttonMenu() {
+    return Container(
       padding: const EdgeInsets.symmetric(horizontal: 64, vertical: 32),    
       child: Row(
         children: [
@@ -302,8 +538,40 @@ class CreateApp extends StatelessWidget {
                     ),
                     ),
           Spacer(),
-          OutlinedButton(onPressed: null, //function here to switch to create screen
-                    child: const Text("Create"),
+          OutlinedButton(onPressed: () {
+
+                    if(checkFields(hourController.text, minuteController.text, fileChooser.getCurrentFile(), weatherDrops.getCondition(), dayToggles.getDays())){
+
+                        WallpaperObj newObj = WallpaperObj.newObj(fileChooser.getCurrentFile(), weatherDrops.getCondition(), 
+                                                                  toNumber(hourController.text), toNumber(minuteController.text), dayToggles.getDays());
+
+                        if(confirmCreation(widget.intention, widget.contextWallpaper, newObj)){ // add fields to newWallpaperObj
+
+                          print(hourController.text);
+                          print(minuteController.text);
+
+                          print(fileChooser.getCurrentFile());
+
+                          print(weatherDrops.getCondition());
+
+                          print(dayToggles.getDays());
+
+                          Navigator.pop(context); // return to previous menu
+                        }
+                        else {
+                          setState( (){
+                        errType = 2;
+                        _visibleErr = true;});
+                        } 
+                      }
+                    else {
+                        setState( (){
+                        errType = 1;
+                        _visibleErr = true;}
+                        );
+                      }
+                    },
+                    child: const Text("Confirm"),
                     style: ButtonStyle(
                       padding: MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(32)),
                       backgroundColor: MaterialStatePropertyAll<Color>(Colors.white),
@@ -313,25 +581,25 @@ class CreateApp extends StatelessWidget {
         ],
       ),
     );
-
-/* There's definitely a better way of doing this
-    if(contextWallpaper.filePath != "") {
-      wallpaperSelect(contextWallpaper.filePath);
     }
-*/
 
     return MaterialApp(
       home: Scaffold(
-        body:Column(
+        body: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            dayButtonsSection,
+            dayToggles, // not initialized juuuuust yet
             timeAndWeather,
             wallpaperSection,
-            buttonMenu,
+            CreateMsg(
+            visibleErr: _visibleErr,
+            type: errType,
+            ),
+            buttonMenu(),
           ],
         ),
         ),
       );
   }
+
 }

@@ -5,7 +5,10 @@ import 'package:flutter/material.dart';
 import 'package:ambience/storage/storage.dart';
 import 'dart:convert';
 
+
+// added empty for when the user hasn't entered anything yet
 enum WeatherCondition {
+  Empty, // the NULL case
   Clear,
   Clouds,
   Rain,
@@ -41,6 +44,7 @@ class WeatherEntry {
   WeatherCondition weatherCondition = WeatherCondition.Clear;
   String idSchema = 'ambience_daemon_';
   String city = 'london';
+
 
   WeatherEntry(this.startTime, this.dayOfWeek, this.wallpaperFilepath,
       this.weatherCondition, this.city) {
@@ -125,7 +129,7 @@ class WeatherEntry {
 
   WeatherEntry.fromJson(Map<String, dynamic> json) {
     startTime = TimeOfDay(
-        hour: (json['startTimeHour']), minute: (json['startTimeMinute']));
+    hour: (json['startTimeHour']), minute: (json['startTimeMinute']));
     dayOfWeek = DayOfWeek.values[(json['dayOfWeek'])];
     wallpaperFilepath = json['wallpaperFilepath'];
     weatherCondition = WeatherCondition.values[(json['weatherCondition'])];

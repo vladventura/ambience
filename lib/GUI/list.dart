@@ -1,39 +1,23 @@
-import 'dart:math';
-
 import 'package:flutter/material.dart';
-import 'package:path/path.dart' as path;
 import 'dart:io';
+import 'package:ambience/weatherEntry/weather_entry.dart';
+import "package:ambience/GUI/wallpaperobj.dart";
 
 void main() => runApp(const ListApp());
 
 String current = Directory.current.path;
 
-class WallpaperObj {
-  String filePath = "$current/lib/GUI/20210513_095523.jpg";
-  String cond = "placeholder weather";
-  String time = "placeholder time";
-
-  WallpaperObj(){
-    String filePath = "$current/lib/GUI/20210513_095523.jpg";
-    String cond = "placeholder weather";
-    String time = "placeholder time";
-  }
-} // PLACEHOLDER FOR ACTUAL WALLPAPER OBJ SO FLUTTER WILL STOP COMPLAINING
-
-String getWallpaper(int index) {
+String getWallpaper(int index) { // may not be final
   return "$current/lib/GUI/20210513_095523.jpg";
 }
 
-String getCond(int index) {
+String getCond(int index) { // may not be final
   return "placeholder weather";
 }
 
-String getTime(int index) {
+String getTime(int index) { // may not be final
   return "12:30";
 }
-
-// List<Widget> wallpapers;
-
 
 const ButtonStyle controlStyle = ButtonStyle(
   padding: MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(32)),
@@ -47,27 +31,27 @@ class EntryControls extends StatelessWidget { // controls to copy, edit, and del
 
   EntryControls(WallpaperObj obj){ //takes a wallpaper obj reference to call it later
 
-Controls = Row(
-  // displays the wallpaper's controls
-  children: [
-    IconButton(
-      onPressed: null, //function to delete the wallpaper
-      icon: Icon(Icons.delete),
-      style: controlStyle,
+  Controls = Row(
+    // displays the wallpaper's controls
+    children: [
+      IconButton(
+        onPressed: null, // function to delete the wallpaperObj, deleting the rules associated with it
+        icon: Icon(Icons.delete),
+        style: controlStyle,
+        ),
+      IconButton(
+        onPressed: null, // function to copy the wallpaperObj, goes to create screen w/ data from wallpaperObj
+        // creates new wallpaper when done
+        icon: Icon(Icons.copy),
+        style: controlStyle
       ),
-    IconButton(
-      onPressed: null, //function to copy the wallpaper, goes to create screen w/ data
-      // creates new wallpaper when done
-      icon: Icon(Icons.copy),
-      style: controlStyle
-    ),
-    IconButton(
-      onPressed: null, //function to edit the existing wallpaper, goes to create screen w/ data
-      icon: Icon(Icons.edit),
-      style: controlStyle,
-    ),
-  ],
-);
+      IconButton(
+        onPressed: null, //function to edit the existing wallpaper, goes to create screen w/ data
+        icon: Icon(Icons.edit),
+        style: controlStyle,
+      ),
+    ],
+  );
 }
 
   Widget build(BuildContext context) {
@@ -78,9 +62,27 @@ Controls = Row(
 
 class WallpaperEntry extends StatelessWidget {
 
+  // function that creates a list of WallpaperObjs.
+  // Searches list of created WeatherEntries and groups them together
+  // into a list of WallpaperObjects.
+
+/*
+
+  List<WallpaperObj> savedWallpapers(){
+
+    Map<String, WeatherEntry> rulesList = WeatherEntry.getRuleList() as Map<String, WeatherEntry>;
+
+    
+
+  }
+
+*/
+
+
+
   String wallFile = "Null";
 
-  String cond = "";
+  WeatherCondition cond = WeatherCondition.Empty;
 
   String time = "";
 
@@ -88,6 +90,8 @@ class WallpaperEntry extends StatelessWidget {
   Widget wallpaperCond = Container();
   Widget wallpaperControls = Container();
 
+
+  //constructor placeholder to just test list screen
   WallpaperEntry(WallpaperObj obj) {
     wallFile = obj.filePath;
     cond = obj.cond;

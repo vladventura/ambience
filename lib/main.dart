@@ -98,6 +98,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     String? cityInput;
+
     //mock object for testing
     //==========================
     TimeOfDay time = const TimeOfDay(hour: 23, minute: 45);
@@ -108,7 +109,6 @@ class _MyHomePageState extends State<MyHomePage> {
     String city = 'New York';
     WeatherEntry mockObj = WeatherEntry(time, dow, testPaper, wc, city);
     //===========================
-
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.title),

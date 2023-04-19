@@ -9,6 +9,7 @@ import 'dart:math';
 import 'package:ambience/GUI/create.dart';
 import 'package:ambience/GUI/list.dart';
 import 'package:flutter/material.dart';
+import "package:ambience/GUI/wallpaperobj.dart";
 import 'dart:io';
 
 void main() => runApp(const MainApp());
@@ -34,20 +35,32 @@ Widget checkWallpaper() {
 }
 
 String checkTime() {
-  
-  String current = ""; //function to retrieve time goes here
-  
-  return current;
+  final now = DateTime.now();
+  final formattedTime = now.hour.toString() + ":" + now.minute.toString();
+  return formattedTime; // need to convert this from military time
 }
-
 
 // function to send new location data to backend,
 // is called when location drop menu is changed.
+
+//only ONE location is used for every WeatherEntry
+
 void setLocation(String location) { // may not be string, just a placeholder for now
 
   // send location data to backend here
 
+  // push location screen here
+
 }
+
+
+String getLocation(){ // retrieve the current location here
+// may not be final
+  String location = "placeholder location";
+  
+  return location;
+}
+
 
 class MainApp extends StatelessWidget {
   const MainApp({super.key});
@@ -114,7 +127,7 @@ class MainApp extends StatelessWidget {
           OutlinedButton(onPressed: () {
 
                     Navigator.push(context, 
-                      MaterialPageRoute(builder: (context) => CreateApp(contextWallpaper: WallpaperObj())));
+                      MaterialPageRoute(builder: (context) => CreateApp(contextWallpaper: WallpaperObj(), intention: 1, location: getLocation())));
 
                     }, //function here to switch to create screen
                     child: const Text("Create"),
