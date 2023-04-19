@@ -1,4 +1,5 @@
 import 'dart:io';
+import 'package:ambience/models/weather_model.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:ambience/handlers/file_handler.dart';
 import 'package:ambience/handlers/wallpaper_handler.dart';
@@ -6,6 +7,7 @@ import 'package:ambience/weatherEntry/weather_entry.dart';
 import 'package:flutter/material.dart';
 import 'package:ambience/api/weather.dart';
 import "package:ambience/daemon/daemon.dart";
+import 'package:ambience/firebase/fire_handler.dart';
 
 import "package:ambience/GUI/create.dart";
 import "package:ambience/GUI/list.dart";
@@ -13,17 +15,23 @@ import "package:ambience/GUI/login.dart";
 import "package:ambience/GUI/main screen.dart";
 
 void main(List<String> args) async {
-  // Ideally, we have already .env files set up
-  dotenv.testLoad(fileInput: "APIKEY=91c86752769af03ca919b23664114cda");
+  await dotenv.load();
+  FireHandler.initialize();
   //if not args passed, GUI MODE
   if (args.isEmpty) {
     runApp(const MyApp());
   }
   //if there are command line args, GUI-Less mode
   else {
-    //restore spaces that were replaced with underscores
-    String input = args[0].replaceAll("_", " ");
-    await weather(input);
+    //boot daemon case
+    if (args[0] == 'boot') {
+      Daemon.bootWork();
+    } else {
+      String idSchema = args[1];
+      var ruleObj = await WeatherEntry.getRule(idSchema);
+      WeatherModel weatherData = await Daemon.getWeatherData(ruleObj);
+      Daemon.weatherCheck(ruleObj, weatherData);
+    }
     //explict exit, else Windows task scheduler will never know the task ended
     exit(0);
   }
@@ -90,15 +98,17 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     String? cityInput;
-
-    TimeOfDay time = const TimeOfDay(hour: 20, minute: 50);
-    DayOfWeek dow = DayOfWeek.friday;
-    WeatherCondition wc = WeatherCondition.clear;
-    String testPaper = "C:\\Users\\bryan\\Downloads\\test.jpg";
+    //mock object for testing
+    //==========================
+    TimeOfDay time = const TimeOfDay(hour: 23, minute: 45);
+    DayOfWeek dow = DayOfWeek.tuesday;
+    WeatherCondition wc = WeatherCondition.Clouds;
+    String curr = Directory.current.path;
+    String testPaper = "$curr/test.jpg";
     String city = 'New York';
-    WeatherEntry mockObj = WeatherEntry(time, time, dow, testPaper, wc, city);
-    // add new rule to json
-    WeatherEntry.createRule(mockObj);
+    WeatherEntry mockObj = WeatherEntry(time, dow, testPaper, wc, city);
+    //===========================
+
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.title),
@@ -109,6 +119,28 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
             //weather api text field
             // ignore: prefer_const_constructors
+            TextField(
+              // ignore: prefer_const_constructors
+              decoration: InputDecoration(
+                // ignore: prefer_const_constructors
+                border: OutlineInputBorder(),
+                labelText: 'enter email',
+              ),
+              onChanged: (text) {
+                cityInput = text;
+              },
+            ),
+            TextField(
+              // ignore: prefer_const_constructors
+              decoration: InputDecoration(
+                // ignore: prefer_const_constructors
+                border: OutlineInputBorder(),
+                labelText: 'Enter password',
+              ),
+              onChanged: (text) {
+                cityInput = text;
+              },
+            ),
             TextField(
               // ignore: prefer_const_constructors
               decoration: InputDecoration(
@@ -131,7 +163,10 @@ class _MyHomePageState extends State<MyHomePage> {
               onPressed: _pickFile,
               child: const Text("Open File"),
             ),
-
+            ElevatedButton(
+              onPressed: () => Daemon.daemonBanisher(mockObj.idSchema),
+              child: const Text("banish thy daemon"),
+            ),
             if (_input.isNotEmpty) Text("Path to file is $_input"),
           ],
         ),

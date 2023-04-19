@@ -1,34 +1,25 @@
 // log-in screen for fire branch functionality to work
+// ignore_for_file: prefer_const_constructors
+
 import 'package:flutter/material.dart';
 import 'dart:io';
+import 'package:ambience/Firebase/fire_handler.dart';
 
 String current = Directory.current.path;
 
+// ignore: must_be_immutable
 class LoginMsg extends StatelessWidget {
   final bool visibleLog;
-  final bool visibleSign;
 
-  const LoginMsg({
-    super.key,
-    required this.visibleLog,
-    required this.visibleSign,
-  });
+  String errMsg = "";
 
-  Text _loginFail() {
-    return const Text(
-      "Failed to log in: \n Username or Password is incorrect.",
-      style: TextStyle(
-        color: Colors.red,
-        fontWeight: FontWeight.bold,
-        fontSize: 20,
-      ),
-      textAlign: TextAlign.center,
-    );
-  }
+  LoginMsg({super.key, required this.visibleLog, required this.errMsg});
 
-  Text _signupFail() {
-    return const Text(
-      "Failed to sign up: \n Username is already taken.",
+  // change to accept custom error messages from firebase
+
+  Text _loginFail(String msg) {
+    return Text(
+      msg,
       style: TextStyle(
         color: Colors.red,
         fontWeight: FontWeight.bold,
@@ -46,13 +37,11 @@ class LoginMsg extends StatelessWidget {
       padding: const EdgeInsets.only(right: 24),
       child: Column(
         children: [
+          // change to have only one error message, as there's gonna be a whole lotta messages
           Visibility(
             visible: visibleLog,
-            child: _loginFail(),
-          ),
-          Visibility(
-            visible: visibleSign,
-            child: _signupFail(),
+            child: _loginFail(
+                errMsg), // this will be updated as the error message changes
           ),
         ],
       ),
@@ -69,31 +58,45 @@ class LoginApp extends StatefulWidget {
 
 class _LoginApp extends State<LoginApp> {
   bool _visibleLog = false;
-  bool _visibleSign = false;
   final TextEditingController _nameController = TextEditingController();
   final TextEditingController _passController = TextEditingController();
-
-  void _login(String usrname, String passwrd) {
+  bool _obscureFlag = true;
+  String errMsg = "";
+  FireHandler hand = FireHandler();
+  void _login(String usrname, String passwrd) async {
     bool success = false; /* BOOLEAN FUNCTION PART GOES HERE */
-
+    try {
+      success = await hand.fireSignIn(usrname, passwrd);
+    } catch (e) {
+      errMsg = e.toString(); // set error message
+    }
     if (success) {
+      _visibleLog = false;
       Navigator.pushNamed(context, '/Home');
     } else {
       setState(() {
         _visibleLog = true;
-        _visibleSign = false;
       });
     }
   }
 
-  void _signup(String usrname, String passwrd) {
+  void _signup(String usrname, String passwrd) async {
+    //always true for testing
     bool success = true; /* BOOLEAN FUNCTION PART GOES HERE */
-
+    /*
+    try {
+      success = await hand.fireSignUp(usrname, passwrd);
+    } catch (e) {
+      errMsg = e.toString(); // set error message
+    }
+    */
     if (success) {
+      _visibleLog = false;
       Navigator.pushNamed(context, '/Home');
     } else {
-      _visibleSign = true;
-      _visibleLog = false;
+      setState(() {
+        _visibleLog = true;
+      });
     }
   }
 
@@ -114,7 +117,7 @@ class _LoginApp extends State<LoginApp> {
         textAlign: TextAlign.left,
         maxLength: 100,
         decoration: const InputDecoration(
-          labelText: "Username",
+          labelText: "Email",
           labelStyle: TextStyle(fontSize: 20),
         ),
       ),
@@ -131,11 +134,21 @@ class _LoginApp extends State<LoginApp> {
       child: TextField(
         onChanged: null,
         controller: _passController,
+        obscureText: _obscureFlag,
         textAlign: TextAlign.left,
         maxLength: 50,
-        decoration: const InputDecoration(
+        decoration: InputDecoration(
           labelText: "Password",
-          labelStyle: TextStyle(fontSize: 20),
+          labelStyle: const TextStyle(fontSize: 20),
+          suffixIcon: IconButton(
+            // ignore: dead_code
+            icon: Icon(_obscureFlag ? Icons.visibility : Icons.visibility_off),
+            onPressed: () {
+              setState(() {
+                _obscureFlag = !_obscureFlag;
+              });
+            },
+          ),
         ),
       ),
     );
@@ -159,6 +172,8 @@ class _LoginApp extends State<LoginApp> {
     return OutlinedButton(
       onPressed: () {
         _login(_nameController.text, _passController.text);
+        errMsg = ""; // update error message here
+        setState(() {});
       },
       style: const ButtonStyle(
         padding: MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(20)),
@@ -175,6 +190,8 @@ class _LoginApp extends State<LoginApp> {
     return OutlinedButton(
       onPressed: () {
         _signup(_nameController.text, _passController.text);
+        errMsg = ""; // update error message here
+        setState(() {});
       },
       style: const ButtonStyle(
         padding: MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(20)),
@@ -210,7 +227,7 @@ class _LoginApp extends State<LoginApp> {
           _loginSignin(),
           LoginMsg(
             visibleLog: _visibleLog,
-            visibleSign: _visibleSign,
+            errMsg: errMsg,
           ),
         ],
       ),
