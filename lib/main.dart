@@ -55,7 +55,7 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
-        initialRoute: '/LocationRequest',
+        initialRoute: '/',
         routes: {
           '/': (context) => const LoginApp(),
           '/Home': (context) => const MainApp(),
