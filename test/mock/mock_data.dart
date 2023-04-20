@@ -22,13 +22,13 @@ const Map<String, dynamic> fakeGeoSingleComplete = {
 };
 
 Map<String, dynamic> fakeWeatherEntry = {
-  "startTimeHour": "8",
-  "startTimeMinute": "10",
-  "endTimeHour": "9",
-  "endTimeMinute": "10",
-  "dayOfWeek": DayOfWeek.friday.index.toString(),
+  "startTimeHour": 8,
+  "startTimeMinute": 10,
+  "endTimeHour": 9,
+  "endTimeMinute": 10,
+  "dayOfWeek": DayOfWeek.friday.index,
   "wallpaperFilepath": "fake/path",
-  "weatherCondition": WeatherCondition.Rain.index.toString(),
+  "weatherCondition": WeatherCondition.Rain.index,
   "idSchema": "ambience_daemon_fakentry",
   "city": "Incheon",
 };
