@@ -1,0 +1,782 @@
+[
+    {
+        "id": 200575,
+        "name": "Baringo",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 184736,
+        "name": "Nairobi South",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 192202,
+        "name": "Kijabe",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 400741,
+        "name": "Eastern Province",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 179888,
+        "name": "Sotik",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 188408,
+        "name": "Magadi",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 178040,
+        "name": "Yala",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 192067,
+        "name": "Kilifi",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 181702,
+        "name": "Oyugis",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 186531,
+        "name": "Miti ya Hunter",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 187733,
+        "name": "Maragua",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 200067,
+        "name": "Bungoma",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 192869,
+        "name": "Keroka",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 185579,
+        "name": "Murang’a",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 195821,
+        "name": "Kabarnet",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 189367,
+        "name": "Litein",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 198442,
+        "name": "Embakasi",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 198636,
+        "name": "Eldama Ravine",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 186315,
+        "name": "Molo",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 181135,
+        "name": "Rongai",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 198629,
+        "name": "Eldoret",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 400744,
+        "name": "Rift Valley Province",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 190544,
+        "name": "Konza",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 179525,
+        "name": "Taveta",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 185702,
+        "name": "Mumias",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 189280,
+        "name": "Lodwar",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 187896,
+        "name": "Mandera",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 197392,
+        "name": "Gicheru",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 179204,
+        "name": "Timau",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 191675,
+        "name": "Kipini",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 195272,
+        "name": "Kakamega",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 189386,
+        "name": "Limuru",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 193627,
+        "name": "Karuri",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 196740,
+        "name": "Homa Lime Kowuor",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 181562,
+        "name": "Poka",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 196742,
+        "name": "Homa Bay",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 188121,
+        "name": "Makinyambu",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 192710,
+        "name": "Kiambu",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 197514,
+        "name": "Gazi",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 186180,
+        "name": "Moyale",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 198476,
+        "name": "Embu",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 184546,
+        "name": "Nambare",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 199971,
+        "name": "Butere",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 184570,
+        "name": "Namanga",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 182498,
+        "name": "Ogembo",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 182361,
+        "name": "Old Mombasa",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 199284,
+        "name": "Chuka",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 190108,
+        "name": "Kwale",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 180646,
+        "name": "Sawa Sawa",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 191833,
+        "name": "Kinango",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 383388,
+        "name": "Siaya",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 188011,
+        "name": "Malanga",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 184433,
+        "name": "Nanyuki",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 179330,
+        "name": "Thika",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 188492,
+        "name": "Machakos",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 179634,
+        "name": "Takaungu",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 182763,
+        "name": "Nyanza Province",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 200304,
+        "name": "Bondo",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 178522,
+        "name": "Voi",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 188080,
+        "name": "Makueni Boma",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 194038,
+        "name": "Kapsabet",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 186731,
+        "name": "Migori",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 200308,
+        "name": "Sotik Post",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 188617,
+        "name": "Kipkelion",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 189773,
+        "name": "Lake View Estate",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 191299,
+        "name": "Kisii",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 197745,
+        "name": "Garissa",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 400743,
+        "name": "Western Province",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 188657,
+        "name": "Lugulu",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 196231,
+        "name": "Isiolo",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 200787,
+        "name": "Athi River",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 195298,
+        "name": "Kajiado",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 189741,
+        "name": "Lamu",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 192950,
+        "name": "Republic of Kenya",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 187231,
+        "name": "Maua",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 178093,
+        "name": "Witu",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 194406,
+        "name": "Kangundo",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 194565,
+        "name": "Kamweri Forest Station",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 191837,
+        "name": "Kihancha",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 187585,
+        "name": "Marsabit",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 192900,
+        "name": "Kericho",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 180868,
+        "name": "Sagana",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 184921,
+        "name": "Mwingi",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 187968,
+        "name": "Malindi",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 184471,
+        "name": "Nandi Hills",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 185939,
+        "name": "Muhoroni",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 191220,
+        "name": "Kitale",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 181735,
+        "name": "Othaya",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 178443,
+        "name": "Wajir",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 200061,
+        "name": "Port Victoria",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 193980,
+        "name": "Kapsuset",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 199604,
+        "name": "Chepareria",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 191245,
+        "name": "Kisumu",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 181389,
+        "name": "Rambara",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 183595,
+        "name": "Ngong",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 189574,
+        "name": "Lemek",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 188981,
+        "name": "Londiani",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 180389,
+        "name": "Shimoni",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 400742,
+        "name": "Central Province",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 200017,
+        "name": "Burji",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 201229,
+        "name": "Ahero",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 188714,
+        "name": "Luanda",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 184622,
+        "name": "Nakuru",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 192126,
+        "name": "Kikuyu",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 178077,
+        "name": "Wote",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 400745,
+        "name": "North Eastern Province",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 184707,
+        "name": "Naivasha",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 183027,
+        "name": "Nyahururu",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 183689,
+        "name": "Nginda",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 184742,
+        "name": "Nairobi",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 186827,
+        "name": "Meru",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 187725,
+        "name": "Maralal",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 184367,
+        "name": "Naro Moru",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 192859,
+        "name": "Kerugoya",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 182701,
+        "name": "Nyeri",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 178073,
+        "name": "Wundanyi",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 400740,
+        "name": "Coast Province",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 184379,
+        "name": "Narok",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 187661,
+        "name": "Mariakani",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 186301,
+        "name": "Mombasa",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 194451,
+        "name": "Kangema",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 180992,
+        "name": "Rumuruti",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 181656,
+        "name": "Parklands",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 190147,
+        "name": "Kwa Jomvu",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 191038,
+        "name": "Kitui",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 187977,
+        "name": "Malikisi",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 192295,
+        "name": "Kiganjo",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 178202,
+        "name": "Webuye",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 188025,
+        "name": "Malaba",
+        "state": "",
+        "country": "KE"
+    },
+    {
+        "id": 186101,
+        "name": "Mtito Andei",
+        "state": "",
+        "country": "KE"
+    }
+]

@@ -1,0 +1,3050 @@
+[
+    {
+        "id": 1519948,
+        "name": "Kapshagay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519293,
+        "name": "Chemolgan",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517323,
+        "name": "Yanykurgan",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518296,
+        "name": "Tekeli",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1523998,
+        "name": "Karla Marksa",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526193,
+        "name": "Arkalyk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 856947,
+        "name": "Bostandyk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522061,
+        "name": "Kenes",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521330,
+        "name": "Lepsi",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519273,
+        "name": "Sharapkhana",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610260,
+        "name": "Bogdanovka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519633,
+        "name": "Sarybulak",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519318,
+        "name": "Shalakaryk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608778,
+        "name": "Munayshy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522949,
+        "name": "Kaskakulan",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1537939,
+        "name": "Stepnogorsk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519167,
+        "name": "Shilikti",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1523014,
+        "name": "Kargaly",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1539963,
+        "name": "Spetsgorodok",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1516854,
+        "name": "Zhanama",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608270,
+        "name": "Shubarshi",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524537,
+        "name": "Druzhba",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610078,
+        "name": "Chubarkul’",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520474,
+        "name": "Ognevka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526268,
+        "name": "Aqtoghay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610655,
+        "name": "Alimbek",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 856938,
+        "name": "Aksuat",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1516527,
+        "name": "Zholymbet",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521038,
+        "name": "Maykol’",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524958,
+        "name": "Burunday",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526970,
+        "name": "Abay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526482,
+        "name": "Alatay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1539219,
+        "name": "Prigorodnyy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517945,
+        "name": "Turkestan",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525134,
+        "name": "Borodulikha",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609862,
+        "name": "Atyraū Oblysy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517529,
+        "name": "Uzynkair",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609965,
+        "name": "Dzhangala",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1537162,
+        "name": "Almaty Oblysy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521975,
+        "name": "Krasnyy Rybak",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1536935,
+        "name": "Chinar",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519422,
+        "name": "Semey",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518462,
+        "name": "Ayat",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517127,
+        "name": "Yuzhnyy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610307,
+        "name": "Bessay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525771,
+        "name": "Bannovka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521293,
+        "name": "Lugovoy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524871,
+        "name": "Chayan",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608393,
+        "name": "Semīglavyy Mar",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525736,
+        "name": "Barshatas",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610513,
+        "name": "Ayakkum",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 607551,
+        "name": "Zhetibay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610242,
+        "name": "Baldyrgan",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1516788,
+        "name": "Zhangatas",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1534565,
+        "name": "Maleyevsk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608195,
+        "name": "Sor-Togay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519928,
+        "name": "Kostanay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608053,
+        "name": "Taūshyq",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518518,
+        "name": "Talghar",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521374,
+        "name": "Leningradskoye",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609928,
+        "name": "Egindy-Bulak",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519226,
+        "name": "Shemonaīkha",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1523662,
+        "name": "GT",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519932,
+        "name": "Qashar",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520327,
+        "name": "Osakarovka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520381,
+        "name": "Ordzhonikidze",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1537909,
+        "name": "Shubarköl",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608452,
+        "name": "Sar-Tyube",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520281,
+        "name": "Oytal",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518266,
+        "name": "Temirlanovka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519380,
+        "name": "Seslavino",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524703,
+        "name": "Chulakkurgan",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608696,
+        "name": "Novyy Derkul",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526272,
+        "name": "Aqshataū",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518803,
+        "name": "Stantsiya Kzyl",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1516905,
+        "name": "Taraz",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609702,
+        "name": "Kandagach",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608872,
+        "name": "Maqat",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517047,
+        "name": "Zerenda",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519050,
+        "name": "Shortandy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521048,
+        "name": "Mayqayyng",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520627,
+        "name": "Novodolinskiy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1516828,
+        "name": "Zhanatan",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517824,
+        "name": "Uglerazrez",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609447,
+        "name": "Kemer",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608967,
+        "name": "Kzyl-Choke",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520879,
+        "name": "Molodyozhnoe",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1516678,
+        "name": "Zharyk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517733,
+        "name": "Ungurtas",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519327,
+        "name": "Shakhtinsk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517474,
+        "name": "Verkhniye Kayrakty",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526325,
+        "name": "Amanqaraghay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608354,
+        "name": "Shanke",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525376,
+        "name": "Bestobe",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525876,
+        "name": "Babatay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610331,
+        "name": "Berchogur",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524298,
+        "name": "Aksu",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526619,
+        "name": "Aktas",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608306,
+        "name": "Shiy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521153,
+        "name": "Mamlyutka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1516595,
+        "name": "Zhetysay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608317,
+        "name": "Shiganak",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521370,
+        "name": "Ridder",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524265,
+        "name": "Moyynkum",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524192,
+        "name": "Gul’dala",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519275,
+        "name": "Shar",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519625,
+        "name": "Sarykamys",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520061,
+        "name": "Predgornoye",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1534162,
+        "name": "Altay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609213,
+        "name": "Kostobe",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609953,
+        "name": "Zhänibek",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524696,
+        "name": "Chundzha",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518203,
+        "name": "Terenozek",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520844,
+        "name": "Moyynty",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525658,
+        "name": "Qogham",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525809,
+        "name": "Balkashino",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608246,
+        "name": "Sigzi",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608413,
+        "name": "Saykhin",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522035,
+        "name": "Taiynsha",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1523987,
+        "name": "Imeni Kirova",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524478,
+        "name": "Dzhalagash",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522192,
+        "name": "Pryamoy Put’",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521133,
+        "name": "Mankent",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608281,
+        "name": "Shoshkakol’",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518333,
+        "name": "Tavricheskoye",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525121,
+        "name": "Borovskoy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517136,
+        "name": "Yrghyz",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519333,
+        "name": "Shakhan",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520239,
+        "name": "Pavlodar Region",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521671,
+        "name": "Qostanay Oblysy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524230,
+        "name": "Glinkovo",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610067,
+        "name": "Churbanov",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 607847,
+        "name": "West Kazakhstan",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524193,
+        "name": "Gornyy Gigant",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1516589,
+        "name": "Zhezqazghan",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526384,
+        "name": "Almaty",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520897,
+        "name": "Moinkum",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520178,
+        "name": "Peshkovka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519934,
+        "name": "Qarqaraly",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521365,
+        "name": "Leninskiy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519673,
+        "name": "Saryaghash",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517539,
+        "name": "Uzynagash",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609142,
+        "name": "Kugal",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525465,
+        "name": "Belterek",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1539952,
+        "name": "Zhanaarka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608739,
+        "name": "Bestau",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609509,
+        "name": "Kartashëv",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519691,
+        "name": "Sarkand",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608740,
+        "name": "Nizhne-Gremyachiy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519395,
+        "name": "Serebryansk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520747,
+        "name": "Narynkol",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518768,
+        "name": "Stepnyak",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 863525,
+        "name": "Sarykol’",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520947,
+        "name": "Sarykemer",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518881,
+        "name": "Sharbulak",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1523401,
+        "name": "Qaraghandy Oblysy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520927,
+        "name": "Min’kovskoye",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521368,
+        "name": "Baikonur",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522818,
+        "name": "Kegen",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610720,
+        "name": "Aksay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1516726,
+        "name": "Zharkyn",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522348,
+        "name": "Komsomolets",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525846,
+        "name": "Baqbaqty",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526273,
+        "name": "Nur-Sultan",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1539964,
+        "name": "Aksengir",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517305,
+        "name": "Yavlenka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608455,
+        "name": "Sartumsuk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520969,
+        "name": "Merke",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524889,
+        "name": "Chardara",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526636,
+        "name": "Aksu-Ayuly",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 607610,
+        "name": "Zhanaozen",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610612,
+        "name": "Aktau",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525999,
+        "name": "Avan",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608506,
+        "name": "Sambay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520025,
+        "name": "Tūghyl",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609968,
+        "name": "Dzhandy-Say",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1537253,
+        "name": "Shashūbay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1516984,
+        "name": "Zhalghyztobe",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524849,
+        "name": "Cheremshanka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525988,
+        "name": "Ayagoz",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608324,
+        "name": "Shetpe",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526547,
+        "name": "Aqzhal",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609537,
+        "name": "Qaraton",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521292,
+        "name": "Lugovoye",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610613,
+        "name": "Aqsay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610511,
+        "name": "Aybulat",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518980,
+        "name": "Shymkent",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610023,
+        "name": "Dossor",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518511,
+        "name": "Talshik",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521379,
+        "name": "Lenger",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526059,
+        "name": "Astrakhan",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522605,
+        "name": "Kīevka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 607510,
+        "name": "Zhumysker",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517671,
+        "name": "Usharal",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608622,
+        "name": "Pervosovetskoe",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609524,
+        "name": "Kardon",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526168,
+        "name": "Arys",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517443,
+        "name": "Arshaly",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526900,
+        "name": "Aqbaqay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519244,
+        "name": "Shchuchinsk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1537947,
+        "name": "Zavodskoy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519924,
+        "name": "Qusmuryn",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521677,
+        "name": "Kushoky",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518139,
+        "name": "Tobol",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608932,
+        "name": "Lubenka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610465,
+        "name": "Bakaly",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519725,
+        "name": "Soran",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520051,
+        "name": "Presnovka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608566,
+        "name": "Pugachëvo",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609273,
+        "name": "Kopeni",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517643,
+        "name": "Ushshoky",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 607545,
+        "name": "Zhigerlen",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1538012,
+        "name": "Altayskiy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1539912,
+        "name": "Koktobe",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519455,
+        "name": "Sayram",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521351,
+        "name": "Leninskoye",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520599,
+        "name": "Novomarkovka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519277,
+        "name": "Shantobe",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609404,
+        "name": "Khromtau",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526460,
+        "name": "Aleksandrovka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526610,
+        "name": "Aktasty",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526038,
+        "name": "Atbasar",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520859,
+        "name": "Moskovka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1523149,
+        "name": "Karasu",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519809,
+        "name": "Sadchikovka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1484165,
+        "name": "Taldykuduk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522503,
+        "name": "Kokpekty",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522862,
+        "name": "Qazaly",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524801,
+        "name": "Shīeli",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522955,
+        "name": "Kaskabulak",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 607652,
+        "name": "Zhamankara",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610611,
+        "name": "Aktobe",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522466,
+        "name": "Koktal",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519843,
+        "name": "Rudnyy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 8062231,
+        "name": "Ashi",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526274,
+        "name": "Aqadyr",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520240,
+        "name": "Pavlodar",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524243,
+        "name": "Georgiyevka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608402,
+        "name": "Sayötesh",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609794,
+        "name": "Internatsional",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517637,
+        "name": "Ush-Tyube",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608398,
+        "name": "Segendy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522643,
+        "name": "Asyqata",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518009,
+        "name": "Timiryazevo",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518687,
+        "name": "Suykbulak",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518542,
+        "name": "Taldykorgan",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526021,
+        "name": "Auezov",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610389,
+        "name": "Bayshonas",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609092,
+        "name": "Kuperankaty",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520885,
+        "name": "Kurchatov",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525490,
+        "name": "Belousovka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608359,
+        "name": "Shalqar",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522549,
+        "name": "Kokozek",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521230,
+        "name": "Makinsk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524325,
+        "name": "Ekibastuz",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518403,
+        "name": "Tasmola",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 607681,
+        "name": "Zhagabulak",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517115,
+        "name": "Zadar’ya",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521333,
+        "name": "Lepsy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1540859,
+        "name": "Otegen Batyr",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1516593,
+        "name": "Zhezdi",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524809,
+        "name": "Chervonnoye",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518468,
+        "name": "Taran",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1516519,
+        "name": "Zhosaly",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519463,
+        "name": "Sayaq",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609180,
+        "name": "Krasnoyanov",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521835,
+        "name": "Kumkent",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608901,
+        "name": "Maloye Ganyushkino",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1539946,
+        "name": "Zhetygen",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519580,
+        "name": "Saryozek",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608887,
+        "name": "Mambet",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610688,
+        "name": "Aktyubinskaya Oblast’",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524444,
+        "name": "Zhambyl Oblysy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 828390,
+        "name": "Ömirzaq",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610301,
+        "name": "Besterk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521216,
+        "name": "Maksut",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526887,
+        "name": "Aqbasty",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610376,
+        "name": "Baysary-Sagasy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609915,
+        "name": "Fedorovka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521497,
+        "name": "Kyzylorak",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519931,
+        "name": "Kaskelen",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1539940,
+        "name": "Daulet",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1523246,
+        "name": "Karamuryn",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518679,
+        "name": "Sozaq",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610386,
+        "name": "Bayganin",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 607788,
+        "name": "Uzynkol’",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609655,
+        "name": "Karagandy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520789,
+        "name": "Mynaral",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518071,
+        "name": "Topar",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610764,
+        "name": "Akkol’",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518304,
+        "name": "Tegiszhol",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522714,
+        "name": "Khantaū",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1516601,
+        "name": "Dzhetygara",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520133,
+        "name": "Pobeda",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519936,
+        "name": "Qaraūyl",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610768,
+        "name": "Akkemer",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518112,
+        "name": "Tokarevka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1539930,
+        "name": "Bayserke",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525223,
+        "name": "Priisk Boko",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608915,
+        "name": "Makhambet",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517060,
+        "name": "Zaysan",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524245,
+        "name": "Georgīevka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522203,
+        "name": "Kokshetau",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609991,
+        "name": "Dzhaindy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610445,
+        "name": "Balykshi",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1533289,
+        "name": "Zhangaqurylys",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1516476,
+        "name": "Zhygerly",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522809,
+        "name": "Kellerovka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608602,
+        "name": "Podstepnoe",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517743,
+        "name": "Ulytaū",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518019,
+        "name": "Troyebratskiy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521757,
+        "name": "Kurday",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525624,
+        "name": "Baykadam",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524815,
+        "name": "Chernyayevka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610622,
+        "name": "Angqaty",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522281,
+        "name": "Kopa",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525126,
+        "name": "Būrabay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519030,
+        "name": "Chu",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521401,
+        "name": "Kzyltu",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1538000,
+        "name": "Kökzhīde",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517957,
+        "name": "Turgen",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525850,
+        "name": "Bakanas",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608668,
+        "name": "Oral",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1529724,
+        "name": "Shalqīya",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610252,
+        "name": "Bokaushin",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520692,
+        "name": "Sätbaev",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609919,
+        "name": "Yeraliyev",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608699,
+        "name": "Novovvedenka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610132,
+        "name": "Chapaev",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610686,
+        "name": "Aqzhayyq",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524182,
+        "name": "Granitogorsk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610529,
+        "name": "Atyrau",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1535785,
+        "name": "Dostyk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 607639,
+        "name": "Zhanakanys",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521422,
+        "name": "Kyzylzhar",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519516,
+        "name": "Sastobe",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518431,
+        "name": "Tasböget",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521192,
+        "name": "Malinovka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526443,
+        "name": "Akkol",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519938,
+        "name": "Karatau",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525504,
+        "name": "Belogor’ye",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518945,
+        "name": "Myrzakent",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525506,
+        "name": "Belogorskīy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609669,
+        "name": "Karabutak",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518936,
+        "name": "Smirnovo",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522545,
+        "name": "Kokaral",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1516634,
+        "name": "Zhelezinka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609123,
+        "name": "Qulsary",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518062,
+        "name": "Torghay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608879,
+        "name": "Mangistauskaya Oblast’",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610091,
+        "name": "Chingirlau",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608468,
+        "name": "Sar-Kul’",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520561,
+        "name": "Kasymbek",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526229,
+        "name": "Arasan",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522565,
+        "name": "Kobensay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522751,
+        "name": "Kentau",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609454,
+        "name": "Kaztalovka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610506,
+        "name": "Aydas",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1535379,
+        "name": "Novoishimskiy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1523469,
+        "name": "Karabas",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519844,
+        "name": "Rūdnīchnyy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610189,
+        "name": "Bulak",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609167,
+        "name": "Krūgloozernoe",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609798,
+        "name": "Inderbor",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1532612,
+        "name": "Naydorf",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524787,
+        "name": "Turkistan",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609906,
+        "name": "Fort-Shevchenko",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519935,
+        "name": "Qarazhal",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610743,
+        "name": "Akkystau",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521180,
+        "name": "Malovodnoye",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517310,
+        "name": "Yasnaya Polyana",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610658,
+        "name": "Algha",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521762,
+        "name": "Kurchum",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520601,
+        "name": "Novokubanka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610557,
+        "name": "Ashchisay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609575,
+        "name": "Karashyganak",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518003,
+        "name": "Aqmola Oblysy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609924,
+        "name": "Embi",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517501,
+        "name": "Turar Ryskulov",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609191,
+        "name": "Kozha-Tugay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524138,
+        "name": "Atakent",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608613,
+        "name": "Petrovo",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608550,
+        "name": "Rakusha",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609977,
+        "name": "Dzhambeyty",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608816,
+        "name": "Miyaly",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1516789,
+        "name": "Ayteke Bi",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525798,
+        "name": "Balqash",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609753,
+        "name": "Kabankin",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 607517,
+        "name": "Zhuldyz",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519367,
+        "name": "North Kazakhstan",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520066,
+        "name": "Praporshchikovo",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608679,
+        "name": "Kandyagash",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608713,
+        "name": "Novopavlovka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518598,
+        "name": "Talapker",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520172,
+        "name": "Petropavl",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610100,
+        "name": "Chesnokovo",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524308,
+        "name": "Otegen Batyra",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525650,
+        "name": "Bayanaul",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525576,
+        "name": "Bayzhansay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1516590,
+        "name": "Zhezkent",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521406,
+        "name": "Qyzylorda Oblysy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1523232,
+        "name": "Karaozek",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518981,
+        "name": "Shyghanaq",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609721,
+        "name": "Tasqala",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518262,
+        "name": "Temirtau",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609513,
+        "name": "Karpovo",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525617,
+        "name": "Bayqoshqar",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522684,
+        "name": "Khorgos",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525295,
+        "name": "Bishkul",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608629,
+        "name": "Peremetnoe",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1523400,
+        "name": "Karagandinskoye",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609835,
+        "name": "Imeni Gazety Pravda",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1516438,
+        "name": "Zyryanovsk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517961,
+        "name": "-",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1516968,
+        "name": "Zhalpaktobe",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610530,
+        "name": "Atrau",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517381,
+        "name": "East Kazakhstan",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608838,
+        "name": "Melovoye",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519439,
+        "name": "Sekisovka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521902,
+        "name": "Kulaygyr",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524451,
+        "name": "Zhambyl",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517384,
+        "name": "Voskresenovka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518543,
+        "name": "Taldyqorghan",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1539965,
+        "name": "Rakhat",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526333,
+        "name": "Amangel’dy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610642,
+        "name": "Altyapan",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522867,
+        "name": "Republic of Kazakhstan",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1523563,
+        "name": "Kamkaly",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608073,
+        "name": "Taskopa",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610416,
+        "name": "Batamshinskiy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517252,
+        "name": "Bereke",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520660,
+        "name": "Zhanga Buqtyrma",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526573,
+        "name": "Aktogay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608422,
+        "name": "Saule",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610094,
+        "name": "Chili",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521079,
+        "name": "Matay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520296,
+        "name": "Otrar",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 7536148,
+        "name": "Priozersk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 607843,
+        "name": "Orda",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517243,
+        "name": "Seyfullino",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521998,
+        "name": "Egindiköl",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524282,
+        "name": "Fyodorovka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517081,
+        "name": "Zarya",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522642,
+        "name": "Balpyk Bī",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519849,
+        "name": "Rozovka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608811,
+        "name": "Molkuduk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1535059,
+        "name": "Belköl",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520386,
+        "name": "Orakbalga",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524606,
+        "name": "Derzhavīnsk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525014,
+        "name": "Bulayevo",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526081,
+        "name": "Ashchysay",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608036,
+        "name": "Temir",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609348,
+        "name": "Kökterek",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521315,
+        "name": "Lisakovsk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517410,
+        "name": "Volodarskoye",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526522,
+        "name": "Prigorodnoye",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524296,
+        "name": "Esil",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526055,
+        "name": "Asūbulaq",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520253,
+        "name": "Zharkent",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519942,
+        "name": "Qaraghandy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524294,
+        "name": "Espe",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517563,
+        "name": "Uzunagach",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517721,
+        "name": "Urzhar",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522447,
+        "name": "Kokterek",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608019,
+        "name": "Terekty",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520208,
+        "name": "Pervomayka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519385,
+        "name": "Sergeyevka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1523741,
+        "name": "Esik",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1532249,
+        "name": "Birlestik",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608271,
+        "name": "Shubarkuduk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517869,
+        "name": "Tomenaryq",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517185,
+        "name": "Yernazar",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518789,
+        "name": "Staryy Otar",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1518156,
+        "name": "Timur",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519563,
+        "name": "Saryshaghan",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609707,
+        "name": "Qamysty",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610164,
+        "name": "Burlin",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525462,
+        "name": "Belyye Vody",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525925,
+        "name": "Aynabulak",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610398,
+        "name": "Baūtīno",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1519922,
+        "name": "Kyzylorda",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524302,
+        "name": "Yermentau",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1523768,
+        "name": "Irtyshsk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609440,
+        "name": "Kenkiyak",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608575,
+        "name": "Prirechnoye",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1535595,
+        "name": "Enbekbirlik",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1523512,
+        "name": "Kantagi",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1537980,
+        "name": "Ülken",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1525801,
+        "name": "Ballastnyy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 610298,
+        "name": "Beyneu",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1516673,
+        "name": "Zhasyl",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517610,
+        "name": "Ūst’-Talovka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 609912,
+        "name": "Ferrosplav",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1537911,
+        "name": "Almas",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524571,
+        "name": "Dolinka",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1523605,
+        "name": "Kalkaman",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1521977,
+        "name": "Orël",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1524227,
+        "name": "Glubokoye",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 607706,
+        "name": "Yunyy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1517020,
+        "name": "Zhaqsy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 607989,
+        "name": "Tobe-Kuduk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 608867,
+        "name": "Martuk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526265,
+        "name": "Aral",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1522026,
+        "name": "Krasnogorskiy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520316,
+        "name": "Ust-Kamenogorsk",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1526041,
+        "name": "Atasū",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520196,
+        "name": "Pervorosiyskiy",
+        "state": "",
+        "country": "KZ"
+    },
+    {
+        "id": 1520536,
+        "name": "Novotroitskoye",
+        "state": "",
+        "country": "KZ"
+    }
+]

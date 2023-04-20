@@ -1,0 +1,572 @@
+[
+    {
+        "id": 1246007,
+        "name": "Gampaha",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1223738,
+        "name": "Weligama",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 8260318,
+        "name": "Shanjeev Home",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1227109,
+        "name": "Tammannekulama",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1242110,
+        "name": "Kalmunai",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1227667,
+        "name": "Slave Island",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1223421,
+        "name": "Western Province",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1249296,
+        "name": "Central Province",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1240372,
+        "name": "Kilinochchi",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 7441574,
+        "name": "Puthoor",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1248991,
+        "name": "Colombo",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1228730,
+        "name": "Ratnapura",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1226992,
+        "name": "Taralanda",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1238427,
+        "name": "Kuliyapitiya",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1230089,
+        "name": "Pita Kotte",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1229989,
+        "name": "Point Pedro",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1232870,
+        "name": "North Central Province",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1224061,
+        "name": "Wattegama",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1236854,
+        "name": "Maharagama",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1233369,
+        "name": "Negombo",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1244397,
+        "name": "Hendala",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1242571,
+        "name": "Kadugannawa",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1231410,
+        "name": "Panadura",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 7671049,
+        "name": "Northern Province",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1244108,
+        "name": "Hingurakgoda",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1226494,
+        "name": "Timbirigasyaya",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1241964,
+        "name": "Kalutara",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1250161,
+        "name": "Batticaloa",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1239593,
+        "name": "Kolonnawa",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1229554,
+        "name": "Puliyadikuda",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1226260,
+        "name": "Trincomalee",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1235000,
+        "name": "Minuwangoda",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1236150,
+        "name": "Mannar",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1244773,
+        "name": "Hanwella Ihala",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1251081,
+        "name": "Anuradhapura",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1249978,
+        "name": "Bentota",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 8133521,
+        "name": "Eastern Province",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1250615,
+        "name": "Badulla",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 7542695,
+        "name": "Goluwapokuna",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1242833,
+        "name": "Jaffna",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1238992,
+        "name": "Sri Jayewardenepura Kotte",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 7440466,
+        "name": "Bandara Bulankulama",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1243867,
+        "name": "Horana South",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1225265,
+        "name": "Province of Uva",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1246294,
+        "name": "Galle",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1240622,
+        "name": "Kelaniya",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1246321,
+        "name": "Galkissa",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1251459,
+        "name": "Ampara",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1230613,
+        "name": "Peliyagoda",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1231644,
+        "name": "Pallimulla",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1239047,
+        "name": "Kotikawatta",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1232783,
+        "name": "Nuwara Eliya",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1223488,
+        "name": "Weragampita",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1234846,
+        "name": "Mohottiwatta",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1238367,
+        "name": "Kumbalwella",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1237980,
+        "name": "Kurunegala",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1246000,
+        "name": "Gampola",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1228435,
+        "name": "Sabaragamuwa Province",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1244713,
+        "name": "Haputale",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1225142,
+        "name": "Valvedditturai",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1240935,
+        "name": "Katunayaka",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1226391,
+        "name": "Tirukkalkudah",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1242170,
+        "name": "Kallady",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1227603,
+        "name": "Democratic Socialist Republic of Sri Lanka",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 7433819,
+        "name": "Nekathkumbura",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1250164,
+        "name": "Battaramulla South",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1241622,
+        "name": "Kandy",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1227618,
+        "name": "Southern Province",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1233163,
+        "name": "New Town",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1241750,
+        "name": "Kandana",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 7546468,
+        "name": "Venture Colony",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 6285792,
+        "name": "Horawala Junction",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1234633,
+        "name": "Moratuwa",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1229293,
+        "name": "Puttalam",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1232860,
+        "name": "North Western Province",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1246924,
+        "name": "Eravur Town",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1244596,
+        "name": "Hatton",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1227300,
+        "name": "Talawakele",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1227037,
+        "name": "Tangalle",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1243936,
+        "name": "Homagama",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1248749,
+        "name": "Dambulla",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1223648,
+        "name": "Welisara",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1235846,
+        "name": "Matara",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1242835,
+        "name": "Ja Ela",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1228051,
+        "name": "Sigiriya",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1249145,
+        "name": "Chilaw",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1244178,
+        "name": "Hikkaduwa",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1229901,
+        "name": "Polonnaruwa",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1234378,
+        "name": "Mulleriyawa",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1249931,
+        "name": "Beruwala",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1225018,
+        "name": "Vavuniya",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1234808,
+        "name": "Monaragala",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1224085,
+        "name": "Wattala",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1244926,
+        "name": "Hambantota",
+        "state": "",
+        "country": "LK"
+    },
+    {
+        "id": 1251574,
+        "name": "Ambalangoda",
+        "state": "",
+        "country": "LK"
+    }
+]

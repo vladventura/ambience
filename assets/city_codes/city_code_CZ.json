@@ -1,0 +1,8714 @@
+[
+    {
+        "id": 3063032,
+        "name": "Veselí nad Moravou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065210,
+        "name": "Štěchovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070678,
+        "name": "Milevsko",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076735,
+        "name": "Dolní Počernice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064079,
+        "name": "Třeboň",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074161,
+        "name": "Jindřichov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071782,
+        "name": "Lipov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078421,
+        "name": "Bukovany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077538,
+        "name": "Okres Chrudim",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065116,
+        "name": "Stod",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064745,
+        "name": "Suchdol",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077075,
+        "name": "Dobrá",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070420,
+        "name": "Modřany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062593,
+        "name": "Volary",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070190,
+        "name": "Mutěnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073644,
+        "name": "Klenčí pod Čerchovem",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079617,
+        "name": "Běchovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064662,
+        "name": "Sušice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065627,
+        "name": "Sobotín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069938,
+        "name": "Nehvizdy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076098,
+        "name": "Golčův Jeníkov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061754,
+        "name": "Zbraslav",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077391,
+        "name": "Církvice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078187,
+        "name": "Čejč",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065118,
+        "name": "Štíty",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066636,
+        "name": "Roztoky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072527,
+        "name": "Kunčina",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073574,
+        "name": "Klokočov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074331,
+        "name": "Jemnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077584,
+        "name": "Chrastava",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079031,
+        "name": "Bordovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076402,
+        "name": "Drnovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062342,
+        "name": "Všetaty",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075436,
+        "name": "Horní Branná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066298,
+        "name": "Sedlice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071875,
+        "name": "Lichnov (o. Nový Jičín)",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067351,
+        "name": "Ptení",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075841,
+        "name": "Heřmanův Městec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075599,
+        "name": "Holice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072894,
+        "name": "Krásná Hora nad Vltavou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075624,
+        "name": "Holasice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064997,
+        "name": "Stráž nad Nisou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064730,
+        "name": "Suchý",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073679,
+        "name": "Klánovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077073,
+        "name": "Dobřany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068751,
+        "name": "Ostrožská Lhota",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071480,
+        "name": "Lovosice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066765,
+        "name": "Ronov nad Doubravou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068749,
+        "name": "Ostrožské Předměstí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075187,
+        "name": "Horní Suchá",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064358,
+        "name": "Tanvald",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075257,
+        "name": "Horní Počernice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061659,
+        "name": "Zdiby",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078982,
+        "name": "Bořitov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066503,
+        "name": "Rychnov nad Kněžnou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062446,
+        "name": "Vrbno pod Pradědem",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073739,
+        "name": "Kdyně",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063193,
+        "name": "Velké Opatovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075042,
+        "name": "Hostouň",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064047,
+        "name": "Třemošná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066195,
+        "name": "Senice na Hané",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061864,
+        "name": "Žantov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062806,
+        "name": "Vítkovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075451,
+        "name": "Horní Benešov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074039,
+        "name": "Kadan",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073172,
+        "name": "Košťálov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061692,
+        "name": "Žďár nad Sázavou 2",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072332,
+        "name": "Lanškroun",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076408,
+        "name": "Drnholec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064321,
+        "name": "Tečovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071881,
+        "name": "Libušín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062924,
+        "name": "Vidnava",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071643,
+        "name": "Loděnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066719,
+        "name": "Rousínov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071590,
+        "name": "Lopeník",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076902,
+        "name": "Dolní Čermná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078672,
+        "name": "Březolupy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071844,
+        "name": "Líně",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073599,
+        "name": "Klimkovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064911,
+        "name": "Střítež",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076726,
+        "name": "Dolní Poustevna",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066885,
+        "name": "Řež",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076330,
+        "name": "Dub nad Moravou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065163,
+        "name": "Štětí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062934,
+        "name": "Vidče",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073817,
+        "name": "Karlova Studánka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061867,
+        "name": "Žandov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078160,
+        "name": "Čelákovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068997,
+        "name": "Olšany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064015,
+        "name": "Trhové Sviny",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069179,
+        "name": "Obrnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078664,
+        "name": "Březová",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073944,
+        "name": "Kamenice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079616,
+        "name": "Bechyně",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074284,
+        "name": "Jesenice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063321,
+        "name": "Velehrad",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070339,
+        "name": "Morávka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078012,
+        "name": "Černožice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073666,
+        "name": "Klášter Hradiště nad Jizerou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073699,
+        "name": "Kladno",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069808,
+        "name": "Netolice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076761,
+        "name": "Dolní Němčí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062897,
+        "name": "Vilémov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077972,
+        "name": "Červená Voda",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068969,
+        "name": "Ondřejov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066276,
+        "name": "Sedlnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063448,
+        "name": "Valašské Klobouky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064066,
+        "name": "Třebovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077269,
+        "name": "Darkov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076918,
+        "name": "Dolní Bousov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077918,
+        "name": "Česká Ves",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074181,
+        "name": "Jílové",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073583,
+        "name": "Klobouky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070902,
+        "name": "Měčín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061370,
+        "name": "Zlín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068436,
+        "name": "Pendrov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068927,
+        "name": "Opava",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067079,
+        "name": "Ráječko",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078807,
+        "name": "Břasy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073769,
+        "name": "Kašperské Hory",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076363,
+        "name": "Dubá",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075119,
+        "name": "Hořovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067157,
+        "name": "Radonice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061830,
+        "name": "Zastávka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079209,
+        "name": "Blížkovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063727,
+        "name": "Uhlířské Janovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078833,
+        "name": "Braník",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079813,
+        "name": "Albrechtičky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065497,
+        "name": "Spytihněv",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065379,
+        "name": "Stará Ves nad Ondřejnicí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062835,
+        "name": "Višňové",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069059,
+        "name": "Oldřišov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070071,
+        "name": "Náklo",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065824,
+        "name": "Slavkov u Brna",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067587,
+        "name": "Přemyslovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063794,
+        "name": "Týn nad Vltavou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070724,
+        "name": "Mikulčice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067783,
+        "name": "Poříčí nad Sázavou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074020,
+        "name": "Kadaň",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079099,
+        "name": "Bohutín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 6639860,
+        "name": "Zábrdovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067044,
+        "name": "Ramzová",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075259,
+        "name": "Horní Počaply",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066154,
+        "name": "Sezimovo Ústí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062394,
+        "name": "Vršovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076604,
+        "name": "Domanín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077898,
+        "name": "Český Brod",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070834,
+        "name": "Měšice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073780,
+        "name": "Kasejovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062811,
+        "name": "Vítkov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063828,
+        "name": "Tvrdonice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063189,
+        "name": "Velké Přílepy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079514,
+        "name": "Benátky nad Jizerou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063853,
+        "name": "Turnov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062477,
+        "name": "Vrbátky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076621,
+        "name": "Dolní Životice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076001,
+        "name": "Háj ve Slezsku",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062783,
+        "name": "Vizovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076988,
+        "name": "Dobrovíz",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071664,
+        "name": "Litvínovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062444,
+        "name": "Vrbovec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074204,
+        "name": "Jičín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071579,
+        "name": "Loštice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067712,
+        "name": "Okres Prachatice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064807,
+        "name": "Studénka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066169,
+        "name": "Šestajovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073152,
+        "name": "Kostelec nad Černými Lesy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063466,
+        "name": "Vacov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077198,
+        "name": "Desná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062526,
+        "name": "Vranov nad Dyjí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075022,
+        "name": "Hovorčovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061979,
+        "name": "Zaječí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062105,
+        "name": "Zabrušany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070603,
+        "name": "Miřetice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069431,
+        "name": "Nové Strašecí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066342,
+        "name": "Seč",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073322,
+        "name": "Komorní Lhotka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061780,
+        "name": "Zbiroh",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073523,
+        "name": "Kněžpole",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062628,
+        "name": "Vojkovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077385,
+        "name": "Čisovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068564,
+        "name": "Paseka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072184,
+        "name": "Lešná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073407,
+        "name": "Kojetín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066446,
+        "name": "Sadská",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079121,
+        "name": "Bohuňovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 6269470,
+        "name": "Černý Most",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074967,
+        "name": "Hradec Králové",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065741,
+        "name": "Smidary",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075049,
+        "name": "Hošťka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062773,
+        "name": "Vladislav",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062533,
+        "name": "Vrané nad Vltavou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079252,
+        "name": "Blatná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067631,
+        "name": "Předklášteří",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068445,
+        "name": "Pelhřimov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071937,
+        "name": "Libiš",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076027,
+        "name": "Háje",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066727,
+        "name": "Roudnice nad Labem",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079410,
+        "name": "Bezděkov pod Třemšínem",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077543,
+        "name": "Chroustovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071532,
+        "name": "Loučovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066045,
+        "name": "Skalná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076685,
+        "name": "Dolní Sloupnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069466,
+        "name": "Nové Město nad Metují",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074444,
+        "name": "Jarošov nad Nežárkou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068119,
+        "name": "Podbořany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078211,
+        "name": "Čebín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076129,
+        "name": "Fryčovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077034,
+        "name": "Dobřichovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061472,
+        "name": "Židlochovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072889,
+        "name": "Krásná Lípa",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074281,
+        "name": "Jeseník",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075454,
+        "name": "Horní Bečva",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069486,
+        "name": "Nové Jesenčany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068039,
+        "name": "Podlusky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063927,
+        "name": "Tršice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064597,
+        "name": "Svatava",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064510,
+        "name": "Světlá nad Sázavou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077903,
+        "name": "České Velenice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073838,
+        "name": "Karlín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077188,
+        "name": "Dětenice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069465,
+        "name": "Nové Město na Moravě",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072235,
+        "name": "Ledeč nad Sázavou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074677,
+        "name": "Hustopeče",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075361,
+        "name": "Horní Jelení",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062156,
+        "name": "Žabčice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072529,
+        "name": "Kunčičky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068222,
+        "name": "Plasy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074909,
+        "name": "Hradištko",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077650,
+        "name": "Chotěšov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064454,
+        "name": "Svitavy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069843,
+        "name": "Neředín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3339536,
+        "name": "Jihomoravský kraj",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069305,
+        "name": "Nový Jičín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064856,
+        "name": "Strunkovice nad Blanicí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064736,
+        "name": "Suchohrdly",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078610,
+        "name": "Brno",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064305,
+        "name": "Temelín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061578,
+        "name": "Želešice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063192,
+        "name": "Velké Pavlovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068837,
+        "name": "Oskava",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064000,
+        "name": "Třinec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077001,
+        "name": "Dobronín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076284,
+        "name": "Dvorce",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068478,
+        "name": "Pecka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071951,
+        "name": "Líbeznice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065522,
+        "name": "Špindlerův Mlýn",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067096,
+        "name": "Radvanov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071955,
+        "name": "Liběšice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077184,
+        "name": "Dětmarovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079467,
+        "name": "Beroun",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063312,
+        "name": "Velenov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062859,
+        "name": "Vinoř",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073660,
+        "name": "Klatovy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063349,
+        "name": "Včelná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066781,
+        "name": "Rokytnice v Orlických Horách",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068498,
+        "name": "Pazderna",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076991,
+        "name": "Dobrovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075952,
+        "name": "Harrachov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064140,
+        "name": "Traplice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073899,
+        "name": "Kamenné Žehrovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066328,
+        "name": "Sedlec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064211,
+        "name": "Tišnov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078885,
+        "name": "Bouzov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079078,
+        "name": "Bolatice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069669,
+        "name": "Nová Paka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075766,
+        "name": "Hlinsko",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075193,
+        "name": "Horní Štěpánov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074598,
+        "name": "Jablonné nad Orlicí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073760,
+        "name": "Kateřinky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078838,
+        "name": "Brandýs nad Labem",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070413,
+        "name": "Moguntia",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068411,
+        "name": "Peruc",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076077,
+        "name": "Habartice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063502,
+        "name": "Úvaly",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077258,
+        "name": "Davle",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072137,
+        "name": "Letňany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063735,
+        "name": "Uherský Ostroh",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070546,
+        "name": "Mizerov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074049,
+        "name": "Josefův Důl",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062111,
+        "name": "Zábřeh",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061293,
+        "name": "Zvole",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077929,
+        "name": "Česká Lípa",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077842,
+        "name": "Charvatce",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064894,
+        "name": "Střížkov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079273,
+        "name": "Blansko",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072224,
+        "name": "Lelekovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064740,
+        "name": "Suché Lazce",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064413,
+        "name": "Svratouch",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078038,
+        "name": "Černilov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073149,
+        "name": "Kostelec nad Orlicí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070010,
+        "name": "Návsí u Jablunkova",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069098,
+        "name": "Okříšky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061437,
+        "name": "Žirovnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075663,
+        "name": "Hodkovičky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079374,
+        "name": "Bílá Lhota",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069432,
+        "name": "Nové Strakonice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076470,
+        "name": "Drásov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064285,
+        "name": "Teplice nad Metují",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075191,
+        "name": "Horní Stropnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079511,
+        "name": "Benecko",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063307,
+        "name": "Velešín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061534,
+        "name": "Žeravice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072531,
+        "name": "Kunčice pod Ondřejníkem",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066095,
+        "name": "Šitbořice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078613,
+        "name": "Brniště",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065123,
+        "name": "Štítná nad Vláří",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077760,
+        "name": "Chlumčany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077741,
+        "name": "Chlum u Třeboně",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075079,
+        "name": "Hostěradice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076234,
+        "name": "Dýšina",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075620,
+        "name": "Holasovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061336,
+        "name": "Zpupná Lhota",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078903,
+        "name": "Bošovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061822,
+        "name": "Žatec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064226,
+        "name": "Tichá",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062655,
+        "name": "Voděrádky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075894,
+        "name": "Hejnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078561,
+        "name": "Brtnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067897,
+        "name": "Polepy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074692,
+        "name": "Hůrky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065397,
+        "name": "Stará Lípa",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068329,
+        "name": "Petřvald",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071966,
+        "name": "Libeň",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074597,
+        "name": "Jablonné v Podještědí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073653,
+        "name": "Klecánky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064914,
+        "name": "Střimice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063471,
+        "name": "Václavovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072605,
+        "name": "Krumvíř",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076930,
+        "name": "Dolní Beřkovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077533,
+        "name": "Chuchelná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065422,
+        "name": "Stará Bělá",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074170,
+        "name": "Jimramov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067707,
+        "name": "Prachovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070299,
+        "name": "Mořkov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079645,
+        "name": "Baška",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061637,
+        "name": "Zdounky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074111,
+        "name": "Jiřina",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065873,
+        "name": "Slatiňany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070847,
+        "name": "Měřín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063939,
+        "name": "Troubky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075664,
+        "name": "Hodkovice nad Mohelkou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072841,
+        "name": "Kravaře",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078997,
+        "name": "Bořetice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069082,
+        "name": "Olbramovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078618,
+        "name": "Brníčko",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070820,
+        "name": "Teplá",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073754,
+        "name": "Katovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071155,
+        "name": "Malešice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065618,
+        "name": "Sokolnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064995,
+        "name": "Strážnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074199,
+        "name": "Jihlava",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075656,
+        "name": "Hodonice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070580,
+        "name": "Mirotice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071686,
+        "name": "Litochleby",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073752,
+        "name": "Kaznějov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068437,
+        "name": "Pěnčín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075112,
+        "name": "Horšovský Týn",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067824,
+        "name": "Popkovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066160,
+        "name": "Ševětín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066439,
+        "name": "Šakvice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079817,
+        "name": "Albrechtice nad Orlicí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068950,
+        "name": "Opařany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076521,
+        "name": "Doudlevce",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072221,
+        "name": "Lenešice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078316,
+        "name": "Býšť",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071895,
+        "name": "Libouchec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069900,
+        "name": "Němčice nad Hanou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073850,
+        "name": "Kardašova Řečice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073892,
+        "name": "Kamenný Újezd",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069429,
+        "name": "Nové Syrovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077828,
+        "name": "Chlebičov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078234,
+        "name": "Čáslav",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062685,
+        "name": "Vlkoš",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079751,
+        "name": "Aš",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069934,
+        "name": "Nejdek",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3339541,
+        "name": "Liberecký kraj",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066703,
+        "name": "Rovensko pod Troskami",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069248,
+        "name": "Nupaky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063208,
+        "name": "Velké Heraltice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064377,
+        "name": "Okres Tábor",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077884,
+        "name": "Český Rudolec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069952,
+        "name": "Nedvědice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069464,
+        "name": "Nové Město pod Smrkem",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075493,
+        "name": "Hořice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073345,
+        "name": "Komárov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3339540,
+        "name": "Královéhradecký kraj",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063447,
+        "name": "Valašské Meziříčí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072693,
+        "name": "Křižanov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072451,
+        "name": "Kvasice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071467,
+        "name": "Lubenec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071675,
+        "name": "Litomyšl",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067765,
+        "name": "Postřelmov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071911,
+        "name": "Libochovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071874,
+        "name": "Lichnov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067080,
+        "name": "Rájec-Jestřebí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074461,
+        "name": "Jaroměřice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072133,
+        "name": "Letonice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067204,
+        "name": "Radiměř",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068246,
+        "name": "Planá",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063011,
+        "name": "Vésky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078021,
+        "name": "Černovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067047,
+        "name": "Rakvice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070306,
+        "name": "Moravský Žižkov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078910,
+        "name": "Boskovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070390,
+        "name": "Mokrá Hora",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068298,
+        "name": "Písečná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077349,
+        "name": "Čkyně",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063083,
+        "name": "Věrovany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074373,
+        "name": "Jedlová",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066492,
+        "name": "Rychvald",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076822,
+        "name": "Dolní Kounice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064501,
+        "name": "Sviadnov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064681,
+        "name": "Šumbark",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078812,
+        "name": "Brantice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065098,
+        "name": "Stonava",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072952,
+        "name": "Králíky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064714,
+        "name": "Sudislav nad Orlicí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077071,
+        "name": "Dobratice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069720,
+        "name": "Nosislav",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063797,
+        "name": "Týniště nad Orlicí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063590,
+        "name": "Úpice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072675,
+        "name": "Křížová",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067789,
+        "name": "Poříčany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066399,
+        "name": "Šardice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064919,
+        "name": "Stříbro",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068281,
+        "name": "Písnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077501,
+        "name": "Chvaletice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063385,
+        "name": "Vápenná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077960,
+        "name": "Červený Hrádek",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063375,
+        "name": "Varnsdorf",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075291,
+        "name": "Horní Morava",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077624,
+        "name": "Chotusice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063263,
+        "name": "Velká Dobrá",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071148,
+        "name": "Malé Svatoňovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065018,
+        "name": "Stráž",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065213,
+        "name": "Stěbořice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078472,
+        "name": "Budišov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075930,
+        "name": "Hať",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068476,
+        "name": "Pečky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076777,
+        "name": "Dolní Lutyně",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076346,
+        "name": "Dubí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061360,
+        "name": "Zlonice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073672,
+        "name": "Klášter",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068897,
+        "name": "Ořechov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074807,
+        "name": "Hromnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071333,
+        "name": "Lužec nad Vltavou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075262,
+        "name": "Horní Planá",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078933,
+        "name": "Boršice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078300,
+        "name": "Bystřice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076531,
+        "name": "Doubravice nad Svitavou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069773,
+        "name": "Nezamyslice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077558,
+        "name": "Chřibská",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068345,
+        "name": "Petrovice u Karviné",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074731,
+        "name": "Hulín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078648,
+        "name": "Břidličná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076671,
+        "name": "Dolní Studénky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071351,
+        "name": "Luštěnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071024,
+        "name": "Mariánské Lázně",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072638,
+        "name": "Krouna",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076413,
+        "name": "Dřiteň",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067383,
+        "name": "Průhonice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065404,
+        "name": "Stará Huť",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069236,
+        "name": "Nymburk",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065304,
+        "name": "Staré Strašnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061750,
+        "name": "Zbraslavice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070862,
+        "name": "Mělník",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077965,
+        "name": "Červenka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062159,
+        "name": "Xaverov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078973,
+        "name": "Borohrádek",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068799,
+        "name": "Ostrava",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064719,
+        "name": "Sudice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066917,
+        "name": "Řepiště",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065067,
+        "name": "Strakonice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066794,
+        "name": "Rokycany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073130,
+        "name": "Kostice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063451,
+        "name": "Valašská Bystřice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074723,
+        "name": "Humpolec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078114,
+        "name": "Cerhenice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065831,
+        "name": "Slavkov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072903,
+        "name": "Kraslice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076522,
+        "name": "Doudleby nad Orlicí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074187,
+        "name": "Jilemnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063907,
+        "name": "Trutnov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074587,
+        "name": "Jáchymov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066143,
+        "name": "Sibřina",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079653,
+        "name": "Bartošovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070167,
+        "name": "Myslík",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074985,
+        "name": "Hradčany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073059,
+        "name": "Kovářov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068107,
+        "name": "Poděbrady",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073753,
+        "name": "Katusice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074119,
+        "name": "Jiříkov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065187,
+        "name": "Štěpánkovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077625,
+        "name": "Chotoviny",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077665,
+        "name": "Chotěbuz",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064449,
+        "name": "Svoboda nad Úpou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066735,
+        "name": "Rouchovany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061588,
+        "name": "Zeleneč",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072134,
+        "name": "Letohrad",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064316,
+        "name": "Telč",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071339,
+        "name": "Luže",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062339,
+        "name": "Vsetín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061344,
+        "name": "Znojmo",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079334,
+        "name": "Bílovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067051,
+        "name": "Rakovník",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066651,
+        "name": "Rožnov pod Radhoštěm",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067368,
+        "name": "Psáry",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077909,
+        "name": "České Křižánky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073261,
+        "name": "Kopidlno",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064114,
+        "name": "Třebenice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067101,
+        "name": "Radvanice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067544,
+        "name": "Příbor",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068049,
+        "name": "Podlesí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064073,
+        "name": "Třebotov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075522,
+        "name": "Horažďovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077318,
+        "name": "Cvikov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065626,
+        "name": "Sobotka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061284,
+        "name": "Dvůr Králové nad Labem",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077418,
+        "name": "Cihelny",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067004,
+        "name": "Rataje",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071606,
+        "name": "Lomnice nad Popelkou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064257,
+        "name": "Těšetice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067816,
+        "name": "Popovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075422,
+        "name": "Horní Čermná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077872,
+        "name": "Čestlice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074961,
+        "name": "Hradec nad Svitavou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069738,
+        "name": "Nižbor",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074614,
+        "name": "Ivanovice na Hané",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061709,
+        "name": "Žďár",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067885,
+        "name": "Police nad Metují",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072598,
+        "name": "Krupka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066623,
+        "name": "Rtyně v Podkrkonoší",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074239,
+        "name": "Jevišovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065157,
+        "name": "Stěžery",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072484,
+        "name": "Kunvald",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063109,
+        "name": "Velvary",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074975,
+        "name": "Hradec nad Moravici",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077244,
+        "name": "Děčín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072155,
+        "name": "Leština",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068623,
+        "name": "Palkovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077291,
+        "name": "Dalovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077549,
+        "name": "Chropyně",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063271,
+        "name": "Velká Bystřice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065930,
+        "name": "Skuhrov nad Bělou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070276,
+        "name": "Mostkovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073093,
+        "name": "Koudelka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063103,
+        "name": "Vendryně",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069844,
+        "name": "Neratovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073241,
+        "name": "Kořenov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075587,
+        "name": "Holoubkov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068064,
+        "name": "Podkopná Lhota",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3337421,
+        "name": "Lázně Bohdaneč",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065843,
+        "name": "Slavičín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065191,
+        "name": "Štěnovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065166,
+        "name": "Šternberk",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075996,
+        "name": "Halenkovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076508,
+        "name": "Drahanovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070251,
+        "name": "Mrákov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074808,
+        "name": "Hrochův Týnec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064143,
+        "name": "Tovačov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061970,
+        "name": "Zaječov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067834,
+        "name": "Poniklá",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069230,
+        "name": "Nýrsko",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066536,
+        "name": "Rybitví",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066890,
+        "name": "Řevnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076258,
+        "name": "Dvorska",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069067,
+        "name": "Oldřichovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077906,
+        "name": "České Meziříčí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066783,
+        "name": "Rokytnice nad Jizerou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062153,
+        "name": "Záběhlice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074322,
+        "name": "Jeneč",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075606,
+        "name": "Holešov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063111,
+        "name": "Veltrusy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061563,
+        "name": "Železnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069796,
+        "name": "Netvořice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075356,
+        "name": "Horní Jiřetín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068311,
+        "name": "Pilníkov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077331,
+        "name": "Čtyři Dvory",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074944,
+        "name": "Hrádek nad Nisou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073389,
+        "name": "Kokory",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064492,
+        "name": "Švihov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074491,
+        "name": "Janovice nad Úhlavou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062257,
+        "name": "Vysočany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065689,
+        "name": "Smržice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070308,
+        "name": "Moravský Písek",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068933,
+        "name": "Opatovice nad Labem",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068724,
+        "name": "Otavožaty",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064122,
+        "name": "Třebechovice pod Orebem",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063409,
+        "name": "Valtice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065901,
+        "name": "Šlapanice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067676,
+        "name": "Přáslavice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072656,
+        "name": "Krnov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061748,
+        "name": "Zbůch",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065263,
+        "name": "Starý Jičín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079611,
+        "name": "Bečov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063238,
+        "name": "Velká Polom",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064708,
+        "name": "Sudoměřice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071213,
+        "name": "Malá Strana",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078122,
+        "name": "Čerčany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078659,
+        "name": "Březová nad Svitavou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079557,
+        "name": "Bělá nad Radbuzou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076873,
+        "name": "Dolní Dvořiště",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061833,
+        "name": "Zašová",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078547,
+        "name": "Brumovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078064,
+        "name": "Černčice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061816,
+        "name": "Zátor",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074440,
+        "name": "Jarov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073692,
+        "name": "Kladruby",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076116,
+        "name": "Fulnek",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078845,
+        "name": "Braňany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077510,
+        "name": "Churánov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062214,
+        "name": "Vysoké Mýto",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079685,
+        "name": "Bakov nad Jizerou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078275,
+        "name": "Bzenec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069377,
+        "name": "Nový Bydžov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076984,
+        "name": "Dobšice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078458,
+        "name": "Budyně nad Ohří",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078683,
+        "name": "Březnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075691,
+        "name": "Hněvošice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070122,
+        "name": "Náchod",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067443,
+        "name": "Proseč",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071381,
+        "name": "Lukavice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078181,
+        "name": "Čejkovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068719,
+        "name": "Otice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079194,
+        "name": "Bludov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062552,
+        "name": "Vrábí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069238,
+        "name": "Nýdek",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068399,
+        "name": "Petříkov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070264,
+        "name": "Moutnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066743,
+        "name": "Rotava",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077895,
+        "name": "Český Dub",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071627,
+        "name": "Loket",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076132,
+        "name": "Frenštát pod Radhoštěm",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070593,
+        "name": "Miroslav",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071507,
+        "name": "Louny",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075744,
+        "name": "Hlubočky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062081,
+        "name": "Zadní Mostek",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073105,
+        "name": "Kotojedy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067387,
+        "name": "Prštice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071602,
+        "name": "Lom u Mostu",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075001,
+        "name": "Hracholusky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070136,
+        "name": "Mýto",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070310,
+        "name": "Moravský Krumlov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068766,
+        "name": "Ostrov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068279,
+        "name": "Píšť",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064379,
+        "name": "Tábor",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063217,
+        "name": "Velké Bílovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075756,
+        "name": "Hlohovec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074302,
+        "name": "Jenštejn",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073000,
+        "name": "Kozmice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074107,
+        "name": "Jirny",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070030,
+        "name": "Nasavrky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063955,
+        "name": "Trojanovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066613,
+        "name": "Ruda nad Moravou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066889,
+        "name": "Řevničov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070886,
+        "name": "Medlov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072486,
+        "name": "Kunštát",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063202,
+        "name": "Velké Karlovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063450,
+        "name": "Valašská Polanka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073082,
+        "name": "Kout na Šumavě",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061888,
+        "name": "Žamberk",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062857,
+        "name": "Vintířov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071677,
+        "name": "Litoměřice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069150,
+        "name": "Odolena Voda",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075997,
+        "name": "Halenkov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071099,
+        "name": "Malšice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065353,
+        "name": "Staré Hradiště",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070792,
+        "name": "Meziboři",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067724,
+        "name": "Pozlovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069437,
+        "name": "Nové Sedlo",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079212,
+        "name": "Blížejov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075005,
+        "name": "Hrabyně",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075905,
+        "name": "Hazlov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066763,
+        "name": "Ropice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078358,
+        "name": "Buštěhrad",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063894,
+        "name": "Tuchoměřice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062642,
+        "name": "Vodňany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066663,
+        "name": "Rožmberk nad Vltavou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070404,
+        "name": "Mohelno",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071289,
+        "name": "Machov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070823,
+        "name": "Městečko Trnávka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075949,
+        "name": "Hartmanice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067006,
+        "name": "Raspenava",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072407,
+        "name": "Kyjov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071863,
+        "name": "Lidečko",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063862,
+        "name": "Tupesy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070329,
+        "name": "Moravská Nová Ves",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064673,
+        "name": "Šumperk",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067162,
+        "name": "Radomyšl",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062405,
+        "name": "Vroutek",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075715,
+        "name": "Hluk",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068753,
+        "name": "Ostrov u Macochy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074149,
+        "name": "Jindřichův Hradec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061734,
+        "name": "Zbýšov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062224,
+        "name": "Vysoká Štola",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068818,
+        "name": "Osoblaha",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076076,
+        "name": "Habartov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078577,
+        "name": "Broumov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063286,
+        "name": "Velim",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073541,
+        "name": "Kněždub",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063578,
+        "name": "Určice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066448,
+        "name": "Sadov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066757,
+        "name": "Rosice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077889,
+        "name": "Český Krumlov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070559,
+        "name": "Místek",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072342,
+        "name": "Lahovičky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068547,
+        "name": "Paskov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063261,
+        "name": "Velká Hleďsebe",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070816,
+        "name": "Město Libavá",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073789,
+        "name": "Karviná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067314,
+        "name": "Pustiměř",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067713,
+        "name": "Prachatice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073811,
+        "name": "Karlovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064173,
+        "name": "Točná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074360,
+        "name": "Jedovnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061351,
+        "name": "Žlutava",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071046,
+        "name": "Manětín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062360,
+        "name": "Všemina",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062759,
+        "name": "Vlašim",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077268,
+        "name": "Darkovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079159,
+        "name": "Bohdalov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078513,
+        "name": "Buchlovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067846,
+        "name": "Pomezí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067542,
+        "name": "Příbram",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073025,
+        "name": "Kožlany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076587,
+        "name": "Domažlice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073369,
+        "name": "Kolinec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065728,
+        "name": "Smiřice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061567,
+        "name": "Železná Ruda",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074797,
+        "name": "Hroznětín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063652,
+        "name": "Újezd nad Lesy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078675,
+        "name": "Březno",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065392,
+        "name": "Stará Paka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078872,
+        "name": "Božice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071529,
+        "name": "Louka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079174,
+        "name": "Bochov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071302,
+        "name": "Lysice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065180,
+        "name": "Štěpánov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061412,
+        "name": "Žižkov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075441,
+        "name": "Horní Boříkovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078417,
+        "name": "Bukovec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070447,
+        "name": "Mníšek",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063195,
+        "name": "Velké Němčice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3339574,
+        "name": "Pardubický kraj",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061761,
+        "name": "Zbožíčko",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068494,
+        "name": "Pchery",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066958,
+        "name": "Řehlovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073357,
+        "name": "Kolová",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063276,
+        "name": "Velká Bíteš",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075877,
+        "name": "Herálec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061658,
+        "name": "Zdice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064533,
+        "name": "Svémyslice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072325,
+        "name": "Lány",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069118,
+        "name": "Ohrazenice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076627,
+        "name": "Dolní Žandov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069966,
+        "name": "Nedakonice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073527,
+        "name": "Kněžívka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072087,
+        "name": "Lhota",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071330,
+        "name": "Lužice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077862,
+        "name": "Chabařovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065972,
+        "name": "Skřečoň",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076123,
+        "name": "Frýdlant nad Ostravicí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062213,
+        "name": "Vysoké nad Jizerou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074594,
+        "name": "Jablůnka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063938,
+        "name": "Troubsko",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065033,
+        "name": "Strašice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064185,
+        "name": "Tlučná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071536,
+        "name": "Loučná nad Desnou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063333,
+        "name": "Vejprty",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070798,
+        "name": "Mexiko",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062283,
+        "name": "Vyškov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074817,
+        "name": "Hrob",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075208,
+        "name": "Horní Slavkov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063127,
+        "name": "Velký Týnec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063835,
+        "name": "Tvarožná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067174,
+        "name": "Radnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070325,
+        "name": "Moravská Třebová",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074853,
+        "name": "Hřebeč",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063209,
+        "name": "Velké Hamry",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063124,
+        "name": "Velký Újezd",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066878,
+        "name": "Říčany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070055,
+        "name": "Náměšť nad Oslavou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067733,
+        "name": "Povrly",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075358,
+        "name": "Horní Jindřichov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062640,
+        "name": "Vodochody",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070906,
+        "name": "Měcholupy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074243,
+        "name": "Jevany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078837,
+        "name": "Brandýs nad Labem-Stará Boleslav",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066659,
+        "name": "Rožmitál pod Třemšínem",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067416,
+        "name": "Prostřední Bečva",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074603,
+        "name": "Jablonec nad Nisou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071110,
+        "name": "Malonty",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062570,
+        "name": "Volyně",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062011,
+        "name": "Záhorovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064029,
+        "name": "Třešť",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077508,
+        "name": "Chvalčov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078029,
+        "name": "Černošice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063814,
+        "name": "Týnec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071374,
+        "name": "Lukov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064999,
+        "name": "Strážná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061694,
+        "name": "Okres Žďár nad Sázavou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076800,
+        "name": "Dolní Lhota",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069221,
+        "name": "Obecnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069136,
+        "name": "Odry",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067461,
+        "name": "Proboštov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069499,
+        "name": "Nové Dvory",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076903,
+        "name": "Dolní Cerekev",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065062,
+        "name": "Štramberk",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077148,
+        "name": "Divišov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070291,
+        "name": "Most",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069381,
+        "name": "Nový Bor",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078303,
+        "name": "Bystřec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079023,
+        "name": "Borek",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075843,
+        "name": "Heřmanova Huť",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061327,
+        "name": "Zubří",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069029,
+        "name": "Olešnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061416,
+        "name": "Žiželice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071669,
+        "name": "Litovel",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079220,
+        "name": "Blažovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069662,
+        "name": "Nová Role",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068984,
+        "name": "Olšová Vrata",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061350,
+        "name": "Žlutice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076355,
+        "name": "Dubeč",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077834,
+        "name": "Okres Cheb",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079732,
+        "name": "Babice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077955,
+        "name": "Červený Kostelec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065142,
+        "name": "Stikovec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067110,
+        "name": "Radslavice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077024,
+        "name": "Dobříš",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063215,
+        "name": "Velké Březno",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063941,
+        "name": "Troubelice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073557,
+        "name": "Klučov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3339538,
+        "name": "Kraj Vysočina",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064415,
+        "name": "Svratka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070565,
+        "name": "Miškovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067580,
+        "name": "Přerov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066995,
+        "name": "Ratiboř",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073222,
+        "name": "Koryčany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067398,
+        "name": "Protivanov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071388,
+        "name": "Lukavec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067594,
+        "name": "Přelouč",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078155,
+        "name": "Čelechovice na Hané",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077685,
+        "name": "Chomutov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074737,
+        "name": "Hudlice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066595,
+        "name": "Rudník",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068706,
+        "name": "Otnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069232,
+        "name": "Nýřany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074795,
+        "name": "Hroznová Lhota",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064373,
+        "name": "Tachov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063561,
+        "name": "Úsov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066137,
+        "name": "Šilheřovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065138,
+        "name": "Štípa",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077407,
+        "name": "Čimelice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074593,
+        "name": "Jablunkov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079501,
+        "name": "Benešov nad Černou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072661,
+        "name": "Krmelín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3339537,
+        "name": "Jihočeský kraj",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070028,
+        "name": "Násedlnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077916,
+        "name": "České Budějovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066987,
+        "name": "Ratíškovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075023,
+        "name": "Hovorany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063190,
+        "name": "Velké Poříčí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074803,
+        "name": "Hrotovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077996,
+        "name": "Čertousy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078773,
+        "name": "Břeclav",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068647,
+        "name": "Pacov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074462,
+        "name": "Jaroměř",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077359,
+        "name": "Čížkovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065300,
+        "name": "Staříč",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067430,
+        "name": "Prosetice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067421,
+        "name": "Prostějov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065328,
+        "name": "Staré Město",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071980,
+        "name": "Libčice nad Vltavou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061603,
+        "name": "Želechovice nad Dřevnicí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071645,
+        "name": "Lochovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073668,
+        "name": "Klášterec nad Ohří",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076931,
+        "name": "Dolní Benešov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076923,
+        "name": "Dolní Bojanovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065759,
+        "name": "Slušovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073147,
+        "name": "Kostelec na Hané",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075562,
+        "name": "Holýšov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070661,
+        "name": "Milín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064288,
+        "name": "Teplice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070800,
+        "name": "Metylovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077968,
+        "name": "Červené Pečky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068805,
+        "name": "Ostopovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070452,
+        "name": "Mnichovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063131,
+        "name": "Velký Šenov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065467,
+        "name": "Srubec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070054,
+        "name": "Náměšť na Hané",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069011,
+        "name": "Olomouc",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061562,
+        "name": "Železný Brod",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065259,
+        "name": "Starý Kolín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063082,
+        "name": "Veřovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074558,
+        "name": "Jalubí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078633,
+        "name": "Brloh",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070409,
+        "name": "Mohelnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074004,
+        "name": "Kájov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071665,
+        "name": "Litvínov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070416,
+        "name": "Modřice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078584,
+        "name": "Brodek u Přerova",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062416,
+        "name": "Vřesina",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064043,
+        "name": "Třemošnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076780,
+        "name": "Dolní Loućky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071571,
+        "name": "Loučeň",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067077,
+        "name": "Rajhradice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075921,
+        "name": "Havířov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064713,
+        "name": "Sudkov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074166,
+        "name": "Jince",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073251,
+        "name": "Kopytov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 6694360,
+        "name": "Povel",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076876,
+        "name": "Dolní Dunajovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070446,
+        "name": "Mníšek pod Brdy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3339578,
+        "name": "Zlínský kraj",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074805,
+        "name": "Hronov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074174,
+        "name": "Jíloviště",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063266,
+        "name": "Velká Chuchle",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070542,
+        "name": "Mladá Vožice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068915,
+        "name": "Opočno",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075958,
+        "name": "Hanušovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079532,
+        "name": "Bělotín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075289,
+        "name": "Horní Moštěnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063683,
+        "name": "Újezd",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068237,
+        "name": "Plánice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065340,
+        "name": "Staré Křečany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074676,
+        "name": "Hustopeče Nad Bečvou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066849,
+        "name": "Řitka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063804,
+        "name": "Týnec nad Sázavou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068366,
+        "name": "Petrovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065103,
+        "name": "Štoky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069980,
+        "name": "Nechanice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067695,
+        "name": "Hlavní město Praha",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064268,
+        "name": "Terezín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074604,
+        "name": "Jablonec nad Jizerou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078912,
+        "name": "Bošířany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077835,
+        "name": "Cheb",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065325,
+        "name": "Staré Nechanice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071947,
+        "name": "Libice nad Cidlinou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073190,
+        "name": "Kosmonosy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068522,
+        "name": "Pavlíkov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074398,
+        "name": "Javorník",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075622,
+        "name": "Holásky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062099,
+        "name": "Žacléř",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076140,
+        "name": "Františkov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076793,
+        "name": "Dolní Liboc",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062777,
+        "name": "Vlachovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076934,
+        "name": "Dolní Bečva",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079203,
+        "name": "Blovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067324,
+        "name": "Pustá Polom",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063197,
+        "name": "Velké Losiny",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070575,
+        "name": "Mirovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077304,
+        "name": "Dačice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067535,
+        "name": "Přibyslav",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076586,
+        "name": "Okres Domažlice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064260,
+        "name": "Těšany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064014,
+        "name": "Trhový Štěpánov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065125,
+        "name": "Štítina",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067770,
+        "name": "Postoloprty",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078836,
+        "name": "Brandýs nad Orlicí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073483,
+        "name": "Kobylí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062419,
+        "name": "Vrdy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068946,
+        "name": "Opatov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071607,
+        "name": "Lomnice nad Lužnicí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074099,
+        "name": "Jistebník",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064456,
+        "name": "Svitávka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066592,
+        "name": "Rudolfov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061393,
+        "name": "Zlaté Hory",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077309,
+        "name": "Ďáblice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067577,
+        "name": "Přerov nad Labem",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076901,
+        "name": "Dolní Černilov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073803,
+        "name": "Karlovy Vary",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078288,
+        "name": "Bystřice nad Pernštejnem",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067078,
+        "name": "Rajhrad",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069493,
+        "name": "Nové Hrady",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067766,
+        "name": "Postřekov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074280,
+        "name": "Jeseník nad Odrou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068292,
+        "name": "Písek",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075318,
+        "name": "Horní Liboc",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070584,
+        "name": "Mirošov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075127,
+        "name": "Horoměřice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078286,
+        "name": "Bystřice pod Hostýnem",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070488,
+        "name": "Mlýnec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075471,
+        "name": "Horka nad Moravou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063556,
+        "name": "Úštěk",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066392,
+        "name": "Satalice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068797,
+        "name": "Ostravice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061332,
+        "name": "Zruč nad Sázavou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073170,
+        "name": "Košťany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076118,
+        "name": "Fryšták",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069007,
+        "name": "Oloví",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3339577,
+        "name": "Ústecký kraj",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069422,
+        "name": "Nové Veselí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073178,
+        "name": "Kosova Hora",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078309,
+        "name": "Bystřany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077920,
+        "name": "Česká Třebová",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076136,
+        "name": "Františkovy Lázně",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065818,
+        "name": "Slavonice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068582,
+        "name": "Pardubice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076882,
+        "name": "Dolní Dobrouč",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067627,
+        "name": "Předměřice nad Labem",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072771,
+        "name": "Křenovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072394,
+        "name": "Kynšperk nad Ohří",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061883,
+        "name": "Zámek Zďár nad Sázavou II",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077539,
+        "name": "Chrudim",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073084,
+        "name": "Kouřim",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063545,
+        "name": "Okres Ústí nad Orlicí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079082,
+        "name": "Bojkovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073008,
+        "name": "Kozlovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069861,
+        "name": "Nepomuk",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065249,
+        "name": "Starý Plzenec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068191,
+        "name": "Plesná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077311,
+        "name": "Czechia",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077478,
+        "name": "Chvalšiny",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071961,
+        "name": "Liberec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062351,
+        "name": "Všeruby",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062356,
+        "name": "Všenory",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061368,
+        "name": "Zliv",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065751,
+        "name": "Smečno",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077596,
+        "name": "Chrast",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076925,
+        "name": "Dolní Bohdíkov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071223,
+        "name": "Malá Skála",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078085,
+        "name": "Černá Hora",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067752,
+        "name": "Potštát",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064742,
+        "name": "Suchdol nad Lužnicí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072927,
+        "name": "Králův Dvůr",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069927,
+        "name": "Nelahozeves",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070720,
+        "name": "Mikulov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067026,
+        "name": "Rapotín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076342,
+        "name": "Dubicko",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069600,
+        "name": "Nová Ves",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079038,
+        "name": "Bor",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067553,
+        "name": "Přeštice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064307,
+        "name": "Telnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078028,
+        "name": "Černošín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072929,
+        "name": "Kralupy nad Vltavou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076907,
+        "name": "Dolní Bukovsko",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068140,
+        "name": "Počátky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077706,
+        "name": "Chodov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062888,
+        "name": "Vimperk",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071609,
+        "name": "Lomnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072234,
+        "name": "Ledenice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074763,
+        "name": "Hrušovany u Brna",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062511,
+        "name": "Vranovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074482,
+        "name": "Janov nad Nisou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061462,
+        "name": "Žihle",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070666,
+        "name": "Milíkov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072503,
+        "name": "Kunín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063984,
+        "name": "Trnava",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067882,
+        "name": "Polička",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074459,
+        "name": "Jaroměřice nad Rokytnou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070557,
+        "name": "Mistřice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064433,
+        "name": "Svojek",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076786,
+        "name": "Dolní Litvínov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074452,
+        "name": "Jaroslavice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076915,
+        "name": "Dolní Břežany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065607,
+        "name": "Solnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074500,
+        "name": "Janovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076694,
+        "name": "Dolní Rychnov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062347,
+        "name": "Všestary",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073254,
+        "name": "Kopřivnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074733,
+        "name": "Hukvaldy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 7602675,
+        "name": "Lučina",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075316,
+        "name": "Horní Lideč",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065367,
+        "name": "Stařeč",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063334,
+        "name": "Vejprnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062986,
+        "name": "Větřní",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063805,
+        "name": "Týnec nad Labem",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070129,
+        "name": "Načeradec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068162,
+        "name": "Plumlov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062470,
+        "name": "Vrbice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065768,
+        "name": "Šluknov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072781,
+        "name": "Křemže",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072263,
+        "name": "Lázně Luhačovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077754,
+        "name": "Chlumec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073928,
+        "name": "Kamenický Šenov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068689,
+        "name": "Otrokovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068066,
+        "name": "Podivín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068150,
+        "name": "Poběžovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067977,
+        "name": "Podvihov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062836,
+        "name": "Višňova",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073743,
+        "name": "Kbely",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077725,
+        "name": "Choceň",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064213,
+        "name": "Tišice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075387,
+        "name": "Horní Gruntramovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068244,
+        "name": "Plaňany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076329,
+        "name": "Dubňany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073151,
+        "name": "Kostelec nad Labem",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075179,
+        "name": "Horní Těrlicko",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061768,
+        "name": "Zborovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065976,
+        "name": "Skrbeň",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075043,
+        "name": "Hostomice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072748,
+        "name": "Křešice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069832,
+        "name": "Nesovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077457,
+        "name": "Chýnov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070822,
+        "name": "Městec Králové",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072483,
+        "name": "Kunžak",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064989,
+        "name": "Strážov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068004,
+        "name": "Podolí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071272,
+        "name": "Majetín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070354,
+        "name": "Moravany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072476,
+        "name": "Kuřim",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062708,
+        "name": "Vlčnov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073893,
+        "name": "Kamenný Přívoz",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075827,
+        "name": "Hevlín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079620,
+        "name": "Bechlín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075058,
+        "name": "Hostinné",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074864,
+        "name": "Hrdějovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062497,
+        "name": "Vratimov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072268,
+        "name": "Lázně Bělohrad",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079336,
+        "name": "Bílovec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078503,
+        "name": "Bučovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071429,
+        "name": "Ludgeřovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070270,
+        "name": "Motol",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077932,
+        "name": "Česká Kamenice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065684,
+        "name": "Smržovka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072954,
+        "name": "Kralice na Hané",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067953,
+        "name": "Pohořelice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079403,
+        "name": "Bezdružice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067375,
+        "name": "Prusinovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076311,
+        "name": "Duchcov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066483,
+        "name": "Rýmařov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065439,
+        "name": "Staňkov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069300,
+        "name": "Nový Knín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068856,
+        "name": "Osek nad Bečvou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3339539,
+        "name": "Karlovarský kraj",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069398,
+        "name": "Novosedlice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064826,
+        "name": "Studená",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070537,
+        "name": "Mladé Buky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079671,
+        "name": "Bánov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065281,
+        "name": "Starý Bohumín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077882,
+        "name": "Český Těšín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075206,
+        "name": "Horní Sloupnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079368,
+        "name": "Bílá Třemešná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072497,
+        "name": "Kunovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071791,
+        "name": "Lipník nad Bečvou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069092,
+        "name": "Okrouhlice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079332,
+        "name": "Bílovice nad Svitavou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070774,
+        "name": "Meziměstí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065644,
+        "name": "Soběslav",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075690,
+        "name": "Hněvotín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065278,
+        "name": "Starý Břeclav",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075643,
+        "name": "Hodslavice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077264,
+        "name": "Dašice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070344,
+        "name": "Moravičany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062775,
+        "name": "Vlachovo Březí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079199,
+        "name": "Blučina",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068857,
+        "name": "Osek",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066390,
+        "name": "Šatov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079824,
+        "name": "Albrechtice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067379,
+        "name": "Prušánky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071390,
+        "name": "Luka nad Jihlavou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066180,
+        "name": "Sepekov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071759,
+        "name": "Lipůvka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063611,
+        "name": "Únanov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069960,
+        "name": "Nedašov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070899,
+        "name": "Meclov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078203,
+        "name": "Čechtice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074954,
+        "name": "Hrádek",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076120,
+        "name": "Frymburk",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071319,
+        "name": "Lužná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062658,
+        "name": "Vnorovy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065921,
+        "name": "Skuteč",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066680,
+        "name": "Rožďalovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063001,
+        "name": "Vestec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067892,
+        "name": "Polešovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064183,
+        "name": "Tlumačov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074686,
+        "name": "Husinec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075433,
+        "name": "Horní Bříza",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063091,
+        "name": "Verneřice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070819,
+        "name": "Město Albrechtice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076794,
+        "name": "Dolní Libina",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070715,
+        "name": "Mikulovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064157,
+        "name": "Topolná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078545,
+        "name": "Bruntál",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062439,
+        "name": "Vrchlabí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3339573,
+        "name": "Moravskoslezský kraj",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068727,
+        "name": "Otaslavice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076127,
+        "name": "Frýdek-Místek",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071839,
+        "name": "Lípa",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072941,
+        "name": "Kralovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079346,
+        "name": "Bílina Kyselka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077010,
+        "name": "Dobročovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063191,
+        "name": "Velké Popovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076960,
+        "name": "Dolany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062965,
+        "name": "Veverská Bítýška",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070544,
+        "name": "Mladá Boleslav",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066333,
+        "name": "Sedlčany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067023,
+        "name": "Raškovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079080,
+        "name": "Bojov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067499,
+        "name": "Přimda",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065872,
+        "name": "Slatinice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061321,
+        "name": "Žulová",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068750,
+        "name": "Ostrožská Nová Ves",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064104,
+        "name": "Třebíč",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063141,
+        "name": "Velký Osek",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065453,
+        "name": "Šťáhlavy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064352,
+        "name": "Tasovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075296,
+        "name": "Horní Město",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078748,
+        "name": "Břevnov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066159,
+        "name": "Sezemice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075919,
+        "name": "Havlíčkův Brod",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073792,
+        "name": "Karolinka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069314,
+        "name": "Nový Harcov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063896,
+        "name": "Tuchlovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3339576,
+        "name": "Středočeský kraj",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068075,
+        "name": "Podhradní Lhota",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068785,
+        "name": "Ostroměř",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078620,
+        "name": "Brněnec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077119,
+        "name": "Dlouhá Třebová",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077006,
+        "name": "Dobroměřice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065880,
+        "name": "Slatina",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070314,
+        "name": "Moravský Beroun",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076428,
+        "name": "Dřevohostice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070045,
+        "name": "Napajedla",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070204,
+        "name": "Mukařov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068830,
+        "name": "Oslavany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075025,
+        "name": "Hovězí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066537,
+        "name": "Rybí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077669,
+        "name": "Chotěboř",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068455,
+        "name": "Pelc Tyrolka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076701,
+        "name": "Dolní Roveň",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063196,
+        "name": "Velké Meziříčí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073493,
+        "name": "Kobeřice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073052,
+        "name": "Kovářská",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075447,
+        "name": "Horní Bludovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068160,
+        "name": "Pilsen",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067769,
+        "name": "Poštorná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078732,
+        "name": "Březí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071304,
+        "name": "Lysá nad Labem",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075654,
+        "name": "Hodonín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077598,
+        "name": "Chrást",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073936,
+        "name": "Kamenice nad Lipou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063033,
+        "name": "Veselí nad Lužnicí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072319,
+        "name": "Lanžhot",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077461,
+        "name": "Chyňava",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073652,
+        "name": "Klecany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072462,
+        "name": "Okres Kutná Hora",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065054,
+        "name": "Strančice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079102,
+        "name": "Bohušovice nad Ohří",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061577,
+        "name": "Želetava",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071447,
+        "name": "Lučany nad Nisou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064983,
+        "name": "Stráž pod Ralskem",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062184,
+        "name": "Vyšší Brod",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062559,
+        "name": "Votice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069744,
+        "name": "Nivnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067761,
+        "name": "Postupice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074512,
+        "name": "Janov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067778,
+        "name": "Poruba",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077285,
+        "name": "Dambořice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065560,
+        "name": "Spálené Poříčí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070323,
+        "name": "Moravské Budějovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076972,
+        "name": "Doksy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066416,
+        "name": "Samotíšky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069758,
+        "name": "Nezvěstice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076124,
+        "name": "Frýdlant",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068215,
+        "name": "Plavy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074764,
+        "name": "Hrušovany nad Jevišovkou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066974,
+        "name": "Řečany nad Labem",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063548,
+        "name": "Ústí nad Labem",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072130,
+        "name": "Letovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064835,
+        "name": "Studánka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070744,
+        "name": "Michle",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074178,
+        "name": "Jílové u Prahy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075423,
+        "name": "Horní Cerekev",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074615,
+        "name": "Ivančice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078957,
+        "name": "Borovany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065604,
+        "name": "Solopysky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074031,
+        "name": "Kačice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062866,
+        "name": "Viničné Šumice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073049,
+        "name": "Kozákov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075091,
+        "name": "Hošťálková",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061556,
+        "name": "Želiv",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063400,
+        "name": "Vamberk",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069648,
+        "name": "Nová Včelnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079476,
+        "name": "Bernartice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065903,
+        "name": "Slaný",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076615,
+        "name": "Doloplazy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075051,
+        "name": "Hostivice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062909,
+        "name": "Vikýřovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061431,
+        "name": "Žitenice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078322,
+        "name": "Byšice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069290,
+        "name": "Nový Malín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066220,
+        "name": "Semily",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070853,
+        "name": "Měnín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061625,
+        "name": "Žebrák",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079605,
+        "name": "Bedihošť",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074577,
+        "name": "Jakartovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064677,
+        "name": "Šumice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072232,
+        "name": "Lednice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070746,
+        "name": "Michanice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070573,
+        "name": "Mírovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070995,
+        "name": "Markvartovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066786,
+        "name": "Rokytnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076084,
+        "name": "Grygov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079129,
+        "name": "Bohumín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071990,
+        "name": "Libáň",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066558,
+        "name": "Růžodol",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067296,
+        "name": "Pyšely",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076650,
+        "name": "Dolní Újezd",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066578,
+        "name": "Rumburk",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070282,
+        "name": "Mostek",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071350,
+        "name": "Lutín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066825,
+        "name": "Rohatec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071407,
+        "name": "Luhačovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063599,
+        "name": "Unhošť",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072449,
+        "name": "Kvasiny",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076053,
+        "name": "Habry",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063491,
+        "name": "Vacenovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070271,
+        "name": "Mosty u Jablunkova",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067911,
+        "name": "Polanka",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063546,
+        "name": "Ústí nad Orlicí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072717,
+        "name": "Křinec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 6639863,
+        "name": "Veveří",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072265,
+        "name": "Lázně Kynžvart",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073862,
+        "name": "Kaplice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063318,
+        "name": "Velemín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079108,
+        "name": "Bohuslavice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064531,
+        "name": "Svépravice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070223,
+        "name": "Mšeno",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062545,
+        "name": "Vracov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063987,
+        "name": "Trmice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078251,
+        "name": "Čakovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074110,
+        "name": "Jirkov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073299,
+        "name": "Konice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079500,
+        "name": "Benešov nad Ploučnicí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074889,
+        "name": "Hranice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063736,
+        "name": "Uherský Brod",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067254,
+        "name": "Radčice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070725,
+        "name": "Mikulášovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067433,
+        "name": "Prosek",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070622,
+        "name": "Mimoň",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068867,
+        "name": "Osečná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064753,
+        "name": "Suchá Loz",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063436,
+        "name": "Valdice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071448,
+        "name": "Luby",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061379,
+        "name": "Žleby",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072649,
+        "name": "Kroměříž",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074241,
+        "name": "Jevíčko",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079508,
+        "name": "Benešov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071184,
+        "name": "Malé Hoštice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061660,
+        "name": "Zdibsko",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076555,
+        "name": "Doubrava",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073582,
+        "name": "Klobuky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064962,
+        "name": "Střelice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076153,
+        "name": "Francova Lhota",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065117,
+        "name": "Stochov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077705,
+        "name": "Chodová Planá",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075882,
+        "name": "Henčlov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063596,
+        "name": "Uničov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072581,
+        "name": "Kryry",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078469,
+        "name": "Budišov nad Budišovkou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067696,
+        "name": "Prague",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066599,
+        "name": "Rudná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069785,
+        "name": "Neveklov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070640,
+        "name": "Milotice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062047,
+        "name": "Zahnašovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079637,
+        "name": "Batelov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072463,
+        "name": "Kutná Hora",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078306,
+        "name": "Bystré",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067870,
+        "name": "Polná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072111,
+        "name": "Lhenice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078536,
+        "name": "Brušperk",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3072760,
+        "name": "Křepice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061657,
+        "name": "Zdíkov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073280,
+        "name": "Konská",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067660,
+        "name": "Pražmo",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061369,
+        "name": "Zlin",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077023,
+        "name": "Dobřív",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067485,
+        "name": "Příšovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3339575,
+        "name": "Plzeňský kraj",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063240,
+        "name": "Velká nad Veličkou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075731,
+        "name": "Hluboká nad Vltavou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069469,
+        "name": "Nové Město",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068415,
+        "name": "Perštejn",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074102,
+        "name": "Jistebnice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071762,
+        "name": "Liptál",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078161,
+        "name": "Čeladná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071533,
+        "name": "Loucovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073358,
+        "name": "Kolomuty",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075319,
+        "name": "Horní Libina",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067723,
+        "name": "Pozořice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070814,
+        "name": "Město Touškov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062162,
+        "name": "Wies",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064877,
+        "name": "Strmilov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069705,
+        "name": "Nová Cerekev",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068388,
+        "name": "Petřkovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3339542,
+        "name": "Olomoucký kraj",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073731,
+        "name": "Kelč",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067514,
+        "name": "Příkazy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077751,
+        "name": "Chlumec nad Cidlinou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079348,
+        "name": "Bílina",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068844,
+        "name": "Osík",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074773,
+        "name": "Hrušky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063762,
+        "name": "Údlice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061729,
+        "name": "Ždánice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065051,
+        "name": "Strání",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063112,
+        "name": "Veltruby",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070383,
+        "name": "Mokré Lazce",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068383,
+        "name": "Petrov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063739,
+        "name": "Uherské Hradiště",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073371,
+        "name": "Kolín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074636,
+        "name": "Hvozdná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079556,
+        "name": "Bělá pod Bezdězem",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077366,
+        "name": "Cítov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076767,
+        "name": "Dolní Mokropsy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076734,
+        "name": "Dolní Podluží",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073535,
+        "name": "Kněžice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075086,
+        "name": "Hostavice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063182,
+        "name": "Velké Svatoňovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070844,
+        "name": "Merklín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067395,
+        "name": "Protivín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070628,
+        "name": "Milovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069308,
+        "name": "Nový Hrozenkov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3075716,
+        "name": "Hlučín",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071709,
+        "name": "Lišov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079632,
+        "name": "Bavorov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079843,
+        "name": "Abertamy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061834,
+        "name": "Zásmuky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068873,
+        "name": "Orlová",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076985,
+        "name": "Dobruška",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069706,
+        "name": "Nová Bystřice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066284,
+        "name": "Sedliště",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078223,
+        "name": "Častolovice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064811,
+        "name": "Studenec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3078839,
+        "name": "Brandýsek",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061695,
+        "name": "Žďár nad Sázavou",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3062883,
+        "name": "Vinařice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067456,
+        "name": "Prodašice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3070451,
+        "name": "Mnichovo Hradiště",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3067042,
+        "name": "Raná",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063858,
+        "name": "Tuřany",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077453,
+        "name": "Chyšky",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063171,
+        "name": "Velký Beranov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3064145,
+        "name": "Toužim",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3073526,
+        "name": "Kněžmost",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066410,
+        "name": "Šanov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3071771,
+        "name": "Lipovec",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3069395,
+        "name": "Novosedly",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066184,
+        "name": "Šenov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3068245,
+        "name": "Planá nad Lužnicí",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065459,
+        "name": "Stachy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3076328,
+        "name": "Dubné",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079841,
+        "name": "Adamov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3074621,
+        "name": "Hýskov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3063205,
+        "name": "Velké Hoštice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061949,
+        "name": "Zákupy",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3077921,
+        "name": "Česká Skalice",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3065617,
+        "name": "Sokolov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3066385,
+        "name": "Sázava",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3079807,
+        "name": "Aloisov",
+        "state": "",
+        "country": "CZ"
+    },
+    {
+        "id": 3061378,
+        "name": "Zlechov",
+        "state": "",
+        "country": "CZ"
+    }
+]

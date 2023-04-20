@@ -1,0 +1,2162 @@
+[
+    {
+        "id": 3890949,
+        "name": "El Monte",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3883615,
+        "name": "Lautaro",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3875654,
+        "name": "Playa Ancha",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3884823,
+        "name": "Laraquete",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3878678,
+        "name": "Nielol",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3868633,
+        "name": "Vallenar",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3868158,
+        "name": "Villarrica",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3880143,
+        "name": "Mejillones",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3877949,
+        "name": "Osorno",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3878431,
+        "name": "Ñuñoa",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3899537,
+        "name": "Región de Antofagasta",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3891085,
+        "name": "El Manzano",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3892454,
+        "name": "Diego de Almagro",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3874937,
+        "name": "Puerto Saavedra",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3869657,
+        "name": "Tomé",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3874367,
+        "name": "Quepe",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3873454,
+        "name": "Renca",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3899462,
+        "name": "Arauco",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3889221,
+        "name": "Futrono",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3878743,
+        "name": "Neltume",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3875367,
+        "name": "Porvenir",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3876682,
+        "name": "Peñalolén",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3890771,
+        "name": "El Peñón",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3869640,
+        "name": "Tongoy",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3874212,
+        "name": "Quilicura",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3887788,
+        "name": "Hualañe",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3893962,
+        "name": "Combarbalá",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3890596,
+        "name": "El Quisco",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3874943,
+        "name": "Quellón",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3892470,
+        "name": "Dichato",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3895816,
+        "name": "Chabunco",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3888214,
+        "name": "Hacienda La Calera",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3893865,
+        "name": "Concón",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3894177,
+        "name": "Collipulli",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3889586,
+        "name": "Farellones",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3880827,
+        "name": "Rinconada de Malloa",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3876367,
+        "name": "Peumos",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3873630,
+        "name": "Recreo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3887127,
+        "name": "Iquique",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3899538,
+        "name": "Provincia de Antofagasta",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3883093,
+        "name": "Lirquén",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3896281,
+        "name": "Casma",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3899361,
+        "name": "Arica",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3874570,
+        "name": "Putaendo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3897595,
+        "name": "Cabildo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3897557,
+        "name": "Cabrero",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3875139,
+        "name": "Providencia",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3868700,
+        "name": "Valdivia de Paine",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3889322,
+        "name": "Freire",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3867554,
+        "name": "Zapallar",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3868191,
+        "name": "Villa Alhué",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3887072,
+        "name": "Isla de Maipo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3884827,
+        "name": "La Rana",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3879627,
+        "name": "Molina",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3882922,
+        "name": "Lleco",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3892878,
+        "name": "Curepto",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3896847,
+        "name": "Capellanía",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3873868,
+        "name": "Radal",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3885509,
+        "name": "Laja",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3875986,
+        "name": "Pillanlelbún",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3873775,
+        "name": "Rancagua",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3873992,
+        "name": "Quinta Normal",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3890212,
+        "name": "El Trebolar",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3896924,
+        "name": "Cañete",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3884322,
+        "name": "Las Hijuelas",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3893690,
+        "name": "Contulmo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3873636,
+        "name": "Recoleta",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3899887,
+        "name": "Alto Hospicio",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3900333,
+        "name": "Región Aysén",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3875407,
+        "name": "Portezuelo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3874675,
+        "name": "Pupelde",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3890566,
+        "name": "El Retamo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3869821,
+        "name": "Tiltil",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3874951,
+        "name": "Puerto Octay",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3877918,
+        "name": "Ovalle",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3868339,
+        "name": "Vichuquén",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3871286,
+        "name": "San Vicente",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3895138,
+        "name": "Chiguayante",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3871616,
+        "name": "Santa Cruz",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3898380,
+        "name": "Región del Biobío",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3875070,
+        "name": "Pucón",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3889262,
+        "name": "Frutillar Alto",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3892934,
+        "name": "Curacaví",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3894689,
+        "name": "Chuquicamata",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3882582,
+        "name": "Loncoche",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3871865,
+        "name": "San Pablo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3872175,
+        "name": "San Ignacio",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3888892,
+        "name": "Gorbea",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3899463,
+        "name": "Región de la Araucanía",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3874122,
+        "name": "Quillón",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3895061,
+        "name": "Chimbarongo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3887758,
+        "name": "Huasco",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3876685,
+        "name": "Peñaflor",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3880107,
+        "name": "Melipilla",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3883214,
+        "name": "Limache",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3873983,
+        "name": "Quintero",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3889146,
+        "name": "Gamboa",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3885958,
+        "name": "La Feria",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3881703,
+        "name": "Los Muermos",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3870294,
+        "name": "Talca",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3884524,
+        "name": "Las Cardas",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3874958,
+        "name": "Puerto Natales",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3881607,
+        "name": "Los Pellines",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3882797,
+        "name": "Lo Barnechea",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3894446,
+        "name": "Coelemu",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3889867,
+        "name": "Espejo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3875235,
+        "name": "Pozo Almonte",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3870212,
+        "name": "Tambillo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3894318,
+        "name": "Colbún Alto",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3874096,
+        "name": "Quilpué",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3870116,
+        "name": "Región de Tarapacá",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3892892,
+        "name": "Curanilahue",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3884448,
+        "name": "Las Condes",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3895711,
+        "name": "Chacra Valparaíso",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3877644,
+        "name": "Palena",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3873414,
+        "name": "Requínoa",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3898803,
+        "name": "Baños de Colina",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3874606,
+        "name": "Purey",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3878371,
+        "name": "Ochagavía",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3950062,
+        "name": "Loncura",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3893629,
+        "name": "Coquimbo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3899680,
+        "name": "Andacollo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3868194,
+        "name": "Villa Alegre",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3874141,
+        "name": "Quilleco",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3900687,
+        "name": "Achupallas",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3868210,
+        "name": "Vilcún",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3884607,
+        "name": "Las Barrancas",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3879708,
+        "name": "Miramar",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3882559,
+        "name": "Longaví",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3898880,
+        "name": "Balmaceda",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3897334,
+        "name": "Calbuco",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3892272,
+        "name": "Doñihue",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3881068,
+        "name": "Macul",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3897724,
+        "name": "Bulnes",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3892929,
+        "name": "Curaco de Vélez",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3880980,
+        "name": "Maipú",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3893726,
+        "name": "Constitución",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3894242,
+        "name": "Colina",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3872205,
+        "name": "San Francisco de Mostazal",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3895553,
+        "name": "Chañaral",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3878898,
+        "name": "Negrete",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3884937,
+        "name": "La Portada",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3885251,
+        "name": "Lanco",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 6458708,
+        "name": "Las Animas",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3872065,
+        "name": "San José de Tango",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3896946,
+        "name": "Canela Baja",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3876353,
+        "name": "Pica",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3888523,
+        "name": "Hualqui",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3896410,
+        "name": "Casablanca",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3871332,
+        "name": "Provincia de Santiago",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 6458705,
+        "name": "Las Gaviotas",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3884580,
+        "name": "Las Cabras",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3872326,
+        "name": "San Carlos",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3874960,
+        "name": "Puerto Montt",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3872079,
+        "name": "San José de la Mariquina",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3880590,
+        "name": "Maquegua",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3871715,
+        "name": "San Rosendo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3885456,
+        "name": "La Ligua",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3868326,
+        "name": "Victoria",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3889317,
+        "name": "Freirina",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3880825,
+        "name": "Malloco",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3896433,
+        "name": "Cartagena",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3868621,
+        "name": "Región de Valparaíso",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3868707,
+        "name": "Valdivia",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3889153,
+        "name": "Galvarino",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3873132,
+        "name": "Caserío Río Los Ciervos",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3896218,
+        "name": "Castro",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3883629,
+        "name": "La Unión",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 4036650,
+        "name": "Región de Magallanes y Antártica Chilena",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3876713,
+        "name": "Peñablanca",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3872395,
+        "name": "San Antonio",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3871345,
+        "name": "Santa Teresa de Lo Ovalle",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3872306,
+        "name": "San Clemente",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3874453,
+        "name": "Queilén",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3899539,
+        "name": "Antofagasta",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3877744,
+        "name": "Paillaco",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3879200,
+        "name": "Mulchén",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3883035,
+        "name": "Llaillay",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3869716,
+        "name": "Tocopilla",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3874119,
+        "name": "Quillota",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3881450,
+        "name": "Los Quilos",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3969755,
+        "name": "La Junta",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3879123,
+        "name": "Nacimiento",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3897322,
+        "name": "Caldera",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3879062,
+        "name": "Nancagua",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3871781,
+        "name": "San Pedro de Atacama",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3875592,
+        "name": "Población Parque Forestal",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3879476,
+        "name": "Monte Águila",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3890121,
+        "name": "Empedrado",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3897774,
+        "name": "Buin",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3897287,
+        "name": "Caletones",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3898749,
+        "name": "Barón",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 7281020,
+        "name": "Lo Prado",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3869979,
+        "name": "Teno",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3872240,
+        "name": "San Fernando",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3892935,
+        "name": "Curacautín",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3871524,
+        "name": "Santa Juana",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3879429,
+        "name": "Monte Patria",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3889223,
+        "name": "Futaleufú",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3887736,
+        "name": "Huechún",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3894423,
+        "name": "Coihaique Alto",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3891046,
+        "name": "Melón",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3880952,
+        "name": "Maitencillo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3893656,
+        "name": "Copiapó",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3896361,
+        "name": "Casas de Chacabuco",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 6693593,
+        "name": "Brisas del Sol",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3882434,
+        "name": "Los Andes",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3880906,
+        "name": "Majadas",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3876261,
+        "name": "Pichil",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3892870,
+        "name": "Curicó",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3873544,
+        "name": "Región Metropolitana",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3893516,
+        "name": "Corral",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3893999,
+        "name": "Coltauco",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3899695,
+        "name": "Ancud",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3868192,
+        "name": "Villa Alemana",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3885137,
+        "name": "La Palmilla",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3885471,
+        "name": "La Leonera",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3881849,
+        "name": "Los Maitenes",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3873369,
+        "name": "Retulemus",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3878100,
+        "name": "Olivar Bajo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3896105,
+        "name": "Cauquenes",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3895763,
+        "name": "Chacarilla de Macul",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3872073,
+        "name": "San José de Maipo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3870282,
+        "name": "Talcahuano",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3894426,
+        "name": "Coyhaique",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3874926,
+        "name": "Puerto Williams",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 6693562,
+        "name": "Región de Arica y Parinacota",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3870306,
+        "name": "Talagante",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3878456,
+        "name": "Nueva Imperial",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3869381,
+        "name": "Traiguén",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3896774,
+        "name": "Carahue",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3881102,
+        "name": "Machalí",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3882530,
+        "name": "Lontué",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 6930873,
+        "name": "Ostrov Paskhi",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3890484,
+        "name": "El Rosal",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3885982,
+        "name": "La Estancilla",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3888011,
+        "name": "Hijuelas",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3889019,
+        "name": "General Lagos Guindos",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3881046,
+        "name": "Máfil",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3872255,
+        "name": "San Felipe",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 7281017,
+        "name": "La Pintana",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3873145,
+        "name": "Río Bueno",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3890338,
+        "name": "El Tabo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3873958,
+        "name": "Quirihue",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3873116,
+        "name": "Río Negro",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3894774,
+        "name": "Chucumata",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3899358,
+        "name": "Provincia de Arica",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3950166,
+        "name": "Puerto Chacabuco",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3895018,
+        "name": "Chincolco",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3894483,
+        "name": "Cochrane",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3873372,
+        "name": "Retiro",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3900190,
+        "name": "Alerce",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3872139,
+        "name": "San Joaquín",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3883281,
+        "name": "Región del Libertador General Bernardo O’Higgins",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3875023,
+        "name": "Puente Alto",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3882854,
+        "name": "Llolleo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3871276,
+        "name": "San Vicente de Tagua Tagua",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3891536,
+        "name": "Crucero",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3872154,
+        "name": "San Javier",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3887136,
+        "name": "Ipinco",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3877793,
+        "name": "Padre Las Casas",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3873464,
+        "name": "Reñaca",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3900700,
+        "name": "Achao",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3889332,
+        "name": "Francke",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3897347,
+        "name": "Calama",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 7648389,
+        "name": "Barrio Brazil",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3887059,
+        "name": "Islón",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3881276,
+        "name": "Lota",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3879681,
+        "name": "Misquihué",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3895823,
+        "name": "Cerro Viejo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3871336,
+        "name": "Santiago",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3884373,
+        "name": "La Serena",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3868044,
+        "name": "Vitacura",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3870243,
+        "name": "Taltal",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3873441,
+        "name": "Rengo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3880302,
+        "name": "Maullín",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3892760,
+        "name": "Dalcahue",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3872594,
+        "name": "Salamanca",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 7874740,
+        "name": "Villa Presidente Frei, Ñuñoa, Santiago, Chile",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3887344,
+        "name": "Illapel",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3890441,
+        "name": "El Salto",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3882722,
+        "name": "Lo Contador",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3877770,
+        "name": "Paiguano",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3888749,
+        "name": "Graneros",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3875684,
+        "name": "Placilla de Peñuelas",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3874982,
+        "name": "Puerto Cisnes",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 6693563,
+        "name": "Región de los Ríos",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3880992,
+        "name": "Maipo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3874930,
+        "name": "Puerto Varas",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3886292,
+        "name": "La Chacrita",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3869644,
+        "name": "Tongoicillo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3894871,
+        "name": "Chonchi",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3868168,
+        "name": "Villa Paulina",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3881433,
+        "name": "Los Ranchillos",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3876416,
+        "name": "Petorca",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3893532,
+        "name": "Coronel",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3891940,
+        "name": "El Arrayán",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3899629,
+        "name": "Angol",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3895113,
+        "name": "Chile Chico",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3868626,
+        "name": "Valparaíso",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3882460,
+        "name": "Los Álamos",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3895088,
+        "name": "Chillán",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3877739,
+        "name": "Paine",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3884806,
+        "name": "La Reina",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3886243,
+        "name": "La Cisterna",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3872206,
+        "name": "San Francisco de Limache",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3874787,
+        "name": "Punta Arenas",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3874552,
+        "name": "Putre",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 7729816,
+        "name": "Barrio Bellavista",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3882428,
+        "name": "Los Ángeles",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3883167,
+        "name": "Linares",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3876272,
+        "name": "Pichidegua",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3893894,
+        "name": "Concepción",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3874997,
+        "name": "Puerto Aysén",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3867625,
+        "name": "Yumbel",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3876664,
+        "name": "Penco",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3874579,
+        "name": "Purranque",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3885704,
+        "name": "La Herradura",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3886406,
+        "name": "La Calera",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3887555,
+        "name": "Huilco",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3882957,
+        "name": "Llanquihue",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3879436,
+        "name": "Montemar",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3886043,
+        "name": "La Ermita",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3881895,
+        "name": "Los Loros",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3899611,
+        "name": "Angostura",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3874005,
+        "name": "Quinquimo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3882589,
+        "name": "Lo Miranda",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3875746,
+        "name": "Pitrufquén",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3895114,
+        "name": "Republic of Chile",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3893623,
+        "name": "Región de Coquimbo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3878575,
+        "name": "Nogales",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3896161,
+        "name": "Catemu",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3885273,
+        "name": "Lampa",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3899191,
+        "name": "Región de Atacama",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3885974,
+        "name": "La Estrella",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3881974,
+        "name": "Región de los Lagos",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3868121,
+        "name": "Viña del Mar",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3877146,
+        "name": "Parral",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3877348,
+        "name": "Panguipulli",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3877251,
+        "name": "Papudo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3868623,
+        "name": "Provincia de Valparaíso",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 4030754,
+        "name": "Hanga Roa",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3868308,
+        "name": "Vicuña",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3872348,
+        "name": "San Bernardo",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3882519,
+        "name": "Lo Ovalle",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3895642,
+        "name": "Chaitén",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3880108,
+        "name": "Melipeuco",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3894406,
+        "name": "Coihueco",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3879750,
+        "name": "Mirador",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 8030642,
+        "name": "Puerto Bories",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3875080,
+        "name": "Puchuncaví",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3882585,
+        "name": "Lo Moscoso",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3878075,
+        "name": "Olmué",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3883457,
+        "name": "Lebu",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3874612,
+        "name": "Purén",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3875124,
+        "name": "Púa",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3870011,
+        "name": "Temuco",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3889263,
+        "name": "Frutillar",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3880306,
+        "name": "Región del Maule",
+        "state": "",
+        "country": "CL"
+    },
+    {
+        "id": 3878253,
+        "name": "Oficina María Elena",
+        "state": "",
+        "country": "CL"
+    }
+]

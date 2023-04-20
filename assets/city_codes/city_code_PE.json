@@ -1,0 +1,2354 @@
+[
+    {
+        "id": 3928245,
+        "name": "Santiago de Surco",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3936719,
+        "name": "Las Palmas",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3695000,
+        "name": "Máncora",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3693525,
+        "name": "Piura",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3945808,
+        "name": "Candarave",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3696509,
+        "name": "Huamachuco",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3695320,
+        "name": "Llata",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3695781,
+        "name": "La Libertad",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3934385,
+        "name": "Urbanización Parque del Naranjal",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3691175,
+        "name": "Trujillo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3692863,
+        "name": "Rioja",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3938310,
+        "name": "Infantas",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3695829,
+        "name": "La Huaca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3934233,
+        "name": "Ñuñoa",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3943186,
+        "name": "Chupaca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3944179,
+        "name": "Chaupimarca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3938819,
+        "name": "Huayucachi",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3926776,
+        "name": "Tungasuca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3691638,
+        "name": "Tabalosos",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3698350,
+        "name": "Chiclayo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3695844,
+        "name": "Lagunas",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3698414,
+        "name": "Chazuta",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3944797,
+        "name": "Cerro de Pasco",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3928231,
+        "name": "Surquillo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3692464,
+        "name": "Sisa",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3939168,
+        "name": "Huarmey",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3946818,
+        "name": "Barranco",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3696183,
+        "name": "Iquitos",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3928365,
+        "name": "Subtanjalla",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3696096,
+        "name": "Jepelacio",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3939467,
+        "name": "Huancavelica",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3930376,
+        "name": "Rímac",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3733380,
+        "name": "Campoverde",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3929213,
+        "name": "Santa Eulalia",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3699699,
+        "name": "Amazonas",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3699484,
+        "name": "Bagua Grande",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3696057,
+        "name": "Juanjuí",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3691174,
+        "name": "Provincia de Trujillo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3929279,
+        "name": "Santa Anita",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3691146,
+        "name": "Tumbes",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 6559781,
+        "name": "El Carmen",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3933132,
+        "name": "Pancha Paula",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3944138,
+        "name": "Checacupe",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3698390,
+        "name": "Chepén",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3928317,
+        "name": "Sullaca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3926433,
+        "name": "Urubambilla",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3929805,
+        "name": "San Bartolo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3699674,
+        "name": "Ancash",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3691712,
+        "name": "Soritor",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3941492,
+        "name": "Desaguadero",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3929389,
+        "name": "San Miguel de Cauri",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3694720,
+        "name": "Mochumí",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3930743,
+        "name": "Quinta Wisse",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3942548,
+        "name": "Concepción",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3690608,
+        "name": "Zorritos",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3954291,
+        "name": "Huayna Alcalde",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3929438,
+        "name": "San Luis",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3952867,
+        "name": "Cullcuyre",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3951550,
+        "name": "Ccolo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3694569,
+        "name": "Motupe",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3936541,
+        "name": "Layo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3927758,
+        "name": "Tarma",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3944134,
+        "name": "Checca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3696416,
+        "name": "Región de Huánuco",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3698540,
+        "name": "Chachapoyas",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3947319,
+        "name": "Arequipa",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3943957,
+        "name": "Chilca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3818398,
+        "name": "Zarumilla",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3690733,
+        "name": "Yauya",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3694586,
+        "name": "Mórrope",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3699456,
+        "name": "Bambamarca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3941583,
+        "name": "Cusco",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3692029,
+        "name": "Saposoa",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3693646,
+        "name": "Picota",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3937733,
+        "name": "Jauja",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3928867,
+        "name": "Sayán",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 6254739,
+        "name": "Los Ángeles",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3933218,
+        "name": "Pampamarca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3694178,
+        "name": "Pacasmayo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3692116,
+        "name": "Santa Rosa",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 6383146,
+        "name": "Asentamiento Humano Pedro Alva Castro",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3939459,
+        "name": "Huancayo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3693345,
+        "name": "Pucallpa",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3691954,
+        "name": "Sechura",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3929335,
+        "name": "San Pedro de Cajas",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 6674742,
+        "name": "Atucpuquio",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3942259,
+        "name": "Coracora",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3696372,
+        "name": "Huari",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3927995,
+        "name": "Tambo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3818373,
+        "name": "Primavera",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3930348,
+        "name": "Río Grande",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3951691,
+        "name": "Huarichancara",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3932166,
+        "name": "Pisac",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3695539,
+        "name": "Las Monteros",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3943423,
+        "name": "Chosica",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3928679,
+        "name": "Sicuani",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3935288,
+        "name": "Minas de Marcona",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3937513,
+        "name": "Juliaca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3947018,
+        "name": "Ayacucho",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3938324,
+        "name": "Independencia",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3695675,
+        "name": "La Peca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3948642,
+        "name": "Abancay",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3927548,
+        "name": "Tierra Amarilla",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3695370,
+        "name": "Limón",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3695617,
+        "name": "Laredo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3699831,
+        "name": "Aguaytía",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3692529,
+        "name": "San Ignacio",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3699832,
+        "name": "Aguas Verdes",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 6664186,
+        "name": "Ereza",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3935969,
+        "name": "Los Aquijes",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3952372,
+        "name": "Chuquitira",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3929188,
+        "name": "Santa Lucía",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3943699,
+        "name": "Chipispaya",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3697838,
+        "name": "Contamana",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3934607,
+        "name": "Departamento de Moquegua",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3953762,
+        "name": "Qquea",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3925809,
+        "name": "Yanahuanca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3697083,
+        "name": "Eten",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3691324,
+        "name": "Tocache",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3927023,
+        "name": "Totoral",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3934239,
+        "name": "Nuevo Imperial",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3696150,
+        "name": "Jaén",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3696417,
+        "name": "Huánuco",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3698141,
+        "name": "Chota",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3939023,
+        "name": "Huaura",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3930842,
+        "name": "Quilipe",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3933874,
+        "name": "Oxapampa",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3691474,
+        "name": "Tarapoto",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3936996,
+        "name": "Lampa",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3946177,
+        "name": "Calca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3934055,
+        "name": "Ollantaytambo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3933956,
+        "name": "Oropesa",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3938415,
+        "name": "Ilo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3951767,
+        "name": "Jayune",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 6659400,
+        "name": "San Jorge",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3698359,
+        "name": "Chicama",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3929403,
+        "name": "San Miguel",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3692994,
+        "name": "Quiruvilca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 7544153,
+        "name": "Juanjuiycillo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3953594,
+        "name": "Ccuntuma",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3933981,
+        "name": "Orcotuna",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 6380215,
+        "name": "Aura",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3698176,
+        "name": "Chongoyape",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3693584,
+        "name": "Pimentel",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3939761,
+        "name": "Hualmay",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3699350,
+        "name": "Bernal",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3932145,
+        "name": "Pisco",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3927942,
+        "name": "Tambopata",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3945466,
+        "name": "Carhuamayo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3931427,
+        "name": "Pujocucho",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3691530,
+        "name": "Tambo Grande",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3935379,
+        "name": "Maranganí",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3928043,
+        "name": "Talavera",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3930769,
+        "name": "Quince Mil",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3699544,
+        "name": "Ascope",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3698105,
+        "name": "Chulucanas",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3692073,
+        "name": "Santiago de Cao",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3947110,
+        "name": "Atuncolla",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3934290,
+        "name": "Asentamiento Humano Nicolas de Pierola",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3927158,
+        "name": "Torata",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3693191,
+        "name": "Puerto Santa",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3933345,
+        "name": "Palpa",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3939285,
+        "name": "Huaral",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3931255,
+        "name": "Punta de Bombón",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3943789,
+        "name": "Chincha Alta",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3952849,
+        "name": "Callanca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3932589,
+        "name": "Pedregal",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3934707,
+        "name": "Mollendo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3692729,
+        "name": "Salinera Colán",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3698814,
+        "name": "Carhuaz",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3690935,
+        "name": "Vice",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3945612,
+        "name": "Carabayllo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3929314,
+        "name": "San Ramón",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3942957,
+        "name": "Cocachacra",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3931470,
+        "name": "Puerto Maldonado",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3935720,
+        "name": "Lurín",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3946656,
+        "name": "Bocanegra",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3930817,
+        "name": "Quilmaná",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3935624,
+        "name": "Macusani",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3925863,
+        "name": "Yanacancha",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3953301,
+        "name": "Cahuanuyo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3691094,
+        "name": "Uchiza",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3953711,
+        "name": "Jayobamba",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3697193,
+        "name": "El Socorro",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3827832,
+        "name": "Rumo Cocha",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3930835,
+        "name": "Quillabamba",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3927803,
+        "name": "Taquile",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3698705,
+        "name": "Cascas",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3694183,
+        "name": "Pacanga",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3932282,
+        "name": "Pilcomay",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3690875,
+        "name": "Virú",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3946937,
+        "name": "Azángaro",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 6254790,
+        "name": "El Cortijo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3953343,
+        "name": "Ccaquiracunca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3692020,
+        "name": "Saquena",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3926462,
+        "name": "Urcos",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 6667456,
+        "name": "San Martín",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3946080,
+        "name": "Callao",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3947437,
+        "name": "Aplao",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3936952,
+        "name": "La Oroya",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3698608,
+        "name": "Celendín",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3951757,
+        "name": "Llongasora",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3694212,
+        "name": "Otuzco",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3699427,
+        "name": "Barranca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3694725,
+        "name": "Moche",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3929375,
+        "name": "San Pablo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3695731,
+        "name": "La Mona",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3947740,
+        "name": "Andahuaylas",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3695117,
+        "name": "Lurifico",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 6380342,
+        "name": "Quebrada",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3925476,
+        "name": "Yunguyo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3927441,
+        "name": "Tinta",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3699078,
+        "name": "Cajaruro",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3953687,
+        "name": "Lima Pampa",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3928691,
+        "name": "Sicaya",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3946147,
+        "name": "Caleta de Carquín",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3933733,
+        "name": "Pachacamac",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 6672528,
+        "name": "Sangapilla",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3692255,
+        "name": "Santa Barbara",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3938531,
+        "name": "Iberia",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3926282,
+        "name": "Ventanilla",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3940002,
+        "name": "Huacho",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3929792,
+        "name": "San Borja",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3698658,
+        "name": "Catacaos",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3946962,
+        "name": "Ayna",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3698194,
+        "name": "Chocope",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 6670303,
+        "name": "Mitopampa",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3932687,
+        "name": "Pativilca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3928274,
+        "name": "Supe",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3692727,
+        "name": "Salitral",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3696448,
+        "name": "Huanchaco",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3947421,
+        "name": "Apurimac",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3699095,
+        "name": "Cajabamba",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3932502,
+        "name": "Perené",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3948689,
+        "name": "Mosoc Llacta",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3699364,
+        "name": "Bellavista",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3926120,
+        "name": "Villa Rica",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3929172,
+        "name": "Santa María",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3954288,
+        "name": "Mosoc Cancha",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3692953,
+        "name": "Ramón Castilla",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3814639,
+        "name": "Papayal",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3695552,
+        "name": "Las Lomas",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3929631,
+        "name": "San Isidro",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3690654,
+        "name": "Yurimaguas",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3692482,
+        "name": "San José",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3933024,
+        "name": "Paramonga",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 6254818,
+        "name": "Cerro Trinchera",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3930975,
+        "name": "Quepacc",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3931453,
+        "name": "Puerto Supe",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3928547,
+        "name": "Socabaya",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3929520,
+        "name": "San Juan de Marcona",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3947956,
+        "name": "Ambo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3697990,
+        "name": "Coishco",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3694939,
+        "name": "Marcavelica",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3690673,
+        "name": "Yungay",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3951506,
+        "name": "Huarancante",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3928924,
+        "name": "Satipo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3925749,
+        "name": "Yanaoca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3933058,
+        "name": "Paracas",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3691161,
+        "name": "Túcume",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3928993,
+        "name": "San Vicente de Cañete",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3695238,
+        "name": "Loreto",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3945985,
+        "name": "Camaná",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3699502,
+        "name": "Ayabaca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3946985,
+        "name": "Ayaviri",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3931251,
+        "name": "Punta Hermosa",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3692310,
+        "name": "San Pedro de Lloc",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3948448,
+        "name": "Acolla",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3693461,
+        "name": "Pomalca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3944399,
+        "name": "Chancay",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3926328,
+        "name": "Végueta",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3964722,
+        "name": "La Palmilla",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3953385,
+        "name": "Chignayhua",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 6308319,
+        "name": "Chuñuna Pampa",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3953732,
+        "name": "Queromarca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3698671,
+        "name": "Castilla",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3692747,
+        "name": "Salaverry",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3694564,
+        "name": "Moyobamba",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3695753,
+        "name": "Lambayeque",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3694112,
+        "name": "Paita",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3697033,
+        "name": "Ferreñafe",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 6400502,
+        "name": "Ciudad de Dios",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3699087,
+        "name": "Cajamarca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3694603,
+        "name": "Morales",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3934608,
+        "name": "Moquegua",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3931223,
+        "name": "Puquio",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3691348,
+        "name": "Tingo María",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3932488,
+        "name": "Republic of Peru",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3925989,
+        "name": "Urbanización Vista Alegre",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3928127,
+        "name": "Tacna",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3936088,
+        "name": "Lluta",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3691099,
+        "name": "Ucayali",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3693468,
+        "name": "Pomabamba",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3929493,
+        "name": "San Juan Bautista",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3937765,
+        "name": "Jatun Orcochiri",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3694582,
+        "name": "Morropón",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3927420,
+        "name": "Tinyahuarco",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3936452,
+        "name": "Lima",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3939531,
+        "name": "Hacienda Huancane",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3927774,
+        "name": "Tarata",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3938396,
+        "name": "Imperial",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3953918,
+        "name": "Conchopata",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3695757,
+        "name": "Lamas",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3929051,
+        "name": "Santiago",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3947338,
+        "name": "Arenal",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3938526,
+        "name": "Ica",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3696267,
+        "name": "Huicungo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3939386,
+        "name": "Huanta",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3925467,
+        "name": "Yura",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3699223,
+        "name": "Buenos Aires",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3930871,
+        "name": "Quilahuani",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3934586,
+        "name": "Morococha",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3698304,
+        "name": "Chimbote",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3695465,
+        "name": "La Unión",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3691150,
+        "name": "Tumán",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3936963,
+        "name": "Langui",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3938451,
+        "name": "Ilave",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3931137,
+        "name": "Putina",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 7626291,
+        "name": "La Rinconada",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3747803,
+        "name": "Villa Aeronáutica",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3696466,
+        "name": "Huancabamba",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3937485,
+        "name": "Junín",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3941417,
+        "name": "El Agustino",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3694256,
+        "name": "Olmos",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3935572,
+        "name": "Mala",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3929768,
+        "name": "San Clemente",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3933659,
+        "name": "Pacocha",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 6267363,
+        "name": "Puerto Motilones",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3692385,
+        "name": "Región de San Martín",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3696378,
+        "name": "Huaraz",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3933185,
+        "name": "Pampas",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 6303009,
+        "name": "Bajo Timarini",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3936428,
+        "name": "Lince",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3933105,
+        "name": "Hacienda Pangaravi",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3929528,
+        "name": "Hacienda San Juan",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3942527,
+        "name": "Concordia",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3692900,
+        "name": "Reque",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3694197,
+        "name": "Oyotún",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3939123,
+        "name": "Huasahuasi",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3926438,
+        "name": "Urubamba",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3693645,
+        "name": "Picsi",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3936438,
+        "name": "Limatambo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3733378,
+        "name": "San Martín de Porres",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3814568,
+        "name": "La Breita",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3948917,
+        "name": "Santo Tomas",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3934356,
+        "name": "Nazca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3933104,
+        "name": "Pangoa",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3931275,
+        "name": "Puno",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3694119,
+        "name": "Paiján",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3935155,
+        "name": "Matucana",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3949222,
+        "name": "Los Blancos",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3933986,
+        "name": "Orcopampa",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3932834,
+        "name": "Pasco",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3929888,
+        "name": "San Agustin",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3933867,
+        "name": "Oyón",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3698743,
+        "name": "Cartavio",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3693057,
+        "name": "Querecotillo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3925955,
+        "name": "Vizcachane",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3944223,
+        "name": "Chaucancha",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3697441,
+        "name": "El Alto",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3698841,
+        "name": "Carás",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3931656,
+        "name": "Pucara",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3691674,
+        "name": "Sullana",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3926119,
+        "name": "Villa Tupac Amaru",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3946931,
+        "name": "Aznapuquio",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3935608,
+        "name": "Magdalena del Mar",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3936947,
+        "name": "La Palma",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3935619,
+        "name": "Madre de Dios",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3696104,
+        "name": "Jayanca",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3691582,
+        "name": "Talara",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3930382,
+        "name": "Ricardo Palma",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3944665,
+        "name": "Chaclacayo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3935382,
+        "name": "Maranga",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3942593,
+        "name": "Combapata",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3692667,
+        "name": "Saña",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 6380123,
+        "name": "Shingal",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3694666,
+        "name": "Monsefú",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3947634,
+        "name": "Anta",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3935102,
+        "name": "Mazamari",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3938455,
+        "name": "Ilabaya",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3696847,
+        "name": "Guadalupe",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 6198999,
+        "name": "Urbanización José C. C. Maritegui",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3947254,
+        "name": "Asana",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3948613,
+        "name": "Acarí",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3693302,
+        "name": "Pueblo Nuevo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3943626,
+        "name": "Chivay",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3935206,
+        "name": "Matamula",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3929295,
+        "name": "Santa Ana",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3937516,
+        "name": "Juli",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3929607,
+        "name": "San Jerónimo",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 3692072,
+        "name": "Santiago de Chuco",
+        "state": "",
+        "country": "PE"
+    },
+    {
+        "id": 7535952,
+        "name": "San Pedro De Cachora",
+        "state": "",
+        "country": "PE"
+    }
+]

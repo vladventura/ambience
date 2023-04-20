@@ -1,0 +1,956 @@
+[
+    {
+        "id": 3621678,
+        "name": "San Rafael",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622196,
+        "name": "Quebrada Yeguas",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621617,
+        "name": "Santa Cecilia",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622036,
+        "name": "Roxana",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623183,
+        "name": "La Mona",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622648,
+        "name": "Pacayas",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622716,
+        "name": "Nicoya",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622561,
+        "name": "Paquera",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624066,
+        "name": "Corredor",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623755,
+        "name": "Esquipulas",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624379,
+        "name": "Carrillos",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622616,
+        "name": "Palmar",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622537,
+        "name": "Parrita",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621817,
+        "name": "San Juan",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623486,
+        "name": "Heredia",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622660,
+        "name": "Orotina",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622914,
+        "name": "Mata de Guineo",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624730,
+        "name": "Batán",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621520,
+        "name": "Santiago",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622466,
+        "name": "Pejibaye",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623500,
+        "name": "Hacienda Trancas",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622005,
+        "name": "Salitral",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622074,
+        "name": "Río Segundo",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622057,
+        "name": "Rodeo",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623715,
+        "name": "Fortuna",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623279,
+        "name": "La Caja",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621224,
+        "name": "Tres Ríos",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624174,
+        "name": "Colima",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622663,
+        "name": "Orosí",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621630,
+        "name": "Santa Ana",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622507,
+        "name": "Patarrá",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624142,
+        "name": "Concepción",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624171,
+        "name": "Colón",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624436,
+        "name": "Canoas",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622751,
+        "name": "Naranjo",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622895,
+        "name": "Matina",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621508,
+        "name": "Santo Tomás",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621607,
+        "name": "Santa Cruz",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621753,
+        "name": "San Miguel",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621889,
+        "name": "San Isidro",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621911,
+        "name": "San Francisco",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622035,
+        "name": "Sabalito",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622193,
+        "name": "Quepos",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621890,
+        "name": "San Ignacio",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623781,
+        "name": "Esparza",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622602,
+        "name": "Palmichal",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622228,
+        "name": "Puntarenas",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621729,
+        "name": "San Pablo",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622294,
+        "name": "Potrero",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624288,
+        "name": "Chacarita",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621200,
+        "name": "Tucurrique",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621762,
+        "name": "San Marcos",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623287,
+        "name": "La Asunción",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623008,
+        "name": "Los Chiles",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624702,
+        "name": "Bijagua",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622226,
+        "name": "Provincia de Puntarenas",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3620994,
+        "name": "Zarcero",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623977,
+        "name": "Curridabat",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 6612154,
+        "name": "San Vicente de Moravia",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623342,
+        "name": "Jiménez",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623716,
+        "name": "La Fortuna",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621501,
+        "name": "San Vito",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624024,
+        "name": "Cristo",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622382,
+        "name": "Pital",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623656,
+        "name": "Golfito",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624368,
+        "name": "Provincia de Cartago",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623258,
+        "name": "La Cruz",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623206,
+        "name": "Lajas",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622325,
+        "name": "Pocora",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624468,
+        "name": "Cañas",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624593,
+        "name": "Buenos Aires",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624951,
+        "name": "Alajuelita",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622547,
+        "name": "Paraíso",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622248,
+        "name": "Puerto Jiménez",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621054,
+        "name": "Vuelta del Virilla",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623369,
+        "name": "Jacó",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623787,
+        "name": "Escazú",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623811,
+        "name": "El Prado",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623064,
+        "name": "Provincia de Limón",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623318,
+        "name": "Juan Viñas",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624908,
+        "name": "Ángeles",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621505,
+        "name": "San Vicente",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624848,
+        "name": "Aserrí",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622497,
+        "name": "Pavas",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621841,
+        "name": "San José",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621837,
+        "name": "Provincia de San José",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624745,
+        "name": "Barrio Hispano",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624198,
+        "name": "Ciudad Cortés",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623961,
+        "name": "Daniel Flores",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624804,
+        "name": "Bajo La Legua",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621659,
+        "name": "San Rafael Abajo",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622015,
+        "name": "Sagrada Familia",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622022,
+        "name": "Sabanilla",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623484,
+        "name": "Provincia de Heredia",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623582,
+        "name": "Provincia de Guanacaste",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622765,
+        "name": "Nandayure",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624359,
+        "name": "Cascajal",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621430,
+        "name": "Sixaola",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621440,
+        "name": "Siquirres",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623081,
+        "name": "Lepanto",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624842,
+        "name": "Atenas",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621655,
+        "name": "San Rafael Arriba",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622854,
+        "name": "Miramar",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622881,
+        "name": "Mercedes",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624060,
+        "name": "Republic of Costa Rica",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621278,
+        "name": "Tilarán",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624718,
+        "name": "Belén",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621894,
+        "name": "San Gerardo",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621490,
+        "name": "Sardinal",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621194,
+        "name": "Tulín",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623112,
+        "name": "La Suiza",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621804,
+        "name": "San Juan de Dios",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621644,
+        "name": "San Ramón",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623076,
+        "name": "Liberia",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623877,
+        "name": "Dulce Nombre",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621922,
+        "name": "San Felipe",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622247,
+        "name": "Limón",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623846,
+        "name": "El Coco",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624953,
+        "name": "Provincia de Alajuela",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622190,
+        "name": "Quesada",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623426,
+        "name": "Huacas",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623032,
+        "name": "Llorente",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621498,
+        "name": "Sarapiquí",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621265,
+        "name": "Tobosi",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621768,
+        "name": "San Luis",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622606,
+        "name": "Palmar Sur",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621831,
+        "name": "San Josecito",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621362,
+        "name": "Hacienda Tamarindo",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623643,
+        "name": "Granadilla",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623810,
+        "name": "El Real",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624057,
+        "name": "Cot",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624370,
+        "name": "Cartago",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624955,
+        "name": "Alajuela",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624822,
+        "name": "Bagaces",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623307,
+        "name": "Juntas",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623593,
+        "name": "Guadalupe",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622205,
+        "name": "Quebrada Honda",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621335,
+        "name": "Tejar",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621990,
+        "name": "Sámara",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622217,
+        "name": "Purral",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623601,
+        "name": "Guácimo",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623935,
+        "name": "Desamparados",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622265,
+        "name": "Pueblo Nuevo",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621184,
+        "name": "Turrialba",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621997,
+        "name": "Salitrillos",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621926,
+        "name": "San Diego",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621375,
+        "name": "Tacares",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621515,
+        "name": "Santo Domingo",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621153,
+        "name": "Upala",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624509,
+        "name": "Calle Blancos",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623394,
+        "name": "Ipís",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623580,
+        "name": "Guápiles",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3623454,
+        "name": "Hojancha",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622323,
+        "name": "Pocosol",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621717,
+        "name": "San Pedro",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3622706,
+        "name": "Nosara",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621967,
+        "name": "San Antonio",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3624208,
+        "name": "Cinco Esquinas",
+        "state": "",
+        "country": "CR"
+    },
+    {
+        "id": 3621942,
+        "name": "San Carlos",
+        "state": "",
+        "country": "CR"
+    }
+]

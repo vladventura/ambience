@@ -1,0 +1,290 @@
+[
+    {
+        "id": 3374794,
+        "name": "Calheta",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374301,
+        "name": "Rabil",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374360,
+        "name": "Picos",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3411926,
+        "name": "Concelho de São Domingos",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374201,
+        "name": "São Pedro",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374221,
+        "name": "Santa Cruz",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374275,
+        "name": "Ribeira Grande",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374210,
+        "name": "São Filipe",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374332,
+        "name": "Concelho da Praia",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3411925,
+        "name": "Concelho de Santa Cruz",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3411927,
+        "name": "Concelho do São Filipe",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374314,
+        "name": "Preguiça",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 7602870,
+        "name": "Concelho de Santa Catarina do Fogo",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374336,
+        "name": "Porto Novo",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374226,
+        "name": "Concelho de Santa Catarina",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374766,
+        "name": "Republic of Cabo Verde",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 7602869,
+        "name": "Concelho da Ribeira Brava",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374235,
+        "name": "Sal Rei",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374333,
+        "name": "Praia",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 7602872,
+        "name": "Concelho do Tarrafal de São Nicolau",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374120,
+        "name": "Vila do Maio",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3411928,
+        "name": "Concelho de São Miguel",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374462,
+        "name": "Mindelo",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 7602871,
+        "name": "Concelho de São Salvador do Mundo",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374487,
+        "name": "Concelho do Maio",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3411924,
+        "name": "Concelho dos Mosteiros",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374161,
+        "name": "Concelho do Tarrafal",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374725,
+        "name": "Cidade Velha",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374165,
+        "name": "Tarrafal de São Nicolau",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374166,
+        "name": "Tarrafal",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374351,
+        "name": "Pombas",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374888,
+        "name": "Assomada",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374117,
+        "name": "Nova Sintra",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 7603281,
+        "name": "Concelho de Ribeira Grande de Santiago",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 7602868,
+        "name": "Concelho do Porto Novo",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374249,
+        "name": "Sal Municipality",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374391,
+        "name": "Concelho do Paul",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374274,
+        "name": "Concelho da Ribeira Grande",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374346,
+        "name": "Ponta do Sol",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 8030386,
+        "name": "Safende",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374855,
+        "name": "Concelho da Boa Vista",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374211,
+        "name": "São Domingos",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374707,
+        "name": "Cova Figueira",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374121,
+        "name": "Ribeira Brava",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374338,
+        "name": "Igreja",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374832,
+        "name": "Concelho da Brava",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374198,
+        "name": "Concelho de São Vicente",
+        "state": "",
+        "country": "CV"
+    },
+    {
+        "id": 3374218,
+        "name": "Santa Maria",
+        "state": "",
+        "country": "CV"
+    }
+]

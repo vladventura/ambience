@@ -1,0 +1,416 @@
+[
+    {
+        "id": 927834,
+        "name": "Liwonde",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 927246,
+        "name": "Mangochi",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 925496,
+        "name": "Mzimba District",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 924572,
+        "name": "Nsanje",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 925498,
+        "name": "Mzimba",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 928534,
+        "name": "Kasungu",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 924100,
+        "name": "Rumphi District",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 924705,
+        "name": "Nkhotakota",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 930580,
+        "name": "Chiradzulu",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 926308,
+        "name": "Monkey Bay",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 930629,
+        "name": "Chipoka",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 925074,
+        "name": "Mchesi",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 927245,
+        "name": "Mangochi District",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 926745,
+        "name": "Mchinji District",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 929083,
+        "name": "Kamlembo",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 924206,
+        "name": "Phalombe",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 926087,
+        "name": "Mponela",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 927964,
+        "name": "Lilongwe District",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 927967,
+        "name": "Lilongwe",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 929742,
+        "name": "Guma",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 931039,
+        "name": "Chileka",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 930582,
+        "name": "Chipyela",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 925788,
+        "name": "Mulanje District",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 924703,
+        "name": "Nkhotakota District",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 930813,
+        "name": "Chinemba",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 923652,
+        "name": "Thyolo",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 924491,
+        "name": "Ntchisi",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 925596,
+        "name": "Mwanza",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 1105840,
+        "name": "Balaka District",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 924591,
+        "name": "Northern Region",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 926747,
+        "name": "Mchinji",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 927384,
+        "name": "Republic of Malawi",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 7839184,
+        "name": "Makata",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 929977,
+        "name": "Dowa",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 924716,
+        "name": "Nkhongue",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 923295,
+        "name": "Zomba",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 925789,
+        "name": "Mulanje",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 928434,
+        "name": "Katoto",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 930283,
+        "name": "Thyolo District",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 924053,
+        "name": "Salima District",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 927643,
+        "name": "Machinga",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 929975,
+        "name": "Dowa District",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 924963,
+        "name": "Neno",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 924102,
+        "name": "Rumphi",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 925812,
+        "name": "Mgubani Chipeta",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 926523,
+        "name": "Mjudzi",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 931070,
+        "name": "Chikwawa",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 923292,
+        "name": "Zomba District",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 924567,
+        "name": "Nsanje District",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 928657,
+        "name": "Karonga District",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 923817,
+        "name": "Southern Region",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 7839145,
+        "name": "Songwe",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 931597,
+        "name": "Central Region",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 235715,
+        "name": "Karonga",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 927856,
+        "name": "Livingstonia",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 930025,
+        "name": "Dedza",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 931755,
+        "name": "Blantyre",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 931865,
+        "name": "Balaka",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 924055,
+        "name": "Salima",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 925475,
+        "name": "Mzuzu",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 235751,
+        "name": "Chitipa",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 924732,
+        "name": "Nkhata Bay",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 930023,
+        "name": "Dedza District",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 924682,
+        "name": "Nkokola",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 926623,
+        "name": "Mikute",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 928531,
+        "name": "Kasungu District",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 931754,
+        "name": "Blantyre District",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 924492,
+        "name": "Ntcheu",
+        "state": "",
+        "country": "MW"
+    },
+    {
+        "id": 927792,
+        "name": "Luchenza",
+        "state": "",
+        "country": "MW"
+    }
+]

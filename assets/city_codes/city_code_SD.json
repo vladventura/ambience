@@ -1,0 +1,632 @@
+[
+    {
+        "id": 379303,
+        "name": "Geneina",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 408669,
+        "name": "Sennar",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 364071,
+        "name": "Wad Rāwah",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 379080,
+        "name": "Al Masallamiyya",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 373463,
+        "name": "Jabal Mayyah",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 379630,
+        "name": "El Bauga",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 372753,
+        "name": "Kassala",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 379416,
+        "name": "Al Ḩawātah",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 443909,
+        "name": "Salūm",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 371745,
+        "name": "Kutum",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 379251,
+        "name": "Khartoum North",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 370510,
+        "name": "Marabba",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 378543,
+        "name": "Argo",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 379272,
+        "name": "Al Kawa",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 380173,
+        "name": "Ed Damer",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 365286,
+        "name": "Um Bārid",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 367644,
+        "name": "Sinnar",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 408646,
+        "name": "Red Sea",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 379302,
+        "name": "El Geneina Fort",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 371760,
+        "name": "Kosti",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 369004,
+        "name": "Nyala",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 377690,
+        "name": "Berber",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 371101,
+        "name": "Ludu",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 377724,
+        "name": "Bārah",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 367308,
+        "name": "Shendi",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 366323,
+        "name": "Tokār",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 380151,
+        "name": "Ad Dindar",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 443868,
+        "name": "El Ghadoora",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 408658,
+        "name": "West Darfur",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 379149,
+        "name": "Al Manāqil",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 379535,
+        "name": "Al Fūlah",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 363533,
+        "name": "Zalingei",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 366426,
+        "name": "Tandaltī",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 380308,
+        "name": "Abyei",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 379003,
+        "name": "El Obeid",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 378271,
+        "name": "As Sūkī",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 408654,
+        "name": "Blue Nile",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 408653,
+        "name": "White Nile",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 364132,
+        "name": "Wadi Halfa",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 366487,
+        "name": "Talodi",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 379555,
+        "name": "El Fasher",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 379252,
+        "name": "Khartoum",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 363417,
+        "name": "Dongola",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 408663,
+        "name": "Kassala State",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 378020,
+        "name": "‘Azāzah",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 364706,
+        "name": "Umm Ruwaba",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 366847,
+        "name": "Singa",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 380129,
+        "name": "Ad Douiem",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 367544,
+        "name": "Sawākin",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 366755,
+        "name": "Republic of the Sudan",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 364103,
+        "name": "Wad Medani",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 377039,
+        "name": "Port Sudan",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 364933,
+        "name": "Umm Kaddadah",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 408649,
+        "name": "Al Qadarif State",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 378699,
+        "name": "An Nuhūd",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 379014,
+        "name": "Al Qiţena",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 372386,
+        "name": "Kināna",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 378361,
+        "name": "Ash Shiqlah",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 376332,
+        "name": "Doka",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 370366,
+        "name": "Massa",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 379406,
+        "name": "Al Hilāliyya",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 7024903,
+        "name": "Tagūg",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 371827,
+        "name": "Kurmuk",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 368277,
+        "name": "Rabak",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 370838,
+        "name": "Maiurno",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 372801,
+        "name": "Karmah an Nuzul",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 378459,
+        "name": "Ar Ruseris",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 379062,
+        "name": "Al Qadarif",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 376450,
+        "name": "Dilling",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 408666,
+        "name": "North Darfur",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 379102,
+        "name": "Al Mijlad",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 378493,
+        "name": "Ar Rahad",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 365137,
+        "name": "Omdurman",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 378231,
+        "name": "Atbara",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 370481,
+        "name": "Merowe",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 6992531,
+        "name": "Nasir",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 375046,
+        "name": "Gebeit",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 378389,
+        "name": "Northern",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 380174,
+        "name": "Ad-Damazin",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 379261,
+        "name": "Al Kiremit al ‘Arakiyyīn",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 408660,
+        "name": "South Darfur",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 7754689,
+        "name": "Godosgo",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 408648,
+        "name": "Al Jazirah State",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 375192,
+        "name": "Jalqani",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 7033552,
+        "name": "Baqīs",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 379427,
+        "name": "Al Hasaheisa",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 380186,
+        "name": "Ad Dabbah",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 364949,
+        "name": "Um Jar Al Gharbiyya",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 367935,
+        "name": "Rumaylah",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 375831,
+        "name": "El ‘Urdi",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 380757,
+        "name": "Abu Jibeha",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 408667,
+        "name": "North Kordofan",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 365618,
+        "name": "Tumko",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 371870,
+        "name": "Kuraymah",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 373141,
+        "name": "Kadugli",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 378502,
+        "name": "Aroma",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 379198,
+        "name": "Al Lagowa",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 6969341,
+        "name": "Siyāmtīt Tisimīt",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 408661,
+        "name": "South Kordofan",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 379234,
+        "name": "Al Kodab",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 380348,
+        "name": "Abū Zabad",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 379127,
+        "name": "El Matama",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 364027,
+        "name": "Wagar",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 408664,
+        "name": "River Nile",
+        "state": "",
+        "country": "SD"
+    },
+    {
+        "id": 364216,
+        "name": "Wad az Zāki",
+        "state": "",
+        "country": "SD"
+    }
+]

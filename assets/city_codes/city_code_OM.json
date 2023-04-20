@@ -1,0 +1,326 @@
+[
+    {
+        "id": 288602,
+        "name": "Camp",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 7630442,
+        "name": "Şalālah al Jadīdah",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 286621,
+        "name": "Şalālah",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 411736,
+        "name": "Al Batinah South Governorate",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 286282,
+        "name": "Sohar",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 286245,
+        "name": "Sur",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 286402,
+        "name": "Shināş",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 411738,
+        "name": "Ash Sharqiyah South",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 288967,
+        "name": "Seeb",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 286239,
+        "name": "Sūr Yāl Bū Rashīd",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 288239,
+        "name": "Ghubrat Tanūf",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 289199,
+        "name": "Al Khābūrah",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 288764,
+        "name": "Bawshar",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 287218,
+        "name": "Mirbāţ",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 7110710,
+        "name": "Muḩāfaz̧at al Buraymī",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 286647,
+        "name": "Şaḩam",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 411739,
+        "name": "Az̧ Z̧āhirah",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 289317,
+        "name": "Al Buraymī",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 287286,
+        "name": "Muscat",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 411740,
+        "name": "Muḩāfaz̧at Masqaţ",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 411742,
+        "name": "Muḩāfaz̧at Z̧ufār",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 411735,
+        "name": "Muḩāfaz̧at ad Dākhilīyah",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 288721,
+        "name": "Bidbid",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 287830,
+        "name": "‘Ibrī",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 287832,
+        "name": "Ibrā’",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 286281,
+        "name": "As Suhaylah ash Sharqīyah",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 287939,
+        "name": "Haymā’",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 288712,
+        "name": "Bilād Şūr",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 411849,
+        "name": "Yanqul",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 288955,
+        "name": "As Suwayq",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 288899,
+        "name": "Bahlā’",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 289142,
+        "name": "Al Qābil",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 289433,
+        "name": "Adam",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 288979,
+        "name": "Şa‘rā’ al Qadīmah",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 411737,
+        "name": "Muḩāfaz̧at al Wusţá",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 412084,
+        "name": "Bayt al ‘Awābī",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 288902,
+        "name": "Badīyah",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 286293,
+        "name": "Sufālat Samā’il",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 289415,
+        "name": "Al Aflāj",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 289174,
+        "name": "Liwá",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 289212,
+        "name": "Jibal",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 287814,
+        "name": "Izkī",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 288131,
+        "name": "Ḩallūf",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 411720,
+        "name": "Mahārij",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 411741,
+        "name": "Musandam",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 286140,
+        "name": "Thamarīt",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 286963,
+        "name": "Sultanate of Oman",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 287241,
+        "name": "Mazra‘ Khuşayyin",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 288507,
+        "name": "Dib Dibba",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 288789,
+        "name": "Barkā’",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 388692,
+        "name": "‘Ashub",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 287614,
+        "name": "Khasab",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 286987,
+        "name": "Nizwá",
+        "state": "",
+        "country": "OM"
+    },
+    {
+        "id": 289011,
+        "name": "Rustaq",
+        "state": "",
+        "country": "OM"
+    }
+]

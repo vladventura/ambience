@@ -1,0 +1,4178 @@
+[
+    {
+        "id": 7626367,
+        "name": "Stordal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3133472,
+        "name": "Tysnes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3144656,
+        "name": "Nesodden",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3145649,
+        "name": "Moen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 778362,
+        "name": "Øksfjord",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3159481,
+        "name": "Dala",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3145716,
+        "name": "Mo",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626364,
+        "name": "Askvoll",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3141292,
+        "name": "Rosendal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3143368,
+        "name": "Ørnes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3133681,
+        "name": "Tvedestrand",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3158558,
+        "name": "Eikelandsosen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3144466,
+        "name": "Nord-Aurdal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3160744,
+        "name": "Bømlo",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3145573,
+        "name": "Moldjord",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3154394,
+        "name": "Hadsel",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3135132,
+        "name": "Svelgen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3132174,
+        "name": "Gloppen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3145580,
+        "name": "Molde",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3133880,
+        "name": "Trondheim",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626390,
+        "name": "Leka",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3143250,
+        "name": "Oskarsborg",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626346,
+        "name": "Andebu",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3145357,
+        "name": "Mosterhamn",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162771,
+        "name": "Åsberg",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626387,
+        "name": "Nordli",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3141217,
+        "name": "Røssvoll",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 779082,
+        "name": "Lakselv",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3158300,
+        "name": "Elverum",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3152868,
+        "name": "Herøya",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3149312,
+        "name": "Kristiansund",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3156091,
+        "name": "Garder",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162639,
+        "name": "Askøy",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3163155,
+        "name": "Åndalsnes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3132051,
+        "name": "Vestbygd",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3158792,
+        "name": "Egersund",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3230781,
+        "name": "Hella",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 779540,
+        "name": "Høybukt",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 778430,
+        "name": "Nordreisa",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3135813,
+        "name": "Stranda",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3144301,
+        "name": "Nordland Fylke",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3153801,
+        "name": "Hasle",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 777347,
+        "name": "Straumen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3131329,
+        "name": "Voss",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3140452,
+        "name": "Sand",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 779554,
+        "name": "Honningsvåg",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3137941,
+        "name": "Sola",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3149318,
+        "name": "Kristiansand",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626407,
+        "name": "Tana bru",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3139676,
+        "name": "Siljan",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3134011,
+        "name": "Treungen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3153623,
+        "name": "Haugesund",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3154802,
+        "name": "Grorud",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626345,
+        "name": "Revetal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3157889,
+        "name": "Fagerstrand",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626360,
+        "name": "Skogsvågen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3156521,
+        "name": "Frekhaug",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3132735,
+        "name": "Vangsvika",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 6946003,
+        "name": "Kroken",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626375,
+        "name": "Rissa",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3147541,
+        "name": "Lier",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3143427,
+        "name": "Ørje",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3134658,
+        "name": "Terråk",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626337,
+        "name": "Vang",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3205608,
+        "name": "Vormedal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162657,
+        "name": "Asker",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 777682,
+        "name": "Skjervøy",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3147720,
+        "name": "Lervik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3132285,
+        "name": "Veka",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3135516,
+        "name": "Suldalsosen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3146897,
+        "name": "Løten",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 779350,
+        "name": "Kárášjohka",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162682,
+        "name": "Åsgårdstrand",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3131189,
+        "name": "Skålevik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3155536,
+        "name": "Gladstad",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3142657,
+        "name": "Porsgrunn",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3143034,
+        "name": "Farnes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3138591,
+        "name": "Skoro",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3133027,
+        "name": "Våge",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626333,
+        "name": "Lom",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3135601,
+        "name": "Stryn",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3141548,
+        "name": "Rognan",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3149412,
+        "name": "Kragerø",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626349,
+        "name": "Sauland",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 824563,
+        "name": "Nordmannset",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3152562,
+        "name": "Hjelmeland",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3133402,
+        "name": "Ulefoss",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3159143,
+        "name": "Dokka",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3138701,
+        "name": "Skogn",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3147474,
+        "name": "Lillehammer",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626376,
+        "name": "Roan",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3156804,
+        "name": "Førde",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626372,
+        "name": "Bruhagen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626339,
+        "name": "Trøim",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3160082,
+        "name": "Svortland",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3150639,
+        "name": "Kabelvåg",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3163480,
+        "name": "Akershus fylke",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3140390,
+        "name": "Sandefjord",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3142371,
+        "name": "Ranemsletta",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3161059,
+        "name": "Blakstad",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3142502,
+        "name": "Ramberg",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3146160,
+        "name": "Melbu",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626373,
+        "name": "Surnadal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3138955,
+        "name": "Skjeberg",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3143628,
+        "name": "Ølen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626396,
+        "name": "Husøya",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3159433,
+        "name": "Dale",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3229577,
+        "name": "Årøysund",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3137169,
+        "name": "Stange",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3145023,
+        "name": "Namsos",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3144075,
+        "name": "Notodden",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3155644,
+        "name": "Gjesdal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3149492,
+        "name": "Korgen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 6693002,
+        "name": "Sjølyststranda",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3149720,
+        "name": "Knarvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3148354,
+        "name": "Langesund",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3142060,
+        "name": "Reinsvoll",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 6453352,
+        "name": "Vaksdal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3134827,
+        "name": "Tangvall",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3227582,
+        "name": "Hommersåk",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3135124,
+        "name": "Svelvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3142623,
+        "name": "Prestfoss",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 6453365,
+        "name": "Vinje",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3158795,
+        "name": "Eg",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3157766,
+        "name": "Fedje",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626404,
+        "name": "Brøstadbotn",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626351,
+        "name": "Birketveit",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3149510,
+        "name": "Koppang",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3156083,
+        "name": "Gardlibygdi",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3160491,
+        "name": "Botngård",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3133569,
+        "name": "Tverrånes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3161969,
+        "name": "Batnfjordsøra",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3137973,
+        "name": "Sogndalsfjøra",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3154000,
+        "name": "Hamnvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3146049,
+        "name": "Melsomvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626379,
+        "name": "Støren",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3141469,
+        "name": "Rollag",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3135739,
+        "name": "Straume",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3149512,
+        "name": "Kopervik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3139765,
+        "name": "Setermoen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3151001,
+        "name": "Isdalstø",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3336585,
+        "name": "Nesoddtangen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 6453370,
+        "name": "Suldal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3132644,
+        "name": "Varhaug",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3136690,
+        "name": "Stokmarknes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3133311,
+        "name": "Ulvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3153694,
+        "name": "Hauge i Dalane",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3132058,
+        "name": "Vestby",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3148138,
+        "name": "Larkollen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3151574,
+        "name": "Høyanger",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3131675,
+        "name": "Vik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3137974,
+        "name": "Sogndal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3141747,
+        "name": "Risør",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3160911,
+        "name": "Bø",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 780946,
+        "name": "Alta",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3141850,
+        "name": "Ringebu",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3141061,
+        "name": "Røyrvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3145757,
+        "name": "Mjøndalen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3157656,
+        "name": "Fillan",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3138713,
+        "name": "Skoger",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3138076,
+        "name": "Snåase",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3142626,
+        "name": "Prestestranda",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626365,
+        "name": "Hornindal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3140043,
+        "name": "Sauherad",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3157982,
+        "name": "Evje",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3151864,
+        "name": "Hordaland Fylke",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626330,
+        "name": "Engerdal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626357,
+        "name": "Ydstebøhamn",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3139148,
+        "name": "Skaun",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3163293,
+        "name": "Alstahaug",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3345453,
+        "name": "Vestnes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3157357,
+        "name": "Fjell",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3142520,
+        "name": "Rakkestad",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3144836,
+        "name": "Nedstrand",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626328,
+        "name": "Flisa",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626371,
+        "name": "Elnesvågen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626137,
+        "name": "Kirkebygda",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3133447,
+        "name": "Tysvær",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3143513,
+        "name": "Oppdal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3133053,
+        "name": "Vågåmo",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162032,
+        "name": "Barkåker",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3131684,
+        "name": "Vikersund",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3142061,
+        "name": "Rensvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3155826,
+        "name": "Gimra",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3152327,
+        "name": "Hokksund",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3134327,
+        "name": "Tonstad",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3144110,
+        "name": "Norheimsund",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3143244,
+        "name": "Oslo",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3147822,
+        "name": "Leirvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162668,
+        "name": "Ask",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3137344,
+        "name": "Søvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3157520,
+        "name": "Finse",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3147104,
+        "name": "Løding",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3159016,
+        "name": "Drammen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3137971,
+        "name": "Søgne",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3134552,
+        "name": "Tjeldstø",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3153823,
+        "name": "Harstad",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3161901,
+        "name": "Bekkjarvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3151404,
+        "name": "Hurum",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3144113,
+        "name": "Noresund",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3148297,
+        "name": "Langli",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3148002,
+        "name": "Lauvsnes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3156136,
+        "name": "Ganddal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3147026,
+        "name": "Fossbergom",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3140084,
+        "name": "Sarpsborg",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3141104,
+        "name": "Røyken",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3137304,
+        "name": "Spetalen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3147769,
+        "name": "Leland",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3135469,
+        "name": "Sundbakken",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3139914,
+        "name": "Selje",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3147465,
+        "name": "Lillestrøm",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626385,
+        "name": "Mosvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3159905,
+        "name": "Bruflat",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3134349,
+        "name": "Tomter",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3140321,
+        "name": "Sandnes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3155573,
+        "name": "Gjøvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3140825,
+        "name": "Rygge",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3150437,
+        "name": "Karlshus",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3149533,
+        "name": "Kongsvinger",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3131538,
+        "name": "Vinstra",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3133349,
+        "name": "Ulsteinvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3145689,
+        "name": "Moelv",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 6697344,
+        "name": "Ytrebygda",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3157780,
+        "name": "Fauske",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3132474,
+        "name": "Vassvika",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3157679,
+        "name": "Fevik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3143487,
+        "name": "Oppland fylke",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3140546,
+        "name": "Saksvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3152136,
+        "name": "Holmenkollen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3149469,
+        "name": "Korsmo",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3134865,
+        "name": "Tananger",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3155676,
+        "name": "Gjerstad",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3157162,
+        "name": "Flateby",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3160100,
+        "name": "Brekstad",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162924,
+        "name": "Indre Arna",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 6453386,
+        "name": "Lardal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162797,
+        "name": "Ås",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3336590,
+        "name": "Ryggebyen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3143625,
+        "name": "Olestad",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3137966,
+        "name": "Sogn og Fjordane Fylke",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3134016,
+        "name": "Tretten",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626403,
+        "name": "Sørreisa",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 778459,
+        "name": "Nordkapp",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626402,
+        "name": "Tennevoll",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3151056,
+        "name": "Inndyr",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3142567,
+        "name": "Råde",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 780166,
+        "name": "Finnmark Fylke",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3156529,
+        "name": "Fredrikstad",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3137469,
+        "name": "Sørland",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3158615,
+        "name": "Eidsvåg",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626381,
+        "name": "Klæbu",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 6695932,
+        "name": "Skei",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 6693020,
+        "name": "Jarbakken",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3139014,
+        "name": "Skiptvet",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3150842,
+        "name": "Jevnaker",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3131246,
+        "name": "Ytre Arna",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162649,
+        "name": "Askim",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3141866,
+        "name": "Rindal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3156087,
+        "name": "Gardermoen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 6697345,
+        "name": "Sandsli",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162412,
+        "name": "Aure",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3151882,
+        "name": "Hopen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3163506,
+        "name": "Ågotnes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162385,
+        "name": "Aursmoen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3138624,
+        "name": "Skoppum",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3145589,
+        "name": "Fyresdal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 6693015,
+        "name": "Meklenborg",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3146942,
+        "name": "Løpsmarka",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3156470,
+        "name": "Frogner",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626391,
+        "name": "Silvalen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626369,
+        "name": "Valderøy",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3136023,
+        "name": "Storsteinnes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3145171,
+        "name": "Myra",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 6453318,
+        "name": "Andøy",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3131449,
+        "name": "Volda",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3147698,
+        "name": "Levanger",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3137390,
+        "name": "Sørumsand",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3141558,
+        "name": "Rogaland Fylke",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3146508,
+        "name": "Malm",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3137441,
+        "name": "Sør-Odal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3336591,
+        "name": "Vedavågen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3133517,
+        "name": "Tydal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626327,
+        "name": "Hurdal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3135605,
+        "name": "Strusshamn",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3134387,
+        "name": "Tomb",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3157287,
+        "name": "Fjere",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3157913,
+        "name": "Fagerlia",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3142396,
+        "name": "Randaberg",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 779303,
+        "name": "Kirkenes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3153403,
+        "name": "Hedmark fylke",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3141631,
+        "name": "Rød",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3133498,
+        "name": "Tynset",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3144987,
+        "name": "Narvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626329,
+        "name": "Bergset",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3161724,
+        "name": "Berger",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3134955,
+        "name": "Synes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3143120,
+        "name": "Otta",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3158578,
+        "name": "Eike",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3141667,
+        "name": "Roald",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3146684,
+        "name": "Lyngdal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 779261,
+        "name": "Kjøllefjord",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3158001,
+        "name": "Evenesmarka",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3148129,
+        "name": "Larvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3146487,
+        "name": "Måløy",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3151942,
+        "name": "Hommelvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3160846,
+        "name": "Bogen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626382,
+        "name": "Mebonden",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3161164,
+        "name": "Bjorvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3157043,
+        "name": "Flesland",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3134599,
+        "name": "Tingvatn",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 779349,
+        "name": "Karasjok",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3207861,
+        "name": "Tingvoll",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626370,
+        "name": "Falkhytta",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3150002,
+        "name": "Kjøpsvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3156987,
+        "name": "Flora",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 6545377,
+        "name": "Heggelia",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3140881,
+        "name": "Rusta",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3161622,
+        "name": "Berkåk",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3148044,
+        "name": "Lauve",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3159198,
+        "name": "Djupdalen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3138747,
+        "name": "Skodje",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3134429,
+        "name": "Tofte",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626326,
+        "name": "Teigebyen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3141198,
+        "name": "Røst",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3144953,
+        "name": "Naustdal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3157994,
+        "name": "Evenskjer",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3155152,
+        "name": "Gravdal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 777032,
+        "name": "Vuonnabahta",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3146451,
+        "name": "Manger",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3141172,
+        "name": "Rota",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3161732,
+        "name": "Bergen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3144148,
+        "name": "Nord-Trøndelag Fylke",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3152876,
+        "name": "Hernes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626393,
+        "name": "Hattfjelldal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3154084,
+        "name": "Hamar",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3142754,
+        "name": "Øystese",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3155247,
+        "name": "Granvin",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3157549,
+        "name": "Finnsnes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626135,
+        "name": "Rømskog",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3152132,
+        "name": "Holmestrand",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626394,
+        "name": "Solfjellsjyen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3145080,
+        "name": "Nærbø",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3150261,
+        "name": "Kirkenær",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3154539,
+        "name": "Gullhaug",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3143303,
+        "name": "Os",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3151917,
+        "name": "Hønefoss",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3159894,
+        "name": "Brumunddal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3134070,
+        "name": "Tranby",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626355,
+        "name": "Hjelmelandsvågen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3157436,
+        "name": "Fitjar",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 778707,
+        "name": "Mehamn",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3136765,
+        "name": "Stjørdalshalsen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3159582,
+        "name": "Bygland",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3138479,
+        "name": "Skreia",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3150911,
+        "name": "Jaren",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 779327,
+        "name": "Kautokeino",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3159955,
+        "name": "Brønnøy",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 779641,
+        "name": "Hasvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3133145,
+        "name": "Utsira",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3161456,
+        "name": "Bjerkvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626374,
+        "name": "Liabøen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3156545,
+        "name": "Framnes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3152989,
+        "name": "Hemsedal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3149239,
+        "name": "Krokstadøra",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3134723,
+        "name": "Telemark fylke",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3137405,
+        "name": "Sortland",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3145014,
+        "name": "Nannestad",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 779317,
+        "name": "Kiby",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3159484,
+        "name": "Dal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3163146,
+        "name": "Andenes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 8128567,
+        "name": "Eik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3144882,
+        "name": "Nedre Eiker",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626399,
+        "name": "Oppeide",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3151719,
+        "name": "Hov",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162116,
+        "name": "Balestrand",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 6453363,
+        "name": "Nore og Uvdal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626354,
+        "name": "Kleppe",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3155517,
+        "name": "Glemmen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3157897,
+        "name": "Fagernes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 847634,
+        "name": "Rypefjord",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162212,
+        "name": "Bærum",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3151676,
+        "name": "Hovden",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626401,
+        "name": "Bjarkøy",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3136618,
+        "name": "Storebø",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3155423,
+        "name": "Gokstad",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3132176,
+        "name": "Verdal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162841,
+        "name": "Arstein",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3156868,
+        "name": "Folldal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3148346,
+        "name": "Langevåg",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3131656,
+        "name": "Vikna",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3144661,
+        "name": "Nesna",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3163198,
+        "name": "Åmot",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 779933,
+        "name": "Gamvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3144733,
+        "name": "Nesbyen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3141332,
+        "name": "Røros",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626136,
+        "name": "Meieribyen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3136725,
+        "name": "Stokke",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626353,
+        "name": "Kyrkjebygda",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3142228,
+        "name": "Raufoss",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3140471,
+        "name": "Sama",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3144534,
+        "name": "Nodeland",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3139244,
+        "name": "Skarnes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626363,
+        "name": "Gaupne",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3163394,
+        "name": "Ålen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3133819,
+        "name": "Innbygda",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626138,
+        "name": "Elvestad",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3141831,
+        "name": "Ringsaker",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3148726,
+        "name": "Kviteseid",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626347,
+        "name": "Borgheim",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3133425,
+        "name": "Uggdal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3134259,
+        "name": "Torp",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3149727,
+        "name": "Knappskog",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 6453364,
+        "name": "Nes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 6692397,
+        "name": "Bjorli",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3151288,
+        "name": "Hvittingfoss",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3146978,
+        "name": "Lonevåg",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3146270,
+        "name": "Maura",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3132206,
+        "name": "Vennesla",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3150699,
+        "name": "Judaberg",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3139530,
+        "name": "Skjønhaug",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626362,
+        "name": "Aurlandsvangen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3138423,
+        "name": "Skui",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3141156,
+        "name": "Rotnes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3134357,
+        "name": "Tomra",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626400,
+        "name": "Leknes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3152308,
+        "name": "Hol",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3146469,
+        "name": "Malvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 6453314,
+        "name": "Porsanger",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3149726,
+        "name": "Knappstad",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3143188,
+        "name": "Østfold fylke",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3144369,
+        "name": "Nordfjordeid",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3153910,
+        "name": "Hansnes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3159049,
+        "name": "Dovre",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 6453322,
+        "name": "Vestvågøy",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162970,
+        "name": "Årdalstangen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3151272,
+        "name": "Hylkje",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 780543,
+        "name": "Bukta",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3160630,
+        "name": "Borkenes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3145614,
+        "name": "Mo i Rana",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3158015,
+        "name": "Etne",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3144096,
+        "name": "Kingdom of Norway",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3152548,
+        "name": "Hjelset",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3153869,
+        "name": "Hardbakke",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3132015,
+        "name": "Vestfold fylke",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 778346,
+        "name": "Olderdalen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3147747,
+        "name": "Lensvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3155041,
+        "name": "Grimstad",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626386,
+        "name": "Namdalseid",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162108,
+        "name": "Ballangen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3150805,
+        "name": "Jondal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3154907,
+        "name": "Grong",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3133983,
+        "name": "Trofors",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3159665,
+        "name": "Buskerud fylke",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3133895,
+        "name": "Tromsø",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3146125,
+        "name": "Melhus",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 780714,
+        "name": "Båtsfjord",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3138304,
+        "name": "Slemmestad",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162884,
+        "name": "Åros",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626352,
+        "name": "Helland",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3151265,
+        "name": "Hyllestad",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3159107,
+        "name": "Dombås",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3148569,
+        "name": "Lærdalsøyri",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3145148,
+        "name": "Myre",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3140128,
+        "name": "Sandvika",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 779622,
+        "name": "Ávanuorri",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 6545362,
+        "name": "Fjellfoten",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3147763,
+        "name": "Lena",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3132864,
+        "name": "Valldal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3155913,
+        "name": "Geilo",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3134521,
+        "name": "Tjøme",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3134776,
+        "name": "Tau",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3132064,
+        "name": "Vest-Agder Fylke",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3136215,
+        "name": "Storhaug",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3140840,
+        "name": "Ryem",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3132852,
+        "name": "Valle",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3137091,
+        "name": "Stavern",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3140396,
+        "name": "Sande",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3154704,
+        "name": "Grua",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3157090,
+        "name": "Flekkefjord",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3145617,
+        "name": "Moi",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3140056,
+        "name": "Sauda",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3139557,
+        "name": "Sjøholt",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3144431,
+        "name": "Nordby",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3146831,
+        "name": "Lundamo",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3134331,
+        "name": "Tønsberg",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3138429,
+        "name": "Skudeneshavn",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 777019,
+        "name": "Vardø",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3131500,
+        "name": "Visnes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3148602,
+        "name": "Kyrksæterøra",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626368,
+        "name": "Sykkylven",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3131824,
+        "name": "Vigrestad",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3139894,
+        "name": "Seljord",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3141032,
+        "name": "Rubbestadneset",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3144171,
+        "name": "Nørdstebø",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3139431,
+        "name": "Skaland",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162272,
+        "name": "Austrheim",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3131901,
+        "name": "Vevelstad",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 6453324,
+        "name": "Rana",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3136944,
+        "name": "Steinkjer",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3139081,
+        "name": "Ski",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 779683,
+        "name": "Hammerfest",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162354,
+        "name": "Aust-Agder fylke",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3139516,
+        "name": "Sjøvegan",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3155710,
+        "name": "Gjerdrum",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3155422,
+        "name": "Gol",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626366,
+        "name": "Fiskå",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3150058,
+        "name": "Kjevik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3153364,
+        "name": "Heggenes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3142539,
+        "name": "Råholt",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3143830,
+        "name": "Odda",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3224678,
+        "name": "Ytrehovden",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3147441,
+        "name": "Lindås",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3156892,
+        "name": "Folderøy",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 6639661,
+        "name": "Kinsarvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3227747,
+        "name": "Strømsbu",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3140636,
+        "name": "Sætre",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3160310,
+        "name": "Brattvåg",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3135137,
+        "name": "Sveio",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3146023,
+        "name": "Meråker",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3136768,
+        "name": "Stjørdal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 777073,
+        "name": "Vadsø",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3163379,
+        "name": "Ålgård",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3146478,
+        "name": "Målselv",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3133381,
+        "name": "Ullensaker",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 6545367,
+        "name": "Neskollen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3132893,
+        "name": "Våler",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3156642,
+        "name": "Fossby",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3158668,
+        "name": "Eidfjord",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626343,
+        "name": "Rødberg",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 777381,
+        "name": "Storslett",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3154639,
+        "name": "Gryllefjord",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 6545373,
+        "name": "Tuen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3149577,
+        "name": "Kolvereid",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3157799,
+        "name": "Farsund",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3147102,
+        "name": "Lødingen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626335,
+        "name": "Segalstad bru",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3143410,
+        "name": "Ørland",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3155567,
+        "name": "Justvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3157171,
+        "name": "Flatåker",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3158697,
+        "name": "Eide",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 6453375,
+        "name": "Karmøy",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 780686,
+        "name": "Berlevåg",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3137245,
+        "name": "Spydeberg",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3145094,
+        "name": "Mysen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3157686,
+        "name": "Fetsund",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3143242,
+        "name": "Oslo County",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626251,
+        "name": "Forsand",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3159822,
+        "name": "Bryne",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3227904,
+        "name": "Vikevåg",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626358,
+        "name": "Bokn",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7280466,
+        "name": "Frosta",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3154441,
+        "name": "Gvarv",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626377,
+        "name": "Steinsdalen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3145386,
+        "name": "Mosjøen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3153517,
+        "name": "Hauknes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3133663,
+        "name": "Tveit",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626332,
+        "name": "Bismo",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3138127,
+        "name": "Smestad",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3155805,
+        "name": "Giske",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3135381,
+        "name": "Sunndal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626405,
+        "name": "Hatteng",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3131683,
+        "name": "Vikeså",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3146631,
+        "name": "Lysaker",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3147854,
+        "name": "Leirsund",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3141101,
+        "name": "Røykjenes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3149563,
+        "name": "Kongsberg",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3149864,
+        "name": "Kleppestø",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3153009,
+        "name": "Hem",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 777572,
+        "name": "Sørkjosen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626389,
+        "name": "Jøa",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626397,
+        "name": "Vågaholmen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3142127,
+        "name": "Reine",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3145922,
+        "name": "Midsund",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3160881,
+        "name": "Bodø",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626395,
+        "name": "Lurøy",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3138360,
+        "name": "Skytta",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626348,
+        "name": "Svarstad",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3142849,
+        "name": "Øyer",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3148133,
+        "name": "Larsnes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3146811,
+        "name": "Lunde",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3132346,
+        "name": "Vefsn",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3155487,
+        "name": "Glomfjord",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3135377,
+        "name": "Sunndalsøra",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3149813,
+        "name": "Kløfta",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3134404,
+        "name": "Tolga",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3135020,
+        "name": "Svolvær",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3158786,
+        "name": "Egge",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3140301,
+        "name": "Sandnessjøen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 777221,
+        "name": "Svartnes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162475,
+        "name": "Auli",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3151545,
+        "name": "Høknes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3156680,
+        "name": "Fosnavåg",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3139818,
+        "name": "Sem",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3157694,
+        "name": "Fet",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162199,
+        "name": "Bagn",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3158444,
+        "name": "Eivindvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 780524,
+        "name": "Burfjord",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3136903,
+        "name": "Steinshamn",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3137115,
+        "name": "Stavanger",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3163608,
+        "name": "Å i Åfjord",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3146315,
+        "name": "Masfjorden",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3151770,
+        "name": "Horten",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3140431,
+        "name": "Sandane",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3149640,
+        "name": "Kolbotn",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3145495,
+        "name": "Møre og Romsdal fylke",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3147467,
+        "name": "Lillesand",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3141982,
+        "name": "Rena",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626383,
+        "name": "Stugudalen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 780238,
+        "name": "Elvebakken",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3134993,
+        "name": "Syfteland",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3131653,
+        "name": "Vikøyri",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3154209,
+        "name": "Halden",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626336,
+        "name": "Slidre",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626378,
+        "name": "Meldal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3131848,
+        "name": "Vigeland",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3158960,
+        "name": "Drøbak",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3143333,
+        "name": "Ørsta",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3153861,
+        "name": "Hareid",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3159146,
+        "name": "Doglo",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626341,
+        "name": "Lierbyen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3158046,
+        "name": "Espeland",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3145375,
+        "name": "Moss",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3138976,
+        "name": "Skjærhalden",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3143423,
+        "name": "Orkanger",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3157238,
+        "name": "Flå",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3133897,
+        "name": "Troms Fylke",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3138292,
+        "name": "Sletten",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3141671,
+        "name": "Roa",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3143237,
+        "name": "Osøyro",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3161532,
+        "name": "Birkeland",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3157977,
+        "name": "Evjen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 778829,
+        "name": "Lyngseidet",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3154321,
+        "name": "Hagavik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626344,
+        "name": "Hof",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626398,
+        "name": "Leinesfjorden",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3161346,
+        "name": "Bjørkelangen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3163269,
+        "name": "Alvdal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3139597,
+        "name": "Sistranda",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3163215,
+        "name": "Åmli",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3139075,
+        "name": "Skien",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3132720,
+        "name": "Vanse",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3147498,
+        "name": "Liknes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3152189,
+        "name": "Holm",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626323,
+        "name": "Fjerdingby",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3146463,
+        "name": "Mandal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3156980,
+        "name": "Florø",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3151452,
+        "name": "Hundorp",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3159400,
+        "name": "Dalen",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3145021,
+        "name": "Namsskogan",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3149525,
+        "name": "Konsmo",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3149648,
+        "name": "Kolavåg",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3152862,
+        "name": "Herre",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3140573,
+        "name": "Sagvåg",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626406,
+        "name": "Breivikbotn",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626342,
+        "name": "Lampeland",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162955,
+        "name": "Arendal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162880,
+        "name": "Årø",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3163079,
+        "name": "Åneby",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3133464,
+        "name": "Tysse",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162498,
+        "name": "Aufles",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626384,
+        "name": "Leksvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626388,
+        "name": "Høylandet",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3150742,
+        "name": "Jørpeland",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162320,
+        "name": "Austevoll",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3150851,
+        "name": "Jessheim",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3135575,
+        "name": "Stunes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3159954,
+        "name": "Brønnøysund",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3141310,
+        "name": "Rørvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3160643,
+        "name": "Borhaug",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3154972,
+        "name": "Grøa",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3163410,
+        "name": "Ål",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626325,
+        "name": "Kjenn",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3147714,
+        "name": "Lesja",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3163443,
+        "name": "Åkrehamn",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626359,
+        "name": "Aksdal",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3163392,
+        "name": "Ålesund",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 780643,
+        "name": "Bjørnevatn",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3139826,
+        "name": "Selvik",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7647864,
+        "name": "Greinveien",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 777554,
+        "name": "Sør-Varanger",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3152995,
+        "name": "Hemnesberget",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3138532,
+        "name": "Skotterud",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3132428,
+        "name": "Vatne",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 7626380,
+        "name": "Børsa",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 780604,
+        "name": "Bossekop",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3137400,
+        "name": "Sør-Trøndelag Fylke",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3154414,
+        "name": "Hå",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3152884,
+        "name": "Hermansverk",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3158002,
+        "name": "Evenes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3158606,
+        "name": "Eidsvoll",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3162903,
+        "name": "Årnes",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3141682,
+        "name": "Rjukan",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 779146,
+        "name": "Kvalsund",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3131178,
+        "name": "Strai",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3137261,
+        "name": "Sponvika",
+        "state": "",
+        "country": "NO"
+    },
+    {
+        "id": 3155980,
+        "name": "Gaular",
+        "state": "",
+        "country": "NO"
+    }
+]
