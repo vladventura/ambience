@@ -1,0 +1,410 @@
+[
+    {
+        "id": 2455735,
+        "name": "Kangaba",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2460377,
+        "name": "Bankoumana",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2459775,
+        "name": "Bougouni",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2460954,
+        "name": "Araouane",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2455558,
+        "name": "Kati",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2451185,
+        "name": "Sikasso",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2451285,
+        "name": "Sévaré",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2458589,
+        "name": "Djénné",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2451464,
+        "name": "Ségué",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 6798664,
+        "name": "Néguéla",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2448442,
+        "name": "Yorosso",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2451477,
+        "name": "Ségou Region",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2448489,
+        "name": "Yélimané",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2454934,
+        "name": "Kolondiéba",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2452830,
+        "name": "Niafunké",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2455518,
+        "name": "Kayes",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2457163,
+        "name": "Gao",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2458334,
+        "name": "Douentza",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 6759824,
+        "name": "Nioro Rufis",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2452655,
+        "name": "Niono",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2450534,
+        "name": "Tabakor",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2450849,
+        "name": "Sokolo",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2454268,
+        "name": "Koutiala",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2460546,
+        "name": "Banamba",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2451778,
+        "name": "San",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2453514,
+        "name": "Ménaka",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2461003,
+        "name": "Ansongo",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2456013,
+        "name": "Kabara",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2451478,
+        "name": "Ségou",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2448694,
+        "name": "Ouèlengana",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2451086,
+        "name": "Sinsina",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2455465,
+        "name": "Ké-Macina",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2454390,
+        "name": "Kouoro",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2456917,
+        "name": "Goundam",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2453347,
+        "name": "Mopti Region",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 6768610,
+        "name": "Banguitaba",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2454955,
+        "name": "Kolokani",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2449893,
+        "name": "Tessalit",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2457161,
+        "name": "Gao Region",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2449066,
+        "name": "Tombouctou Region",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2455516,
+        "name": "Kayes Ndi",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2458624,
+        "name": "Diré",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2460594,
+        "name": "Bamako Region",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2453866,
+        "name": "Republic of Mali",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2455456,
+        "name": "Kinmparana",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2597449,
+        "name": "Kidal Region",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2455517,
+        "name": "Kayes Region",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2460489,
+        "name": "Bandiagara",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2449661,
+        "name": "Tilèya",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2451274,
+        "name": "Sialo",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2453348,
+        "name": "Mopti",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2455216,
+        "name": "Kita",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 6912297,
+        "name": "Sikoroni",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2450173,
+        "name": "Taoudenni",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2451350,
+        "name": "Sénou",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2455290,
+        "name": "Kidal",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2454530,
+        "name": "Koulikoro",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 6910806,
+        "name": "Kala Dangan",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2451184,
+        "name": "Sikasso Region",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2457331,
+        "name": "Fougola",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2460755,
+        "name": "Bafoulabé",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2454532,
+        "name": "Koulikoro Region",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2448705,
+        "name": "Wagaman",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2453662,
+        "name": "Markala",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2449067,
+        "name": "Timbuktu",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2460596,
+        "name": "Bamako",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 6779095,
+        "name": "Toumboudrané",
+        "state": "",
+        "country": "ML"
+    },
+    {
+        "id": 2449938,
+        "name": "Ténenkou",
+        "state": "",
+        "country": "ML"
+    }
+]

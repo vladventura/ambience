@@ -1,0 +1,536 @@
+[
+    {
+        "id": 879431,
+        "name": "Victoria Falls",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 886843,
+        "name": "Mashonaland Central Province",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 886748,
+        "name": "Matabeleland North Province",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 889390,
+        "name": "Kamativi Mine",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 890983,
+        "name": "Gokwe",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 884798,
+        "name": "Mvurwi",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 886841,
+        "name": "Mashonaland West Province",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 893813,
+        "name": "Chimanimani",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 891099,
+        "name": "Glendale",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 888225,
+        "name": "Lupane",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 894413,
+        "name": "Chakari",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 883183,
+        "name": "Odzi",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 1106398,
+        "name": "Mbare",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 878676,
+        "name": "Zimbabwe",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 895269,
+        "name": "Beitbridge",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 1085520,
+        "name": "Arlington",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 1085510,
+        "name": "Epworth",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 882599,
+        "name": "Redcliff",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 1085511,
+        "name": "Dunowen",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 886990,
+        "name": "Marondera",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 886146,
+        "name": "Mhangura",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 886842,
+        "name": "Mashonaland East Province",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 894366,
+        "name": "Chamnanga",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 887358,
+        "name": "Manicaland Province",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 882100,
+        "name": "Rusape",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 1106542,
+        "name": "Chitungwiza",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 894239,
+        "name": "Chegutu",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 7418156,
+        "name": "Yeovil",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 889723,
+        "name": "Inyathi",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 881345,
+        "name": "Shamva",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 884979,
+        "name": "Mutare",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 889191,
+        "name": "Karoi",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 886864,
+        "name": "Mashava",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 895061,
+        "name": "Bindura",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 884141,
+        "name": "Norton",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 889215,
+        "name": "Kariba",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 894701,
+        "name": "Bulawayo",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 889453,
+        "name": "Kadoma",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 1105844,
+        "name": "Harare Province",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 894310,
+        "name": "Charara",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 889942,
+        "name": "Hwange",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 895417,
+        "name": "Banket",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 883481,
+        "name": "Nyanga",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 1106407,
+        "name": "Avenues",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 891699,
+        "name": "Esigodini",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 885517,
+        "name": "Mucheke Township",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 890242,
+        "name": "Headlands",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 882722,
+        "name": "Raffingora",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 890299,
+        "name": "Harare",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 888710,
+        "name": "Kwekwe",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 882859,
+        "name": "Plumtree",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 885800,
+        "name": "Mount Darwin",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 893172,
+        "name": "Chivhu",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 882955,
+        "name": "Penhalonga",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 1105960,
+        "name": "Umvutcha A",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 892711,
+        "name": "Dahlia",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 886761,
+        "name": "Masvingo Province",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 893697,
+        "name": "Chinhoyi",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 878549,
+        "name": "Zvishavane",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 7385181,
+        "name": "Masenda Township",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 881164,
+        "name": "Shurugwi",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 888667,
+        "name": "Lalapanzi",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 892156,
+        "name": "Dorowa Mining Lease",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 893397,
+        "name": "Chirundu",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 1105843,
+        "name": "Bulawayo Province",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 894015,
+        "name": "Chief Sai",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 881331,
+        "name": "Shangani",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 887648,
+        "name": "Makuti",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 893485,
+        "name": "Chiredzi",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 891515,
+        "name": "Filabusi",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 895057,
+        "name": "Binga",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 895308,
+        "name": "Beatrice",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 886384,
+        "name": "Mazoe",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 889795,
+        "name": "Insiza",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 884814,
+        "name": "Mvuma",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 884428,
+        "name": "Newlands",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 894460,
+        "name": "Centenary",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 890516,
+        "name": "Gwanda",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 890422,
+        "name": "Gweru",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 878675,
+        "name": "Republic of Zimbabwe",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 885159,
+        "name": "Murehwa",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 886119,
+        "name": "Midlands Province",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 883258,
+        "name": "Nyazura",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 888089,
+        "name": "Macheke",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 892440,
+        "name": "Dete",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 892876,
+        "name": "Concession",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 884927,
+        "name": "Mutoko",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 893549,
+        "name": "Chipinge",
+        "state": "",
+        "country": "ZW"
+    },
+    {
+        "id": 886763,
+        "name": "Masvingo",
+        "state": "",
+        "country": "ZW"
+    }
+]

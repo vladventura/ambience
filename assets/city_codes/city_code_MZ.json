@@ -1,0 +1,314 @@
+[
+    {
+        "id": 1037125,
+        "name": "Montepuez",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1027832,
+        "name": "Rupia",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1039536,
+        "name": "Maxixe",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1040649,
+        "name": "Maputo Province",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1040652,
+        "name": "Maputo",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1026010,
+        "name": "Tete",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1028434,
+        "name": "Quelimane",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1043298,
+        "name": "Luíee",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1103342,
+        "name": "Régulo Cassiano",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1037390,
+        "name": "Ilha de Moçambique",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1030006,
+        "name": "Niassa Province",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1049861,
+        "name": "Chibuto",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1040938,
+        "name": "Manjacaze",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1049896,
+        "name": "Chibobar",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1085237,
+        "name": "Mitamba",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1026804,
+        "name": "Sofala Province",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1024312,
+        "name": "Província de Zambézia",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1026634,
+        "name": "Sumane",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1040039,
+        "name": "Matararique",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1045114,
+        "name": "Inhambane",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1035025,
+        "name": "Nacala",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1024696,
+        "name": "Dondo",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1047660,
+        "name": "Cuamba",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1049261,
+        "name": "Chimoio",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1040947,
+        "name": "Manica Province",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1043893,
+        "name": "Lichinga",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1088155,
+        "name": "Mutuáli",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1041510,
+        "name": "Malatane",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1048364,
+        "name": "Chokwé",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1052373,
+        "name": "Beira",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1100188,
+        "name": "Damião",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1039617,
+        "name": "Mavalane ”A”",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1043458,
+        "name": "Luabo",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1089913,
+        "name": "Benfica",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1085582,
+        "name": "Aldeia Chivungo",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1024552,
+        "name": "Xai-Xai",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1036973,
+        "name": "Republic of Mozambique",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1105845,
+        "name": "Cidade de Maputo",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1039854,
+        "name": "Matola",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1037807,
+        "name": "Miceti",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1037370,
+        "name": "Mocímboa",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1044159,
+        "name": "Lacticīnia",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1033354,
+        "name": "Nampula",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1039000,
+        "name": "Meidinde",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1047925,
+        "name": "Comaxinda",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1086131,
+        "name": "Aldeia Nacapa",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1052944,
+        "name": "António Enes",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1046058,
+        "name": "Gaza Province",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1028918,
+        "name": "Pemba",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1024701,
+        "name": "Macia",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1051823,
+        "name": "Cabo Delgado Province",
+        "state": "",
+        "country": "MZ"
+    },
+    {
+        "id": 1045110,
+        "name": "Inhambane Province",
+        "state": "",
+        "country": "MZ"
+    }
+]

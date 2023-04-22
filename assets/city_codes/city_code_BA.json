@@ -1,0 +1,1496 @@
+[
+    {
+        "id": 3193439,
+        "name": "Petkovci",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3344411,
+        "name": "Jablanica",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3248645,
+        "name": "Piskavica",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3189848,
+        "name": "Stjepan-Polje",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3188199,
+        "name": "Velika Obarska",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3188691,
+        "name": "Tržačka Raštela",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3213083,
+        "name": "Ilići",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3244171,
+        "name": "Podsokolina",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3189621,
+        "name": "Stupari",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3210439,
+        "name": "Jelah",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3193563,
+        "name": "Pazarić",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3188357,
+        "name": "Varoška Rijeka",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3268187,
+        "name": "Hotonj",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3194120,
+        "name": "Omarska",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3197964,
+        "name": "Kobilja Glava",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3210920,
+        "name": "Malešići",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3186246,
+        "name": "Zvornik",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3193542,
+        "name": "Pećigrad",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3203651,
+        "name": "Brod",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3268170,
+        "name": "Alipašino Polje",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3198126,
+        "name": "Kladanj",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3211287,
+        "name": "Svojat",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3204222,
+        "name": "Bihać",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3203655,
+        "name": "Kostajnica",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3277605,
+        "name": "Bosnia and Herzegovina",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3203533,
+        "name": "Bratunac",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3198934,
+        "name": "Jajce",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3242584,
+        "name": "Miljeviči",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3199525,
+        "name": "Gromiljak",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3189513,
+        "name": "Šumatac",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3202895,
+        "name": "Čajniče",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3203653,
+        "name": "Bosanska Krupa",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3203657,
+        "name": "Kozarska Dubica",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3344788,
+        "name": "Bijela",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3186422,
+        "name": "Živinice",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3188817,
+        "name": "Trn",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3191156,
+        "name": "Šekovići",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3189823,
+        "name": "Stolac",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3264817,
+        "name": "Međugorje",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3191302,
+        "name": "Sanica",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3199417,
+        "name": "Han Pijesak",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3199314,
+        "name": "Hrasnica",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3195930,
+        "name": "Mahala",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3192327,
+        "name": "Prnjavor",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3192793,
+        "name": "Polje-Bijela",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3202935,
+        "name": "Bužim",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3196209,
+        "name": "Lopare",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3211929,
+        "name": "Knežica",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3202564,
+        "name": "Čitluk",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3263542,
+        "name": "Riđušića Han",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3195946,
+        "name": "Maglaj",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3196243,
+        "name": "Lokvine",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3212590,
+        "name": "Polje",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3201931,
+        "name": "Dobrinje",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3198050,
+        "name": "Ključ",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3192123,
+        "name": "Radišići",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3204168,
+        "name": "Bila",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3203645,
+        "name": "Šamac",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3254932,
+        "name": "Tuzlani",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3188582,
+        "name": "Tuzla",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3193855,
+        "name": "Oštra Luka",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3194061,
+        "name": "Orahovica Donja",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3200167,
+        "name": "Gornja Tuzla",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3204590,
+        "name": "Balatun",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3196410,
+        "name": "Livno",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3200484,
+        "name": "Goleš",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3253010,
+        "name": "Tešanjka",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3195128,
+        "name": "Milići",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3262955,
+        "name": "Gostići",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3189884,
+        "name": "Stijena",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3201177,
+        "name": "Drinovci",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3275385,
+        "name": "Begići",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3259075,
+        "name": "Ćoralići",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3190733,
+        "name": "Kneževo",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3189146,
+        "name": "Tešanj",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3199862,
+        "name": "Gostovići",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3200837,
+        "name": "Foča",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3186679,
+        "name": "Zborište",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3187609,
+        "name": "Visoko",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3187799,
+        "name": "Vidoši",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3248643,
+        "name": "Hiseti",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3283848,
+        "name": "Drežnica",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3201061,
+        "name": "Dubrave Donje",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3192456,
+        "name": "Pribinić",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3194514,
+        "name": "Neum",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3289093,
+        "name": "Kačuni",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3187162,
+        "name": "Vrnograč",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3200059,
+        "name": "Gornje Živinice",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3186717,
+        "name": "Zavidovići",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3199744,
+        "name": "Gradačac",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3195839,
+        "name": "Mala Kladuša",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3203646,
+        "name": "Bosanski Petrovac",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3230000,
+        "name": "Republika Srpska",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3257948,
+        "name": "Kovači",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3196792,
+        "name": "Laktaši",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3210593,
+        "name": "Podbrdo",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3266417,
+        "name": "Vranješ",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3343726,
+        "name": "Bosansko-Podrinjski Kanton Goražde",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3198462,
+        "name": "Kalenderovci Donji",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3195500,
+        "name": "Marićka",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3295485,
+        "name": "Gornja Breza",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3194231,
+        "name": "Obudovac",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3206012,
+        "name": "Koran",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3186961,
+        "name": "Zabrišće",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3190385,
+        "name": "Sokolac",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3192236,
+        "name": "Novi Travnik",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3186567,
+        "name": "Žepče",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3195066,
+        "name": "Mionica",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3193776,
+        "name": "Otoka",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3187524,
+        "name": "Vlasenica",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3201660,
+        "name": "Donja Međiđa",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3187040,
+        "name": "Vukovije Donje",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3196324,
+        "name": "Ljubuški",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3199415,
+        "name": "Harambašići",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3202014,
+        "name": "Divičani",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3188458,
+        "name": "Ustikolina",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3204161,
+        "name": "Bileća",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3192279,
+        "name": "Prozor",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3200538,
+        "name": "Gnojnica",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3200829,
+        "name": "Fojnica",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3188633,
+        "name": "Turbe",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3191449,
+        "name": "Rudo",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3251418,
+        "name": "Putiševac",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3269932,
+        "name": "Tinje",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3190159,
+        "name": "Srebrenica",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3187590,
+        "name": "Vitez",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3188225,
+        "name": "Velika Kladuša",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3193692,
+        "name": "Pale",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3203950,
+        "name": "Blatnica",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3197492,
+        "name": "Kozarac",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3201136,
+        "name": "Drvar",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3199509,
+        "name": "Grude",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3201928,
+        "name": "Dobrljin",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3256023,
+        "name": "Kalanac",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3190652,
+        "name": "Sladna",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3203970,
+        "name": "Blagaj",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3192206,
+        "name": "Puračić",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3202081,
+        "name": "Derventa",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3203521,
+        "name": "Brčko",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3201984,
+        "name": "Doboj",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3194041,
+        "name": "Orašac",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3194035,
+        "name": "Orašje",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3200396,
+        "name": "Goražde",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3196364,
+        "name": "Ljubinje",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3187419,
+        "name": "Voljevac",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3188893,
+        "name": "Trebinje",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3247554,
+        "name": "Čelinac",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3260164,
+        "name": "Tušanj",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3186588,
+        "name": "Željezno Polje",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3198293,
+        "name": "Karadaglije",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3203227,
+        "name": "Bronzani Majdan",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3190837,
+        "name": "Šipovo",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3194828,
+        "name": "Mostar",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3191281,
+        "name": "Sarajevo",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3194510,
+        "name": "Nevesinje",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3193545,
+        "name": "Peći",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3201376,
+        "name": "Donji Vakuf",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3245419,
+        "name": "Careva Ćuprija",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3229999,
+        "name": "Federation of Bosnia and Herzegovina",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3190172,
+        "name": "Srbac",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3189236,
+        "name": "Svodna",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3200651,
+        "name": "Glamoč",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3260158,
+        "name": "Kojšino",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3202589,
+        "name": "Cim",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3278045,
+        "name": "Skokovi",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3187588,
+        "name": "Vitina",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3198618,
+        "name": "Jezerski",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3187464,
+        "name": "Vogošća",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3190327,
+        "name": "Sopot",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3194013,
+        "name": "Orguz",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3192449,
+        "name": "Priboj",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3337476,
+        "name": "Konjic",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3194199,
+        "name": "Odžak",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3188924,
+        "name": "Travnik",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3193821,
+        "name": "Ostrožac",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3200108,
+        "name": "Gornje Moštre",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3194724,
+        "name": "Mrkonjić Grad",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3201933,
+        "name": "Donja Dobrinja",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3200245,
+        "name": "Gornja Koprivna",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3203644,
+        "name": "Bosansko Grahovo",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3203099,
+        "name": "Bugojno",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3186573,
+        "name": "Zenica",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3204520,
+        "name": "Banovići",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3190987,
+        "name": "Šerići",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3196428,
+        "name": "Široki Brijeg",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3249941,
+        "name": "Lamovita",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3196066,
+        "name": "Lukavica",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3193008,
+        "name": "Podhum",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3202822,
+        "name": "Cazin",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3198137,
+        "name": "Kiseljak",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3294874,
+        "name": "Opština Ugljevik",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3199438,
+        "name": "Hadžići",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3199142,
+        "name": "Ilijaš",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3189143,
+        "name": "Teslić",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3190158,
+        "name": "Srebrenik",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3200768,
+        "name": "Gacko",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3191589,
+        "name": "Rodoč",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3188329,
+        "name": "Velagići",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3194358,
+        "name": "Novi Šeher",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3201697,
+        "name": "Donja Dubica",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3195399,
+        "name": "Maslovare",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3189602,
+        "name": "Šturlić",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3198490,
+        "name": "Kakanj",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3202817,
+        "name": "Čečava",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3211537,
+        "name": "Dvorovi",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3187393,
+        "name": "Vozuća",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3194773,
+        "name": "Mramor",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3192718,
+        "name": "Popovi",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3201057,
+        "name": "Dubravica",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3203280,
+        "name": "Brka",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3204186,
+        "name": "Bijeljina",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3287997,
+        "name": "Vinine",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3192878,
+        "name": "Podzvizd",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3260178,
+        "name": "Gajići",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3188532,
+        "name": "Ugljevik",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3197944,
+        "name": "Kočerin",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3199027,
+        "name": "Izačić",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3192653,
+        "name": "Potoci",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3199779,
+        "name": "Gračanica",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3212301,
+        "name": "Pjanići",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3200930,
+        "name": "Tomislavgrad",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3293429,
+        "name": "Pajić Polje",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3203656,
+        "name": "Gradiška",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3301568,
+        "name": "Todorovo",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3190357,
+        "name": "Solina",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3262021,
+        "name": "Crnići",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3202947,
+        "name": "Butmir",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3191426,
+        "name": "Rumboci",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3199904,
+        "name": "Gornji Vakuf",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3187681,
+        "name": "Višegrad",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3195945,
+        "name": "Maglajani",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3201060,
+        "name": "Dubrave Gornje",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3191297,
+        "name": "Sanski Most",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3258022,
+        "name": "Liješnica",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3202955,
+        "name": "Busovača",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3268175,
+        "name": "Hrasno",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3198895,
+        "name": "Janja",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3194133,
+        "name": "Olovo",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3202873,
+        "name": "Čapljina",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3201662,
+        "name": "Donja Mahala",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3188366,
+        "name": "Vareš",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3197532,
+        "name": "Kotor Varoš",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3203647,
+        "name": "Novi Grad",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3210448,
+        "name": "Stanari",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3204541,
+        "name": "Banja Luka",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3262877,
+        "name": "Barice",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3191576,
+        "name": "Rogatica",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3192409,
+        "name": "Prijedor",
+        "state": "",
+        "country": "BA"
+    },
+    {
+        "id": 3189046,
+        "name": "Tojšići",
+        "state": "",
+        "country": "BA"
+    }
+]

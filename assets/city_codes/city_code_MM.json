@@ -1,0 +1,590 @@
+[
+    {
+        "id": 1328218,
+        "name": "Bhamo",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1300463,
+        "name": "Bago Region",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1297099,
+        "name": "Shan State",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1326149,
+        "name": "Ekyigon",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1292037,
+        "name": "Thayetmyo",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1309937,
+        "name": "Pyin Oo Lwin",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1328121,
+        "name": "Bogale",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1314042,
+        "name": "Letpandan",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1329239,
+        "name": "Myaydo",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1294701,
+        "name": "Tanaunghla",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1308522,
+        "name": "Monywa",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1295765,
+        "name": "Sittwe",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1328421,
+        "name": "Pathein",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1481825,
+        "name": "Botataung",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1289828,
+        "name": "Wakema",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1311874,
+        "name": "Mandalay",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1298480,
+        "name": "Sagaing Region",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1308465,
+        "name": "Mawlamyine",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1309289,
+        "name": "Minbu",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1308464,
+        "name": "Mawlamyinegyunn",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1300466,
+        "name": "Bago",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1285173,
+        "name": "Yenangyaung",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1292288,
+        "name": "Thaton",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1290596,
+        "name": "Taungoo",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1302849,
+        "name": "Hpa-An",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1294041,
+        "name": "Taungdwingyi",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1298482,
+        "name": "Sagaing",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1308937,
+        "name": "Mogok",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1310084,
+        "name": "Mawnwe",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1298852,
+        "name": "Rakhine State",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1311871,
+        "name": "Mandalay Region",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1321702,
+        "name": "Kachin State",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1292313,
+        "name": "Tharyarwady",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1314759,
+        "name": "Lashio",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1299154,
+        "name": "Pyay",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1296119,
+        "name": "Singun",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1482099,
+        "name": "Chaungbo",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1308415,
+        "name": "Mudon",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1308528,
+        "name": "Mon State",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1310460,
+        "name": "Martaban",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1481709,
+        "name": "Mithwegon",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1303406,
+        "name": "Nyaunglebin",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1285899,
+        "name": "Yamethin",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1290920,
+        "name": "Tingyaung",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1309611,
+        "name": "Myeik",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1299298,
+        "name": "Pya",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1480737,
+        "name": "Inkyangon",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1307741,
+        "name": "Myitkyina",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1317397,
+        "name": "Kyaiklat",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1295395,
+        "name": "Syriam",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1327865,
+        "name": "Union of Burma",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1299237,
+        "name": "Pyapon",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1285871,
+        "name": "Nyaungdon",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1308204,
+        "name": "Myanaung",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1327659,
+        "name": "Chauk",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1317375,
+        "name": "Kyaikto",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1292572,
+        "name": "Thanbankyun",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1326105,
+        "name": "Falam",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1312604,
+        "name": "Magway Region",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1302015,
+        "name": "Pānghpak",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1300969,
+        "name": "Paungde",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1320944,
+        "name": "Kanbe",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1298824,
+        "name": "Yangon",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1310120,
+        "name": "Mawlaik",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1293625,
+        "name": "Dawei",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1312356,
+        "name": "Mahkawshan",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1293118,
+        "name": "Tanintharyi Region",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1304138,
+        "name": "Ninglum",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1290374,
+        "name": "Twante",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1315047,
+        "name": "Lakawdo",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1307835,
+        "name": "Myingyan",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 6611854,
+        "name": "Nay Pyi Taw",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1293960,
+        "name": "Taunggyi",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1319539,
+        "name": "Kayah State",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1298822,
+        "name": "Yangon Region",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1307641,
+        "name": "Myoma",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1286764,
+        "name": "Wān Yampēng",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1320233,
+        "name": "Kayin State",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1310362,
+        "name": "Maubin",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1309793,
+        "name": "Meiktila",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1325443,
+        "name": "Hakha",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1313479,
+        "name": "Loikaw",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1317402,
+        "name": "Kyaikkami",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1292118,
+        "name": "Thayetchin",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1298987,
+        "name": "Pyinmana",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1321850,
+        "name": "Ayeyarwady Region",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1319533,
+        "name": "Kayan",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1292579,
+        "name": "Thanatpin",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1298911,
+        "name": "Pyu",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1302439,
+        "name": "Pakokku",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1312609,
+        "name": "Magway",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1316703,
+        "name": "Kyaukse",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1285941,
+        "name": "Yahaungwa",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1291193,
+        "name": "Thongwa",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1318433,
+        "name": "Kongmöng",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1325211,
+        "name": "Hinthada",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1319481,
+        "name": "Kayinzu",
+        "state": "",
+        "country": "MM"
+    },
+    {
+        "id": 1296736,
+        "name": "Shwebo",
+        "state": "",
+        "country": "MM"
+    }
+]

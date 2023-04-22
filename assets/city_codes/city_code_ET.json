@@ -1,0 +1,830 @@
+[
+    {
+        "id": 343663,
+        "name": "Arba Minch",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 444183,
+        "name": "Gambela Region",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 340358,
+        "name": "Dabat",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 326321,
+        "name": "Wendo",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 341742,
+        "name": "Bonga",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 331416,
+        "name": "Maych’ew",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 444187,
+        "name": "Tigray Region",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 345149,
+        "name": "Ādīgrat",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 336526,
+        "name": "Gīdolē",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 337010,
+        "name": "Gelemso",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 337996,
+        "name": "Federal Democratic Republic of Ethiopia",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 338832,
+        "name": "Dire Dawa",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 338998,
+        "name": "Dīla",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 444182,
+        "name": "Dire Dawa Region",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 341877,
+        "name": "Bodītī",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 329490,
+        "name": "Sabīyan",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 328689,
+        "name": "Shashemenē",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 336931,
+        "name": "Genet",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 337712,
+        "name": "Finote Selam",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 328880,
+        "name": "Sendafa",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 325780,
+        "name": "Yirga ‘Alem",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 344976,
+        "name": "Ādīs ‘Alem",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 444186,
+        "name": "Somali Region",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 339823,
+        "name": "Debark’",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 339629,
+        "name": "Deder",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 335035,
+        "name": "Harar",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 329114,
+        "name": "Sebeta",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 328316,
+        "name": "Sirre",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 333356,
+        "name": "Kemisē",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 335943,
+        "name": "Gorē",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 326206,
+        "name": "Werota",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 338726,
+        "name": "Dodola",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 336350,
+        "name": "Goba",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 333772,
+        "name": "Jimma",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 327162,
+        "name": "Turmi",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 343846,
+        "name": "Angetu",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 444178,
+        "name": "Ādīs Ābeba Āstedader",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 340268,
+        "name": "Dafara",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 343413,
+        "name": "Āsasa",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 328709,
+        "name": "Shambu",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 341397,
+        "name": "Burē",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 330491,
+        "name": "Mojo",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 337146,
+        "name": "Gebre Tela",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 335288,
+        "name": "Hāgere Hiywet",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 343409,
+        "name": "Asaita",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 330534,
+        "name": "Mīzan Teferī",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 327694,
+        "name": "Tippi",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 344982,
+        "name": "Ādīs",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 337152,
+        "name": "Gebre Guracha",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 336496,
+        "name": "Gimbi",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 444188,
+        "name": "Southern Nations, Nationalities, and People's Region",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 344923,
+        "name": "Ādīs Zemen",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 328716,
+        "name": "Shakiso",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 336014,
+        "name": "Gondar",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 330186,
+        "name": "Nazrēt",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 342490,
+        "name": "Bekeksa",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 344620,
+        "name": "Hagere Maryam",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 332129,
+        "name": "Leku",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 331038,
+        "name": "Mendī",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 337853,
+        "name": "Felege Neway",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 326259,
+        "name": "Were Īlu",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 331259,
+        "name": "Mēga",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 333103,
+        "name": "Kibre Mengist",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 339258,
+        "name": "Deresgē",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 444180,
+        "name": "Amhara Region",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 339540,
+        "name": "Dek’ē",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 336372,
+        "name": "Waliso",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 333750,
+        "name": "Jinka",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 332938,
+        "name": "Kofelē",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 339219,
+        "name": "Desē",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 344661,
+        "name": "Āgaro",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 336454,
+        "name": "Ginir",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 337405,
+        "name": "Gambēla",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 339551,
+        "name": "Dejen",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 334529,
+        "name": "Huruta",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 444185,
+        "name": "Oromiya Region",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 342559,
+        "name": "Bedēsa",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 333516,
+        "name": "Kebri Dahar",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 331180,
+        "name": "Mek'ele",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 330787,
+        "name": "Met’enē",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 336231,
+        "name": "Godo",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 339708,
+        "name": "Debre Mark’os",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 332746,
+        "name": "Korem",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 330811,
+        "name": "Metahāra",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 338554,
+        "name": "Dubti",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 6913519,
+        "name": "Semera",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 333373,
+        "name": "Kombolcha",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 339692,
+        "name": "Debre Sīna",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 333795,
+        "name": "Jijiga",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 326308,
+        "name": "Wenjī",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 444184,
+        "name": "Harari Region",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 329586,
+        "name": "Robīt",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 343137,
+        "name": "Hawassa",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 325579,
+        "name": "Ziway",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 335733,
+        "name": "Guder",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 343593,
+        "name": "Āreka",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 342567,
+        "name": "Bedelē",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 343134,
+        "name": "Āwash",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 343402,
+        "name": "Āsbe Teferī",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 339671,
+        "name": "Debre Werk’",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 344979,
+        "name": "Addis Ababa",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 331968,
+        "name": "Lobuni",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 444181,
+        "name": "Benishangul-Gumuz Region",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 340128,
+        "name": "Dalla",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 342641,
+        "name": "Batī",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 343143,
+        "name": "Āwarē",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 344420,
+        "name": "Axum",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 343292,
+        "name": "Āsosa",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 342856,
+        "name": "Bako",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 342884,
+        "name": "Bahir Dar",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 345704,
+        "name": "Abomsa",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 339666,
+        "name": "Bishoftu",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 332880,
+        "name": "K’olīto",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 332351,
+        "name": "Kwīhā",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 339448,
+        "name": "Dembī Dolo",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 335286,
+        "name": "Hāgere Selam",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 336259,
+        "name": "Godē",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 336745,
+        "name": "Gewanē",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 332288,
+        "name": "Lalībela",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 337771,
+        "name": "Fichē",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 341297,
+        "name": "Butajīra",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 327234,
+        "name": "Tulu Bolo",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 335316,
+        "name": "Hadew",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 330814,
+        "name": "Mēta",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 334227,
+        "name": "Inda Silasē",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 330764,
+        "name": "Metu",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 334700,
+        "name": "Hīrna",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 337083,
+        "name": "Gēdo",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 345353,
+        "name": "Addiet Canna",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 330120,
+        "name": "Nejo",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 7667785,
+        "name": "Koka",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 339734,
+        "name": "Debre Birhan",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 339686,
+        "name": "Debre Tabor",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 333881,
+        "name": "Jemo",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 326036,
+        "name": "Yabēlo",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 444179,
+        "name": "Afar Region",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 332817,
+        "name": "Konso",
+        "state": "",
+        "country": "ET"
+    },
+    {
+        "id": 342190,
+        "name": "Bichena",
+        "state": "",
+        "country": "ET"
+    }
+]

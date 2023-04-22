@@ -1,0 +1,2060 @@
+[
+    {
+        "id": 70272,
+        "name": "As Suwayda",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 79737,
+        "name": "Al Fujayr",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 406072,
+        "name": "Al Nashmah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77881,
+        "name": "As Saddah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 79967,
+        "name": "Al Aqir",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77809,
+        "name": "As Sawadiyah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 69769,
+        "name": "Usaylan",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 30689,
+        "name": "Dawran",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 407716,
+        "name": "Maqbanah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78428,
+        "name": "Amran",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7364784,
+        "name": "Al Aqabah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 6940616,
+        "name": "Dawran Aness",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 407048,
+        "name": "Al Maslub",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 76927,
+        "name": "Bayt Adhaqah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78566,
+        "name": "Al Qurh",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 408801,
+        "name": "Al Mayfaah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7356864,
+        "name": "Qaryat ad Dais",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77862,
+        "name": "Said",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 6940801,
+        "name": "Bani Matar",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 30485,
+        "name": "Dahasuways",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 30543,
+        "name": "Al Ghaylah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 74185,
+        "name": "Jiblah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 72746,
+        "name": "Mayfaah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 407094,
+        "name": "Al Jamimah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 73409,
+        "name": "Mabar",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 80425,
+        "name": "Muḩāfaz̧at Abyan",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78991,
+        "name": "Al Mahfid",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 72968,
+        "name": "Ma'rib",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7344569,
+        "name": "Bani an Nahari",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 30696,
+        "name": "Najd al Jumai",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 79478,
+        "name": "Al Qatn",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 69499,
+        "name": "Zabīd",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 74906,
+        "name": "Hays",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7363900,
+        "name": "An Najd",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 30788,
+        "name": "Ad Dil",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 71136,
+        "name": "Sana",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 72561,
+        "name": "Markaz Mudhaykirah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78471,
+        "name": "Al Wuday",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7346082,
+        "name": "Al Mashaf",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 71481,
+        "name": "Rihab",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 71549,
+        "name": "Ar Raydah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77946,
+        "name": "Ash Shatt",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77504,
+        "name": "Az Zuhrah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 410915,
+        "name": "Aslam",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 79415,
+        "name": "Al Hudaydah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7364546,
+        "name": "Al Amud",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 74785,
+        "name": "Al Abr",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 6940615,
+        "name": "Rakhyah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 402074,
+        "name": "Ar Rujum",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 73091,
+        "name": "Manakhah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7355357,
+        "name": "Al Quray‘",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 407096,
+        "name": "Habur",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 6940725,
+        "name": "Al Mina",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 406845,
+        "name": "Al Khirab",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 6940648,
+        "name": "Al Mahfad",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 34862,
+        "name": "Suq Shamar",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7364022,
+        "name": "Rahabah al Kawlah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 75337,
+        "name": "Hajjah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 407036,
+        "name": "Hasan Bini Sad",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 400734,
+        "name": "Markaz Bilad at Taam",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 70160,
+        "name": "Tarim",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 76699,
+        "name": "Burum",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 401653,
+        "name": "Riqab",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 75133,
+        "name": "Harib",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 70910,
+        "name": "Shaharat al Ghis",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7341563,
+        "name": "Al Harajah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 69537,
+        "name": "Yufrus",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 73685,
+        "name": "Kilmia",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 6201196,
+        "name": "Muḩāfaz̧at Ibb",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 6940814,
+        "name": "Craiter",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 8015577,
+        "name": "Baqim as Suq",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 408866,
+        "name": "Hammam Damt",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 73638,
+        "name": "Kuhlan Afar",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78823,
+        "name": "Al Mighlaf",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77985,
+        "name": "Ash Shaghadirah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 6940758,
+        "name": "Hidaybu",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 79133,
+        "name": "Al Khasamah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 76991,
+        "name": "Bayt al Faqih",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 70677,
+        "name": "Shibam",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 34846,
+        "name": "Wadarah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7357454,
+        "name": "Manzil ash Shubaykinī",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 415189,
+        "name": "Aden",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77408,
+        "name": "Bajil",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 74222,
+        "name": "Muḩāfaz̧at al Jawf",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77646,
+        "name": "At Turbah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77278,
+        "name": "Bani Hujjaj",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77407,
+        "name": "Bājil",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 71834,
+        "name": "Qishn",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 79700,
+        "name": "Al Ghayzah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 69686,
+        "name": "Dhi Jalal",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 80379,
+        "name": "Ad Dann",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 76989,
+        "name": "Bayt al Faqīh",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 71333,
+        "name": "Muḩāfaz̧at Şa‘dah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 72781,
+        "name": "Mawiyah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 74938,
+        "name": "Hayfan",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78708,
+        "name": "Qaryat al Qabil",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 72647,
+        "name": "Manwakh",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 34886,
+        "name": "Mustaba",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 6940638,
+        "name": "As Salafiyah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 79006,
+        "name": "Al Mahabishah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7931042,
+        "name": "Al Aqta",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7346660,
+        "name": "Al Kharab",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 406635,
+        "name": "Al Hashwah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 79131,
+        "name": "Al Khawkhah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7928384,
+        "name": "Hadadah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 75504,
+        "name": "Habil al Jabr",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 30748,
+        "name": "Ar Rawnah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78964,
+        "name": "Al Makhadir",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 73125,
+        "name": "Al Malahit",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 70357,
+        "name": "Abs",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 74490,
+        "name": "Huth",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 6940757,
+        "name": "Sayun",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 70222,
+        "name": "Muḩāfaz̧at Ta‘izz",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 401672,
+        "name": "As Sukhnah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 80331,
+        "name": "Ad Dis ash Sharqiyah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77594,
+        "name": "Al Hajab",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 75334,
+        "name": "Ḩajjah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 34703,
+        "name": "Suq Sirwah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 75034,
+        "name": "Haswayn",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 408342,
+        "name": "Ar Radai",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 403271,
+        "name": "As Sararah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78931,
+        "name": "Al Mansurah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78742,
+        "name": "Al Munirah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 72589,
+        "name": "Morī",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 72430,
+        "name": "Al Musaymir",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78379,
+        "name": "An Nadirah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 72181,
+        "name": "Nisab",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 75000,
+        "name": "Hawf",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 72760,
+        "name": "Mawza",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 76362,
+        "name": "Dawran ad Daydah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7345827,
+        "name": "Suq al Khamis",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 402470,
+        "name": "Al Khamis",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 75518,
+        "name": "Habban",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 79609,
+        "name": "Hajar al Mushaikh",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 6940658,
+        "name": "Old City",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 71687,
+        "name": "Rudum",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 30735,
+        "name": "Ash Shuqayrah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 74116,
+        "name": "Juban",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 73668,
+        "name": "Kitaf",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 74368,
+        "name": "Jaar",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77636,
+        "name": "Al Awabil",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78019,
+        "name": "Asdas",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 71491,
+        "name": "Rada",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 407129,
+        "name": "Ar Rawd",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78713,
+        "name": "Al Maudah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 76182,
+        "name": "Madīnat Dhamār",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 80336,
+        "name": "Ad Dimnah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 69426,
+        "name": "Zinjibar",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 34724,
+        "name": "Bidbadah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78543,
+        "name": "Al Udayn",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 70759,
+        "name": "Ash Sharyah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77940,
+        "name": "Ash Shaykh Uthman",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7475283,
+        "name": "Ḩārat al Bustān",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78977,
+        "name": "Al Mahwit",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 72557,
+        "name": "Mudiyah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 403754,
+        "name": "Matnah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 6940571,
+        "name": "Amanat Al Asimah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 69684,
+        "name": "Walan",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 71005,
+        "name": "Sayhut",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 6940691,
+        "name": "Salh",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7928383,
+        "name": "Bir Hat",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 80383,
+        "name": "Az Zaliah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 80105,
+        "name": "Ahwar",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 406761,
+        "name": "Rajuzah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 79836,
+        "name": "Al Bayda",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 69558,
+        "name": "Yarīm",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 30714,
+        "name": "Zalmat al Alya",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 73861,
+        "name": "Khamir",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 6940612,
+        "name": "Al Hawak",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7930439,
+        "name": "Rimat",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 34717,
+        "name": "Majzar",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 70225,
+        "name": "Taizz",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 407014,
+        "name": "Al Madan",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78966,
+        "name": "Al Makdash",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78638,
+        "name": "Al Qaryah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 74219,
+        "name": "Jawf al Maqbabah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 75239,
+        "name": "Hammam Ali",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 69372,
+        "name": "At Tawilah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 76482,
+        "name": "Dar an Nasr",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 403272,
+        "name": "An Nasirah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77803,
+        "name": "Al Bilad",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7931038,
+        "name": "Al Shiruj",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 79838,
+        "name": "Muḩāfaz̧at al Bayḑā’",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7472737,
+        "name": "Ḩayy as Salām",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 409051,
+        "name": "Tawr al Bahah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 402753,
+        "name": "Al Urr",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 76183,
+        "name": "Muḩāfaz̧at Dhamār",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 79219,
+        "name": "Al Jurbah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 30762,
+        "name": "Ar Ramadi",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 70346,
+        "name": "Al Anan",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7683765,
+        "name": "Ash Shawati",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 71282,
+        "name": "Sah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 411056,
+        "name": "Haydan",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 76154,
+        "name": "Dhi as Sufal",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 79284,
+        "name": "Al Jarrahi",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 71334,
+        "name": "Sadah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78909,
+        "name": "Al Marawiah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 408970,
+        "name": "Maswarah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 71131,
+        "name": "Sanhan",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 79050,
+        "name": "Al Luhayyah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 74167,
+        "name": "Jihanah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 73786,
+        "name": "Khawr Maksar",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 71558,
+        "name": "Raydah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 71273,
+        "name": "Sahar",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77662,
+        "name": "At Tawahi",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 71622,
+        "name": "Rakkat al ‘Askarī",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78448,
+        "name": "Amd",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 70600,
+        "name": "Shuḩayr",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 69482,
+        "name": "Az Zahir",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 408883,
+        "name": "Zakhim",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 76153,
+        "name": "Dhī as Sufāl",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 72752,
+        "name": "Maidi",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 75618,
+        "name": "Ghayl Ba Wazir",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 6940677,
+        "name": "Al Bayda City",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 6201197,
+        "name": "Muḩāfaz̧at Laḩij",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 72965,
+        "name": "Marib City",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7792748,
+        "name": "At Tahalif",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 75508,
+        "name": "Al Habilayn",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 79384,
+        "name": "Al Husayn",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 73422,
+        "name": "Al Maalla",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 404914,
+        "name": "Al Hayfah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77980,
+        "name": "Ash Shahil",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 71904,
+        "name": "Qatabah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77515,
+        "name": "Az Zaydiyah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 73504,
+        "name": "Lawdar",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7356639,
+        "name": "Bayt Sa‘d Nāşir",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 79845,
+        "name": "Al Batinah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78675,
+        "name": "Al Qanawis",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 401019,
+        "name": "Al Hadiyah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77800,
+        "name": "As Sawmaah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 30490,
+        "name": "Ash Shihr",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78754,
+        "name": "Al Mukalla",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 6201195,
+        "name": "Muḩāfaz̧at Ḩajjah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 74499,
+        "name": "As Salasil",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77017,
+        "name": "Bayhan",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 6940816,
+        "name": "Khur Maksar",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 70979,
+        "name": "Sayyan",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 407024,
+        "name": "Al Ashshah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 30777,
+        "name": "Al Ahad",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 79416,
+        "name": "Muḩāfaz̧at al Ḩudaydah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 79088,
+        "name": "Kirsh",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78905,
+        "name": "Markaz al Marir",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 406884,
+        "name": "Al Humaydat",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77726,
+        "name": "Ataq",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 80384,
+        "name": "Dhalie",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 34888,
+        "name": "An Nazir",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7345723,
+        "name": "Al Hijrah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 413170,
+        "name": "Al Miftah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7792745,
+        "name": "Al Hamdi",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 75411,
+        "name": "Muḩāfaz̧at Ḩaḑramawt",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 34821,
+        "name": "Matwah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 407042,
+        "name": "Al Matun",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 70551,
+        "name": "Sif",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 73560,
+        "name": "Lahij",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77872,
+        "name": "As Safaqayn",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 408124,
+        "name": "Dubah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 79393,
+        "name": "Huraydah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 70223,
+        "name": "Ta‘izz",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 30740,
+        "name": "Mashraah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 403316,
+        "name": "Mabyan",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7354697,
+        "name": "Al Ayn",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 76930,
+        "name": "As Suq al Jadid",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 70221,
+        "name": "At Ta‘izzīyah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7931039,
+        "name": "Jawl al Majma",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 80412,
+        "name": "Muḩāfaz̧at ‘Adan",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7931040,
+        "name": "Suq Sibah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 73325,
+        "name": "Al Mafud",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7930440,
+        "name": "Rumah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 69543,
+        "name": "Republic of Yemen",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 6940797,
+        "name": "As Safra",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 79657,
+        "name": "Al Ḩabīt",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 73331,
+        "name": "Mafhaq",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 69559,
+        "name": "Yarim",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 71799,
+        "name": "Qulansiyah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7344394,
+        "name": "Bani al Awwam",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77843,
+        "name": "As Salif",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 69640,
+        "name": "Washhah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 6940600,
+        "name": "Ash Shamayatayn",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 69944,
+        "name": "Ubal",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 79455,
+        "name": "Al Hazm",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77307,
+        "name": "Bani Bakr",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 407049,
+        "name": "Al Ghayl",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 75163,
+        "name": "Harad",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7341410,
+        "name": "Mudghil",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 70808,
+        "name": "Sharas",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78112,
+        "name": "Marbat",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 75357,
+        "name": "Madinat Labus",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77791,
+        "name": "As Sayyani",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7890531,
+        "name": "Al Khaniq",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 6940822,
+        "name": "Al  Hawtah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 406662,
+        "name": "Saqayn",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 73365,
+        "name": "Al Madid",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78137,
+        "name": "Ar Rawdah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78929,
+        "name": "Al Mansuriyah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 70656,
+        "name": "Shihan as Sufla",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 408846,
+        "name": "Ar Radmah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 406737,
+        "name": "Al Mahjal",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 69457,
+        "name": "Zarajah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 80393,
+        "name": "Dhahi",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 401023,
+        "name": "Kusmah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 70080,
+        "name": "Thamud",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 70935,
+        "name": "Muḩāfaz̧at Shabwah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 403270,
+        "name": "Al Maghrabah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 34915,
+        "name": "Dayr al Ḩisī",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77772,
+        "name": "As Sudah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7364913,
+        "name": "Al Qurayshiyah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 34827,
+        "name": "Suwayr",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78699,
+        "name": "Al Qaflah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 76184,
+        "name": "Dhamar",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 76125,
+        "name": "Dhi Naim",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 410914,
+        "name": "Kushar",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 30729,
+        "name": "Suq ar Rabu",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 76089,
+        "name": "Dhubab",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 75427,
+        "name": "Tamrida",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78776,
+        "name": "Al Misrakh",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7360069,
+        "name": "Hazm al Udayn",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 69500,
+        "name": "Zabid",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 74475,
+        "name": "Ibb",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 401000,
+        "name": "Al Jumah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 407317,
+        "name": "As Sal‘ah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 72966,
+        "name": "Muḩāfaz̧at Ma’rib",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 72855,
+        "name": "Al Jawl",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 73650,
+        "name": "Kuaydinah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 404915,
+        "name": "Bayt Marran",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 75539,
+        "name": "Hababah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 73788,
+        "name": "Khawrah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 78814,
+        "name": "Al Milah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 30789,
+        "name": "Al Jabin",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 79561,
+        "name": "Al Ḩamzāt",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 79531,
+        "name": "Al Harf",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 76147,
+        "name": "Dhaybin",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7792750,
+        "name": "Suhayl Shibam",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 73100,
+        "name": "Milah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 6940756,
+        "name": "Al Mukalla City",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 7367232,
+        "name": "Hawrah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 80309,
+        "name": "Ad Durayhimi",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 72519,
+        "name": "Mukayras",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 6940641,
+        "name": "Al Mashannah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 77655,
+        "name": "Al Tuhayta",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 71532,
+        "name": "Muḩāfaz̧at Raymah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 407690,
+        "name": "Ar Rubu",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 30616,
+        "name": "Judaydah",
+        "state": "",
+        "country": "YE"
+    },
+    {
+        "id": 71132,
+        "name": "Sanaa",
+        "state": "",
+        "country": "YE"
+    }
+]

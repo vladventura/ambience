@@ -1,0 +1,932 @@
+[
+    {
+        "id": 3620266,
+        "name": "Corn Island",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3619420,
+        "name": "El Rosario",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617459,
+        "name": "Nueva Guinea",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617569,
+        "name": "Moyogalpa",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620441,
+        "name": "Catarina",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620106,
+        "name": "El Almendro",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3618411,
+        "name": "La Paz Centro",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3618546,
+        "name": "La Gaveta",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616871,
+        "name": "San Fernando",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3618637,
+        "name": "La Concordia",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3615683,
+        "name": "Wiwilí",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3615730,
+        "name": "Waspán",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620163,
+        "name": "Dolores",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617388,
+        "name": "Palacagüina",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617522,
+        "name": "Nagarote",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616092,
+        "name": "Telica",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617513,
+        "name": "Nandaime",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616028,
+        "name": "Tisma",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620084,
+        "name": "El Ayote",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620473,
+        "name": "Villa El Carmen",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616572,
+        "name": "San Sebastián de Yalí",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620978,
+        "name": "Acoyapa",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3618924,
+        "name": "Jiquilillo",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3615998,
+        "name": "Totogalpa",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616311,
+        "name": "Sébaco",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616381,
+        "name": "Santa Teresa",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3615669,
+        "name": "Yalagüina",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617722,
+        "name": "Departamento de Masaya",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616019,
+        "name": "Tola",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3618029,
+        "name": "Departamento de León",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617725,
+        "name": "Masatepe",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620734,
+        "name": "Belén",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 7019699,
+        "name": "Barrio El Rodeo",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620172,
+        "name": "Diriá",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3618926,
+        "name": "Jinotepe",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616597,
+        "name": "San Rafael del Norte",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3619382,
+        "name": "El Sauce",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617543,
+        "name": "Murra",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620368,
+        "name": "Departamento de Chontales",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3618648,
+        "name": "La Concepción",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3619695,
+        "name": "El Jicaral",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616888,
+        "name": "San Dionisio",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616459,
+        "name": "Santa Lucía",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620381,
+        "name": "Chinandega",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620350,
+        "name": "Ciudad Darío",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3618618,
+        "name": "La Cruz de Río Grande",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616253,
+        "name": "Siuna",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617562,
+        "name": "Muelle de los Bueyes",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620380,
+        "name": "Departamento de Chinandega",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3619194,
+        "name": "Estelí",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3618337,
+        "name": "Rosita",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3618954,
+        "name": "Jalapa",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620243,
+        "name": "Cuapa",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617187,
+        "name": "Potosí",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616232,
+        "name": "Somoto",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617095,
+        "name": "El Rama",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617051,
+        "name": "Departamento de Rivas",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620544,
+        "name": "Camoapa",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620930,
+        "name": "Altagracia",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616234,
+        "name": "Somotillo",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617457,
+        "name": "El Tortuguero",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620269,
+        "name": "Corinto",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617575,
+        "name": "Morrito",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617162,
+        "name": "Pueblo Nuevo",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3618908,
+        "name": "Juigalpa",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617191,
+        "name": "Posoltega",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3830307,
+        "name": "Costa Caribe Norte",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616732,
+        "name": "San Juan de Limay",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616356,
+        "name": "Santo Domingo",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617146,
+        "name": "Puerto Morazán",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620168,
+        "name": "Diriomo",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3615745,
+        "name": "Waslala",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3618522,
+        "name": "Laguna de Perlas",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616584,
+        "name": "San Ramón",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620673,
+        "name": "Departamento de Boaco",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 7019741,
+        "name": "Barrio Santo Domingo",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616721,
+        "name": "San Juan de Río Coco",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616659,
+        "name": "San Miguelito",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617532,
+        "name": "Muy Muy",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616911,
+        "name": "San Carlos",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620479,
+        "name": "Cárdenas",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620680,
+        "name": "Bluefields",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3619193,
+        "name": "Departamento de Estelí",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616076,
+        "name": "Terrabona",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617154,
+        "name": "Puerto Cabezas",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620353,
+        "name": "Ciudad Antigua",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3618482,
+        "name": "La Libertad",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616708,
+        "name": "San Lorenzo",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3618928,
+        "name": "Departamento de Jinotega",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617763,
+        "name": "Managua",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3618410,
+        "name": "La Paz de Carazo",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616035,
+        "name": "Tipitapa",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616751,
+        "name": "San José del Sur",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3619853,
+        "name": "El Crucero",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617730,
+        "name": "Masachapa",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616723,
+        "name": "San Juan de Oriente",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3618067,
+        "name": "La Vainilla",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620170,
+        "name": "Diriamba",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620318,
+        "name": "Comalapa",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616070,
+        "name": "Teustepe",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617510,
+        "name": "Nandasmo",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3618929,
+        "name": "Jinotega",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616759,
+        "name": "San José de Bocay",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617762,
+        "name": "Departamento de Managua",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617109,
+        "name": "Quilalí",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617694,
+        "name": "Matiguás",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616594,
+        "name": "San Rafael del Sur",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3619548,
+        "name": "El Papalote",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3619135,
+        "name": "Departamento de Granada",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3828262,
+        "name": "Ciudad Sandino",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616914,
+        "name": "San Caralampio",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616349,
+        "name": "Santo Tomás",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617476,
+        "name": "Republic of Nicaragua",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617796,
+        "name": "Departamento de Madriz",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620674,
+        "name": "Boaco",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616753,
+        "name": "San José de los Remates",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620481,
+        "name": "Departamento de Carazo",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617115,
+        "name": "Quezalguaque",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620390,
+        "name": "Chichigalpa",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3615813,
+        "name": "Villa Sandino",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617723,
+        "name": "Masaya",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3830308,
+        "name": "Costa Caribe Sur",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620982,
+        "name": "Achuapa",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616064,
+        "name": "Ticuantepe",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3615865,
+        "name": "Valle San Francisco",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616682,
+        "name": "San Marcos",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616088,
+        "name": "Telpaneca",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617458,
+        "name": "Departamento de Nueva Segovia",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617069,
+        "name": "Río Blanco",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617708,
+        "name": "Matagalpa",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617565,
+        "name": "Mozonte",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620645,
+        "name": "Bonanza",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3618124,
+        "name": "Las Sabanas",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617697,
+        "name": "Mateare",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620603,
+        "name": "Buenos Aires",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617473,
+        "name": "Nindirí",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3619136,
+        "name": "Granada",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3615877,
+        "name": "Llano de La Tejera",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617707,
+        "name": "Departamento de Matagalpa",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3619267,
+        "name": "El Viejo",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617448,
+        "name": "Ocotal",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616726,
+        "name": "San Juan del Sur",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3618336,
+        "name": "Larreynaga",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620661,
+        "name": "Bocana de Paiwas",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3619451,
+        "name": "El Realejo",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616781,
+        "name": "San José",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3618201,
+        "name": "Las Mercedes",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616757,
+        "name": "San José de Cusmapa",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3620298,
+        "name": "Condega",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3618030,
+        "name": "León",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617470,
+        "name": "Niquinohomo",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3619394,
+        "name": "El Salto",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616794,
+        "name": "San Jorge",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3617052,
+        "name": "Rivas",
+        "state": "",
+        "country": "NI"
+    },
+    {
+        "id": 3616387,
+        "name": "Santa Rosa del Peñón",
+        "state": "",
+        "country": "NI"
+    }
+]

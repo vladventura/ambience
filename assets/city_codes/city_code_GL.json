@@ -1,0 +1,206 @@
+[
+    {
+        "id": 3425505,
+        "name": "Greenland",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3421319,
+        "name": "Nuuk",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3422887,
+        "name": "Ittorisseq",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3421711,
+        "name": "Narsarsuaq",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3426193,
+        "name": "Uummannaq",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3421719,
+        "name": "Narsaq",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3424901,
+        "name": "Aasiaat",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 6295666,
+        "name": "Kangilinnguit",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3423146,
+        "name": "Ilulissat",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3421982,
+        "name": "Maniitsoq",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3422518,
+        "name": "Kap Dan",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3421193,
+        "name": "Paamiut",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3422700,
+        "name": "Kangaamiut",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3421765,
+        "name": "Nanortalik",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 7602007,
+        "name": "Sermersooq",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3831208,
+        "name": "Qaanaaq",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3422683,
+        "name": "Kangaatsiaq",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3424424,
+        "name": "Atammik",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3424607,
+        "name": "Tasiilaq",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3421522,
+        "name": "Nivaaq",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3420846,
+        "name": "Qaqortoq",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3422891,
+        "name": "Ittoqqortoormiit",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 7602006,
+        "name": "Qeqqata",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3419714,
+        "name": "Kangerlussuaq",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 7602003,
+        "name": "Qaasuitsup",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3419842,
+        "name": "Sisimiut",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3420768,
+        "name": "Qasigiannguit",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3831451,
+        "name": "Dundas",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3420635,
+        "name": "Qeqertarsuaq",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 7602005,
+        "name": "Kujalleq",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3420937,
+        "name": "Qaarsut",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3422861,
+        "name": "Ivittuut",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3418910,
+        "name": "Upernavik",
+        "state": "",
+        "country": "GL"
+    },
+    {
+        "id": 3422225,
+        "name": "Kulusuk",
+        "state": "",
+        "country": "GL"
+    }
+]

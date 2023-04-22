@@ -1,0 +1,518 @@
+[
+    {
+        "id": 3184368,
+        "name": "Qerek",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 363383,
+        "name": "Delvinë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3185060,
+        "name": "Kuçovë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 783148,
+        "name": "Gjirokastër",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3184264,
+        "name": "Rrëshen",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3184197,
+        "name": "Selenicë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3185211,
+        "name": "Kavajë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3184497,
+        "name": "Peqin",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3184517,
+        "name": "Patos Fshat",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3185897,
+        "name": "Cërrik",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3184099,
+        "name": "Shijak",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 782859,
+        "name": "Kasaj",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3186145,
+        "name": "Ballsh",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3183691,
+        "name": "Vukatanë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 781979,
+        "name": "Poliçan",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3183814,
+        "name": "Ura Vajgurore",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 783606,
+        "name": "Bilisht",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 865730,
+        "name": "Qarku i Beratit",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 865731,
+        "name": "Qarku i Dibrës",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 782843,
+        "name": "Këlcyrë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3185638,
+        "name": "Fushë-Krujë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 783493,
+        "name": "Burrel",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3185133,
+        "name": "Koplik",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3184252,
+        "name": "Rrogozhinë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3185087,
+        "name": "Krrabë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 363320,
+        "name": "Konispol",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3183719,
+        "name": "Vlorë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3185377,
+        "name": "Himarë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3183708,
+        "name": "Vorë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3184081,
+        "name": "Shkodër",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 864834,
+        "name": "Klos-Katund",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 363243,
+        "name": "Sarandë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3185082,
+        "name": "Krujë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 781919,
+        "name": "Përrenjas-Fshat",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3184743,
+        "name": "Memaliaj",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 781443,
+        "name": "Tepelenë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 865733,
+        "name": "Qarku i Gjirokastrës",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3344947,
+        "name": "Qarku i Durrësit",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 783059,
+        "name": "Gramsh",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3344951,
+        "name": "Qarku i Tiranës",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3184702,
+        "name": "Milot",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3184806,
+        "name": "Mamurras",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3184935,
+        "name": "Lezhë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3344950,
+        "name": "Qarku i Shkodrës",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3344949,
+        "name": "Qarku i Lezhës",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 782070,
+        "name": "Përmet",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 783214,
+        "name": "Fushë-Arrëz",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 865732,
+        "name": "Qarku i Elbasanit",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3184136,
+        "name": "Shëngjin",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 865735,
+        "name": "Qarku i Kukësit",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 829448,
+        "name": "Bllatë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 832209,
+        "name": "Librazhd-Qendër",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 782535,
+        "name": "Leskovik",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 783263,
+        "name": "Elbasan",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3184862,
+        "name": "Lushnjë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3185670,
+        "name": "Fier-Çifçi",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 865734,
+        "name": "Qarku i Korçës",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 782632,
+        "name": "Kurbnesh",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3184575,
+        "name": "Orikum",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 783408,
+        "name": "Çorovodë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 781988,
+        "name": "Pogradec",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3344948,
+        "name": "Qarku i Fierit",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3184285,
+        "name": "Rrakull",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 783754,
+        "name": "Republic of Albania",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 782519,
+        "name": "Librazhd",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3344952,
+        "name": "Qarku i Vlorës",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 782756,
+        "name": "Korçë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 783508,
+        "name": "Bulqizë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 782523,
+        "name": "Libohovë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 782661,
+        "name": "Kukës",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 782393,
+        "name": "Maliq",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3184238,
+        "name": "Rubik",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3185270,
+        "name": "Kamëz",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 781171,
+        "name": "Vushnicë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 781360,
+        "name": "Rrethi i Tropojës",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3184388,
+        "name": "Pukë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3184290,
+        "name": "Roskovec",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3185672,
+        "name": "Fier",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 783259,
+        "name": "Ersekë",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3184753,
+        "name": "Mbyet",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3185728,
+        "name": "Durrës",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3185012,
+        "name": "Laç",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 782861,
+        "name": "Karkavec",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3186084,
+        "name": "Berat",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 782061,
+        "name": "Peshkopi",
+        "state": "",
+        "country": "AL"
+    },
+    {
+        "id": 3183875,
+        "name": "Tirana",
+        "state": "",
+        "country": "AL"
+    }
+]

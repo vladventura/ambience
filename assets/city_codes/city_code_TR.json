@@ -1,0 +1,7148 @@
+[
+    {
+        "id": 315201,
+        "name": "Eskişehir",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 737071,
+        "name": "Zeytinburnu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 302720,
+        "name": "Pervari",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 742189,
+        "name": "Küre",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304183,
+        "name": "Muğla",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751838,
+        "name": "Arsin",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747978,
+        "name": "Doğanyurt",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 299724,
+        "name": "Taşlı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 740570,
+        "name": "Pınarhisar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315000,
+        "name": "Feke",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 314279,
+        "name": "Ergama",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323716,
+        "name": "Yüreğir",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749789,
+        "name": "Çanakçı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304738,
+        "name": "Mazgirt",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 441841,
+        "name": "Aynysich",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 302645,
+        "name": "Pınardere",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 303626,
+        "name": "Okçular",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 302355,
+        "name": "Reyhanlı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 324294,
+        "name": "Alaçatı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298806,
+        "name": "Turgutlu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 744716,
+        "name": "Kandıra",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 314996,
+        "name": "Felahiye",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739812,
+        "name": "Şenlikköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 306308,
+        "name": "Köseli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747458,
+        "name": "Erenler",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746821,
+        "name": "Gökçebey",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 303007,
+        "name": "Özbek",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320946,
+        "name": "Boğazlıyan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 313013,
+        "name": "Hacılar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746546,
+        "name": "Göynük",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 742499,
+        "name": "Koyulhisar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320448,
+        "name": "Bulanık",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739251,
+        "name": "Suluova",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747449,
+        "name": "Erfelek",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315498,
+        "name": "Ereğli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316497,
+        "name": "Doğanca",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741347,
+        "name": "Nallıhan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321327,
+        "name": "Beşpınar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298230,
+        "name": "Cimin",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298332,
+        "name": "Şanlıurfa",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 302724,
+        "name": "Pertek",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 325302,
+        "name": "Afyonkarahisar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 742875,
+        "name": "Kocadere",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 310641,
+        "name": "Kaman",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751864,
+        "name": "Arpaçay",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 447273,
+        "name": "Dalaman",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304919,
+        "name": "Malatya",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 296832,
+        "name": "Yeşilli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 310784,
+        "name": "Kale",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304382,
+        "name": "Midyat",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 310434,
+        "name": "Kapıkırı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 302819,
+        "name": "Patnos",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738647,
+        "name": "Trabzon",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301680,
+        "name": "Sarıkaya",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312355,
+        "name": "Havran",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 750268,
+        "name": "Bursa",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746527,
+        "name": "Akkaya",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304998,
+        "name": "Mağaralı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749795,
+        "name": "Çan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298845,
+        "name": "Tunceli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 314923,
+        "name": "Finike",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747705,
+        "name": "Eflani",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320562,
+        "name": "Boztepe",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300791,
+        "name": "Simav",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 302656,
+        "name": "Pınarca",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300616,
+        "name": "Sivaslı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 310858,
+        "name": "Kahramanmaraş",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747482,
+        "name": "Erdek",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312416,
+        "name": "Hasköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751057,
+        "name": "Bartın",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 317762,
+        "name": "Serhatta",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323963,
+        "name": "Alpu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 296852,
+        "name": "Erzin",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323797,
+        "name": "Andırın",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 306115,
+        "name": "Kozaklı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745047,
+        "name": "İspir",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 325028,
+        "name": "Akarsu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741692,
+        "name": "Mecitözü",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304355,
+        "name": "Milas",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 436507,
+        "name": "Mahmutlar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321786,
+        "name": "Bayındır",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738457,
+        "name": "Ulaşlı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 748167,
+        "name": "Devrek",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298451,
+        "name": "Uluborlu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749100,
+        "name": "Çilimli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 322312,
+        "name": "Bahşılı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 436443,
+        "name": "Sevimli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 297027,
+        "name": "Yeniköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 302469,
+        "name": "Pulumer",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741725,
+        "name": "Marmara Ereğlisi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438056,
+        "name": "Kastal",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300754,
+        "name": "Sinanpaşa",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741850,
+        "name": "Maçka",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 319345,
+        "name": "Çatak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 296885,
+        "name": "Yeşilalan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 306954,
+        "name": "Koçak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315697,
+        "name": "Elmalı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749075,
+        "name": "Çınarcık",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301431,
+        "name": "Savur",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438234,
+        "name": "Samankaya",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 752259,
+        "name": "Alaçam",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 313947,
+        "name": "Göreme",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 314373,
+        "name": "Gökbudak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741855,
+        "name": "Lüleburgaz",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745954,
+        "name": "Dedeköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321079,
+        "name": "Bingöl",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 297280,
+        "name": "Yediyol",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 752014,
+        "name": "Amasya",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 752476,
+        "name": "Akıncılar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 737521,
+        "name": "Yığılca",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300027,
+        "name": "Şenocak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 296950,
+        "name": "Yenipazar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315905,
+        "name": "Eğirdir",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747191,
+        "name": "Eynesil",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 324486,
+        "name": "Akseki",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 742292,
+        "name": "Kullar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 314608,
+        "name": "Gerdzhyush",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 305263,
+        "name": "Kutlubey",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 744876,
+        "name": "Kâğıthane",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300632,
+        "name": "Şirvan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311998,
+        "name": "Gyundyukoru",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315665,
+        "name": "Güneysınır",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 737119,
+        "name": "Yuvacık",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739914,
+        "name": "Şebin Karahisar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747711,
+        "name": "Edirne",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747793,
+        "name": "Durusu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747135,
+        "name": "Ferizli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320647,
+        "name": "Bozdoğan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 297564,
+        "name": "Yatağan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315617,
+        "name": "Emirgazi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438119,
+        "name": "Dursunlu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741304,
+        "name": "Niksar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321935,
+        "name": "Başkavak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 305685,
+        "name": "Kumlu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 305699,
+        "name": "Kumçatı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 325269,
+        "name": "Ağaçören",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 317241,
+        "name": "Demirci",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304825,
+        "name": "Manisa",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 314350,
+        "name": "Civankan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 740560,
+        "name": "Piraziz",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 309663,
+        "name": "Karakoçan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311054,
+        "name": "İvrindi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 441867,
+        "name": "Telharzem",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 7619145,
+        "name": "Şehitkamil",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 319761,
+        "name": "Çalpınar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 744093,
+        "name": "Karasu Mahallesi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321022,
+        "name": "Bitlis",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747263,
+        "name": "Gözyeri",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751335,
+        "name": "Bafra",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300195,
+        "name": "Sultanhisar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 742394,
+        "name": "Küçükçekmece",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312731,
+        "name": "Hamur",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 740230,
+        "name": "Sapanca",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311645,
+        "name": "İhsaniye",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 317588,
+        "name": "Darende",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 7701384,
+        "name": "Karabağlar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 308463,
+        "name": "Kayseri",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 303290,
+        "name": "Ortaköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304372,
+        "name": "Mihalıçcık",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 306612,
+        "name": "Konalga",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 299575,
+        "name": "Tavas",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738618,
+        "name": "Turhal",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 748877,
+        "name": "Çorum",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320700,
+        "name": "Bozcaada",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 317844,
+        "name": "Çumra",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738753,
+        "name": "Tirebolu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741240,
+        "name": "Of",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321658,
+        "name": "Behram",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751324,
+        "name": "Bağcılar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 308024,
+        "name": "Keskin",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323886,
+        "name": "Altınyayla",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739015,
+        "name": "Taşova",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 297532,
+        "name": "Yavuzeli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749502,
+        "name": "Çayeli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749609,
+        "name": "Çatalzeytin",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749747,
+        "name": "Çankırı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 6692524,
+        "name": "Sarigerme",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 6692526,
+        "name": "Ölüdeniz",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741160,
+        "name": "Oltu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300767,
+        "name": "Sinanköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 319670,
+        "name": "Anamas",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 299445,
+        "name": "Tekirova",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738662,
+        "name": "Tosya",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746603,
+        "name": "Gölova",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 750059,
+        "name": "Çakırca",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739598,
+        "name": "Sinop",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 317837,
+        "name": "Çüngüş",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312073,
+        "name": "Hisar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 6354985,
+        "name": "güngören merter",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312394,
+        "name": "Hatay",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 297404,
+        "name": "Yayvantepe",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301492,
+        "name": "Saruhanlı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311708,
+        "name": "Teffi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 742095,
+        "name": "Kurucaşile",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 742606,
+        "name": "Köse",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 299582,
+        "name": "Tatvan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315155,
+        "name": "Etimesgut",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745527,
+        "name": "Horasan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745903,
+        "name": "Hanak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 752288,
+        "name": "Akyazı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 299268,
+        "name": "Tercan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 299137,
+        "name": "Tire",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 307129,
+        "name": "Kızılören",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738349,
+        "name": "Ünye",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745260,
+        "name": "Gökçeada",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311962,
+        "name": "Honaz",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741628,
+        "name": "Meriç",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 6947637,
+        "name": "Ataşehir",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 743165,
+        "name": "Kırklareli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 439098,
+        "name": "Akdiken",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315132,
+        "name": "Evciler",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 297347,
+        "name": "Şeker Mahallesı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 737980,
+        "name": "Yapraklı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311994,
+        "name": "Hocalar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 319104,
+        "name": "Çay",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 297090,
+        "name": "Didim",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 744767,
+        "name": "Kalkandere",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 308697,
+        "name": "Kayabağlar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 752284,
+        "name": "Akyurt",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 743256,
+        "name": "Kirazlı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741484,
+        "name": "Mudurnu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298454,
+        "name": "Ulubey",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316102,
+        "name": "Dursunbey",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304196,
+        "name": "Mucur",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 317970,
+        "name": "Özvatan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 309415,
+        "name": "Karapınar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318396,
+        "name": "Çınaraltı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321219,
+        "name": "Beylikova",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 437736,
+        "name": "Çırtıman",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 439099,
+        "name": "Bulutlu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 740303,
+        "name": "Şalpazarı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741884,
+        "name": "Lâlapaşa",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747751,
+        "name": "Düzköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318679,
+        "name": "Çevrimova",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316085,
+        "name": "Durutlar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316440,
+        "name": "Doğanşehir",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 862944,
+        "name": "İçmeler",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316909,
+        "name": "Dereyanı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738167,
+        "name": "Vezirköprü",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 296134,
+        "name": "Yunak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738715,
+        "name": "Tonya",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312817,
+        "name": "Halkapınar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 314812,
+        "name": "Gazipaşa",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 744498,
+        "name": "Karaçalı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 317953,
+        "name": "Çukurca",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304854,
+        "name": "Manavgat",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 740531,
+        "name": "Posof",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 322002,
+        "name": "Barıştepe",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746302,
+        "name": "Güngören",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 748008,
+        "name": "Doğankent",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301398,
+        "name": "Sazgın",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 308776,
+        "name": "Kavaklıdere",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749262,
+        "name": "Süleymanlar Mahallesi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 302781,
+        "name": "Pazaryeri",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 322813,
+        "name": "Aydınkonak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 308572,
+        "name": "Kayapınar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311193,
+        "name": "İscehisar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738674,
+        "name": "Tortum",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438096,
+        "name": "Toygarlı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 750496,
+        "name": "Borçka",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 743942,
+        "name": "Kars",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301911,
+        "name": "Sandıklı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739847,
+        "name": "Selim",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 297416,
+        "name": "Yaylı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747826,
+        "name": "Durağan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 324531,
+        "name": "Akpınar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 750450,
+        "name": "Boyalıca",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298882,
+        "name": "Tufanbeyli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 297098,
+        "name": "Yenifarsak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 740659,
+        "name": "Pazaryolu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 308389,
+        "name": "Keban",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 310982,
+        "name": "Kabala",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318766,
+        "name": "Çermik",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321572,
+        "name": "Belen",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 436927,
+        "name": "Dörtyol İlçesi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738329,
+        "name": "Üsküdar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 303872,
+        "name": "Nazimiye",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739742,
+        "name": "Seydiler",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745977,
+        "name": "Halkalı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438245,
+        "name": "Tepehan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738742,
+        "name": "Tokat",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 748688,
+        "name": "Damal",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 303532,
+        "name": "Ömerli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300617,
+        "name": "Sivas",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 322076,
+        "name": "Balpınar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 299982,
+        "name": "Tabanlı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 309166,
+        "name": "Hallaçlar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321940,
+        "name": "Başkale",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301279,
+        "name": "Seksenören",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318264,
+        "name": "Çivril",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318496,
+        "name": "Evren",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 324944,
+        "name": "Akçakale",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738085,
+        "name": "Yakakent",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 296247,
+        "name": "Salat",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 743230,
+        "name": "Dikmen",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315408,
+        "name": "Erköklü",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749274,
+        "name": "Çerkezköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751516,
+        "name": "Ayancık",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 314716,
+        "name": "Gediz",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316028,
+        "name": "Düzova",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 314364,
+        "name": "Selah",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 296947,
+        "name": "Yenipınar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 436324,
+        "name": "Küçükkendirci",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438116,
+        "name": "Gümüşgöze",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749843,
+        "name": "Çamlıdere",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300377,
+        "name": "Solhan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747618,
+        "name": "Eldivan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300147,
+        "name": "Söğütoluk",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298326,
+        "name": "Ürgüp",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738583,
+        "name": "Gülyalı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739201,
+        "name": "Susuz",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 7457829,
+        "name": "Battalgazi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 7700531,
+        "name": "Salıpazarı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312862,
+        "name": "Halfeti",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321184,
+        "name": "Beytüşşebap",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741002,
+        "name": "Orta",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 302824,
+        "name": "Pasinler",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320995,
+        "name": "Bodrum",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 392059,
+        "name": "Ballı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312253,
+        "name": "Hazro",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301943,
+        "name": "Samsat",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 296860,
+        "name": "Yeşilhisar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298935,
+        "name": "Torbalı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304916,
+        "name": "Malazgirt",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 322137,
+        "name": "Balışeyh",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 6940561,
+        "name": "Çatalhöyük",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 441811,
+        "name": "Kobik",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 742135,
+        "name": "Kurtköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312649,
+        "name": "Han",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745175,
+        "name": "İnebolu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 306285,
+        "name": "Köşk",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300438,
+        "name": "Kindirip",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312114,
+        "name": "Hınıs",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 308998,
+        "name": "Aladağ",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 750605,
+        "name": "Biga",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300635,
+        "name": "Tililan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 308455,
+        "name": "Kazancı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301483,
+        "name": "Sason",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 740490,
+        "name": "Reşadiye",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 303873,
+        "name": "Nazilli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 308948,
+        "name": "Kaş",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745719,
+        "name": "Havsa",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746913,
+        "name": "Gerze",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315720,
+        "name": "Elmadağ",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 324190,
+        "name": "Alanya",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 314967,
+        "name": "Fethiye",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 325103,
+        "name": "Ahlat",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745693,
+        "name": "Hayrat",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739209,
+        "name": "Suşehri",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318506,
+        "name": "Cihanbeyli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739808,
+        "name": "Şenpazar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318651,
+        "name": "Çiçekdağı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746628,
+        "name": "Gölköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 308400,
+        "name": "Kazımkarabekir",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747986,
+        "name": "Doğanşar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 743633,
+        "name": "Kaynarca",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 306116,
+        "name": "Kozakli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 743932,
+        "name": "Kartal",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 7701435,
+        "name": "Osmangazi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 303798,
+        "name": "Nizip",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298433,
+        "name": "Uludere",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 296823,
+        "name": "Yeşilova",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 325333,
+        "name": "Adımova",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749518,
+        "name": "Çaybaşı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 744514,
+        "name": "Karacaköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 308133,
+        "name": "Kepsut",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 305182,
+        "name": "Kuyulusebil",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 307623,
+        "name": "Kırkağaç",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304013,
+        "name": "Mut",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 299354,
+        "name": "Tepealtı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 317095,
+        "name": "Derbent",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 307211,
+        "name": "Serinhisar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746712,
+        "name": "Murgul",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320369,
+        "name": "Burhaniye",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 752042,
+        "name": "Altınova",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 306474,
+        "name": "Korkuteli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751371,
+        "name": "Babaeski",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 750735,
+        "name": "Beşikdüzü",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438241,
+        "name": "Büyük Dalyan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304782,
+        "name": "Marmaris",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 302903,
+        "name": "Pamukkale",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 752850,
+        "name": "Adapazarı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312143,
+        "name": "Hilal",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301256,
+        "name": "Selçuk",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312405,
+        "name": "Hassa",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 737433,
+        "name": "Yolören",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 737961,
+        "name": "Körfez",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298033,
+        "name": "Viranşehir",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298471,
+        "name": "Ulaş",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323854,
+        "name": "Ambar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315807,
+        "name": "Elâzığ",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741609,
+        "name": "Merzifon",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 310892,
+        "name": "Kadirli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311191,
+        "name": "Kavsan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745344,
+        "name": "Ilgaz",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316877,
+        "name": "Derinkuyu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745530,
+        "name": "Hopa",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320390,
+        "name": "Burdur",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 313331,
+        "name": "Güroymak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321062,
+        "name": "Birecik",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 737421,
+        "name": "Yomra",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301539,
+        "name": "Şarkîkaraağaç",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 317106,
+        "name": "Denizli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301871,
+        "name": "Saraçköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 831432,
+        "name": "Espiye",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741763,
+        "name": "Maltepe",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 297362,
+        "name": "Yazıkonak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 307513,
+        "name": "Kırşehir",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304440,
+        "name": "Meydankapı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304349,
+        "name": "Balveren",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316746,
+        "name": "Dicle",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 314677,
+        "name": "Gelinkaya",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 447049,
+        "name": "Başyayla",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 319118,
+        "name": "Çavuşlu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746602,
+        "name": "Gölpazarı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751949,
+        "name": "Ardeşen",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 317049,
+        "name": "Derebucak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 302667,
+        "name": "Pınarbaşı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304582,
+        "name": "Meram",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 305681,
+        "name": "Kumluca",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315081,
+        "name": "Eymirli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312479,
+        "name": "Hasankeyf",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 302482,
+        "name": "Pozantı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 748761,
+        "name": "Daday",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745030,
+        "name": "İyidere",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749748,
+        "name": "Khanjarah",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 309758,
+        "name": "Karaisalı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312689,
+        "name": "Hancağız",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 436399,
+        "name": "Yamacalti",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741878,
+        "name": "Lapseki",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 308233,
+        "name": "Kemah",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 314698,
+        "name": "Gelendost",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 743851,
+        "name": "Kavak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 742266,
+        "name": "Kumburgaz",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298298,
+        "name": "Uşak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 308217,
+        "name": "Kemer",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749704,
+        "name": "Çarşamba",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321637,
+        "name": "Bekilli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 737140,
+        "name": "Yusufeli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 303502,
+        "name": "Öncül",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 308504,
+        "name": "Kaymaz",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745955,
+        "name": "Hamamözü",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 299272,
+        "name": "Telminar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 299817,
+        "name": "Tarsus",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300593,
+        "name": "Sivrihisar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304885,
+        "name": "Mamak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 309683,
+        "name": "Karakise",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 750662,
+        "name": "Beykoz",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751036,
+        "name": "Başçiftlik",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 297144,
+        "name": "Yenice",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301101,
+        "name": "Serik",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 742617,
+        "name": "Koruköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 752437,
+        "name": "Akkuş",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301731,
+        "name": "Sarıgöl",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438400,
+        "name": "Denizciler",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 743616,
+        "name": "Kaytazdere",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747014,
+        "name": "Gebze",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747728,
+        "name": "Eceabat",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 313922,
+        "name": "Bisbin",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 325329,
+        "name": "Adıyaman",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 740828,
+        "name": "Ovacık",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745044,
+        "name": "Istanbul",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745164,
+        "name": "İnhisar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 296791,
+        "name": "Yeşilyurt",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311616,
+        "name": "İkisaray",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 324106,
+        "name": "Aliağa",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 392071,
+        "name": "Karsani",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 310839,
+        "name": "Kaklıç",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747489,
+        "name": "Erbaa",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311111,
+        "name": "İskenderun",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 748200,
+        "name": "Dernekpazarı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751931,
+        "name": "Arhavi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751818,
+        "name": "Artova",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 303195,
+        "name": "Osmaniye",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318675,
+        "name": "Ceyhan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 742902,
+        "name": "Kocaali",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 748378,
+        "name": "Demirtaş",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318904,
+        "name": "Çelikhan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 737611,
+        "name": "Yenişehir",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745714,
+        "name": "Havza",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751077,
+        "name": "Bandırma",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751503,
+        "name": "Aybastı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 6947641,
+        "name": "Büyükçekmece",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320835,
+        "name": "Bostancı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741570,
+        "name": "Mesudiye",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747090,
+        "name": "Fındıklı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 325278,
+        "name": "Gülağaç",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323776,
+        "name": "Antalya",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 7927370,
+        "name": "Kolej",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316473,
+        "name": "Doğankavak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 313995,
+        "name": "Gömeç",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 752770,
+        "name": "Ağlı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301116,
+        "name": "Şereflikoçhisar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312134,
+        "name": "Hilvan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 7590363,
+        "name": "Yazıbaşı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 319041,
+        "name": "Çayırözü",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 7569266,
+        "name": "Güce",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 308716,
+        "name": "Kavurma",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300399,
+        "name": "Söke",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 308224,
+        "name": "Kemalpaşa",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323094,
+        "name": "Aşkale",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 296708,
+        "name": "Yıldızeli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738377,
+        "name": "Umraniye",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746232,
+        "name": "Gürsu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739318,
+        "name": "Sulakyurt",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304794,
+        "name": "Mardin",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320635,
+        "name": "Taliban",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316431,
+        "name": "Doğanyol",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 740462,
+        "name": "Şabanözü",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749456,
+        "name": "Çaykara",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 310044,
+        "name": "Karacasu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738154,
+        "name": "Vize",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301855,
+        "name": "Saray",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320871,
+        "name": "Bor",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 324496,
+        "name": "Aksaray",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739816,
+        "name": "Şenkaya",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318885,
+        "name": "Çeltik",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746455,
+        "name": "Gülpınar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 306536,
+        "name": "Büyükdere Mahallesi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 325066,
+        "name": "Ahmetli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438909,
+        "name": "Başaran",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 742588,
+        "name": "Köseköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 7493960,
+        "name": "Erzurum Havaalanı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 7628416,
+        "name": "Sultangazi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 307084,
+        "name": "Kızıltepe",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318668,
+        "name": "Ceylanpınar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738064,
+        "name": "Yakuplu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738858,
+        "name": "Tepecik",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301251,
+        "name": "Selendi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321337,
+        "name": "Besni",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 744873,
+        "name": "Kağızman",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 750539,
+        "name": "Boğazkale",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 737021,
+        "name": "Zonguldak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 740881,
+        "name": "Osmaneli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 322051,
+        "name": "Banaz",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 314557,
+        "name": "Gevaş",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749392,
+        "name": "Çekerek",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 750637,
+        "name": "Beypazarı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301172,
+        "name": "Senirkent",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738025,
+        "name": "Yalova",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 309032,
+        "name": "Karlıova",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301609,
+        "name": "Sarıoğlan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300058,
+        "name": "Susurluk",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298388,
+        "name": "Ulus",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 7624782,
+        "name": "Çevrik",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315372,
+        "name": "Erzincan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320606,
+        "name": "Bozkurt",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 297925,
+        "name": "Yahşihan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 415534,
+        "name": "Nurdağı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739393,
+        "name": "Sölöz",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749916,
+        "name": "Çamaş",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311104,
+        "name": "İslahiye",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316544,
+        "name": "Divriği",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 310888,
+        "name": "Kadışehri",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301158,
+        "name": "Şenyurt",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321136,
+        "name": "Bigadiç",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747323,
+        "name": "Esenyurt",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745042,
+        "name": "İstanbul",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 319472,
+        "name": "Çandır",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739043,
+        "name": "Taşlık",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 295781,
+        "name": "Demre",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316411,
+        "name": "Doğubayazıt",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 322240,
+        "name": "Bala",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301017,
+        "name": "Sarnıç",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312872,
+        "name": "Halalca",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 750043,
+        "name": "Çakırlı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 8277210,
+        "name": "Beldibi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746308,
+        "name": "Güneysu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298113,
+        "name": "Van",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300920,
+        "name": "Seyitgazi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 319069,
+        "name": "Çayıralan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316223,
+        "name": "Sumbas",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745665,
+        "name": "Nurluca",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 748383,
+        "name": "Pulur",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 737054,
+        "name": "Zile",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 305742,
+        "name": "Kulu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 740352,
+        "name": "Sakarya",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 742580,
+        "name": "Köseler",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301884,
+        "name": "Şaphane",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321929,
+        "name": "Baskil",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 324490,
+        "name": "Akşehir",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751475,
+        "name": "Aydıntepe",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751816,
+        "name": "Artvin",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 306569,
+        "name": "Konya",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438247,
+        "name": "Oymakli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300087,
+        "name": "Avine",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301350,
+        "name": "Seferihisar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 322461,
+        "name": "Bağlıca",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323095,
+        "name": "Askale",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318925,
+        "name": "Çelebi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 324251,
+        "name": "Alakamış",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 309821,
+        "name": "Karahallı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300201,
+        "name": "Sultandağı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312523,
+        "name": "Haruniye",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 748230,
+        "name": "Derepazarı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 302401,
+        "name": "Refahiye",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315800,
+        "name": "Elbeyli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 324630,
+        "name": "Akköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738614,
+        "name": "Türkeli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 313825,
+        "name": "Gözpınar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311704,
+        "name": "İdil",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 319707,
+        "name": "Çamardı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301975,
+        "name": "Samandağ",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300075,
+        "name": "Suruç",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 302525,
+        "name": "Polatlı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 314038,
+        "name": "Gölmarmara",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 742794,
+        "name": "Kofçaz",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438236,
+        "name": "Anayazı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746547,
+        "name": "Göynücek",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316270,
+        "name": "Dorumali",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323653,
+        "name": "Arıcak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 297789,
+        "name": "Yalvaç",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298953,
+        "name": "Toptepe",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 309527,
+        "name": "Karaman",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 322729,
+        "name": "Ayrancı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 436138,
+        "name": "Yeşildere",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438162,
+        "name": "Balıklıdere",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739917,
+        "name": "Seben",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741487,
+        "name": "Mudanya",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311261,
+        "name": "İnönü",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316475,
+        "name": "Doğanhisar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 319357,
+        "name": "Çat",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751916,
+        "name": "Arıklıbağları",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 310677,
+        "name": "Kalkan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 306041,
+        "name": "Kozluk",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746878,
+        "name": "Giresun",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311628,
+        "name": "Aviski",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 324577,
+        "name": "Akören",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 314665,
+        "name": "Gemerek",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323828,
+        "name": "Anamur",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315468,
+        "name": "Ergani",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318137,
+        "name": "Hakkâri",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 439119,
+        "name": "Koyunluca",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316165,
+        "name": "Dumlupınar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304041,
+        "name": "Muş",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747158,
+        "name": "Fatih",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321768,
+        "name": "Bayırbağ",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739634,
+        "name": "Silivri",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 752584,
+        "name": "Akçakoca",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 314324,
+        "name": "Gökçekoru",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 322060,
+        "name": "Balya",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 743537,
+        "name": "Kelkit",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438184,
+        "name": "Hacıpaşa",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301546,
+        "name": "Sarız",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311319,
+        "name": "İncirlik",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 750446,
+        "name": "Boyalık",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 305089,
+        "name": "Lice",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 297839,
+        "name": "Yalıhüyük",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 310907,
+        "name": "Kadınhanı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323082,
+        "name": "Aslanapa",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438237,
+        "name": "Karasüleymanlı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741136,
+        "name": "Olur",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318487,
+        "name": "Çıkrıkcı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320177,
+        "name": "Nikfer",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 303648,
+        "name": "Dara",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 313640,
+        "name": "Gülveren",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 319163,
+        "name": "Çavdır",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 742657,
+        "name": "Korgun",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301829,
+        "name": "Saraykent",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 303409,
+        "name": "Orhaneli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301453,
+        "name": "Savaştepe",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311433,
+        "name": "İmranlı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746666,
+        "name": "Gölcük",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 310554,
+        "name": "Kangal",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747262,
+        "name": "Eskipazar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745076,
+        "name": "İskilip",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 309134,
+        "name": "Karkamış",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315367,
+        "name": "Erzurum",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304414,
+        "name": "Mezraa",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 6970803,
+        "name": "Aşağı Aladağ",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315378,
+        "name": "Eruh",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438057,
+        "name": "Alvan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 7701054,
+        "name": "Kurtuluş",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318404,
+        "name": "Çınar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739636,
+        "name": "Şile",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 313658,
+        "name": "Gülşehir",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323806,
+        "name": "Andaç",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320004,
+        "name": "Çağlayancerit",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738668,
+        "name": "Torul",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 6947639,
+        "name": "Başakşehir",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298585,
+        "name": "Reshidi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 7642392,
+        "name": "Gülekildam",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 8074164,
+        "name": "Yükseliş",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 319787,
+        "name": "Çalışkan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315972,
+        "name": "Kocasinan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 310479,
+        "name": "Kapaklı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311044,
+        "name": "İzmir",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 313199,
+        "name": "Güzelyurt",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 439101,
+        "name": "Pekmezli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738123,
+        "name": "Yağlıdere",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 750594,
+        "name": "Bilmece",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 857230,
+        "name": "Muratbey",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316542,
+        "name": "Diyadin",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312406,
+        "name": "Alacakaya",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 744958,
+        "name": "Kabataş",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 309131,
+        "name": "Kargı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 750477,
+        "name": "Bostancılı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739061,
+        "name": "Taşköprü",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 6955677,
+        "name": "Çankaya",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320201,
+        "name": "Cinatamiho",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738055,
+        "name": "Yalakdere",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300743,
+        "name": "Sincik",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 392051,
+        "name": "Çardaklı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 742348,
+        "name": "Küçükkumla",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 306194,
+        "name": "Köyceğiz",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 307597,
+        "name": "Karahan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320374,
+        "name": "Buharkent",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 305680,
+        "name": "Beykonak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 325426,
+        "name": "Acıpayam",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738251,
+        "name": "Uzunköprü",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311603,
+        "name": "İkizce",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739425,
+        "name": "Söğütlü",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 750165,
+        "name": "Laçin",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312888,
+        "name": "Hakkari",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 750468,
+        "name": "Boyabat",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 297371,
+        "name": "Yazıhan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 299900,
+        "name": "Talas",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 310200,
+        "name": "Karaburun",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301442,
+        "name": "Savcıllı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 743615,
+        "name": "Kazan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 7581514,
+        "name": "Çatalpınar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 7619146,
+        "name": "Şahinbey",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 307102,
+        "name": "Kızılsu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316726,
+        "name": "Dikili",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751277,
+        "name": "Bahçecik",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 740675,
+        "name": "Pazar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 303022,
+        "name": "Özalp",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312289,
+        "name": "Haymana",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 322826,
+        "name": "Aydıncık",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315808,
+        "name": "Elazığ",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301827,
+        "name": "Sarayköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749263,
+        "name": "Cerrah",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751511,
+        "name": "Ayaş",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318227,
+        "name": "Çobanlar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 303750,
+        "name": "Nusaybin",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311869,
+        "name": "Hozat",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 7628420,
+        "name": "Sancaktepe",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300821,
+        "name": "Siirt",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 310855,
+        "name": "Kâhta",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 752627,
+        "name": "Akçaabat",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 308230,
+        "name": "Kemaliye",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 439221,
+        "name": "Işıklar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315953,
+        "name": "Eğil",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749109,
+        "name": "Zurzuna",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298533,
+        "name": "Kerh",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323457,
+        "name": "Aşağı Beğdeş",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 307727,
+        "name": "Kiraz",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 750938,
+        "name": "Bayburt",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323660,
+        "name": "Arguvan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 324953,
+        "name": "Akçadağ",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 740920,
+        "name": "Ortaova",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749183,
+        "name": "Cide",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301353,
+        "name": "Şefaatlı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 303062,
+        "name": "Oyalı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738276,
+        "name": "Uzundere",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 740177,
+        "name": "Saraydüzü",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749421,
+        "name": "Kürtün",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 857229,
+        "name": "Celâliye",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 302800,
+        "name": "Pazarcık",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 302924,
+        "name": "Palamutlu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321887,
+        "name": "Başmakçı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312894,
+        "name": "Hafik",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 319487,
+        "name": "Çandarlı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741045,
+        "name": "Orhangazi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300352,
+        "name": "Sorgun",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746426,
+        "name": "Gümüşhacıköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 752278,
+        "name": "Alaca",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300808,
+        "name": "Silifke",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304734,
+        "name": "Mazıdağı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741771,
+        "name": "Malkara",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300601,
+        "name": "Sivrice",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320581,
+        "name": "Bozova",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 296667,
+        "name": "Yoğurtlu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321031,
+        "name": "Bismil",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 324927,
+        "name": "Akçakent",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 743818,
+        "name": "Kavaklı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 314903,
+        "name": "Foça",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 750510,
+        "name": "Bolu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751388,
+        "name": "Azdavay",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 743404,
+        "name": "Kestel",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747503,
+        "name": "Enez",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316466,
+        "name": "Doğanköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 740729,
+        "name": "Pamukova",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741330,
+        "name": "Narman",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 310004,
+        "name": "Karaçoban",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 319047,
+        "name": "Çayırlı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 744168,
+        "name": "Karamürsel",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745007,
+        "name": "Kabadüz",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 737756,
+        "name": "Yeniçağa",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746643,
+        "name": "Göle",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301290,
+        "name": "Sekili",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 297704,
+        "name": "Yaprakbaşı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311071,
+        "name": "Isparta",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 317851,
+        "name": "Menderes",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 744138,
+        "name": "Oğuzlar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298485,
+        "name": "Ula",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 748893,
+        "name": "Çorlu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751950,
+        "name": "Ardanuç",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 307654,
+        "name": "Kırıkkale",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 322810,
+        "name": "Tillo",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 296560,
+        "name": "Yozgat",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 324172,
+        "name": "Alaşehir",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 752297,
+        "name": "Akyaka",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 740263,
+        "name": "Samsun",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 309512,
+        "name": "Karamanlı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 8140653,
+        "name": "Cumayeri",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 314573,
+        "name": "Germencik",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 299054,
+        "name": "Tomarza",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311453,
+        "name": "İmamoğlu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301716,
+        "name": "Sarıharman",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315639,
+        "name": "Emet",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300273,
+        "name": "Şuhut",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318755,
+        "name": "Çeşme",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 322819,
+        "name": "Aydın",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323930,
+        "name": "Altınekin",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 742164,
+        "name": "Kurşunlu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749163,
+        "name": "Çiftlikköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 752188,
+        "name": "Alanyurt",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 307786,
+        "name": "Kınık",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751103,
+        "name": "Ondokuzmayıs",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312663,
+        "name": "Hani",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301657,
+        "name": "Seri",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323750,
+        "name": "Araban",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 307939,
+        "name": "Kılavuz",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301167,
+        "name": "Ebish",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304983,
+        "name": "Mahmudiye",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 308365,
+        "name": "Keçiborlu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320406,
+        "name": "Bünyan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739549,
+        "name": "Şişli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 299499,
+        "name": "Tefenni",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311553,
+        "name": "Ilgın",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321426,
+        "name": "Bergama",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 317497,
+        "name": "Dazikom",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749740,
+        "name": "Çanta",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745664,
+        "name": "Hendek",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 305359,
+        "name": "Kuşadası",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311777,
+        "name": "Hüyük",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 305210,
+        "name": "Kuyucak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315795,
+        "name": "Elbistan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 392066,
+        "name": "Yemişli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438399,
+        "name": "Guzelkoy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 322324,
+        "name": "Bahçesaray",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300997,
+        "name": "Seyhan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323784,
+        "name": "Ankara",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 317543,
+        "name": "Datça",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300640,
+        "name": "Şırnak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 740481,
+        "name": "Rize",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 748148,
+        "name": "Digor",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 305267,
+        "name": "Kütahya",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 305810,
+        "name": "Kula",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739107,
+        "name": "Taraklı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 306537,
+        "name": "Köprübaşı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 303763,
+        "name": "Nurhak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746611,
+        "name": "Balarim",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 740430,
+        "name": "Safranbolu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316096,
+        "name": "Duruca",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 303357,
+        "name": "Ortabağ",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438392,
+        "name": "Uzunkavak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 325304,
+        "name": "Afşin",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323662,
+        "name": "Argıncık",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 313794,
+        "name": "Baraniferho",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 740883,
+        "name": "Osmancık",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747912,
+        "name": "Karşıyaka",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 752926,
+        "name": "Abana",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 743438,
+        "name": "Keşap",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 7280504,
+        "name": "Yaniklar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 302912,
+        "name": "Palu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315835,
+        "name": "Celeyke",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318603,
+        "name": "Çifteler",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323004,
+        "name": "Aksu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 750296,
+        "name": "Sarıcakaya",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 750615,
+        "name": "Asarcık",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 317332,
+        "name": "Delice",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312699,
+        "name": "Hanköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301529,
+        "name": "Edremit",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316795,
+        "name": "Develi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301537,
+        "name": "Şarkışla",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320437,
+        "name": "Buldan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 322164,
+        "name": "Balıkesir",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 324643,
+        "name": "Akkışla",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300614,
+        "name": "Siverek",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745387,
+        "name": "İhsangazi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 307948,
+        "name": "Kasaba",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 744471,
+        "name": "Karacaören",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 324594,
+        "name": "Akmezar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321580,
+        "name": "Belek",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745697,
+        "name": "Hayrabolu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 297628,
+        "name": "Yarma",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304341,
+        "name": "Minare",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318526,
+        "name": "Serkan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 296895,
+        "name": "Yerköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 322887,
+        "name": "Avsallar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746497,
+        "name": "Güdül",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 7549091,
+        "name": "Pelitli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321122,
+        "name": "Bilecik",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746958,
+        "name": "Gemlik",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 297099,
+        "name": "Yenifakılı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311665,
+        "name": "Iğdır",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304531,
+        "name": "Mersin",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298977,
+        "name": "Toprakkale",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 740605,
+        "name": "Perşembe",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438122,
+        "name": "Aşağıokçular",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298316,
+        "name": "Urla",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 742987,
+        "name": "Kızılırmak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 743051,
+        "name": "Kızılcahamam",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321360,
+        "name": "Beşiri",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 6940491,
+        "name": "Arıköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 305532,
+        "name": "Kurtalan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 313500,
+        "name": "Güneren",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 296847,
+        "name": "Yeşilköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315758,
+        "name": "Eleşkirt",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320621,
+        "name": "Bozkır",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 6947640,
+        "name": "Beylikdüzü",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298088,
+        "name": "Varto",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747764,
+        "name": "Düzce",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739838,
+        "name": "Selimpaşa",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 305737,
+        "name": "Kuluncak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751976,
+        "name": "Araç",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300030,
+        "name": "Pavlu Cebel",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312531,
+        "name": "Harran",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 322508,
+        "name": "Bağgöze",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 744814,
+        "name": "Kalecik",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746565,
+        "name": "Görele",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749508,
+        "name": "Çaycuma",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 308496,
+        "name": "Kaynakkaya",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741644,
+        "name": "Mengen",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301824,
+        "name": "Sarayönü",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 744537,
+        "name": "Karacabey",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741538,
+        "name": "Mihalgazi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 6354984,
+        "name": "Merter Keresteciler",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745169,
+        "name": "İnegol",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738926,
+        "name": "Tekirdağ",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 313314,
+        "name": "Gürün",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 325183,
+        "name": "Ağın",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 299755,
+        "name": "Taşkent",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315530,
+        "name": "Erciş",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300796,
+        "name": "Silvan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 306859,
+        "name": "Göcek",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 299545,
+        "name": "Tavşanlı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304612,
+        "name": "Menemen",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 308261,
+        "name": "Keles",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 322673,
+        "name": "Ayvalık",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323927,
+        "name": "Altunhisar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 748166,
+        "name": "Devrekani",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751170,
+        "name": "Balçık",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312504,
+        "name": "Hasanbeyli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311533,
+        "name": "Ilıca",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 307657,
+        "name": "Kırıkhan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738228,
+        "name": "Vakfıkebir",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311358,
+        "name": "İncesu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312024,
+        "name": "Hizan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 322618,
+        "name": "Babadağ",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 742658,
+        "name": "Korgan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746425,
+        "name": "Gumushkhane",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 296138,
+        "name": "Yumurtalik",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 297466,
+        "name": "Yayladağı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 303353,
+        "name": "Ortaca",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 308584,
+        "name": "Kayalıpınar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 296644,
+        "name": "Yolbaşı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 314072,
+        "name": "Gölhisar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 303826,
+        "name": "Niğde",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 314829,
+        "name": "Gaziantep",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316634,
+        "name": "Dinar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438243,
+        "name": "Günyazı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301567,
+        "name": "Sarıveliler",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 325420,
+        "name": "Acırlı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300141,
+        "name": "Sulusaray",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 302787,
+        "name": "Pazarlar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746940,
+        "name": "Gerede",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 309311,
+        "name": "Karataş",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 437241,
+        "name": "Aşağı Karafakılı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741385,
+        "name": "Mustafakemalpaşa",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315183,
+        "name": "Eşme",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 752083,
+        "name": "Almus",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 296942,
+        "name": "Yenişarbademli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438129,
+        "name": "Boynuyoğun",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316284,
+        "name": "Dörtyol",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746413,
+        "name": "Gümüşova",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 325449,
+        "name": "Acıgöl",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 740088,
+        "name": "Sarıkamış",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 309647,
+        "name": "Ağrı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741529,
+        "name": "Mimarsinan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749778,
+        "name": "Çanakkale",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 313960,
+        "name": "Gördes",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738372,
+        "name": "Umurbey",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 7927407,
+        "name": "Batı Sitesi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 744110,
+        "name": "Karapürçek",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 324768,
+        "name": "Akdağmadeni",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438161,
+        "name": "Büyükçat",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 309008,
+        "name": "Karpuzlu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751214,
+        "name": "Bakırköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312899,
+        "name": "Hadim",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 322250,
+        "name": "Baklan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316330,
+        "name": "Domaniç",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 302043,
+        "name": "Salihli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323906,
+        "name": "Altınözü",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739887,
+        "name": "Şehremini",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298414,
+        "name": "Ulukışla",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738541,
+        "name": "Tuzluca",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 297461,
+        "name": "Yayladere",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301010,
+        "name": "Seydişehir",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 297917,
+        "name": "Yahyalı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318567,
+        "name": "Girikbedro",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315401,
+        "name": "Ermenek",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298727,
+        "name": "Tutak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318879,
+        "name": "Çeltikçi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304009,
+        "name": "Mutki",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 299413,
+        "name": "Tekman",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321750,
+        "name": "Baykan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318580,
+        "name": "Melikgazi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 743881,
+        "name": "Kastamonu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745026,
+        "name": "İznik",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320552,
+        "name": "Bozyazı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746252,
+        "name": "Gürgentepe",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747155,
+        "name": "Fatsa",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745028,
+        "name": "İzmit",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749819,
+        "name": "Çamoluk",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438206,
+        "name": "Dagduzu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 743382,
+        "name": "Kıbrıscık",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 306908,
+        "name": "Koçarlı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749701,
+        "name": "Çarşıbaşı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 314588,
+        "name": "Gerger",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 308659,
+        "name": "Kayacık",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 325361,
+        "name": "Adana",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745922,
+        "name": "Hamzabey",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320879,
+        "name": "Bolvadin",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 297286,
+        "name": "Yedisu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 302624,
+        "name": "Razvaliny Ayinvan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 322965,
+        "name": "Avanos",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298770,
+        "name": "Türkoğlu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 743439,
+        "name": "Keşan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321733,
+        "name": "Bayramiç",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739215,
+        "name": "Sürmene",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298795,
+        "name": "Republic of Turkey",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 742865,
+        "name": "Kocaeli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 306525,
+        "name": "Köprüköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315218,
+        "name": "Eskil",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751952,
+        "name": "Ardahan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323733,
+        "name": "Aran",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 295982,
+        "name": "Zara",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301566,
+        "name": "Sarıyahşi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 317681,
+        "name": "Dalyan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318581,
+        "name": "Çiftlik",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738965,
+        "name": "Tavşancıl",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751575,
+        "name": "Atkaracalar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 862940,
+        "name": "Halıdere",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 302150,
+        "name": "Saimbeyli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745148,
+        "name": "İpsala",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746898,
+        "name": "Geyve",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 314648,
+        "name": "Genç",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321836,
+        "name": "Batman",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300257,
+        "name": "Sulak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 317587,
+        "name": "Dargeçit",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304078,
+        "name": "Musabeyli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301161,
+        "name": "Şenoba",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318372,
+        "name": "Çine",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320745,
+        "name": "Bozalan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738907,
+        "name": "Tekkeköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747340,
+        "name": "Esenler",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298198,
+        "name": "Uzungeçit",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298378,
+        "name": "Uluyatır",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316899,
+        "name": "Derik",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738354,
+        "name": "Karaköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321673,
+        "name": "Beğendik",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 313393,
+        "name": "Günyüzü",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 7732576,
+        "name": "Okmeydanı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323779,
+        "name": "Antakya",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 303700,
+        "name": "Ödemiş",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 748822,
+        "name": "Corlu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 322391,
+        "name": "Bahçe",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 308221,
+        "name": "Kemerköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 325109,
+        "name": "Ahırlı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749841,
+        "name": "Çamlıhemşin",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 306935,
+        "name": "Kocaköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741099,
+        "name": "Orduköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301209,
+        "name": "Şemdinli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438967,
+        "name": "Doruklu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 442301,
+        "name": "Batikent",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746590,
+        "name": "Gölyaka",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739236,
+        "name": "Sungurlu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 752016,
+        "name": "Amasra",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323736,
+        "name": "Aralık",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 304110,
+        "name": "Muratlı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300732,
+        "name": "Sındırgı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741737,
+        "name": "Manyas",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 748240,
+        "name": "Dereli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315621,
+        "name": "Emirdağ",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312001,
+        "name": "Selçuklu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 312245,
+        "name": "Hekimhan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 324140,
+        "name": "Alâzı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 309554,
+        "name": "Karalar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300371,
+        "name": "Soma",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 325336,
+        "name": "Adilcevaz",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 305041,
+        "name": "Maden",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320533,
+        "name": "Bucak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 751971,
+        "name": "Araklı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 313110,
+        "name": "Hacıbektaş",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747899,
+        "name": "Dörtdivan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 318253,
+        "name": "Cizre",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741730,
+        "name": "Marmara",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 747366,
+        "name": "Esenboğa",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 297119,
+        "name": "Altpınar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298728,
+        "name": "Tut",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 317496,
+        "name": "Dazkırı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 322817,
+        "name": "İbradı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 313742,
+        "name": "Güleçler",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 309610,
+        "name": "Karakoyunlu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320942,
+        "name": "Boğazören",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301393,
+        "name": "Sazköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 324315,
+        "name": "Turluk",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738468,
+        "name": "Uğurludağ",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739950,
+        "name": "Şavşat",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 740941,
+        "name": "Hemşin",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 317133,
+        "name": "Demiryol",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 388292,
+        "name": "Barbaros",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 313328,
+        "name": "Gürpınar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 314133,
+        "name": "Gölbaşı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 325171,
+        "name": "Ağlasun",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 309705,
+        "name": "Karakeçili",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 322692,
+        "name": "Ayvacık",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 299701,
+        "name": "Taşlıçay",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 303046,
+        "name": "Oymataş",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 307864,
+        "name": "Kilis",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 309199,
+        "name": "Karayazı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745362,
+        "name": "İkizdere",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 313713,
+        "name": "Güllü",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 313669,
+        "name": "Gülnar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 7628419,
+        "name": "Sultanbeyli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749184,
+        "name": "Ciciler",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 303830,
+        "name": "Nevşehir",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739161,
+        "name": "Tacir",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 7627067,
+        "name": "Bahçelievler",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438158,
+        "name": "Uzunbağ",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 313973,
+        "name": "Gönen",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438084,
+        "name": "Açıkdere",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 752020,
+        "name": "Alucra",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 313635,
+        "name": "Becuh",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 752184,
+        "name": "Alaplı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 303092,
+        "name": "Ovakavağı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315061,
+        "name": "Ezine",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 317634,
+        "name": "Danacılı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 438046,
+        "name": "Kuzeytepe",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 748870,
+        "name": "Çubuk",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741335,
+        "name": "Narlıca",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311314,
+        "name": "İncirliova",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746983,
+        "name": "Gelibolu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320328,
+        "name": "Burunyuva",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 744926,
+        "name": "Kadıköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749279,
+        "name": "Çerkeş",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 320557,
+        "name": "Bozüyük",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 313526,
+        "name": "Eksere",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 314188,
+        "name": "Göksun",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 306476,
+        "name": "Korkut",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 750228,
+        "name": "Büyükçavuşlu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 303642,
+        "name": "Oğuzeli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 316540,
+        "name": "Diyarbakır",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 296173,
+        "name": "Yüksekova",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 745884,
+        "name": "Hanönü",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 750874,
+        "name": "Bayramören",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 746423,
+        "name": "Gümüşhane",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 298647,
+        "name": "Tuzlukçu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 305750,
+        "name": "Kulp",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 308635,
+        "name": "Sanjaklı Kayadibi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 738803,
+        "name": "Terme",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315515,
+        "name": "Erdemli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 300797,
+        "name": "Silopi",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 740650,
+        "name": "Pehlivanköy",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 315695,
+        "name": "Bulancak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 439215,
+        "name": "Yukarı Taşyalak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323721,
+        "name": "Arapgir",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741892,
+        "name": "Ladik",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 742238,
+        "name": "Kumru",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 739574,
+        "name": "Şiran",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 741098,
+        "name": "Ordu",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 744562,
+        "name": "Karabük",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 306112,
+        "name": "Kozan",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 439228,
+        "name": "Çıplak",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 303147,
+        "name": "Otlukbeli",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321088,
+        "name": "Binatlı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323039,
+        "name": "Atabey",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 311547,
+        "name": "İliç",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321814,
+        "name": "Bayat",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 306207,
+        "name": "Kovancılar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 319823,
+        "name": "Çaldıran",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 749644,
+        "name": "Çatalca",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 301238,
+        "name": "Side",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 296653,
+        "name": "Yolağzı",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 324698,
+        "name": "Akhisar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321590,
+        "name": "Mestanpınar",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 323921,
+        "name": "Altınkum",
+        "state": "",
+        "country": "TR"
+    },
+    {
+        "id": 321191,
+        "name": "Beyşehir",
+        "state": "",
+        "country": "TR"
+    }
+]

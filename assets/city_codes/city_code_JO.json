@@ -1,0 +1,548 @@
+[
+    {
+        "id": 250294,
+        "name": "Ash Shajarah",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250603,
+        "name": "Al Kittah",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250258,
+        "name": "As Salţ",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250462,
+        "name": "Al Quwayrah",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 249310,
+        "name": "Ḩalāwah",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250461,
+        "name": "Ḩayy al Quwaysimah",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 248738,
+        "name": "Kafr Abīl",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 247103,
+        "name": "Saḩam al Kaffārāt",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250092,
+        "name": "Muḩāfaz̧at az Zarqā’",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 246522,
+        "name": "Tibnah",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 246345,
+        "name": "Umm al Qiţţayn",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 247061,
+        "name": "Sāl",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250582,
+        "name": "Mafraq",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 248734,
+        "name": "Kafr Asad",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 249184,
+        "name": "Ḩātim",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250186,
+        "name": "Aţ Ţayyibah",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 247340,
+        "name": "Raymūn",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250624,
+        "name": "Qīr Moāv",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250345,
+        "name": "Ar Rabbah",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250583,
+        "name": "Al Mafraq",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 248627,
+        "name": "Kharjā",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 248414,
+        "name": "Kurayyimah",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250439,
+        "name": "Amman Governorate",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250821,
+        "name": "Adir",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 249676,
+        "name": "Dayr Yūsuf",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 6946409,
+        "name": "Karak City",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250637,
+        "name": "Al Jubayhah",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 249318,
+        "name": "Ḩakamā",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 249933,
+        "name": "Bayt Īdis",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 443123,
+        "name": "Muḩāfaz̧at Mādabā",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 246013,
+        "name": "Wādī as Sīr",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 247496,
+        "name": "Qumaym",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250751,
+        "name": "Muḩāfaz̧at al Balqā’",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 248250,
+        "name": "Malkā",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250625,
+        "name": "Al Karak",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 247659,
+        "name": "Qafqafā",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250090,
+        "name": "Zarqa",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 443122,
+        "name": "Muḩāfaz̧at al ‘Aqabah",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 248434,
+        "name": "Kitim",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250420,
+        "name": "‘Anjarah",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250106,
+        "name": "‘Ayy",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250487,
+        "name": "Al Qaşr",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250738,
+        "name": "Ḩayy al Bunayyāt",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250649,
+        "name": "Al Jafr",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250152,
+        "name": "Aydūn",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 248875,
+        "name": "Jarash",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250085,
+        "name": "Az Zubaydīyah",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250198,
+        "name": "Aţ Ţafīlah",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 247105,
+        "name": "Saḩāb",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 7838895,
+        "name": "Russeifa",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250639,
+        "name": "Al Jīzah",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 245915,
+        "name": "Zaḩar",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250441,
+        "name": "Amman",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 249930,
+        "name": "Bayt Yāfā",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 7031355,
+        "name": "Tall al Khalīfah",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 247176,
+        "name": "Şabḩā",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 248803,
+        "name": "Judita",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250697,
+        "name": "Al Ḩamrā’",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250052,
+        "name": "Balīlā",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 245989,
+        "name": "Waqqāş",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250336,
+        "name": "Ar Ramthā",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250124,
+        "name": "‘Ayn Jannah",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 248055,
+        "name": "Miqāţ",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 248923,
+        "name": "‘Izrā",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 248719,
+        "name": "Kafr Sawm",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250799,
+        "name": "‘Ajlūn",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250187,
+        "name": "Al Khinzīrah",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 247015,
+        "name": "Şammā",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250199,
+        "name": "Muḩāfaz̧at aţ Ţafīlah",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 248311,
+        "name": "Aş Şafāwī",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250303,
+        "name": "Isfīr al Maḩaṭṭah",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250774,
+        "name": "Aqaba",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250623,
+        "name": "Al Karāmah",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 245939,
+        "name": "Yarqā",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 247068,
+        "name": "Sakib",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250540,
+        "name": "Al Mazār al Janūbī",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 246008,
+        "name": "Petra",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 246314,
+        "name": "Umm as Summāq",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 247074,
+        "name": "Şakhrah",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 249849,
+        "name": "Burmā",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 248843,
+        "name": "Jāwā",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 7838911,
+        "name": "Ajloun",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 249842,
+        "name": "Buşayrā",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 250179,
+        "name": "Aţ Ţurrah",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 248174,
+        "name": "Marka",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 248380,
+        "name": "Muḩāfaz̧at Ma‘ān",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 248944,
+        "name": "Irbid",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 246725,
+        "name": "Sūf",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 248370,
+        "name": "Mādabā",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 248816,
+        "name": "Hashemite Kingdom of Jordan",
+        "state": "",
+        "country": "JO"
+    },
+    {
+        "id": 246202,
+        "name": "Umm Qays",
+        "state": "",
+        "country": "JO"
+    }
+]

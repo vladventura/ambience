@@ -1,0 +1,1322 @@
+[
+    {
+        "id": 784505,
+        "name": "Veljusa",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 792501,
+        "name": "Bogovinje",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 796095,
+        "name": "Strimnica",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 789541,
+        "name": "Kavadarci",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787778,
+        "name": "Demir Hisar",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 784884,
+        "name": "Trsino",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 788886,
+        "name": "Kumanovo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 796096,
+        "name": "Dobarce",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 783938,
+        "name": "Zelenikovo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 792809,
+        "name": "Bedinje",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 784732,
+        "name": "Valandovo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785537,
+        "name": "Star Dojran",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 791371,
+        "name": "Dolna Banjica",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 863831,
+        "name": "Opština Aračinovo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 790532,
+        "name": "Gorna Belica",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785201,
+        "name": "Sveti Nikole",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 792835,
+        "name": "Batinci",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787827,
+        "name": "Мралино",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785639,
+        "name": "Srbinovo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 792553,
+        "name": "Blatec",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 863890,
+        "name": "Opština Radoviš",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 863903,
+        "name": "Opština Studeničani",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785679,
+        "name": "Сопиште",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 786674,
+        "name": "Pršovce",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787928,
+        "name": "Miravci",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 788807,
+        "name": "Laki",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 791559,
+        "name": "Delcevo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 863919,
+        "name": "Opština Želino",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 786005,
+        "name": "Selce",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 784424,
+        "name": "Vinica",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 789028,
+        "name": "Krivogashtani",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 790295,
+        "name": "Gostivar",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 786700,
+        "name": "Probishtip",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 788654,
+        "name": "Lipkovo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 786026,
+        "name": "Sedlarevo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 788516,
+        "name": "Lojane",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785011,
+        "name": "Topolčani",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 783926,
+        "name": "Zelino",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 792767,
+        "name": "Belčišta",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 792227,
+        "name": "Brvenica",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 784711,
+        "name": "Markov Grad",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787383,
+        "name": "Orovnik",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 786718,
+        "name": "Prisojnica",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 788021,
+        "name": "Mešeišta",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 791443,
+        "name": "Dobri Dol",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787526,
+        "name": "Oblesevo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 789045,
+        "name": "Kriva Palanka",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 788906,
+        "name": "Kukurečani",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 792019,
+        "name": "Cegrane",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787444,
+        "name": "Orashac",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787624,
+        "name": "Novaci",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 863871,
+        "name": "Opština Kruševo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785113,
+        "name": "Tearce",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 788610,
+        "name": "Lisičani",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 863889,
+        "name": "Opština Probištip",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 790634,
+        "name": "Golema Rečica",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 863844,
+        "name": "Opština Delčevo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 790084,
+        "name": "Gurgurnica",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 789962,
+        "name": "Izvor",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 784737,
+        "name": "Vaksince",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 833357,
+        "name": "Ilinden",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785082,
+        "name": "Tetovo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787971,
+        "name": "Miletino",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 789611,
+        "name": "Kamenjane",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 791363,
+        "name": "Dolneni",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785604,
+        "name": "Dolno Srpci",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 792257,
+        "name": "Makedonski Brod",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 792197,
+        "name": "Bučin",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 863616,
+        "name": "Patec",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 789342,
+        "name": "Konče",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 784351,
+        "name": "Vladimirovo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 790183,
+        "name": "Grčec",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785881,
+        "name": "Šipkovica",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787495,
+        "name": "Ognjaci",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785802,
+        "name": "Slatino",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 792656,
+        "name": "Berovo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 790018,
+        "name": "Ilovica",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 790305,
+        "name": "Gorobinci",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785270,
+        "name": "Sušica",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 789603,
+        "name": "Kanatlarci",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 791343,
+        "name": "Dolno Količani",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 718075,
+        "name": "North Macedonia",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 791548,
+        "name": "Delogožda",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 788415,
+        "name": "Lukovo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785058,
+        "name": "Veles",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785482,
+        "name": "Shtip",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785092,
+        "name": "Teovo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787448,
+        "name": "Oraovica",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 786477,
+        "name": "Ранковце",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 786251,
+        "name": "Romanovci",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 792523,
+        "name": "Bogdanci",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 786595,
+        "name": "Radishani",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 784212,
+        "name": "Vrapčište",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 790137,
+        "name": "Grnčari",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 863875,
+        "name": "Opština Lipkovo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785387,
+        "name": "Struga",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 786735,
+        "name": "Prilep",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787512,
+        "name": "Obršani",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 786093,
+        "name": "Saraj",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 789473,
+        "name": "Клечовце",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 863860,
+        "name": "Opština Karpoš",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 788145,
+        "name": "Marino",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 789090,
+        "name": "Kratovo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 789527,
+        "name": "Kičevo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787902,
+        "name": "Mislesevo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 790319,
+        "name": "Gorno Orizari",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 7886881,
+        "name": "Centar Župa",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785345,
+        "name": "Studeničane",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 786113,
+        "name": "Samokov",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 788774,
+        "name": "Lažani",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 791819,
+        "name": "Crnilište",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 786425,
+        "name": "Ratevo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785620,
+        "name": "Sredno Konjare",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 786969,
+        "name": "Podareš",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787772,
+        "name": "Murtino",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 788950,
+        "name": "Krušopek",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 784462,
+        "name": "Vevčani",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 784700,
+        "name": "Vasilevo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787853,
+        "name": "Morani",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 784692,
+        "name": "Vataša",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785792,
+        "name": "Slepče",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 789101,
+        "name": "Krani",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 790034,
+        "name": "Идризово",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 793113,
+        "name": "Арачиново",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 789247,
+        "name": "Kosel",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 791407,
+        "name": "Dobruševo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 790812,
+        "name": "Forino",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 786339,
+        "name": "Resen",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787487,
+        "name": "Ohrid",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 788105,
+        "name": "Matejce",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 783809,
+        "name": "Zrnovci",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 833609,
+        "name": "Muleza",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 784679,
+        "name": "Velesta",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 791720,
+        "name": "Чучер - Сандево",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787877,
+        "name": "Mogila",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 792150,
+        "name": "Bukovik",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 788517,
+        "name": "Logovardi",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 790744,
+        "name": "Gevgelija",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 789629,
+        "name": "Makedonska Kamenica",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 789703,
+        "name": "Kadino",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 792592,
+        "name": "Bistrica",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 792489,
+        "name": "Bojane",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 795062,
+        "name": "Poroj",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787692,
+        "name": "Nerašte",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 791606,
+        "name": "Debar",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 786171,
+        "name": "Rusinovo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 784205,
+        "name": "Vratnica",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 788915,
+        "name": "Kuklis",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 789563,
+        "name": "Karbinci",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 792007,
+        "name": "Čelopek",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 790848,
+        "name": "Lozovo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 863862,
+        "name": "Opština Kičevo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 783877,
+        "name": "Žitoše",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 791542,
+        "name": "Demir Kapija",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 791419,
+        "name": "Dobrošte",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785380,
+        "name": "Strumica",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 863900,
+        "name": "Opština Štip",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 790217,
+        "name": "Gradsko",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 792676,
+        "name": "Beranci",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787147,
+        "name": "Pehčevo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 784854,
+        "name": "Tuin",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787054,
+        "name": "Pirava",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 788961,
+        "name": "Krusevo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 792034,
+        "name": "Čaška",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785515,
+        "name": "Старо Нагоричане",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787072,
+        "name": "Петровец",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 791954,
+        "name": "Češinovo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 786565,
+        "name": "Radovis",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 788790,
+        "name": "Larce",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 789403,
+        "name": "Kochani",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787416,
+        "name": "Orizari",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 790248,
+        "name": "Gradec",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787715,
+        "name": "Negotino",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787301,
+        "name": "Otlja",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787475,
+        "name": "Oktisi",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 863865,
+        "name": "Opština Kočani",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785466,
+        "name": "Stojakovo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 784239,
+        "name": "Vraneštica",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 784902,
+        "name": "Trnovo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 784027,
+        "name": "Zajas",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785389,
+        "name": "Strovija",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 789830,
+        "name": "Jažince",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 790857,
+        "name": "Džepčište",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 784747,
+        "name": "Usje",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787985,
+        "name": "Miladinovci",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 792578,
+        "name": "Bitola",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785669,
+        "name": "Sopotnica",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 791334,
+        "name": "Dolno Orizari",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785427,
+        "name": "Strelci",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 784114,
+        "name": "Vrutok",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 788819,
+        "name": "Labunista",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 786014,
+        "name": "Sekirnik",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 786238,
+        "name": "Rostusa",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 789339,
+        "name": "Kondovo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 790333,
+        "name": "Gorno Jelovce",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 791517,
+        "name": "Desovo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 786582,
+        "name": "Radolista",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 833258,
+        "name": "Šuto Orizare",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 788564,
+        "name": "Ljubin",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 792419,
+        "name": "Bosilovo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787016,
+        "name": "Plasnica",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 792055,
+        "name": "Capari",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785643,
+        "name": "Srbica",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 791332,
+        "name": "Dolno Palčište",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 789893,
+        "name": "Jankovec",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787574,
+        "name": "Novo Selo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785842,
+        "name": "Skopje",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 786239,
+        "name": "Rosoman",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 789822,
+        "name": "Jegunovce",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 789985,
+        "name": "Ivankovci",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 791885,
+        "name": "Cresevo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 789734,
+        "name": "Јурумлери",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 796037,
+        "name": "Oslomej",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 792509,
+        "name": "Bogomila",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 783845,
+        "name": "Zletovo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 792129,
+        "name": "Булачани",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 791009,
+        "name": "Drugovo",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 863631,
+        "name": "Dolna Belica",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 785759,
+        "name": "Слупчане",
+        "state": "",
+        "country": "MK"
+    },
+    {
+        "id": 787052,
+        "name": "Pirok",
+        "state": "",
+        "country": "MK"
+    }
+]

@@ -1,0 +1,320 @@
+[
+    {
+        "id": 3571097,
+        "name": "Basse-Pointe",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570412,
+        "name": "Le Robert",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570440,
+        "name": "La Vierge",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 6690663,
+        "name": "Gros-Morne",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570785,
+        "name": "Ducos",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570319,
+        "name": "Arrondissement du Marin",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570550,
+        "name": "La Batterie",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570591,
+        "name": "Grand'Rivière",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570501,
+        "name": "L'Ajoupa-Bouillon",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570410,
+        "name": "Saint-Esprit",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570363,
+        "name": "Macouba",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570428,
+        "name": "Le Lamentin",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570311,
+        "name": "Martinique",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3569906,
+        "name": "Arrondissement de Saint-Pierre",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3569886,
+        "name": "Schoelcher",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570780,
+        "name": "Duhamelin",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3569970,
+        "name": "Rivière-Pilote",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570749,
+        "name": "Faubourg Schoelcher",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570407,
+        "name": "Les Boucaniers",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570674,
+        "name": "Arrondissement de Fort-de-France",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570584,
+        "name": "Le Gros-Morne",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570158,
+        "name": "Petit Morne",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570547,
+        "name": "La Berry",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570429,
+        "name": "Le François",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570445,
+        "name": "Arrondissement de La Trinité",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570874,
+        "name": "Clairière",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570236,
+        "name": "Morne-Vert",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3569976,
+        "name": "Rivière",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570416,
+        "name": "Le Prêcheur",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570396,
+        "name": "Les Trois-Îlets",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3569967,
+        "name": "Rivière Salée",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570401,
+        "name": "Les Flamboyants",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570426,
+        "name": "Le Marin",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3569926,
+        "name": "Sainte-Marie",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3569928,
+        "name": "Sainte-Luce",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570166,
+        "name": "Petite Rivière Salée",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570446,
+        "name": "La Trinité",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570668,
+        "name": "Four à Chaux",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570691,
+        "name": "Fond Panier",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3569907,
+        "name": "Saint-Pierre",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570058,
+        "name": "La Gillot",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3569915,
+        "name": "Saint-Joseph",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570408,
+        "name": "Les Anses-d'Arlet",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570427,
+        "name": "Le Lorrain",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570675,
+        "name": "Fort-de-France",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3571063,
+        "name": "Bellefontaine",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 6690680,
+        "name": "Schœlcher",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570186,
+        "name": "Petit Brésil",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 6690672,
+        "name": "Rivière-Salée",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570392,
+        "name": "Le Vauclin",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570423,
+        "name": "Le Morne-Rouge",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3571130,
+        "name": "Anse Figuiers",
+        "state": "",
+        "country": "MQ"
+    },
+    {
+        "id": 3570431,
+        "name": "Le Coin",
+        "state": "",
+        "country": "MQ"
+    }
+]

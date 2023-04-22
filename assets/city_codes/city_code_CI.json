@@ -1,0 +1,722 @@
+[
+    {
+        "id": 2280289,
+        "name": "Toupah",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2293045,
+        "name": "Alépé",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2280743,
+        "name": "Tiébissou",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2287778,
+        "name": "Jacqueville",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2291666,
+        "name": "Biankouma",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2293428,
+        "name": "Adiaké",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 8031575,
+        "name": "Attiecoubé",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2288115,
+        "name": "Grand-Bassam",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2597327,
+        "name": "Worodougou",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 8031572,
+        "name": "Les deux-Plateaux",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2279755,
+        "name": "Yamoussoukro",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2288001,
+        "name": "Guessihio",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2291708,
+        "name": "Béttié",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2595327,
+        "name": "Vridi",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2293538,
+        "name": "Abidjan",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2597333,
+        "name": "Moyen-Cavally",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2293342,
+        "name": "Adzopé",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2280316,
+        "name": "Toumodi",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2597330,
+        "name": "Fromager",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2598243,
+        "name": "Soubre",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2288118,
+        "name": "Affery",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2282976,
+        "name": "Oliziriboué",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2597331,
+        "name": "N’zi-Comoé",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2288105,
+        "name": "Grand-Lahou",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2597316,
+        "name": "Lagunes",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2280995,
+        "name": "Tanda",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2289049,
+        "name": "Ferkessédougou",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2597322,
+        "name": "Moyen-Comoé",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2281641,
+        "name": "Sikensi",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2279172,
+        "name": "Zuénoula",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2597172,
+        "name": "Tiapoum",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2597320,
+        "name": "Savanes",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2292755,
+        "name": "Arrah",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 8031739,
+        "name": "Le Plateau",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2293549,
+        "name": "Abengourou",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2290609,
+        "name": "Dabakala",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2291087,
+        "name": "Bonoua",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2291113,
+        "name": "Bongouanou",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2597328,
+        "name": "Denguélé",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2285449,
+        "name": "Lakota",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2281196,
+        "name": "Soupleu",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2280376,
+        "name": "Touba",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2282178,
+        "name": "Sakassou",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2280589,
+        "name": "Tengréla",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2287958,
+        "name": "Guiglo",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2284589,
+        "name": "Mankono",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2281951,
+        "name": "Sassandra",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2596934,
+        "name": "Séguéla",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2293260,
+        "name": "Agnibilékrou",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2290849,
+        "name": "Bouna",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2289983,
+        "name": "Dimbokro",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2281606,
+        "name": "Sinfra",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2289549,
+        "name": "Duekoué",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2288873,
+        "name": "France",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2281436,
+        "name": "Socoradjan",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2280333,
+        "name": "Toulépleu Gueré",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2287298,
+        "name": "Katiola",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2280025,
+        "name": "Vodiéko",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2597332,
+        "name": "Marahoué",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2282006,
+        "name": "San-Pédro",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2288829,
+        "name": "Gagnoa",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2597334,
+        "name": "Bafing",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2597323,
+        "name": "District des Montagnes",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2597321,
+        "name": "Vallée du Bandama",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2290965,
+        "name": "Bouafla II",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2290964,
+        "name": "Bouaflé",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2293521,
+        "name": "Abobo",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2290486,
+        "name": "Daloa",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2292852,
+        "name": "Anyama",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2287927,
+        "name": "Guitry",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2292542,
+        "name": "Ayamé",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2597319,
+        "name": "Haut-Sassandra",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2597326,
+        "name": "Bas-Sassandra",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2289969,
+        "name": "Dinbékana",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2291580,
+        "name": "Bingerville",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 8032140,
+        "name": "Koffio",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 8033190,
+        "name": "Belleville",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2597317,
+        "name": "Région du Sud-Comoé",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2290985,
+        "name": "Botro",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2289887,
+        "name": "Divo",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2280045,
+        "name": "Vavoua",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2597329,
+        "name": "Sud-Bandama",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2291136,
+        "name": "Bondoukou",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2293507,
+        "name": "Aboisso",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2290224,
+        "name": "Diamalabo",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2597318,
+        "name": "Agnéby",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2292531,
+        "name": "Azaguié",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2282335,
+        "name": "Port-Bouët",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2287790,
+        "name": "Issia",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2287970,
+        "name": "Guibéroua",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2291383,
+        "name": "Bocanda",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2291526,
+        "name": "Blabokaha",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2597324,
+        "name": "Lacs",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2283016,
+        "name": "Odienné",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2287781,
+        "name": "Republic of Côte d’Ivoire",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2597325,
+        "name": "Zanzan",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2284744,
+        "name": "Maféré",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2290582,
+        "name": "Dabou",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2281475,
+        "name": "Soko",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2291779,
+        "name": "Béoumi",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2284647,
+        "name": "Man",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2281120,
+        "name": "Tabou",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2290462,
+        "name": "Danané",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2282907,
+        "name": "Ouangolodougou",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2280761,
+        "name": "Tiassalé",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2290956,
+        "name": "Bouaké",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2288628,
+        "name": "Gbétitapéa",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2595323,
+        "name": "Marcory",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2286304,
+        "name": "Korhogo",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2287738,
+        "name": "Kablaké",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2290836,
+        "name": "Boundiali",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2281426,
+        "name": "Sokro",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2293268,
+        "name": "Agboville",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2282827,
+        "name": "Oumé",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2293107,
+        "name": "Akoupé",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2290412,
+        "name": "Daoukro",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2286514,
+        "name": "Konankankro",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2287241,
+        "name": "Kédio Babré",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2596951,
+        "name": "Agou",
+        "state": "",
+        "country": "CI"
+    },
+    {
+        "id": 2292179,
+        "name": "Bangolo",
+        "state": "",
+        "country": "CI"
+    }
+]

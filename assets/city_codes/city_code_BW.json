@@ -1,0 +1,656 @@
+[
+    {
+        "id": 933290,
+        "name": "Mookane",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933860,
+        "name": "Republic of Botswana",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 1106249,
+        "name": "Madibeng",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933000,
+        "name": "Tonota",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933184,
+        "name": "Otse",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933347,
+        "name": "Mmathubudukwane",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933696,
+        "name": "Kalamare",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 7732983,
+        "name": "Lesoma",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 932960,
+        "name": "Werda",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933141,
+        "name": "Ramotswa",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 1106211,
+        "name": "Kgaphamadi",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933758,
+        "name": "Ghanzi District",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933186,
+        "name": "Orapa",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933329,
+        "name": "Moijabana",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933790,
+        "name": "Dukwe",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933018,
+        "name": "Thamaga",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933030,
+        "name": "Tamasane",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 1106203,
+        "name": "Gaphatshwe",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 7654016,
+        "name": "Mmale",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 7739162,
+        "name": "Mogobe wa Kgomo",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933685,
+        "name": "Kanye",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933305,
+        "name": "Molepolole",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933657,
+        "name": "Kgalagadi District",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933210,
+        "name": "North East District",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933112,
+        "name": "Sefophe",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933759,
+        "name": "Ghanzi",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933162,
+        "name": "Pilikwe",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933178,
+        "name": "Pandamatenga",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 1106215,
+        "name": "Nkoyaphiri",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933390,
+        "name": "Masunga",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933437,
+        "name": "Makwata",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933471,
+        "name": "Mahalapye",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933555,
+        "name": "Letsheng",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933677,
+        "name": "Kasane",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933040,
+        "name": "Sua",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933377,
+        "name": "Mathakola",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933734,
+        "name": "Gweta",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933109,
+        "name": "Sehithwa",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933510,
+        "name": "Lokwabe",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933474,
+        "name": "Magothla",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933773,
+        "name": "Gaborone",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933815,
+        "name": "Dekar",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933151,
+        "name": "Rakops",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933137,
+        "name": "Ratholo",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933332,
+        "name": "Mogapinyana",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933182,
+        "name": "Palapye",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933777,
+        "name": "Gabane",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933851,
+        "name": "Central District",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933562,
+        "name": "Kweneng District",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933238,
+        "name": "Nata",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933064,
+        "name": "Shoshong",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933292,
+        "name": "Maunatlala",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933416,
+        "name": "Manyana",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933488,
+        "name": "Machaneng",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933649,
+        "name": "Khakhea",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933573,
+        "name": "Kurametsi",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933726,
+        "name": "Hukuntsi",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933787,
+        "name": "Dutlwe",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 7745146,
+        "name": "Magotane",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933331,
+        "name": "Mogoditshane",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933277,
+        "name": "Mosetse",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933491,
+        "name": "Mabuli",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933044,
+        "name": "South East District",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933271,
+        "name": "Mosopa",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933534,
+        "name": "Letlhakeng",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933778,
+        "name": "Francistown",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933881,
+        "name": "Bokaa",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933692,
+        "name": "Kang",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933102,
+        "name": "Sekoma",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933230,
+        "name": "North West District",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933164,
+        "name": "Pilane",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933719,
+        "name": "Janeng",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933088,
+        "name": "Serowe",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933541,
+        "name": "Lenchwe Le Tau",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 7746220,
+        "name": "Gamafikana",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933753,
+        "name": "Gobojango",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933340,
+        "name": "Mochudi",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933548,
+        "name": "Lehututu",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 7884617,
+        "name": "Moko",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 1106206,
+        "name": "Metsemotlhaba",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933148,
+        "name": "Ramokgonami",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 7752612,
+        "name": "Marotse",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 932987,
+        "name": "Tshabong",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933535,
+        "name": "Letlhakane",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933099,
+        "name": "Selebi-Phikwe",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933633,
+        "name": "Khudumelapye",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933498,
+        "name": "Maapi",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933002,
+        "name": "Tobane",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933313,
+        "name": "Makobeng",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933333,
+        "name": "Mogapi",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933446,
+        "name": "Makoba",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933211,
+        "name": "Nokaneng",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933366,
+        "name": "Maun",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933387,
+        "name": "Mathambgwane",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933862,
+        "name": "Botlhapatlou",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 1106213,
+        "name": "Mmopone",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933043,
+        "name": "Southern District",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933872,
+        "name": "Borakalalop Camp",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933288,
+        "name": "Mopipi",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933383,
+        "name": "Mathathane",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933077,
+        "name": "Shakawe",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933596,
+        "name": "Kopong",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933654,
+        "name": "Kgatleng District",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933644,
+        "name": "Khemsbok",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933521,
+        "name": "Lobatse",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933117,
+        "name": "Sebina",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 7908931,
+        "name": "Kgome",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 933456,
+        "name": "Makaleng",
+        "state": "",
+        "country": "BW"
+    },
+    {
+        "id": 932993,
+        "name": "Tsau",
+        "state": "",
+        "country": "BW"
+    }
+]

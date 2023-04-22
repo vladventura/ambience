@@ -1,0 +1,3206 @@
+[
+    {
+        "id": 3191060,
+        "name": "Trešnjevac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788768,
+        "name": "Lazarevo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789128,
+        "name": "Kragujevac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784136,
+        "name": "Vršac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787747,
+        "name": "Adorjan",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3194918,
+        "name": "Mokra Gora",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785903,
+        "name": "Šimanovci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3190042,
+        "name": "Stanišić",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786697,
+        "name": "Progar",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 791373,
+        "name": "Doljevac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787855,
+        "name": "Mol",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790847,
+        "name": "Ečka",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789176,
+        "name": "Opština Kovačica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785450,
+        "name": "Stragari",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3204793,
+        "name": "Apatin",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787925,
+        "name": "Mirijevo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3203817,
+        "name": "Bogosavac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784068,
+        "name": "Žabalj",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3202545,
+        "name": "Čokešina",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790560,
+        "name": "Golubac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3194334,
+        "name": "Novo Selo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 791998,
+        "name": "Čenta",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785358,
+        "name": "Stubline",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792794,
+        "name": "Bela Crkva",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789988,
+        "name": "Ivanjica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 791948,
+        "name": "Čestereg",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788218,
+        "name": "Malo Crniće",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785125,
+        "name": "Taraš",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787718,
+        "name": "Negotin",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 791949,
+        "name": "Česta",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784288,
+        "name": "Vojka",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3204307,
+        "name": "Belotić",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789923,
+        "name": "Jagodina",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3196910,
+        "name": "Kupusina",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3201108,
+        "name": "Dublje",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3190947,
+        "name": "Sevojno",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785704,
+        "name": "Soko Banja",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792421,
+        "name": "Bosilegrad",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792864,
+        "name": "Barice",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785600,
+        "name": "Srpski Itebej",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784352,
+        "name": "Vladimirovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784252,
+        "name": "Vračar",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3197946,
+        "name": "Koceljeva",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788515,
+        "name": "Lok",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789879,
+        "name": "Jarkovci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 793138,
+        "name": "Aleksinac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785041,
+        "name": "Tomaševac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3190776,
+        "name": "Sjenica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3198140,
+        "name": "Kisač",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3193635,
+        "name": "Parage",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789600,
+        "name": "Kanjiža",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3188949,
+        "name": "Tovariševo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 791840,
+        "name": "Crna Trava",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786109,
+        "name": "Samoš",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3188009,
+        "name": "Veliki Radinci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3199475,
+        "name": "Gunaroš",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3200886,
+        "name": "Erdevik",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789972,
+        "name": "Izbište",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790033,
+        "name": "Idvor",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785062,
+        "name": "Titel",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3195962,
+        "name": "Mačvanska Mitrovica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 783814,
+        "name": "Zrenjanin",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788848,
+        "name": "Kusadak",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788804,
+        "name": "Lalinac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789019,
+        "name": "Krnjevo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3198859,
+        "name": "Jarebice",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784236,
+        "name": "Vranić",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785287,
+        "name": "Surduk",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3197109,
+        "name": "Veprovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 793146,
+        "name": "Aldinac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784604,
+        "name": "Aleksandrovo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3191376,
+        "name": "Šabac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784946,
+        "name": "Trgovište",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 845271,
+        "name": "Voždovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3194243,
+        "name": "Obrovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3189185,
+        "name": "Tavankut",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792948,
+        "name": "Banatski Despotovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784704,
+        "name": "Varvarin",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3201487,
+        "name": "Donji Dobrić",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792477,
+        "name": "Boleč",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3190169,
+        "name": "Srbobran",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788357,
+        "name": "Majdanpek",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792241,
+        "name": "Brus",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3216381,
+        "name": "Popare",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785973,
+        "name": "Senjak",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787598,
+        "name": "Novi Kozarci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786827,
+        "name": "Požarevac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784630,
+        "name": "Velika Plana",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790842,
+        "name": "Elemir",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 793790,
+        "name": "Raška",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3196959,
+        "name": "Kulpin",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3201946,
+        "name": "Dobrić",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 791678,
+        "name": "Ćuprija",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3188402,
+        "name": "Valjevo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3197622,
+        "name": "Kosjerić",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786819,
+        "name": "Prahovo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3191810,
+        "name": "Ravnje",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788890,
+        "name": "Kumane",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 791887,
+        "name": "Crepaja",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785756,
+        "name": "Smederevo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792530,
+        "name": "Bočar",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3204390,
+        "name": "Opština Bečej",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787837,
+        "name": "Mošorin",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786615,
+        "name": "Radenka",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3318643,
+        "name": "Osječenik",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3187548,
+        "name": "Vladimirci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3204673,
+        "name": "Opština Bačka Palanka",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 791589,
+        "name": "Debeljača",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787893,
+        "name": "Mladenovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3199348,
+        "name": "Horgoš",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3303212,
+        "name": "Rogići",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789124,
+        "name": "Krajišnik",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789178,
+        "name": "Kovačica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792940,
+        "name": "Banatsko Karađorđevo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785288,
+        "name": "Surčin",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787857,
+        "name": "Mokrin",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3200547,
+        "name": "Glušci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790063,
+        "name": "Hajdučica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3191256,
+        "name": "Šašinci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3188361,
+        "name": "Varna",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787612,
+        "name": "Novi Banovci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3343730,
+        "name": "Opština Sremski Karlovci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784427,
+        "name": "Vinča",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3198963,
+        "name": "Jadranska Lešnica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785603,
+        "name": "Srpska Crnja",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789107,
+        "name": "Kraljevo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784635,
+        "name": "Velika Moštanica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787929,
+        "name": "Miratovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784644,
+        "name": "Velika Krsna",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788153,
+        "name": "Margita",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787296,
+        "name": "Ovča",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784764,
+        "name": "Umka",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3194360,
+        "name": "Novi Sad",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785164,
+        "name": "Svrljig",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792721,
+        "name": "Beljevac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786583,
+        "name": "Radojevo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787602,
+        "name": "Novi Itebej",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789170,
+        "name": "Kovilj",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3188434,
+        "name": "Užice",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3198582,
+        "name": "Joševa",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3204661,
+        "name": "Bačko Dobro Polje",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792297,
+        "name": "Brežane",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788868,
+        "name": "Kupinovo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790557,
+        "name": "Golubinci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786620,
+        "name": "Radaljevo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790028,
+        "name": "Ilandža",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784344,
+        "name": "Vlajkovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786100,
+        "name": "Šapine",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 793053,
+        "name": "Babičko",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3191802,
+        "name": "Ravno Selo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 783768,
+        "name": "Zvečka",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792479,
+        "name": "Boka",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788315,
+        "name": "Mala Moštanica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792949,
+        "name": "Banatski Brestovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790475,
+        "name": "Gornja Peščanica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3198410,
+        "name": "Kamenica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784535,
+        "name": "Veliko Gradište",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787516,
+        "name": "Obrenovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 862831,
+        "name": "Knić",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3194474,
+        "name": "Noćaj",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3191660,
+        "name": "Riđica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3202900,
+        "name": "Čajetina",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788421,
+        "name": "Lukićevo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784274,
+        "name": "Vojvoda Stepa",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3192185,
+        "name": "Putinci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787689,
+        "name": "Neresnica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3319247,
+        "name": "Šinovik",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789982,
+        "name": "Ivanovo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3189891,
+        "name": "Stepanovićevo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787123,
+        "name": "Perlez",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3204662,
+        "name": "Bački Vinogradi",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3195707,
+        "name": "Mali Iđoš",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3204674,
+        "name": "Bačka Palanka",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3192404,
+        "name": "Prijepolje",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790035,
+        "name": "Tiszahegyes",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792078,
+        "name": "Čačak",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3194480,
+        "name": "Njegoševo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788584,
+        "name": "Ljig",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 865971,
+        "name": "Stari Grad",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787584,
+        "name": "Novo Miloševo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786690,
+        "name": "Prokuplje",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3202059,
+        "name": "Despotovo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792830,
+        "name": "Batočina",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792819,
+        "name": "Bavanište",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3188417,
+        "name": "Vajska",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3191429,
+        "name": "Ruma",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790702,
+        "name": "Glogonj",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789346,
+        "name": "Konak",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 783920,
+        "name": "Zemun",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3193295,
+        "name": "Pivnice",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792043,
+        "name": "Carevac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792814,
+        "name": "Bečej",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3190958,
+        "name": "Ševarice",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3204663,
+        "name": "Bački Sokolac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784519,
+        "name": "Veliko Središte",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 791487,
+        "name": "Dimitrovgrad",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792807,
+        "name": "Torak",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789021,
+        "name": "Krnješevci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3204623,
+        "name": "Bajina Bašta",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784795,
+        "name": "Ub",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792308,
+        "name": "Brestovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3196517,
+        "name": "Lipnički Šor",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787391,
+        "name": "Orlovat",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 6290252,
+        "name": "Serbia",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788709,
+        "name": "Leskovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787237,
+        "name": "Pančevo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3318618,
+        "name": "Sokolovo Brdo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 793171,
+        "name": "Ada",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 791672,
+        "name": "Čurug",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784592,
+        "name": "Veliki Crljeni",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792470,
+        "name": "Boljevac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 791890,
+        "name": "Čortanovci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790898,
+        "name": "Ðurđevo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785489,
+        "name": "Stepojevac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 793014,
+        "name": "Bačko Petrovo Selo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3197862,
+        "name": "Kolut",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790983,
+        "name": "Duboka",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 834855,
+        "name": "Niška Banja",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3193406,
+        "name": "Petrovaradin",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784991,
+        "name": "Torda",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784820,
+        "name": "Turija",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3194209,
+        "name": "Odžaci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788937,
+        "name": "Kučevo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792950,
+        "name": "Banatska Topola",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3198080,
+        "name": "Klenje",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3204664,
+        "name": "Opština Bački Petrovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787236,
+        "name": "Pančevo-grad",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790106,
+        "name": "Guča",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785077,
+        "name": "Tićevac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3191124,
+        "name": "Selenča",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785839,
+        "name": "Skorenovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789888,
+        "name": "Janošik",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3204690,
+        "name": "Opština Bač",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 793112,
+        "name": "Aradac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789828,
+        "name": "Jazovo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3202130,
+        "name": "Debrc",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3203840,
+        "name": "Bogatić",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785598,
+        "name": "Stajićevo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3198908,
+        "name": "Jamena",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784222,
+        "name": "Vranjska Banja",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786358,
+        "name": "Rekovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3337474,
+        "name": "Morović",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3194196,
+        "name": "Ogar",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3199103,
+        "name": "Irig",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3200859,
+        "name": "Feketić",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786021,
+        "name": "Sefkerin",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787341,
+        "name": "Ostojićevo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3203822,
+        "name": "Bogojevo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 791148,
+        "name": "Dorćol",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784318,
+        "name": "Vlasotince",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3190103,
+        "name": "Sremska Mitrovica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 838920,
+        "name": "Ledine",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3204615,
+        "name": "Bajša",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788993,
+        "name": "Krstur",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3192138,
+        "name": "Radenković",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3189363,
+        "name": "Svetićevo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3197397,
+        "name": "Kraljevci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789168,
+        "name": "Kovin",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784355,
+        "name": "Vladičin Han",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792467,
+        "name": "Boljevci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786111,
+        "name": "Samoljica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3195939,
+        "name": "Maglić",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3198267,
+        "name": "Karavukovo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792564,
+        "name": "Blace",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792623,
+        "name": "Biljača",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3203083,
+        "name": "Bukor",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3187297,
+        "name": "Vrbas",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3203139,
+        "name": "Buđanovci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786106,
+        "name": "Sanad",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786146,
+        "name": "Sajan",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787621,
+        "name": "Nova Crnja",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790698,
+        "name": "Glogovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785753,
+        "name": "Smederevska Palanka",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786562,
+        "name": "Radovnica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 791321,
+        "name": "Dolovo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3186764,
+        "name": "Žarkovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3204376,
+        "name": "Begeč",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785965,
+        "name": "Senta",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3195520,
+        "name": "Maradik",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 791900,
+        "name": "Čoka",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 793760,
+        "name": "Golovša",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792892,
+        "name": "Barajevo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3197095,
+        "name": "Krušedol",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786395,
+        "name": "Ravni Topolovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784031,
+        "name": "Žagubica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3217047,
+        "name": "Pocerski Pričinović",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784745,
+        "name": "Uzdin",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790394,
+        "name": "Gornji Breg",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 836063,
+        "name": "Sokolovica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3198082,
+        "name": "Klenak",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792404,
+        "name": "Botoš",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784666,
+        "name": "Velika Drenova",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790426,
+        "name": "Gornje Međurovo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 791471,
+        "name": "Dobanovci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784570,
+        "name": "Veliki Mokri Lug",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 793015,
+        "name": "Bačko Gradište",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3191339,
+        "name": "Salaš Noćajski",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3196827,
+        "name": "Laćarak",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 862740,
+        "name": "Prislonica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784434,
+        "name": "Vilovo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787743,
+        "name": "Nakovo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788057,
+        "name": "Medveđa",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787597,
+        "name": "Kozjak",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3190922,
+        "name": "Šid",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3191425,
+        "name": "Rumenka",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785958,
+        "name": "Central Serbia",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787274,
+        "name": "Padej",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 862839,
+        "name": "Dragobraća",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786806,
+        "name": "Predejane",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792394,
+        "name": "Boževac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3194986,
+        "name": "Mladenovo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3189595,
+        "name": "Subotica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3204667,
+        "name": "Bački Jarak",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 837045,
+        "name": "Trnovče",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785530,
+        "name": "Stari Lec",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790053,
+        "name": "Hetin",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3186376,
+        "name": "Zmajevo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787657,
+        "name": "Niš",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3189859,
+        "name": "Štitar",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3200746,
+        "name": "Gakovo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785941,
+        "name": "Ševica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3196153,
+        "name": "Loznica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3202477,
+        "name": "Crna Bara",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792456,
+        "name": "Bor",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3200560,
+        "name": "Gložan",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3196511,
+        "name": "Lipolist",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3189166,
+        "name": "Temerin",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3203497,
+        "name": "Brdarica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790132,
+        "name": "Grocka",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3200272,
+        "name": "Gornja Bukovica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 845667,
+        "name": "Zvezdara",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788040,
+        "name": "Melenci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3188725,
+        "name": "Tršić",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787164,
+        "name": "Pavliš",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3190342,
+        "name": "Sombor",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786390,
+        "name": "Ražanj",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 793093,
+        "name": "Arilje",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 836988,
+        "name": "Deliblato",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786624,
+        "name": "Rača",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 793034,
+        "name": "Babušnica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786824,
+        "name": "Požega",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784800,
+        "name": "Tutin",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788120,
+        "name": "Martonoš",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3192420,
+        "name": "Prigrevica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 791231,
+        "name": "Donje Međurovo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792952,
+        "name": "Banatska Palanka",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3318985,
+        "name": "Rumska",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786175,
+        "name": "Rušanj",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789485,
+        "name": "Kladovo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3190855,
+        "name": "Sinošević",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785013,
+        "name": "Topola",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3204665,
+        "name": "Bački Petrovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784064,
+        "name": "Žabari",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 793134,
+        "name": "Alibunar",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792821,
+        "name": "Batušinac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789076,
+        "name": "Krčedin",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792481,
+        "name": "Bojnik",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792888,
+        "name": "Baranda",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3196638,
+        "name": "Lešnica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786498,
+        "name": "Ralja",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788507,
+        "name": "Lokve",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3189893,
+        "name": "Stejanovci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3193437,
+        "name": "Petkovica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792718,
+        "name": "Belo Blato",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787471,
+        "name": "Omoljica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3194407,
+        "name": "Nova Varoš",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787935,
+        "name": "Mionica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3198637,
+        "name": "Jevremovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786137,
+        "name": "Sakule",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3187641,
+        "name": "Višnjićevo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786500,
+        "name": "Rakovica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787998,
+        "name": "Mihajlovo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790986,
+        "name": "Dubočka",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787384,
+        "name": "Orom Breg",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792453,
+        "name": "Borča",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789880,
+        "name": "Jarkovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792945,
+        "name": "Banatski Karlovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792173,
+        "name": "Bujanovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3201935,
+        "name": "Dobrinci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787215,
+        "name": "Paraćin",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3190101,
+        "name": "Sremski Karlovci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788147,
+        "name": "Marina Kutina",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787050,
+        "name": "Pirot",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3197266,
+        "name": "Krivaja",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3197111,
+        "name": "Krupanj",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3196331,
+        "name": "Ljubovija",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790367,
+        "name": "Gornji Milanovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3203628,
+        "name": "Bosut",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785671,
+        "name": "Sopot",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792651,
+        "name": "Beška",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3192450,
+        "name": "Priboj",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792784,
+        "name": "Bela Palanka",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788073,
+        "name": "Međa",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3191699,
+        "name": "Ribari",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788539,
+        "name": "Ljukovo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784141,
+        "name": "Vrnjačka Banja",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787607,
+        "name": "Novi Beograd",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3204672,
+        "name": "Bačka Topola",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784779,
+        "name": "Ugrinovci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3192328,
+        "name": "Prnjavor",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788771,
+        "name": "Lazarevac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784873,
+        "name": "Trstenik",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790015,
+        "name": "Inđija",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 6619277,
+        "name": "Knjazevac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3199872,
+        "name": "Gospođinci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785305,
+        "name": "Šumarak",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3204517,
+        "name": "Banovo Polje",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 7581911,
+        "name": "West Bačka",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787682,
+        "name": "Neuzina",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792811,
+        "name": "Bečmen",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3202085,
+        "name": "Deronje",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785252,
+        "name": "Sutjeska",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786142,
+        "name": "Šajkaš",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3199251,
+        "name": "Hrtkovci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787078,
+        "name": "Petrovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3195591,
+        "name": "Mali Zvornik",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792502,
+        "name": "Bogovina",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787306,
+        "name": "Ostružnica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3186366,
+        "name": "Zminjak",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787592,
+        "name": "Novi Slankamen",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784771,
+        "name": "Uljma",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789415,
+        "name": "Knićanin",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789518,
+        "name": "Kikinda",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 865958,
+        "name": "Savski Venac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785061,
+        "name": "Opština Titel",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3194608,
+        "name": "Nadalj",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784588,
+        "name": "Veliki Gaj",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785184,
+        "name": "Svilajnac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3190335,
+        "name": "Sonta",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 791936,
+        "name": "Ćićevac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3214575,
+        "name": "Bešenovački Prnjavor",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785541,
+        "name": "Stari Banovci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792946,
+        "name": "Banatski Dvor",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3193944,
+        "name": "Osečina",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3202318,
+        "name": "Crvenka",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785615,
+        "name": "Sremčica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790772,
+        "name": "Gardinovci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3196973,
+        "name": "Kula",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 791516,
+        "name": "Despotovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 7581796,
+        "name": "South Bačka",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786035,
+        "name": "Sečanj",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3198711,
+        "name": "Jelenča",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786772,
+        "name": "Preševo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787032,
+        "name": "Plandište",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3201353,
+        "name": "Doroslovo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792680,
+        "name": "Belgrade",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3302765,
+        "name": "Zlatibor",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792851,
+        "name": "Bašaid",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792937,
+        "name": "Banatsko Veliko Selo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784135,
+        "name": "Opština Vršac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3195220,
+        "name": "Metković",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788838,
+        "name": "Kuštilj",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788812,
+        "name": "Lajkovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790795,
+        "name": "Gadžin Han",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784024,
+        "name": "Zaječar",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 791452,
+        "name": "Dobrica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3190005,
+        "name": "Stara Moravica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789875,
+        "name": "Jaša Tomić",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 783887,
+        "name": "Žitište",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784091,
+        "name": "Vučje",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 793141,
+        "name": "Aleksandrovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 791704,
+        "name": "Čukarica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3193230,
+        "name": "Platičevo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3214591,
+        "name": "Dobrodol",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 7581797,
+        "name": "South Banat",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3191397,
+        "name": "Ruski Krstur",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786532,
+        "name": "Rajince",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3200189,
+        "name": "Gornja Rogatica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787601,
+        "name": "Novi Karlovci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787600,
+        "name": "Novi Kneževac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788026,
+        "name": "Merošina",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 783880,
+        "name": "Žitorađa",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789421,
+        "name": "Knežica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3193540,
+        "name": "Pećinci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788439,
+        "name": "Lugavčina",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3300709,
+        "name": "Ðurići",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3201418,
+        "name": "Donji Petrovci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784661,
+        "name": "Velika Greda",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 783793,
+        "name": "Žujince",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3189229,
+        "name": "Tabanović",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 7577033,
+        "name": "Sumulicë",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3204670,
+        "name": "Bački Breg",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3187829,
+        "name": "Veternik",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3198868,
+        "name": "Jarak",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790104,
+        "name": "Gudurica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3194498,
+        "name": "Nikinci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3204635,
+        "name": "Badovinci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3204692,
+        "name": "Bač",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785285,
+        "name": "Surdulica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3201216,
+        "name": "Drenovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786884,
+        "name": "Popinci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792934,
+        "name": "Bancarevo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787595,
+        "name": "Novi Pazar",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789787,
+        "name": "Jermenovci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792764,
+        "name": "Belegiš",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3188429,
+        "name": "Uzveće",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3191877,
+        "name": "Ratkovo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787271,
+        "name": "Padina",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792838,
+        "name": "Batajnica",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3204289,
+        "name": "Beočin",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790277,
+        "name": "Grabovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 862706,
+        "name": "Mrčajevci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787610,
+        "name": "Novi Bečej",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788852,
+        "name": "Kuršumlija",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784227,
+        "name": "Vranje",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785559,
+        "name": "Stara Pazova",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789234,
+        "name": "Kosmovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788975,
+        "name": "Kruševac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787615,
+        "name": "Nova Pazova",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 790823,
+        "name": "Farkaždin",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785053,
+        "name": "Toba",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 793111,
+        "name": "Aranđelovac",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788762,
+        "name": "Lebane",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3191340,
+        "name": "Salaš Crnobarski",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785574,
+        "name": "Stanovo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787663,
+        "name": "Nikolinci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 836698,
+        "name": "Rusko Selo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 865964,
+        "name": "Palilula",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787461,
+        "name": "Opovo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3202798,
+        "name": "Čelarevo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3188955,
+        "name": "Tornjoš",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 786001,
+        "name": "Seleuš",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792317,
+        "name": "Bresno Polje",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 792866,
+        "name": "Barič",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788038,
+        "name": "Meljak",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 785614,
+        "name": "Sremski Mihaljevci",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 787058,
+        "name": "Pinosava",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788792,
+        "name": "Lapovo",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3318867,
+        "name": "Doline",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3201307,
+        "name": "Draginje",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 784272,
+        "name": "Autonomna Pokrajina Vojvodina",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 789471,
+        "name": "Klek",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 788452,
+        "name": "Lučani",
+        "state": "",
+        "country": "RS"
+    },
+    {
+        "id": 3195895,
+        "name": "Majur",
+        "state": "",
+        "country": "RS"
+    }
+]
