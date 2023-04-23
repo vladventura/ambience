@@ -81,15 +81,12 @@ class _LoginApp extends State<LoginApp> {
   }
 
   void _signup(String usrname, String passwrd) async {
-    //always true for testing
-    bool success = true; /* BOOLEAN FUNCTION PART GOES HERE */
-    /*
+    bool success = false;
     try {
       success = await hand.fireSignUp(usrname, passwrd);
     } catch (e) {
       errMsg = e.toString(); // set error message
     }
-    */
     if (success) {
       _visibleLog = false;
       Navigator.pushNamed(context, '/Home');
