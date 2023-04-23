@@ -13,7 +13,6 @@ class LoginMsg extends StatelessWidget {
 
   String errMsg = "";
 
-
   LoginMsg({super.key, required this.visibleLog, required this.errMsg});
 
   // change to accept custom error messages from firebase

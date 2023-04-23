@@ -5,21 +5,9 @@ import 'dart:io';
 import 'package:ambience/weatherEntry/weather_entry.dart';
 import "package:ambience/GUI/wallpaperobj.dart";
 
-void main() => runApp(const ListApp());
+void main() => runApp(ListApp());
 
 String current = Directory.current.path;
-
-String getWallpaper(int index) { // may not be final
-  return "$current/lib/GUI/20210513_095523.jpg";
-}
-
-String getCond(int index) { // may not be final
-  return "placeholder weather";
-}
-
-String getTime(int index) { // may not be final
-  return "12:30";
-}
 
 const ButtonStyle controlStyle = ButtonStyle(
   padding: MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(32)),
@@ -33,26 +21,22 @@ class EntryControls extends StatelessWidget { // controls to copy, edit, and del
 
   Widget Controls = Container();
 
-  EntryControls(int id){ //takes a wallpaper obj reference to call it later
+  EntryControls(int id, Function func){ //takes a wallpaper obj reference to call it later
 
   ID = id;
 
+  VoidCallback action = () {func(id);};
+
   Controls = Row(
     // displays the wallpaper's controls
-    children: const [
+    children: [
       IconButton(
-        onPressed: null, // function to delete the wallpaperObj, deleting the rules associated with it
+        onPressed: action, // function to delete the wallpaperObj, deleting the rules associated with it
         icon: Icon(Icons.delete),
         style: controlStyle,
         ),
       IconButton(
-        onPressed: null, // function to copy the wallpaperObj, goes to create screen w/ data from wallpaperObj
-        // creates new wallpaper when done
-        icon: Icon(Icons.copy),
-        style: controlStyle
-      ),
-      IconButton(
-        onPressed: null, //function to edit the existing wallpaper, goes to create screen w/ data
+        onPressed: action, //function to edit the existing wallpaper, goes to create screen w/ data
         icon: Icon(Icons.edit),
         style: controlStyle,
       ),
@@ -65,9 +49,12 @@ class EntryControls extends StatelessWidget { // controls to copy, edit, and del
 }
 }
 
-class WallpaperEntry extends StatelessWidget {
+class 
+WallpaperEntry extends StatelessWidget {
 
   int ID = 0;
+
+  WallpaperObj object = WallpaperObj();
 
   String wallFile = "Null";
 
@@ -79,9 +66,20 @@ class WallpaperEntry extends StatelessWidget {
   Widget wallpaperCond = Container();
   Widget wallpaperControls = Container();
 
+  void deleteContents(){
+    
+    for(int l = 0; l < object.entries.length; l++){
+      WeatherEntry.deleteRule(object.entries[l].idSchema);
+    }
+    
+    object.entries.clear();
+
+    return;
+  }
 
   //constructor placeholder to just test list screen
-  WallpaperEntry(WallpaperObj obj, int id) {
+  WallpaperEntry(WallpaperObj obj, int id, Function func) {
+    object = obj;
     wallFile = obj.filePath;
     cond = obj.cond;
     time = obj.time;
@@ -106,7 +104,7 @@ class WallpaperEntry extends StatelessWidget {
       )
     );
 
-    wallpaperControls = EntryControls(ID);
+    wallpaperControls = EntryControls(ID, func);
   }
 
   Widget build(BuildContext context) {
@@ -151,39 +149,12 @@ Widget buttonMenu(BuildContext context){
   );
 }
 
-Widget wallPapersWindow(List<WallpaperObj> objects, Function func) {
+Widget wallPapersWindow() {
 
-  List<WallpaperEntry> wallEntries = [];
-
-  for(int i = 0; i < objects.length; i++){
-    wallEntries.add(WallpaperEntry(objects[i], i));
-  }
-
-  return Expanded(
-    child: Container (
-      padding: const EdgeInsets.all(32),
-      child: Container (
-        constraints: const BoxConstraints(maxWidth: 1000,
-                                    minHeight: 200, minWidth: 100),
-        decoration: BoxDecoration (border: Border.all(color: Colors.black, width: 2)),
-        child: Expanded(
-          child: ListView(
-            children: wallEntries
-          ),
-        ),
-      )
-    )
-  );
-}
-
-class ListApp extends StatelessWidget {
-  const ListApp({super.key});
-
-  
   // function that creates a list of WallpaperObjs.
   // Searches list of created WeatherEntries and groups them together
   // into a list of WallpaperObjects.
-  List<WallpaperObj> listSavedWallpapers(){
+  Future<List<WallpaperObj>> listSavedWallpapers() async {
 
     Map<String, WeatherEntry> rulesList = WeatherEntry.getRuleList() as Map<String, WeatherEntry>;
 
@@ -227,18 +198,68 @@ class ListApp extends StatelessWidget {
 
   }
 
-  void deleteWallpaper(int id){
-    
+  List<WallpaperObj> objects = [];
+
+  List<WallpaperEntry> wallEntries = [];
+
+  wallPapersWindow() async {
+    objects = await listSavedWallpapers();
   }
+
+  Function deleteWallpaper(int id){
+
+   return (int id){
+        for(int a = 0; a < wallEntries.length; a++){
+      if(wallEntries[a].ID == id){
+
+        wallEntries[a].deleteContents();
+        wallEntries.remove(wallEntries[a]);
+      
+      }
+    }
+   };
+  }
+
+  for(int i = 0; i < objects.length; i++){
+    wallEntries.add(WallpaperEntry(objects[i], i, deleteWallpaper));
+  }
+
+  return Expanded(
+    child: Container (
+      padding: const EdgeInsets.all(32),
+      child: Container (
+        constraints: const BoxConstraints(maxWidth: 1000,
+                                    minHeight: 200, minWidth: 100),
+        decoration: BoxDecoration (border: Border.all(color: Colors.black, width: 2)),
+        child: Expanded(
+          child: ListView(
+            children: wallEntries
+          ),
+        ),
+      )
+    )
+  );
+}
+
+class ListApp extends StatefulWidget{
+  ListApp({super.key});
+
+  @override
+  State<ListApp> createState() => ListAppState();
+}
+
+class ListAppState extends State<ListApp> {
 
   @override
   Widget build(BuildContext context) {
+
+    Widget window = wallPapersWindow(); // miiiiiight need to check if there are no rules in the json first
 
     return MaterialApp(
       home: Scaffold(
         body: Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: [listTitle(), wallPapersWindow(listSavedWallpapers(), (){}), buttonMenu(context)],
+          children: [listTitle(), window, buttonMenu(context)],
         ),
       ),
     );

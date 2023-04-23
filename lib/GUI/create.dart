@@ -592,7 +592,7 @@ class _CreateApp extends State<CreateApp> {
                                                                   toNumber(minuteController.text), dayToggles.getDays());
                         
 
-                        bool success = await confirmCreation(widget.intention, widget.contextWallpaper, newObj);
+                        bool success = confirmCreation(widget.intention, widget.contextWallpaper, newObj);
 
                         if(success){ // add fields to newWallpaperObj
 
