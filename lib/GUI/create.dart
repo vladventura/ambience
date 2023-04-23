@@ -591,6 +591,7 @@ class _CreateApp extends State<CreateApp> {
                                                                   toMilitary(toNumber(hourController.text), AMPM.getAmPm()), 
                                                                   toNumber(minuteController.text), dayToggles.getDays());
                         
+
                         bool success = await confirmCreation(widget.intention, widget.contextWallpaper, newObj);
 
                         if(success){ // add fields to newWallpaperObj

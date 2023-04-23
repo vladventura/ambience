@@ -1,3 +1,5 @@
+// TODO: Add Function parameter to pass to the button widgets (so that they can pass the ID up to the list screen)
+
 import 'package:flutter/material.dart';
 import 'dart:io';
 import 'package:ambience/weatherEntry/weather_entry.dart';
@@ -27,13 +29,17 @@ const ButtonStyle controlStyle = ButtonStyle(
 
 class EntryControls extends StatelessWidget { // controls to copy, edit, and delete a wallpaper
 
+  int ID = 0; // ID to tell the list screen WHAT wallpaperEntry is being interacted with
+
   Widget Controls = Container();
 
-  EntryControls(WallpaperObj obj){ //takes a wallpaper obj reference to call it later
+  EntryControls(int id){ //takes a wallpaper obj reference to call it later
+
+  ID = id;
 
   Controls = Row(
     // displays the wallpaper's controls
-    children: [
+    children: const [
       IconButton(
         onPressed: null, // function to delete the wallpaperObj, deleting the rules associated with it
         icon: Icon(Icons.delete),
@@ -57,28 +63,11 @@ class EntryControls extends StatelessWidget { // controls to copy, edit, and del
   Widget build(BuildContext context) {
     return Controls;
 }
-
 }
 
 class WallpaperEntry extends StatelessWidget {
 
-  // function that creates a list of WallpaperObjs.
-  // Searches list of created WeatherEntries and groups them together
-  // into a list of WallpaperObjects.
-
-/*
-
-  List<WallpaperObj> savedWallpapers(){
-
-    Map<String, WeatherEntry> rulesList = WeatherEntry.getRuleList() as Map<String, WeatherEntry>;
-
-    
-
-  }
-
-*/
-
-
+  int ID = 0;
 
   String wallFile = "Null";
 
@@ -92,30 +81,32 @@ class WallpaperEntry extends StatelessWidget {
 
 
   //constructor placeholder to just test list screen
-  WallpaperEntry(WallpaperObj obj) {
+  WallpaperEntry(WallpaperObj obj, int id) {
     wallFile = obj.filePath;
     cond = obj.cond;
     time = obj.time;
+
+    ID = id; // list screen will determine the ID number
 
     wallPaperThumb = Container( // the wallpaper entry's thumbnail
       constraints: const BoxConstraints(maxHeight: 100, maxWidth: 200),
       decoration: BoxDecoration(
         border: Border.all(color: Colors.black, width: 1)),
-      child: Image.file(File(getWallpaper(1)), fit: BoxFit.fitWidth),
+      child: Image.file(File(wallFile), fit: BoxFit.fitWidth),
     );
 
     wallpaperCond = Expanded(
       child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Icon(Icons.cloudy_snowing), // placeholder
+            Icon(weathercondToIcon[cond]), // placeholder
             Container( alignment: Alignment.center,
-              child: Text(getTime(0)) ),
+              child: Text(time) ),
           ],
       )
     );
 
-    wallpaperControls = EntryControls(obj);
+    wallpaperControls = EntryControls(ID);
   }
 
   Widget build(BuildContext context) {
@@ -160,7 +151,14 @@ Widget buttonMenu(BuildContext context){
   );
 }
 
-Widget wallPapersWindow() {
+Widget wallPapersWindow(List<WallpaperObj> objects, Function func) {
+
+  List<WallpaperEntry> wallEntries = [];
+
+  for(int i = 0; i < objects.length; i++){
+    wallEntries.add(WallpaperEntry(objects[i], i));
+  }
+
   return Expanded(
     child: Container (
       padding: const EdgeInsets.all(32),
@@ -170,7 +168,7 @@ Widget wallPapersWindow() {
         decoration: BoxDecoration (border: Border.all(color: Colors.black, width: 2)),
         child: Expanded(
           child: ListView(
-            children: [ WallpaperEntry(WallpaperObj()), ],
+            children: wallEntries
           ),
         ),
       )
@@ -181,6 +179,58 @@ Widget wallPapersWindow() {
 class ListApp extends StatelessWidget {
   const ListApp({super.key});
 
+  
+  // function that creates a list of WallpaperObjs.
+  // Searches list of created WeatherEntries and groups them together
+  // into a list of WallpaperObjects.
+  List<WallpaperObj> listSavedWallpapers(){
+
+    Map<String, WeatherEntry> rulesList = WeatherEntry.getRuleList() as Map<String, WeatherEntry>;
+
+    List<WeatherEntry> entries = [];
+
+    rulesList.forEach((key, value) {
+      entries.add(value);
+    });
+
+    List<List<WeatherEntry>> foundWeatherEntries = [];
+
+    // first loop, finds every different WeatherEntry
+    for(int i = 0; i < entries.length; i++){
+      
+      for(int j = 0; j < foundWeatherEntries.length; j++){
+        
+        //if there is a Weathercondition is the same, add it to one of the lists
+        if(foundWeatherEntries[j][0].city == entries[i].city
+        && foundWeatherEntries[j][0].startTime == entries[i].startTime
+        && foundWeatherEntries[j][0].wallpaperFilepath == entries[i].wallpaperFilepath
+        && foundWeatherEntries[j][0].weatherCondition == entries[i].weatherCondition)
+        {
+          foundWeatherEntries[j].add(entries[i]);
+        }
+
+        // otherwise it is an entirely new entry, and a new list must be added
+        else{
+          foundWeatherEntries.add([entries[i]]);
+        }
+      }
+    }
+
+    List<WallpaperObj> temp = [];
+
+    // second loop, creates a list of WallpaperObj based on how many unique entries there are
+    for(int k = 0; k < foundWeatherEntries.length; k++){
+      temp.add(WallpaperObj(foundWeatherEntries[k]));
+    }
+
+    return temp;
+
+  }
+
+  void deleteWallpaper(int id){
+    
+  }
+
   @override
   Widget build(BuildContext context) {
 
@@ -188,7 +238,7 @@ class ListApp extends StatelessWidget {
       home: Scaffold(
         body: Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: [listTitle(), wallPapersWindow(), buttonMenu(context)],
+          children: [listTitle(), wallPapersWindow(listSavedWallpapers(), (){}), buttonMenu(context)],
         ),
       ),
     );
