@@ -101,7 +101,7 @@ class WallpaperEntry extends StatelessWidget {
       constraints: const BoxConstraints(maxHeight: 100, maxWidth: 200),
       decoration: BoxDecoration(
         border: Border.all(color: Colors.black, width: 1)),
-      child: Image.file(File(wallFile), fit: BoxFit.fitWidth),
+      child: Image.file(File(getWallpaper(1)), fit: BoxFit.fitWidth),
     );
 
     wallpaperCond = Expanded(
@@ -116,7 +116,6 @@ class WallpaperEntry extends StatelessWidget {
     );
 
     wallpaperControls = EntryControls(obj);
-
   }
 
   Widget build(BuildContext context) {

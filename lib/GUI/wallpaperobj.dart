@@ -46,8 +46,14 @@ class WallpaperObj {
   String time = "placeholder time";
   String city = "placeholder city";
 
+  // time is military, must be converted
+  // in order to be shown in frontend
   int hour = 0;
   int minute = 0;
+
+  bool isAmPm() {
+    return (hour > 12);
+  }
 
   //stores Weather entries of the same kind on different days
   List<WeatherEntry> entries;

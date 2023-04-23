@@ -5,7 +5,8 @@
 //  make data persistent past setstate() calls
 //  probably gonna have to change WallpaperObj to accept WallpaperEntry data
 // make day buttons do stuff, 'cause they currently don't
-// Scrap the copy option
+// Scrap the copy option - done
+// add time conversions
 
 import 'dart:async';
 import 'dart:math';
@@ -20,7 +21,8 @@ import "package:ambience/GUI/list.dart";
 import "package:ambience/GUI/wallpaperobj.dart";
 import "package:ambience/handlers/file_handler.dart";
 
-void main() => runApp(CreateApp(contextWallpaper: WallpaperObj(), intention: 1, location: ""));
+void main() => runApp(CreateApp(contextWallpaper: WallpaperObj.newObj("G:/Dedicated memes folder/Image memes/b65040ee-199c-4c36-a2b2-15b1e950b3a5.png", 
+                      WeatherCondition.Clouds, 14, 30, [false, true, false, true, false, true, false], []), intention: 1, location: ""));
 
 
 // Global variables
@@ -48,15 +50,12 @@ class WeatherDropMenu extends StatefulWidget {
     Icons.cloudy_snowing, 
   ];
 
-   //for translating the icondata to WeatherCondition
-
   IconData weatherVal = Icons.ads_click;
 
   // returns a translated value for the current weather condition
   WeatherCondition getCondition() { 
     return iconToWeatherCond[weatherVal];
   }
-
 
  @override
   State<WeatherDropMenu> createState() => _WeatherDropMenuState();
@@ -75,12 +74,90 @@ class WallpaperChooser extends StatefulWidget {
   State<WallpaperChooser> createState() => _WallpaperChooser();
 }
 
+class _WallpaperChooser extends State<WallpaperChooser> {
+
+  Widget img = Container();
+
+  @override
+  void initState() {
+    super.initState();
+    img = checkWallpaper(widget.currentFile);
+  }
+
+  @override
+  Widget build(BuildContext context) {
+
+    img = checkWallpaper(widget.currentFile);
+
+    return Expanded(
+      child: InkWell(
+        onTap: () async {
+          // updates the wallpaper to be the newly selected image
+          widget.currentFile = await chooseFile();
+          imageCache.clear();
+          imageCache.clearLiveImages();
+          checkWallpaper(widget.currentFile);
+          setState(() {});
+        },
+        child: Container(
+            child: img,
+        )),
+    );
+  }
+}
+
+
 class AmPmToggle extends StatefulWidget {
-  const AmPmToggle({super.key});
+  AmPmToggle({super.key, this.amPm = true});
+
+  bool amPm = true; // true = AM, false = PM
+
+  bool getAmPm() {return amPm;}
 
  @override
   State<AmPmToggle> createState() => _AmPmToggle();
 }
+
+class _AmPmToggle extends State<AmPmToggle> {
+
+  Text txt = Text("");
+
+  @override
+  void initState() {
+    super.initState();
+    if(widget.amPm){ txt = Text("A.M.", style: TextStyle(fontSize: 11)); }
+    else { txt = Text("P.M.", style: TextStyle(fontSize: 11)); }
+  }
+
+  @override
+  Widget build(BuildContext context){
+
+    return Container(
+              height: 80,
+              decoration: BoxDecoration(
+                border: Border.all(color: Colors.black, width: 2),
+              ),
+
+              child: OutlinedButton(onPressed: (){
+                if(widget.amPm == true){
+                  setState(() {
+                    txt = Text("P.M.", style: TextStyle(fontSize: 11));
+                    widget.amPm = false;
+                  });
+                }
+                else if(widget.amPm == false){
+                  setState(() {
+                    txt = Text("A.M.", style: TextStyle(fontSize: 11));
+                    widget.amPm = true;
+                  });
+                }
+              }, // switches from A.M. to P.M. and vice versa on click
+                child: txt,
+                style: dayToggleButton,
+          ));
+  }
+}
+
 
 String setWeatherCond(IconData cond) { //converts icon's data to a string
   return cond.toString(); 
@@ -123,66 +200,6 @@ class _WeatherDropMenuState extends State<WeatherDropMenu> {
         ).toList(),
       )
     );
-  }
-}
-
-class _WallpaperChooser extends State<WallpaperChooser> {
-
-  @override
-  Widget build(BuildContext context) {
-
-    Widget img = checkWallpaper(widget.currentFile);
-
-    return Expanded(
-      child: InkWell(
-        onTap: () async {
-          // updates the wallpaper to be the newly selected image
-          widget.currentFile = await chooseFile();
-          imageCache.clear();
-          imageCache.clearLiveImages();
-          checkWallpaper(widget.currentFile);
-          setState(() {});
-        },
-        child: Container(
-            child: img,
-        )),
-    );
-  }
-}
-
-class _AmPmToggle extends State<AmPmToggle> {
-
-
-  bool amPm = true; // true = AM, false = PM
-
-  Text txt = Text("A.M.", style: TextStyle(fontSize: 11));
-
-  @override
-  Widget build(BuildContext context){
-
-    return Container(
-              height: 80,
-              decoration: BoxDecoration(
-                border: Border.all(color: Colors.black, width: 2),
-              ),
-
-              child: OutlinedButton(onPressed: (){
-                if(amPm == true){
-                  setState(() {
-                    txt = Text("P.M.", style: TextStyle(fontSize: 11));
-                    amPm = false;
-                  });
-                }
-                else if(amPm == false){
-                  setState(() {
-                    txt = Text("A.M.", style: TextStyle(fontSize: 11));
-                    amPm = true;
-                  });
-                }
-              }, // switches from A.M. to P.M. and vice versa on click
-                child: txt,
-                style: dayToggleButton,
-          ));
   }
 }
 
@@ -259,7 +276,7 @@ Widget checkWallpaper(String str) {
 }
 
 class DayButtons extends StatefulWidget{
-  
+
   List<bool> daysActive = [false,false,false,false,false,false,false]; 
 
   List<bool> getDays(){
@@ -274,6 +291,8 @@ class DayButtons extends StatefulWidget{
 
 class DayButtonsState extends State<DayButtons>{
 
+  List<bool> selectedDays = [false,false,false,false,false,false,false];
+
   List<Widget> dayNames = <Widget>[
     Text("Sun", style: TextStyle(fontSize: 11)),
     Text("Mon", style: TextStyle(fontSize: 11)),
@@ -284,28 +303,23 @@ class DayButtonsState extends State<DayButtons>{
     Text("Sat", style: TextStyle(fontSize: 11))
   ];
 
-  //TO DO: Give this an initial value when the user has an intention of 2 or 3
-  // and of course save it to the daysActive list if applicable
-  final List<bool> _selectedDays = <bool>[false,false,false,false,false,false,false];
-
-
   // checks if button is toggled or not
   // if the day is already currently selected, then the day is toggled off and removed from the list
   // if the day is not selected yet, the day is toggled on, and is added to the list
   void updateDays(int index){ 
-    if(_selectedDays[index]){
-      widget.daysActive[index] = false;
+    if(selectedDays[index]){
+      selectedDays[index] = false;
     } else {
-      widget.daysActive[index] = true; //currently causes an exception when I click a day button
+      selectedDays[index] = true;
     }
-    for(int i = 0; i < Days.length; i++)
-    {
-      _selectedDays[i] = widget.daysActive.contains(Days[i]);
-    }
+
+    widget.daysActive = selectedDays;
   }
 
   @override
   Widget build(BuildContext context){
+
+    selectedDays = widget.daysActive;
 
     return ToggleButtons(
       direction: Axis.horizontal,
@@ -316,7 +330,7 @@ class DayButtonsState extends State<DayButtons>{
       selectedBorderColor: Color.fromARGB(255, 0, 75, 205),
       selectedColor: Color.fromARGB(255, 41, 187, 255),
       children: dayNames,
-      isSelected: _selectedDays,
+      isSelected: selectedDays,
     );
   }
 }
@@ -324,7 +338,7 @@ class DayButtonsState extends State<DayButtons>{
 class CreateApp extends StatefulWidget {
   CreateApp({super.key, required this.contextWallpaper, required this.intention, required this.location});
 
-  final WallpaperObj contextWallpaper;
+  WallpaperObj contextWallpaper;
 
   // 1 = create new wallpaper, 
   // 2 = copy from existing wallpaper, 
@@ -347,23 +361,32 @@ class _CreateApp extends State<CreateApp> {
     return int.tryParse(s)!;
   } 
 
+  int toMilitary(int h, bool ap)
+  {
+    if(ap) { return h; } // AM
+
+    else{ // PM 
+      if(h + 12 == 24) {return 0;} //military is 00 to 23
+      else { return h+12; }
+    }
+
+  }
+
   // gonna need to change this 
   bool checkFields(String hour, String minute, String file, WeatherCondition cond, List<bool> days) { // confirm all fields are filled
       if(isNumeric(hour) && int.parse(hour) <= 12 && int.parse(hour) > 0){}
-      else{print("didn't pass field check for hour\n"); return false;}
+      else{return false;}
 
-      if(isNumeric(minute) && minute.length == 2 && int.parse(minute) <= 59){}
-      else{print("didn't pass field check for minute\n"); return false;}
+      if(isNumeric(minute) && int.parse(minute) <= 59){}
+      else{return false;}
 
       if(days.every((element) => element == false)){return false;}
 
-      print("condition is: \n");
-      print(cond);
       if(cond != WeatherCondition.Empty){}
-      else{print("didn't pass field check for condition\n"); return false;}
+      else{return false;}
 
-      if(file != ""){}
-      else{print("didn't pass field check for file\n"); return false;}
+      if(file != "" && File(file).existsSync()){}
+      else {return false;}
 
       return true;
   }
@@ -376,19 +399,51 @@ class _CreateApp extends State<CreateApp> {
 
   String chosenFile = "";
 
-  IconData chosenCond = Icons.clear; //the value for clear is invalid, which is later checked for
+  IconData chosenCond = Icons.ads_click; //the value for clear is invalid, which is later checked for
 
   String chosenMinute = "";
 
   String chosenHour = "";
 
+  AmPmToggle AMPM = AmPmToggle();
+
 
   bool _visibleErr = false;
   int errType = 0;
 
+  @override
+  void initState()
+  {
+    super.initState();
+    dayToggles = DayButtons(daysActive: widget.contextWallpaper.days);
+    chosenCond = weathercondToIcon[widget.contextWallpaper.cond];
+    weatherDrops.weatherVal = weathercondToIcon[widget.contextWallpaper.cond];
+    
+    fileChooser.currentFile = widget.contextWallpaper.filePath;
+    fileChooser.setCurrentFile(widget.contextWallpaper.filePath);
+
+    chosenFile = widget.contextWallpaper.filePath;
+
+    if(widget.contextWallpaper.hour > 12)
+    {
+      if(widget.contextWallpaper.hour == 24) {
+        chosenHour = 0.toString();
+        AMPM.amPm = true;
+      }
+      else {
+        AMPM.amPm = false; 
+        chosenHour = (widget.contextWallpaper.hour - 12).toString(); 
+      }
+    } else {
+      AMPM.amPm = true;
+      chosenHour = widget.contextWallpaper.hour.toString();
+    }
+    chosenMinute = widget.contextWallpaper.minute.toString();
+  }
+
   //function that performs the final action before closing the create page
   //decides what to do based on the intention variable
-  bool confirmCreation(int intend, WallpaperObj origObj, WallpaperObj newObj){
+  bool confirmCreation(int intend, WallpaperObj origObj, WallpaperObj newObj) {
 
     // return true if created successfully
     // return false if new wallpaper is a duplicate
@@ -398,32 +453,29 @@ class _CreateApp extends State<CreateApp> {
     // call WeatherEntry.createrule
     // if false, return failure, because a duplicate has been found
 
-    switch(intend) {
-      case 1:
-        // use newObj, create new wallpaper entry(s) with it
+    // pop screen with a pair<true, wallpaperObj> value, indicating success
+    // false would be <false, NULL>
 
-        return true; // temp bool
+    List<String> tempSchemas = []; // in case you need to abort and undo the new rules
 
-        break;
+    for(int i = 0; i < newObj.entries.length; i++){
 
-      case 2: // we don't talk about copy
+      WeatherEntry.createRule(newObj.entries[i]);
 
-        break;
+      bool success = true; //only for the time being, delete once createRule becomes boolean
 
-      case 3:
-        // delete origObj's wallpaper entries,
-        // create new wallpaper entries with newObj,
+      if(success){ tempSchemas.add(newObj.entries[i].idSchema);}
+      
+      else {
+        tempSchemas.forEach((element) { WeatherEntry.deleteRule(element); });
 
-        return true; // temp bool
-
-        break;
-
-      default:
         return false;
+      }
+
     }
 
-    return false;
-  }
+    return true;
+}
 
   @override
   Widget build(BuildContext context) {
@@ -432,15 +484,6 @@ class _CreateApp extends State<CreateApp> {
 
     TextEditingController hourController = TextEditingController(text: chosenHour);
     TextEditingController minuteController = TextEditingController(text: chosenMinute);
-
-    if(widget.intention > 1){
-      chosenFile = widget.contextWallpaper.filePath;
-
-      chosenCond = weathercondToIcon[widget.contextWallpaper.cond];
-
-      chosenHour = widget.contextWallpaper.time;
-      chosenMinute = widget.contextWallpaper.time;
-    }
 
     Widget wallpaperSection = Expanded(
           child: Row(
@@ -479,6 +522,7 @@ class _CreateApp extends State<CreateApp> {
                         maxLength: 2,
                         controller: hourController,
                         decoration: InputDecoration(
+                          counterText: "",
                           labelText: "Hour",
                         ),), 
                       ),
@@ -492,6 +536,7 @@ class _CreateApp extends State<CreateApp> {
                         maxLength: 2,
                         controller: minuteController,
                         decoration: InputDecoration(
+                          counterText: "",
                           labelText: "Min",
                         ),), 
                       ),
@@ -501,7 +546,7 @@ class _CreateApp extends State<CreateApp> {
               ),
             Spacer(flex: 1),
 
-            AmPmToggle(),
+            AMPM,
 
             Spacer(flex: 6),
 
@@ -527,7 +572,7 @@ class _CreateApp extends State<CreateApp> {
         children: [
           OutlinedButton(onPressed: () {
 
-                    Navigator.pop(context);
+                    Navigator.pop(context, false);
 
                     },  //function here to switch back to main menu
                     child: const Text("Back"),
@@ -543,18 +588,12 @@ class _CreateApp extends State<CreateApp> {
                     if(checkFields(hourController.text, minuteController.text, fileChooser.getCurrentFile(), weatherDrops.getCondition(), dayToggles.getDays())){
 
                         WallpaperObj newObj = WallpaperObj.newObj(fileChooser.getCurrentFile(), weatherDrops.getCondition(), 
-                                                                  toNumber(hourController.text), toNumber(minuteController.text), dayToggles.getDays());
+                                                                  toMilitary(toNumber(hourController.text), AMPM.getAmPm()), 
+                                                                  toNumber(minuteController.text), dayToggles.getDays());
+                        
+                        bool success = await confirmCreation(widget.intention, widget.contextWallpaper, newObj);
 
-                        if(confirmCreation(widget.intention, widget.contextWallpaper, newObj)){ // add fields to newWallpaperObj
-
-                          print(hourController.text);
-                          print(minuteController.text);
-
-                          print(fileChooser.getCurrentFile());
-
-                          print(weatherDrops.getCondition());
-
-                          print(dayToggles.getDays());
+                        if(success){ // add fields to newWallpaperObj
 
                           Navigator.pop(context); // return to previous menu
                         }
@@ -588,7 +627,7 @@ class _CreateApp extends State<CreateApp> {
         body: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            dayToggles, // not initialized juuuuust yet
+            dayToggles,
             timeAndWeather,
             wallpaperSection,
             CreateMsg(
