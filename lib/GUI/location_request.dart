@@ -1,7 +1,9 @@
 import 'dart:convert';
 
 import 'package:ambience/constants.dart';
+import 'package:ambience/providers/location_provider.dart';
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 
 class LocationRequest extends StatefulWidget {
   const LocationRequest({super.key});
@@ -89,7 +91,6 @@ class _LocationRequest extends State<LocationRequest> {
           );
         }).toList(),
         onChanged: (String? value) {
-          debugPrint(value);
           setState(() {
             _chosenState = value;
           });
@@ -122,7 +123,6 @@ class _LocationRequest extends State<LocationRequest> {
           }
           List<dynamic> cities =
               _shouldShowState ? _getCitiesByState(_chosenState) : _citiesList;
-          debugPrint(cities.length.toString());
           return cities
               .where((element) => (element['name'])
                   .toLowerCase()
@@ -168,28 +168,65 @@ class _LocationRequest extends State<LocationRequest> {
   }
 
   void _submit() {
-    debugPrint(_autocompleteController.text);
+    String chosenName = _autocompleteController.text;
+    Map<String, dynamic> city = _citiesList.where((element) {
+      return element['name'] == chosenName &&
+          (_chosenCountryCode == "US"
+              ? element['state'] == _chosenState
+              : true);
+    }).toList()[0];
+    context.read<LocationProvider>().setLocation(city);
+    Navigator.of(context).pushNamed('/Home');
+  }
+
+  ButtonStyle _buttonStyle({
+    MaterialStatePropertyAll<Color> backgroundColor =
+        const MaterialStatePropertyAll<Color>(Colors.white),
+    MaterialStatePropertyAll<EdgeInsets> padding =
+        const MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(20)),
+    MaterialStatePropertyAll<BorderSide> side =
+        const MaterialStatePropertyAll<BorderSide>(
+            BorderSide(color: Colors.black, width: 2)),
+  }) {
+    return ButtonStyle(
+      backgroundColor: backgroundColor,
+      padding: padding,
+      side: side,
+    );
+  }
+
+  Widget _cancelButton() {
+    return (context.read<LocationProvider>().location != null)
+        ? OutlinedButton(
+            onPressed: () => Navigator.of(context).pop(),
+            style: _buttonStyle(
+              side: const MaterialStatePropertyAll<BorderSide>(
+                BorderSide(
+                  color: Colors.red,
+                  width: 2,
+                ),
+              ),
+            ),
+            child: const Text("Cancel"),
+          )
+        : Container();
   }
 
   OutlinedButton _submitButton() {
     return OutlinedButton(
       onPressed: _submit,
-      style: const ButtonStyle(
-        padding: MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(20)),
-        backgroundColor: MaterialStatePropertyAll<Color>(Colors.white),
-        side: MaterialStatePropertyAll<BorderSide>(
-          BorderSide(color: Colors.black, width: 2),
-        ),
-      ),
+      style: _buttonStyle(),
       child: const Text("Submit"),
     );
   }
 
-  Column _buttons() {
-    return Column(
+  Widget _buttons() {
+    return Row(
+      mainAxisAlignment: MainAxisAlignment.center,
       children: [
-        _submitButton(),
+        _cancelButton(),
         const Padding(padding: EdgeInsets.all(12)),
+        _submitButton(),
       ],
     );
   }
