@@ -1,0 +1,386 @@
+[
+    {
+        "id": 2422060,
+        "name": "Diankana",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2422924,
+        "name": "Boké",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2415398,
+        "name": "Songbo",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2418362,
+        "name": "Labé",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2414659,
+        "name": "Tokonou",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2419470,
+        "name": "Kissidougou",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2414926,
+        "name": "Télimélé",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2414925,
+        "name": "Telimele Prefecture",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2419991,
+        "name": "Kankan Prefecture",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2417987,
+        "name": "Macenta",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2421041,
+        "name": "Fofo",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2420883,
+        "name": "Fria",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2422923,
+        "name": "Boke Prefecture",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2419531,
+        "name": "Kindia",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2420056,
+        "name": "Kamsar",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2415703,
+        "name": "Siguiri",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2422488,
+        "name": "Camayenne",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2421533,
+        "name": "Préfecture de Dubréka",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2422465,
+        "name": "Conakry",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2418595,
+        "name": "Koundara Prefecture",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2420561,
+        "name": "Préfecture de Guékédou",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2414545,
+        "name": "Tougué",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2416085,
+        "name": "Sangarédi",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2417833,
+        "name": "Mamou",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2418764,
+        "name": "Koubia",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2417795,
+        "name": "Mandiana",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2422464,
+        "name": "Conakry Region",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2419538,
+        "name": "Kimbo",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2418437,
+        "name": "Kouroussa",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2419622,
+        "name": "Kérouané",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2423126,
+        "name": "Beyla",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2422457,
+        "name": "Coyah",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2418596,
+        "name": "Koundara",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2420985,
+        "name": "Forécariah",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2593082,
+        "name": "Soniké",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2414055,
+        "name": "Youkounkoun",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2416968,
+        "name": "Nzerekore Prefecture",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2421903,
+        "name": "Dinguiraye",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2417831,
+        "name": "Mamou Prefecture",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2420477,
+        "name": "Republic of Guinea",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2578880,
+        "name": "Lélouma",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2415702,
+        "name": "Siguiri Prefecture",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2415161,
+        "name": "Tabako",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2420826,
+        "name": "Gaoual",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2414544,
+        "name": "Tougue Prefecture",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2420983,
+        "name": "Préfecture de Forécariah",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2417886,
+        "name": "Mali",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2420562,
+        "name": "Gueckedou",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2418360,
+        "name": "Labe Prefecture",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2421535,
+        "name": "Dubréka",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2414079,
+        "name": "Yomou",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2416969,
+        "name": "Nzérékoré",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2416440,
+        "name": "Pita",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2421272,
+        "name": "Faranah Prefecture",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2414616,
+        "name": "Tondon",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2422441,
+        "name": "Dabola",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2422968,
+        "name": "Boffa",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2423124,
+        "name": "Beyla Prefecture",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2419582,
+        "name": "Khorèra",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2422383,
+        "name": "Dalaba",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2418092,
+        "name": "Lola",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2419992,
+        "name": "Kankan",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2416061,
+        "name": "Sanguéya",
+        "state": "",
+        "country": "GN"
+    },
+    {
+        "id": 2421273,
+        "name": "Faranah",
+        "state": "",
+        "country": "GN"
+    }
+]

@@ -1,0 +1,2228 @@
+[
+    {
+        "id": 4562768,
+        "name": "Barceloneta",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565684,
+        "name": "Municipio de Jayuya",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566814,
+        "name": "Playita Cortada",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566481,
+        "name": "Palmas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566112,
+        "name": "Mabí",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564156,
+        "name": "El Arrendado",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563939,
+        "name": "Comunas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566025,
+        "name": "Loíza Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566068,
+        "name": "Los Llanos",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 7274953,
+        "name": "Martorell Comunidad",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568490,
+        "name": "Utuado",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564028,
+        "name": "Coto Norte",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564946,
+        "name": "Fajardo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564214,
+        "name": "El Negro",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565449,
+        "name": "Humacao Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568162,
+        "name": "San Pedro",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568367,
+        "name": "Tallaboa",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564263,
+        "name": "Ensenada",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568069,
+        "name": "San Antonio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566447,
+        "name": "Olimpo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562939,
+        "name": "Boulevarda Korea",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565544,
+        "name": "Indios",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566103,
+        "name": "Luquillo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565910,
+        "name": "Lares Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568104,
+        "name": "San Germán",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563064,
+        "name": "Camuy",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566767,
+        "name": "Playa Fortuna",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565020,
+        "name": "Freire",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565956,
+        "name": "Las Marias",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568909,
+        "name": "Yabucoa Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566004,
+        "name": "Liborio Negron Torres",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4567552,
+        "name": "Quebradillas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565091,
+        "name": "Guánica Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565679,
+        "name": "Jayuya",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563921,
+        "name": "Comerío Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568040,
+        "name": "Salinas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566198,
+        "name": "Martorell",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565130,
+        "name": "H. Rivera Colon",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565731,
+        "name": "La Alianza",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564862,
+        "name": "Espino",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565111,
+        "name": "Guayanilla",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568908,
+        "name": "Yabucoa",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566997,
+        "name": "Quebrada",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566886,
+        "name": "Ponce Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564974,
+        "name": "Finca Juanita",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563298,
+        "name": "Cataño",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564216,
+        "name": "El Ojo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562812,
+        "name": "Bartolo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563053,
+        "name": "Campanilla",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562783,
+        "name": "Barriada Chinto Rodon",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565577,
+        "name": "Isabela",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568109,
+        "name": "San Isidro",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568122,
+        "name": "San José",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568177,
+        "name": "San Sebastián Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565032,
+        "name": "G. L. Garcia",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566492,
+        "name": "Palo Seco",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4567865,
+        "name": "Río Lajas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568403,
+        "name": "Toa Alta",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568527,
+        "name": "Vázquez",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563011,
+        "name": "Caguas Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568511,
+        "name": "Valle Verde",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566208,
+        "name": "Maunabo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565090,
+        "name": "Guánica",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565314,
+        "name": "Hacienda Santa Barbara (historical)",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568491,
+        "name": "Utuado Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568528,
+        "name": "Vega Alta",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4567769,
+        "name": "Río Cañas Abajo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564256,
+        "name": "Emajagua",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566915,
+        "name": "Pueblo Nuevo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564004,
+        "name": "Corozal Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562623,
+        "name": "Antón Ruiz",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564899,
+        "name": "Estancias de Degetau I",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568012,
+        "name": "Sabana Eneas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 7276416,
+        "name": "Cataño Zona Urbana",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566403,
+        "name": "Naranjito Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568917,
+        "name": "Yauco",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4567734,
+        "name": "Quebradillas Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564026,
+        "name": "Coto Laurel",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565918,
+        "name": "Las Arenas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568518,
+        "name": "Valle de San Juan",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565276,
+        "name": "Hacienda Paraíso",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565279,
+        "name": "Hacienda Pietri",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568200,
+        "name": "Santa Clara",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568451,
+        "name": "Trujillo Alto",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563309,
+        "name": "Cayey Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566687,
+        "name": "Peñuelas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562905,
+        "name": "Boqueron",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566955,
+        "name": "Puerto Real",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565760,
+        "name": "La Fermina",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 7275050,
+        "name": "Corazón Comunidad",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568924,
+        "name": "Vieques Municipality",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 7275017,
+        "name": "Aguas Claras Comunidad",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563123,
+        "name": "Candelaria Arenas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565975,
+        "name": "Las Palmas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566075,
+        "name": "Los Magos",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568092,
+        "name": "San Felipe",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565176,
+        "name": "Hacienda Constanza",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565804,
+        "name": "La Playa",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562972,
+        "name": "Buena Vista",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563047,
+        "name": "Campamento Radley",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565551,
+        "name": "Ingenio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562502,
+        "name": "Aguada",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562837,
+        "name": "Bayamón Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4567573,
+        "name": "Rafael Capo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565346,
+        "name": "Hatillo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562980,
+        "name": "Buenaventura",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566132,
+        "name": "Maleza",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566978,
+        "name": "Puerts de Tierra",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562832,
+        "name": "Bayamon",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563411,
+        "name": "Central Aguirre",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563778,
+        "name": "Cidra Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562524,
+        "name": "Aguilita",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564175,
+        "name": "El Cinco",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566900,
+        "name": "Potala Pastillo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562955,
+        "name": "Brenas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565126,
+        "name": "Gurabo Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565173,
+        "name": "Hacienda Colom",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565381,
+        "name": "Hormigueros Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564071,
+        "name": "Culebra Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566705,
+        "name": "Pico",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568213,
+        "name": "Santa Isabel Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565376,
+        "name": "Honduras",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566330,
+        "name": "Mora",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568368,
+        "name": "Tallaboa Alta",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565540,
+        "name": "Imbery",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4567575,
+        "name": "Rafael Hernandez",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 7274990,
+        "name": "Río Blanco Comunidad",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563484,
+        "name": "Centro Puntas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566272,
+        "name": "Moca Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 7274984,
+        "name": "Punta Santiago Comunidad",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568570,
+        "name": "Vieques",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 7276397,
+        "name": "Villalba Zona Urbana",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4567709,
+        "name": "Residencial Vista Alegre",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568707,
+        "name": "Virginia Valley",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4567745,
+        "name": "Río Blanco",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566723,
+        "name": "Piedra Gorda",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566156,
+        "name": "Mantilla",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563299,
+        "name": "Cataño Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562709,
+        "name": "Bajadero",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565105,
+        "name": "Guayama",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566209,
+        "name": "Maunabo Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563249,
+        "name": "Carrizales",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565049,
+        "name": "Garrochales",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563308,
+        "name": "Cayey",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563376,
+        "name": "Cayuco",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565720,
+        "name": "Municipio de Juncos",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562710,
+        "name": "Bajandas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 7274993,
+        "name": "Roosevelt Roads Comunidad",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565712,
+        "name": "Juana Díaz",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563774,
+        "name": "Ciales Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563482,
+        "name": "Centro Palmar",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563124,
+        "name": "Candelero Arriba",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565636,
+        "name": "Jardines de Anasco",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568399,
+        "name": "Tierras Nuevas Poniente",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568408,
+        "name": "Toa Baja Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563122,
+        "name": "Candelaria",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563777,
+        "name": "Cidra",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564861,
+        "name": "Esperanza",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565575,
+        "name": "Isabel Segunda",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566397,
+        "name": "Naguabo Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566119,
+        "name": "Magas Arriba",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566689,
+        "name": "Peñuelas Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568105,
+        "name": "San Germán Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4567694,
+        "name": "Residencial Manuel Martorell",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4567704,
+        "name": "Residencial Riverdo Tomas M Sorrolla",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563812,
+        "name": "Coamo Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562831,
+        "name": "Bayamón",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562903,
+        "name": "Boquerón",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565676,
+        "name": "Jauca",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566137,
+        "name": "Manatí",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568918,
+        "name": "Yauco Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563773,
+        "name": "Ciales",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566305,
+        "name": "Monte Grande",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563243,
+        "name": "Carolina",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566267,
+        "name": "Miranda",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563059,
+        "name": "Campo Rico",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565689,
+        "name": "Jobos",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568529,
+        "name": "Vega Alta Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566333,
+        "name": "Morovis",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568253,
+        "name": "Santo Domingo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566002,
+        "name": "Levittown",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564206,
+        "name": "El Mangó",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564046,
+        "name": "Cuatro Calles (historical)",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564901,
+        "name": "Estancias de Florida",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565621,
+        "name": "Jagual",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564085,
+        "name": "Daguao",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565353,
+        "name": "Hato Candal",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565125,
+        "name": "Gurabo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566385,
+        "name": "Mayagüez",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565780,
+        "name": "La Luisa",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4567586,
+        "name": "Ramos",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565713,
+        "name": "Juana Díaz Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565718,
+        "name": "Juncos",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 7275071,
+        "name": "Imbéry Comunidad",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568014,
+        "name": "Sabana Grande",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565908,
+        "name": "Lares",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568212,
+        "name": "Santa Isabel",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566880,
+        "name": "Ponce",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562996,
+        "name": "Cabo Rojo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566470,
+        "name": "Pájaros",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562765,
+        "name": "Barahona",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565807,
+        "name": "La Plena",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568452,
+        "name": "Trujillo Alto Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565973,
+        "name": "Las Ollas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566346,
+        "name": "Mucarabones",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566021,
+        "name": "Lluveras",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566110,
+        "name": "Luyando",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4567574,
+        "name": "Rafael Gonzalez",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4567696,
+        "name": "Residencial Mattei",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565930,
+        "name": "Las Corozas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565972,
+        "name": "Las Ochenta",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566475,
+        "name": "Palmarejo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565898,
+        "name": "Lajas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565900,
+        "name": "Lajas Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562483,
+        "name": "Aceitunas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565101,
+        "name": "Guayabal",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562600,
+        "name": "Añasco",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563793,
+        "name": "Cimarrona",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562868,
+        "name": "Biáfara",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568007,
+        "name": "Sabana",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563380,
+        "name": "Ceiba Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564133,
+        "name": "Dorado",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564070,
+        "name": "Culebra",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565031,
+        "name": "Fuig",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566652,
+        "name": "Patillas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4567727,
+        "name": "Rincón Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565380,
+        "name": "Hormigueros",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566177,
+        "name": "Mariano Colón",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563065,
+        "name": "Camuy Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565980,
+        "name": "Las Piedras",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562997,
+        "name": "Cabo Rojo Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566706,
+        "name": "Pico Alalaya",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562513,
+        "name": "Aguas Buenas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564991,
+        "name": "Florida",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4567605,
+        "name": "Reparto Colinas de Monte Verde",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568347,
+        "name": "Stella",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4567995,
+        "name": "Rosa Sanchez",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562615,
+        "name": "Animas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563988,
+        "name": "Coquí",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563168,
+        "name": "Canovanas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568731,
+        "name": "Vivoni",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568524,
+        "name": "Varela",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564161,
+        "name": "El Bosque",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563994,
+        "name": "Corcovado",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562506,
+        "name": "Aguadilla",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566270,
+        "name": "Moca",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566485,
+        "name": "Palmer",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566992,
+        "name": "Punta Santiago",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 7315435,
+        "name": "Calzada Comunidad",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565107,
+        "name": "Guayama Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565958,
+        "name": "Las Marías",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566207,
+        "name": "Matojillo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568404,
+        "name": "Toa Alta Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566001,
+        "name": "Leprocomio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564236,
+        "name": "El Saco",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566509,
+        "name": "Parcelas La Milagrosa",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564134,
+        "name": "Dorado Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568407,
+        "name": "Toa Baja",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562796,
+        "name": "Barriada San Luis",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566877,
+        "name": "Pole Ojea",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568154,
+        "name": "San Luis",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566092,
+        "name": "Luchetti",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564108,
+        "name": "Destino",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568017,
+        "name": "Sabana Hoyos",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566334,
+        "name": "Morovis Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566174,
+        "name": "Mariana",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566180,
+        "name": "Maricao Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568120,
+        "name": "San Jose",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564223,
+        "name": "El Plantino",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563919,
+        "name": "Comerío",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566674,
+        "name": "Peña Pobre",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566913,
+        "name": "Pueblito del Rio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565119,
+        "name": "Guaynabo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566966,
+        "name": "Puerto Rico",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562550,
+        "name": "Almácigo Bajo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562946,
+        "name": "Boulevardo Tomas de Castro II",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566747,
+        "name": "Pitahaya",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 7275055,
+        "name": "Duque Comunidad",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563907,
+        "name": "Colonia Dolores",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562778,
+        "name": "Barranquitas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566106,
+        "name": "Luquillo Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566513,
+        "name": "Parcelas Peñuelas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562860,
+        "name": "Benitez",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568127,
+        "name": "San Juan",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563048,
+        "name": "Campamento Real",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566650,
+        "name": "Pastos",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564949,
+        "name": "Fajardo Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563244,
+        "name": "Carolina Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563382,
+        "name": "Celada",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565018,
+        "name": "Franquez",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 7276417,
+        "name": "Cayey Zona Urbana",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565112,
+        "name": "Guayanilla Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568559,
+        "name": "Versailles",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4567723,
+        "name": "Rincón",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566285,
+        "name": "Monserrate",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565717,
+        "name": "Juncal",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568353,
+        "name": "Sumidero",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568684,
+        "name": "Villalba Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568194,
+        "name": "Santa Barbara",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565059,
+        "name": "Gidralter",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563378,
+        "name": "Ceiba",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565564,
+        "name": "Humacao",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566217,
+        "name": "Mayagüez Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566171,
+        "name": "Maria Antonia",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563816,
+        "name": "Coco",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565191,
+        "name": "Hacienda Esperanza",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566313,
+        "name": "Monte Verdes",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562989,
+        "name": "Caban",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565796,
+        "name": "La Parguera",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565904,
+        "name": "Lamboglia",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564869,
+        "name": "Estación Santa Isabel",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566096,
+        "name": "Luis Llorens Torres",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4567817,
+        "name": "Río Grande",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562529,
+        "name": "Aibonito",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563811,
+        "name": "Coamo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568175,
+        "name": "San Sebastián",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 7276401,
+        "name": "Aguada Zona Urbana",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562705,
+        "name": "Bairoa",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568957,
+        "name": "Yaurel",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568015,
+        "name": "Sabana Grande Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 7276369,
+        "name": "Maricao Zona Urbana",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565348,
+        "name": "Hatillo Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568533,
+        "name": "Vega Baja",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563220,
+        "name": "Capitanejo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565814,
+        "name": "La Quinta",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 7276424,
+        "name": "Culebra Zona Urbana",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568066,
+        "name": "San Agusto",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566178,
+        "name": "Maricao",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566396,
+        "name": "Naguabo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 7274973,
+        "name": "Pastos Comunidad",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4567732,
+        "name": "Río Abajo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562517,
+        "name": "Aguas Claras",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564149,
+        "name": "Duque",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565033,
+        "name": "Galateo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563183,
+        "name": "Capá",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565961,
+        "name": "Las Marías Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568043,
+        "name": "Salinas Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563045,
+        "name": "Campamento Piñones",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4567601,
+        "name": "Reparto Arenales",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563990,
+        "name": "Corazón",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4567564,
+        "name": "Quintas de Humacao",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568023,
+        "name": "Sabana Seca",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563008,
+        "name": "Caguas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4564003,
+        "name": "Corozal",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568683,
+        "name": "Villalba",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4563003,
+        "name": "Cacao",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562966,
+        "name": "Bucaná",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565764,
+        "name": "La González",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562681,
+        "name": "Arroyo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562695,
+        "name": "Atenas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562983,
+        "name": "Bufalo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565120,
+        "name": "Guaynabo Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568350,
+        "name": "Suárez",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566402,
+        "name": "Naranjito",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562635,
+        "name": "Arecibo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565047,
+        "name": "Garona",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566813,
+        "name": "Playita",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566512,
+        "name": "Parcelas Nuevas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566266,
+        "name": "Miramar",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565755,
+        "name": "La Dolores",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566497,
+        "name": "Palomas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566467,
+        "name": "Padilla",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566654,
+        "name": "Patillas Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4565981,
+        "name": "Las Piedras Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568431,
+        "name": "Torres de Carolinas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4562485,
+        "name": "Adjuntas",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566022,
+        "name": "Loíza",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566138,
+        "name": "Manatí Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568149,
+        "name": "San Lorenzo",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4568534,
+        "name": "Vega Baja Municipio",
+        "state": "",
+        "country": "PR"
+    },
+    {
+        "id": 4566098,
+        "name": "Luis M. Cintron",
+        "state": "",
+        "country": "PR"
+    }
+]

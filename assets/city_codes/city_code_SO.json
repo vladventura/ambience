@@ -1,0 +1,470 @@
+[
+    {
+        "id": 60019,
+        "name": "Eyl",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 52381,
+        "name": "Saacow",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 51967,
+        "name": "Gobolka Shabeellaha Dhexe",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 65785,
+        "name": "Afgooye",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 63571,
+        "name": "Buurhakaba",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 58933,
+        "name": "Garoowe",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 63689,
+        "name": "Buulobarde",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 54746,
+        "name": "Lughaye",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 64538,
+        "name": "Gobolka Bay",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 54225,
+        "name": "Marka",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 53477,
+        "name": "Gobolka Nugaal",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 64013,
+        "name": "Bosaso",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 62660,
+        "name": "Cheli Gu",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 62854,
+        "name": "Ceek",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 56335,
+        "name": "Jawhar",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 64460,
+        "name": "Beledweyne",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 50672,
+        "name": "Wanlaweyn",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 51966,
+        "name": "Gobolka Shabeellaha Hoose",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 57060,
+        "name": "Gobolka Hiiraan",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 53372,
+        "name": "Oodweyne",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 63344,
+        "name": "Cadale",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 64435,
+        "name": "Berbera",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 64833,
+        "name": "Gobolka Banaadir",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 53654,
+        "name": "Mogadishu",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 60147,
+        "name": "El Dubat",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 56399,
+        "name": "Jamaame",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 63949,
+        "name": "Bu’aale",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 6268947,
+        "name": "Gobolka Sool",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 54460,
+        "name": "Mahaddayweyne",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 51299,
+        "name": "Tayeeglow",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 8045596,
+        "name": "Baki",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 53707,
+        "name": "Gobolka Mudug",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 56083,
+        "name": "Gobolka Jubbada Hoose",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 50064,
+        "name": "Xarardheere",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 57000,
+        "name": "Hobyo",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 58802,
+        "name": "Gobolka Gedo",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 59611,
+        "name": "Gaalkacyo",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 63580,
+        "name": "Buur Gaabo",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 61993,
+        "name": "Dalooldho",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 62821,
+        "name": "Ceelbuur",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 51230,
+        "name": "Gobolka Togdheer",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 63081,
+        "name": "Caluula",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 65893,
+        "name": "Cadayo",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 59362,
+        "name": "Gobolka Galguduud",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 60628,
+        "name": "Doon",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 57289,
+        "name": "Hargeysa",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 55223,
+        "name": "Las Khorey",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 55671,
+        "name": "Kismayo",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 64536,
+        "name": "Baidoa",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 62788,
+        "name": "Ceeldheer",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 53157,
+        "name": "Qandala",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 53172,
+        "name": "Qaloocan",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 49747,
+        "name": "Xuddur",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 64480,
+        "name": "Behelidle",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 400769,
+        "name": "Laascaanood",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 56166,
+        "name": "Jilib",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 60207,
+        "name": "El Ad",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 58994,
+        "name": "Garbahaarrey",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 60457,
+        "name": "Dujuuma",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 63795,
+        "name": "Burao",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 52867,
+        "name": "Qoryooley",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 54715,
+        "name": "Luuq",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 56414,
+        "name": "Jalalaqsi",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 64661,
+        "name": "Gobolka Bari",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 64670,
+        "name": "Bargaal",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 65170,
+        "name": "Baardheere",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 64412,
+        "name": "Bereeda",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 50814,
+        "name": "Waajid",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 60928,
+        "name": "Dhuusamarreeb",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 51537,
+        "name": "Somalia",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 49593,
+        "name": "Yeed",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 50360,
+        "name": "Gobolka Woqooyi Galbeed",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 6268943,
+        "name": "Gobolka Awdal",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 56084,
+        "name": "Gobolka Jubbada Dhexe",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 52187,
+        "name": "Gobolka Sanaag",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 64814,
+        "name": "Bandarbeyla",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 62691,
+        "name": "Ceerigaabo",
+        "state": "",
+        "country": "SO"
+    },
+    {
+        "id": 56505,
+        "name": "Iskushuban",
+        "state": "",
+        "country": "SO"
+    }
+]

@@ -1,0 +1,836 @@
+[
+    {
+        "id": 109353,
+        "name": "Al Kharj",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 101581,
+        "name": "Tanūmah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 102891,
+        "name": "Ras Tanura",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 409993,
+        "name": "Al Muwayh",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 411338,
+        "name": "Al Mudawwarah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 110336,
+        "name": "Dammam",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 101633,
+        "name": "Tabālah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 106297,
+        "name": "Hafar Al-Batin",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 104625,
+        "name": "Madīnat Yanbu‘ aş Şinā‘īyah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 396550,
+        "name": "Tumayr",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 109380,
+        "name": "Al Khafjī",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 8019123,
+        "name": "Sharurah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 104376,
+        "name": "Marāt",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 105298,
+        "name": "Jizan Region",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 108241,
+        "name": "Al Minţaqah ash Sharqīyah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 102651,
+        "name": "Şabyā",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 109470,
+        "name": "Al Jawf",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 106280,
+        "name": "Hai’l Region",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 110031,
+        "name": "Al Arţāwīyah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 109223,
+        "name": "Medina",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 108918,
+        "name": "Qaisumah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 109915,
+        "name": "Al Baţţālīyah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 410084,
+        "name": "Al Hadā",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 109101,
+        "name": "Al Mubarraz",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 400685,
+        "name": "Al Fayşalīyah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 110328,
+        "name": "Ad Darb",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 109771,
+        "name": "Al Ghaţghaţ",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 101760,
+        "name": "Sulţānah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 107684,
+        "name": "Banbān",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 101628,
+        "name": "Tabuk",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 106744,
+        "name": "Farasān",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 104308,
+        "name": "Masāḩilī",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 103369,
+        "name": "Qal‘at Bīshah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 110314,
+        "name": "Ad Dilam",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 108410,
+        "name": "Riyadh",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 107304,
+        "name": "Buraydah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 103012,
+        "name": "Rafha",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 104514,
+        "name": "Makkah Province",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 109571,
+        "name": "Al Hufūf",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 108617,
+        "name": "An Nimāş",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 109417,
+        "name": "Al Jumūm",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 108142,
+        "name": "As Saffānīyah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 102585,
+        "name": "Şafwá",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 108933,
+        "name": "Al-Qassim Province",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 109165,
+        "name": "Al Markaz",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 109878,
+        "name": "Al Bukayrīyah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 109224,
+        "name": "Al Madīnah al Munawwarah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 395014,
+        "name": "Sidīs",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 108957,
+        "name": "Al Qārah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 409950,
+        "name": "Raḑwān",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 102358,
+        "name": "Kingdom of Saudi Arabia",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 108121,
+        "name": "Sājir",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 109502,
+        "name": "Al Jafr",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 107968,
+        "name": "Ta’if",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 101554,
+        "name": "Tārūt",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 399518,
+        "name": "Al Majāridah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 104270,
+        "name": "Masjid Ibn Rashīd",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 104515,
+        "name": "Mecca",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 103035,
+        "name": "Rābigh",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 107312,
+        "name": "Abqaiq",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 409515,
+        "name": "Al ‘Awājīyah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 6692745,
+        "name": "shokhaibٍ",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 110619,
+        "name": "Abū ‘Arīsh",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 108210,
+        "name": "Ash Shubramīyah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 103331,
+        "name": "Qārā",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 105343,
+        "name": "Jeddah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 107781,
+        "name": "Az Zulfī",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 407308,
+        "name": "As Sahbā’",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 391749,
+        "name": "‘Uşayfirāt",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 414980,
+        "name": "Al Qudayḩ",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 104269,
+        "name": "Mislīyah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 108512,
+        "name": "Arar",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 392343,
+        "name": "Al Fāḑilī",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 108773,
+        "name": "Al Wajh",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 108890,
+        "name": "Al Qurayn",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 109481,
+        "name": "Al Jarādīyah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 392753,
+        "name": "Şuwayr",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 103922,
+        "name": "Mulayjah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 108947,
+        "name": "Al Quraynah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 109579,
+        "name": "Minţaqat al Ḩudūd ash Shamālīyah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 110737,
+        "name": "Abā as Su‘ūd",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 448600,
+        "name": "Al Khālidīyah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 101312,
+        "name": "Turaif",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 109435,
+        "name": "Al Jubayl",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 102451,
+        "name": "Şāmitah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 389860,
+        "name": "Ash Shu‘aybah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 101591,
+        "name": "Tamrah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 105299,
+        "name": "Jizan",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 108435,
+        "name": "Ar Rass",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 101631,
+        "name": "Ţubarjal",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 411398,
+        "name": "Al Ābār",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 102527,
+        "name": "Sakakah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 110060,
+        "name": "Al ‘Aqīq",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 397513,
+        "name": "Al Fuwayliq",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 107797,
+        "name": "Dhahran",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 102318,
+        "name": "Sayhāt",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 105252,
+        "name": "Julayjilah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 108179,
+        "name": "Minţaqat ‘Asīr",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 109953,
+        "name": "Al Bahah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 110250,
+        "name": "Afif",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 396460,
+        "name": "Khushaybī al Ḩaḑar",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 101344,
+        "name": "At Tūbī",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 109118,
+        "name": "Al Mindak",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 100926,
+        "name": "Umluj",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 105072,
+        "name": "Khamis Mushait",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 108648,
+        "name": "Qurayyat",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 108190,
+        "name": "Ash Shurayf",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 106909,
+        "name": "Duba",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 101322,
+        "name": "Turabah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 110325,
+        "name": "Ad Dawādimī",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 107392,
+        "name": "Birzayn",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 110107,
+        "name": "Al Awjām",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 106261,
+        "name": "Ḩajlah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 101927,
+        "name": "Sīdī Ḩamzah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 103533,
+        "name": "Nimrān",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 107959,
+        "name": "Aţ Ţaraf",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 109122,
+        "name": "Al Mikhlāf",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 101752,
+        "name": "Şumaymah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 109008,
+        "name": "Al Muţayrifī",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 106281,
+        "name": "Ha'il",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 108048,
+        "name": "As Sulayyil",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 110690,
+        "name": "Abha",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 102985,
+        "name": "Raḩīmah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 109923,
+        "name": "Al Buşur",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 101627,
+        "name": "Minţaqat Tabūk",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 107744,
+        "name": "Badr Ḩunayn",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 410874,
+        "name": "Mizhirah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 108927,
+        "name": "Al Qaţīf",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 103630,
+        "name": "Najrān",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 100425,
+        "name": "Yanbu",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 103665,
+        "name": "Naghbī",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 101035,
+        "name": "Umm as Sāhik",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 101810,
+        "name": "Sufan",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 108411,
+        "name": "Minţaqat ar Riyāḑ",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 109323,
+        "name": "Khobar",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 109059,
+        "name": "Al Munayzilah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 108384,
+        "name": "Ar Ruqayyiqah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 108052,
+        "name": "As Sulaymānīyah",
+        "state": "",
+        "country": "SA"
+    },
+    {
+        "id": 391699,
+        "name": "Ḩajrat al Khinbish",
+        "state": "",
+        "country": "SA"
+    }
+]

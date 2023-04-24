@@ -1,0 +1,638 @@
+[
+    {
+        "id": 1077503,
+        "name": "Ampopohona",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1068670,
+        "name": "Bealanana",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1066310,
+        "name": "Betioky",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1069166,
+        "name": "Antsirabe",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1081790,
+        "name": "Amboasary",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1064890,
+        "name": "Fianarantsoa",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1061412,
+        "name": "Mananara",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1061335,
+        "name": "Mananjary",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1065158,
+        "name": "Farafangana",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1061912,
+        "name": "Maintirano",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 7670905,
+        "name": "Haute Matsiatra Region",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1081105,
+        "name": "Ambodipont",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1058284,
+        "name": "Namontana",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1068971,
+        "name": "Antsohihy",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1058390,
+        "name": "Morombe",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1064980,
+        "name": "Fenoarivo Atsinanana",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1066650,
+        "name": "Besatra",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1070661,
+        "name": "Antanifotsy",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1078601,
+        "name": "Ampangalana Avaratra",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1082829,
+        "name": "Ambatomanga",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 7670857,
+        "name": "Atsinanana Region",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1078283,
+        "name": "Ampasibajina",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1060283,
+        "name": "Maroantsetra",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1064978,
+        "name": "Fenoarivo Be",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1078553,
+        "name": "Ampanihy",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1053384,
+        "name": "Toamasina",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1060673,
+        "name": "Manjakandriana",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1054463,
+        "name": "Tsiroanomandidy",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1062947,
+        "name": "Republic of Madagascar",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1062663,
+        "name": "Mahajanga",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 7670842,
+        "name": "Diana Region",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1082992,
+        "name": "Ambatolampy",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1059507,
+        "name": "Marovoay",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1065113,
+        "name": "Fasenina-Ampasy",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1056386,
+        "name": "Soanierana Ivongo",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1083724,
+        "name": "Ambanja",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1058381,
+        "name": "Morondava",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1076194,
+        "name": "Andilamena",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1066702,
+        "name": "Besalampy",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1082639,
+        "name": "Ambatondrazaka",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1060169,
+        "name": "Marofototra",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1055059,
+        "name": "Tsaratanana",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1067531,
+        "name": "Belo sur Tsiribihina",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1055433,
+        "name": "Tôlanaro",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1069129,
+        "name": "Antsiranana",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1072879,
+        "name": "Ankazoabo",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1079048,
+        "name": "Ambovombe",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1083257,
+        "name": "Ambato Boeny",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1054192,
+        "name": "Vavatenina",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1081530,
+        "name": "Ambodifotatra",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1059051,
+        "name": "Miandrivazo",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 7670849,
+        "name": "Boeny Region",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1054500,
+        "name": "Tsiombe",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1057095,
+        "name": "Sakaraha",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1066514,
+        "name": "Betafo",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1083511,
+        "name": "Ambaravarambato",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1076227,
+        "name": "Andovoranto",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1078446,
+        "name": "Amparafaravola",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1055429,
+        "name": "Toliara",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1068865,
+        "name": "Arivonimamo",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1066512,
+        "name": "Betahitra",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1054035,
+        "name": "Vohibinany",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1063858,
+        "name": "Ivato",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1064258,
+        "name": "Ikalamavony",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1064275,
+        "name": "Ihosy",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1073482,
+        "name": "Anjozorobe",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1056151,
+        "name": "Soavinandriana",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1058080,
+        "name": "Nosy Varika",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1056953,
+        "name": "Salazamay",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1065140,
+        "name": "Faratsiho",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 7670856,
+        "name": "Analamanga Region",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1058532,
+        "name": "Moramanga",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1076105,
+        "name": "Hell-Ville",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1070738,
+        "name": "Antanetikely",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 7670913,
+        "name": "Atsimo-Andrefana Region",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1077349,
+        "name": "Anakao",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1054116,
+        "name": "Voalavo",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1064366,
+        "name": "Ifanadiana",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1074972,
+        "name": "Andranomena",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1071296,
+        "name": "Antalaha",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1079088,
+        "name": "Ambositra",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1067565,
+        "name": "Beloha",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1080968,
+        "name": "Ambodisatirana",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1054329,
+        "name": "Vangaindrano",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1066831,
+        "name": "Beroroha",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1061605,
+        "name": "Manakara",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1065222,
+        "name": "Fandriana",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1078317,
+        "name": "Amparihy",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1069188,
+        "name": "Antsirabato",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1056899,
+        "name": "Sambava",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1083239,
+        "name": "Ambatofinandrahana",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1076152,
+        "name": "Andimaka",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1060007,
+        "name": "Marolambo",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1071712,
+        "name": "Ankorefo",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1076454,
+        "name": "Andapa",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1079096,
+        "name": "Amborovy",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1062347,
+        "name": "Mahatsara",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1064234,
+        "name": "Ikongo",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1082243,
+        "name": "Ambilobe",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1062553,
+        "name": "Mahanoro",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1083968,
+        "name": "Ambalavao",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1053507,
+        "name": "Vondrozo",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1070940,
+        "name": "Antananarivo",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1081522,
+        "name": "Ambodihady",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1062146,
+        "name": "Mahavelona",
+        "state": "",
+        "country": "MG"
+    },
+    {
+        "id": 1072849,
+        "name": "Ankazobe",
+        "state": "",
+        "country": "MG"
+    }
+]

@@ -1,0 +1,1898 @@
+[
+    {
+        "id": 3239103,
+        "name": "Občina Bled",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3197539,
+        "name": "Kotlje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3192672,
+        "name": "Postojna",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3197146,
+        "name": "Občina Krško",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3195214,
+        "name": "Metlika",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190950,
+        "name": "Sevnica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3343518,
+        "name": "Jagodje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3202328,
+        "name": "Črnuče",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3195011,
+        "name": "Mislinja",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3198636,
+        "name": "Ježa",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3198478,
+        "name": "Kal",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191678,
+        "name": "Ribnica na Pohorju",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 8198424,
+        "name": "Smarjeske Toplice",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3200197,
+        "name": "Gornja Radgona",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3186832,
+        "name": "Zalog",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3196560,
+        "name": "Limbuš",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191598,
+        "name": "Ročinj",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190510,
+        "name": "Šmarje pri Jelšah",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3192062,
+        "name": "Radovljica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3197226,
+        "name": "Križevci pri Ljutomeru",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3197752,
+        "name": "Koper",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3189989,
+        "name": "Stara Vrhnika",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3186538,
+        "name": "Zgornja Kungota",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3195202,
+        "name": "Mežica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3187125,
+        "name": "Vrtojba",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3189227,
+        "name": "Tabor",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191579,
+        "name": "Rogašovci",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3192144,
+        "name": "Radeče",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3197462,
+        "name": "Kozina",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3339120,
+        "name": "Zreče",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191592,
+        "name": "Rodine",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3192165,
+        "name": "Rače",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3202704,
+        "name": "Cerkvenjak",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191033,
+        "name": "Šentjernej",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3200933,
+        "name": "Dutovlje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191839,
+        "name": "Ravne na Koroškem",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3197959,
+        "name": "Kobilje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3200351,
+        "name": "Gorenji Logatec",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191580,
+        "name": "Rogaška Slatina",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3201355,
+        "name": "Dornava",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3196652,
+        "name": "Lesce",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3199268,
+        "name": "Hrib-Loški Potok",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3201901,
+        "name": "Dobrova",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3239111,
+        "name": "Občina Šenčur",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3196359,
+        "name": "Ljubljana",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3239100,
+        "name": "Občina Bovec",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3339124,
+        "name": "Radizel",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190150,
+        "name": "Središče ob Dravi",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191029,
+        "name": "Šentjur",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3200721,
+        "name": "Gančani",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3186607,
+        "name": "Železniki",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3217105,
+        "name": "Zeče",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3199243,
+        "name": "Hrušica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191184,
+        "name": "Sečovlje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3199365,
+        "name": "Hočko Pohorje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3215453,
+        "name": "Razkrižje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3199169,
+        "name": "Idrija",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3193659,
+        "name": "Pameče",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190722,
+        "name": "Škocjan",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3194647,
+        "name": "Murska Sobota",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3196281,
+        "name": "Log pri Brezovici",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3194086,
+        "name": "Oplotnica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 6956383,
+        "name": "Kisovec",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3187690,
+        "name": "Vir pri Stični",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3199016,
+        "name": "Izola",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3218387,
+        "name": "Murovci",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191024,
+        "name": "Šentrupert",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3202700,
+        "name": "Černelavci",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3203550,
+        "name": "Braslovče",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3199765,
+        "name": "Grad",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3199347,
+        "name": "Horjul",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3204598,
+        "name": "Bakovci",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3196133,
+        "name": "Luče",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3202712,
+        "name": "Cerkljanski Vrh",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3198354,
+        "name": "Kanal",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3198365,
+        "name": "Kamnik",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3195460,
+        "name": "Markovci",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3201988,
+        "name": "Dobje pri Planini",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3187020,
+        "name": "Vuzenica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3187336,
+        "name": "Vransko",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191737,
+        "name": "Renče",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3202780,
+        "name": "Celje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3193011,
+        "name": "Podhom",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3195281,
+        "name": "Medvode",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190717,
+        "name": "Škofja Loka",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3218364,
+        "name": "Cerkno",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3192965,
+        "name": "Podmolnik",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3200016,
+        "name": "Gornji Grad",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3192899,
+        "name": "Podvelka",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3186843,
+        "name": "Občina Žalec",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3204044,
+        "name": "Bistrica ob Sotli",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3202333,
+        "name": "Črnomelj",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190495,
+        "name": "Šmartno pri Litiji",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3193340,
+        "name": "Piran",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3197377,
+        "name": "Kranj",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190219,
+        "name": "Spodnje Hoče",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3198165,
+        "name": "Kidričevo",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3239098,
+        "name": "Občina Kobarid",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3204296,
+        "name": "Benedikt",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190310,
+        "name": "Sostro",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3192570,
+        "name": "Prebold",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190710,
+        "name": "Skoke",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3187432,
+        "name": "Volavlje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190516,
+        "name": "Šmarca",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3195898,
+        "name": "Majšperk",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3195162,
+        "name": "Miklavž na Dravskem Polju",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3194622,
+        "name": "Muta",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3204854,
+        "name": "Ajdovščina",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3203411,
+        "name": "Občina Brežice",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190253,
+        "name": "Spodnja Besnica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3192019,
+        "name": "Rakičan",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3239318,
+        "name": "Mestna Občina Ljubljana",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3201729,
+        "name": "Občina Domžale",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191756,
+        "name": "Rečica ob Savinji",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3186450,
+        "name": "Žiri",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3196425,
+        "name": "Litija",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3186442,
+        "name": "Žirovnica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3188886,
+        "name": "Trebnje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3187485,
+        "name": "Vodice",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3189917,
+        "name": "Starše",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3192986,
+        "name": "Podlehnik",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3194351,
+        "name": "Novo Mesto",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190716,
+        "name": "Občina Škofja Loka",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3194451,
+        "name": "Nova Gorica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191774,
+        "name": "Razvanje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3192262,
+        "name": "Prvačina",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3203808,
+        "name": "Bohinjska Bistrica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3187813,
+        "name": "Videm",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3203443,
+        "name": "Bresternica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3198856,
+        "name": "Jareninski Vrh",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3192021,
+        "name": "Rakek",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3186705,
+        "name": "Zavrč",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3192139,
+        "name": "Radenci",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190529,
+        "name": "Slovenske Konjice",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3199020,
+        "name": "Izlake",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3186994,
+        "name": "Žabnica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190199,
+        "name": "Spodnji Duplek",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3189014,
+        "name": "Sveti Tomaž",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3195041,
+        "name": "Mirna",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3189163,
+        "name": "Temnica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3194792,
+        "name": "Mozirje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3189798,
+        "name": "Štore",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3195054,
+        "name": "Miren",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190498,
+        "name": "Šmartno ob Paki",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3201994,
+        "name": "Dob",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191062,
+        "name": "Šempeter v Savinj. Dolini",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3195242,
+        "name": "Merče",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3195883,
+        "name": "Makole",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3192240,
+        "name": "Ptuj",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3189403,
+        "name": "Sv. Ana v Slov. Goricah",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3187428,
+        "name": "Volčja Draga",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190712,
+        "name": "Škofljica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3201253,
+        "name": "Dravograd",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3344920,
+        "name": "Občina Hoče-Slivnica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3202524,
+        "name": "Črenšovci",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3188723,
+        "name": "Trška Gora",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3200307,
+        "name": "Gorišnica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191039,
+        "name": "Šentilj v Slov. Goricah",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190944,
+        "name": "Občina Sežana",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3199130,
+        "name": "Ilirska Bistrica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3201730,
+        "name": "Domžale",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3188181,
+        "name": "Velika Polana",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191059,
+        "name": "Šenčur",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3196842,
+        "name": "Kuzma",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3201896,
+        "name": "Dobrovo",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3186270,
+        "name": "Žužemberk",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3217862,
+        "name": "Koroška Bela",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3198646,
+        "name": "Jesenice",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3187448,
+        "name": "Vojnik",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3199856,
+        "name": "Gotovlje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3203925,
+        "name": "Bled",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3187598,
+        "name": "Vitanje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3203286,
+        "name": "Britof",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3203471,
+        "name": "Breginj",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191401,
+        "name": "Ruše",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3192762,
+        "name": "Polzela",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3204303,
+        "name": "Beltinci",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3196307,
+        "name": "Ljutomer",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3202070,
+        "name": "Deskle",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3202459,
+        "name": "Črna na Koroškem",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3239195,
+        "name": "Občina Semič",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3203412,
+        "name": "Brežice",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 8133587,
+        "name": "Občina Renče-Vogrsko",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3188684,
+        "name": "Trzin",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3188606,
+        "name": "Turnišče",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3194350,
+        "name": "Mestna Občina Novo mesto",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191844,
+        "name": "Ravne",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190945,
+        "name": "Sežana",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3203611,
+        "name": "Bovec",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3198549,
+        "name": "Sveti Jurij ob Ščavnici",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191064,
+        "name": "Šempas",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3187505,
+        "name": "Vnanje Gorice",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3204144,
+        "name": "Bilje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3199361,
+        "name": "Hodoš",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3188971,
+        "name": "Topolšica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3192560,
+        "name": "Preddvor",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3195036,
+        "name": "Mirna Peč",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3339128,
+        "name": "Selnica ob Dravi",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3201835,
+        "name": "Dolenje Karteljevo",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3187840,
+        "name": "Veržej",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190391,
+        "name": "Sodražica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3197983,
+        "name": "Kobarid",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3204870,
+        "name": "Adlešiči",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3192802,
+        "name": "Poljčane",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3216880,
+        "name": "Podova",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3196496,
+        "name": "Lipovci",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3189037,
+        "name": "Občina Tolmin",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3195505,
+        "name": "Maribor",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3187213,
+        "name": "Vrhnika",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190360,
+        "name": "Solčava",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3196165,
+        "name": "Lovrenc na Pohorju",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3198531,
+        "name": "Juršinci",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3194822,
+        "name": "Mostec",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3197942,
+        "name": "Občina Kočevje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3193075,
+        "name": "Podčetrtek",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3197943,
+        "name": "Kočevje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3186557,
+        "name": "Žetale",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3200450,
+        "name": "Golnik",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3186498,
+        "name": "Zrece",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3199296,
+        "name": "Hrastnik",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3193299,
+        "name": "Pivka",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3186905,
+        "name": "Zagorje ob Savi",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190136,
+        "name": "Srednja Vas",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3199558,
+        "name": "Griže",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3201748,
+        "name": "Dol pri Ljubljani",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3192121,
+        "name": "Radlje ob Dravi",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191072,
+        "name": "Semič",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3203381,
+        "name": "Brezje v Podbočju",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191563,
+        "name": "Rogoza",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3202019,
+        "name": "Divača",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3187575,
+        "name": "Vitomarci",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3203338,
+        "name": "Brezovica pri Ljubljani",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3202709,
+        "name": "Cerknica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 8198423,
+        "name": "Cirkulane",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190249,
+        "name": "Spodnja Hajdina",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3197842,
+        "name": "Komen",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3200385,
+        "name": "Straža",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3200379,
+        "name": "Gorenja Vas",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3186509,
+        "name": "Zgornje Jezersko",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3197163,
+        "name": "Kromberk",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3192603,
+        "name": "Pragersko",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3187855,
+        "name": "Verd",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3194904,
+        "name": "Mokronog",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3197581,
+        "name": "Kostanjevica na Krki",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3192484,
+        "name": "Prevalje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3196288,
+        "name": "Logatec",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3187465,
+        "name": "Voglje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3339111,
+        "name": "Videm pri Ptuju",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3196760,
+        "name": "Laško",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191329,
+        "name": "Šalovci",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3188128,
+        "name": "Velike Lašče",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3219943,
+        "name": "Uhk",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3192098,
+        "name": "Radomlje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3189098,
+        "name": "Tišina",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3186844,
+        "name": "Žalec",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190538,
+        "name": "Republic of Slovenia",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191063,
+        "name": "Šempeter pri Gorici",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3193463,
+        "name": "Pesnica pri Mariboru",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3199162,
+        "name": "Ig",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3201927,
+        "name": "Dobrna",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3239224,
+        "name": "Občina Rače-Fram",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3192682,
+        "name": "Portorož",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3199948,
+        "name": "Gornji Petrovci",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3189035,
+        "name": "Tolminski Lom",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191806,
+        "name": "Ravni",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3194403,
+        "name": "Nova Vas",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190534,
+        "name": "Slovenska Bistrica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3239080,
+        "name": "Miren-Kostanjevica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3197373,
+        "name": "Kranjska Gora",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3189074,
+        "name": "Velenje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3188914,
+        "name": "Trbovlje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3194873,
+        "name": "Moravče",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3194922,
+        "name": "Mojstrana",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3197164,
+        "name": "Krog",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3201897,
+        "name": "Dobrovnik",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3195250,
+        "name": "Mengeš",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3199522,
+        "name": "Grosuplje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3343512,
+        "name": "Lucija",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3202111,
+        "name": "Dekani",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3239215,
+        "name": "Pesnica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190535,
+        "name": "Slovenj Gradec",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3216562,
+        "name": "Žigoni",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3201963,
+        "name": "Dobrava pri Konjicah",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3189038,
+        "name": "Tolmin",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3198366,
+        "name": "Kamnica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3204812,
+        "name": "Ankaran",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3193965,
+        "name": "Ormož",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3216508,
+        "name": "Solkan",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3197442,
+        "name": "Kozje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3204796,
+        "name": "Apače",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3187706,
+        "name": "Vipava",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3197904,
+        "name": "Kokrica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3188972,
+        "name": "Topol pri Medvodah",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3196049,
+        "name": "Lukovica pri Domžalah",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3202877,
+        "name": "Cankova",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3202711,
+        "name": "Cerklje na Gorenjskem",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3194595,
+        "name": "Naklo",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3199685,
+        "name": "Sv. Trojica v Slov. Goricah",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191685,
+        "name": "Ribnica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3197147,
+        "name": "Krško",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3194213,
+        "name": "Odranci",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3202058,
+        "name": "Destrnik",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3201294,
+        "name": "Dragomer",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191578,
+        "name": "Rogatec",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3188688,
+        "name": "Tržič",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3195271,
+        "name": "Mekinje",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3203677,
+        "name": "Borovnica",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3192230,
+        "name": "Puconci",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190311,
+        "name": "Šoštanj",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191044,
+        "name": "Senovo",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3190247,
+        "name": "Spodnja Idrija",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3193521,
+        "name": "Pekre",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3191612,
+        "name": "Rjavče",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3196682,
+        "name": "Lenart v Slov. Goricah",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3196681,
+        "name": "Lendava",
+        "state": "",
+        "country": "SI"
+    },
+    {
+        "id": 3199078,
+        "name": "Ivančna Gorica",
+        "state": "",
+        "country": "SI"
+    }
+]

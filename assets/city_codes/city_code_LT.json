@@ -1,0 +1,836 @@
+[
+    {
+        "id": 597881,
+        "name": "Kulautuva",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 600962,
+        "name": "Ariogala",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 595020,
+        "name": "Salantai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 864483,
+        "name": "Telšių apskritis",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 598392,
+        "name": "Karmėlava",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 598257,
+        "name": "Kelmė",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 599506,
+        "name": "Gargždai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 599161,
+        "name": "Grigiškės",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 864478,
+        "name": "Klaipėda County",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 864484,
+        "name": "Utena County",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 597596,
+        "name": "Lazdijai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 598512,
+        "name": "Kalvarija",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 599614,
+        "name": "Eišiškės",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 594867,
+        "name": "Seda",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 864477,
+        "name": "Kaunas County",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 599757,
+        "name": "Druskininkai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 598114,
+        "name": "Kirtimai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 597188,
+        "name": "Mazeikiai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 596544,
+        "name": "Obeliai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 593338,
+        "name": "Veisiejai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 598316,
+        "name": "Kaunas",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 596260,
+        "name": "Pakruojis",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 593116,
+        "name": "Vilnius",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 600994,
+        "name": "Anykščiai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 597769,
+        "name": "Kuršėnai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 598690,
+        "name": "Juodupė",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 598655,
+        "name": "Jurbarkas",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 593378,
+        "name": "Varniai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 594805,
+        "name": "Senosios Kietaviškės",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 593063,
+        "name": "Visaginas",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 594050,
+        "name": "Šventoji",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 598787,
+        "name": "Josvainiai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 592828,
+        "name": "Žemaičių Naumiestis",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 600688,
+        "name": "Baltoji Vokė",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 864481,
+        "name": "Šiauliai County",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 599420,
+        "name": "Gelgaudiškis",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 597904,
+        "name": "Kudirkos Naumiestis",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 596399,
+        "name": "Pagėgiai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 599727,
+        "name": "Dūkštas",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 598098,
+        "name": "Klaipėda",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 594103,
+        "name": "Surviliškis",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 593218,
+        "name": "Viekšniai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 599868,
+        "name": "Dieveniškės",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 593672,
+        "name": "Utena",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 600896,
+        "name": "Aukstadvaris",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 598998,
+        "name": "Ignalina",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 601182,
+        "name": "Akmenė",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 593871,
+        "name": "Trakai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 593191,
+        "name": "Vievis",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 593406,
+        "name": "Varėna",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 601084,
+        "name": "Alytus",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 594639,
+        "name": "Simnas",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 594739,
+        "name": "Šiauliai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 592778,
+        "name": "Žiežmariai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 595997,
+        "name": "Pasvalys",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 592942,
+        "name": "Žagarė",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 864479,
+        "name": "Marijampolė County",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 596826,
+        "name": "Murava",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 598272,
+        "name": "Kėdainiai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 598706,
+        "name": "Juodkrantė",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 593153,
+        "name": "Vilkaviskis",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 593959,
+        "name": "Taurage",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 598796,
+        "name": "Joniškis",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 596238,
+        "name": "Palanga",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 597440,
+        "name": "Linkuva",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 6618486,
+        "name": "Dainava (Kaunas)",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 593086,
+        "name": "Virbalis",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 596612,
+        "name": "Nida",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 596643,
+        "name": "Neringa",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 596851,
+        "name": "Mosėdis",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 595378,
+        "name": "Raseiniai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 600040,
+        "name": "Daugai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 597532,
+        "name": "Lentvaris",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 600480,
+        "name": "Bezdonys",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 593748,
+        "name": "Tytuvėnai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 595598,
+        "name": "Priekulė",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 597806,
+        "name": "Kupiskis",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 597231,
+        "name": "Marijampolė",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 597427,
+        "name": "Republic of Lithuania",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 595213,
+        "name": "Rokiškis",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 600443,
+        "name": "Birštonas",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 594861,
+        "name": "Šeduva",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 595115,
+        "name": "Rumpiškė",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 597484,
+        "name": "Liepiai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 598304,
+        "name": "Kavarskas",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 595087,
+        "name": "Rusnė",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 596664,
+        "name": "Nemenčinė",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 598567,
+        "name": "Kaišiadorys",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 595449,
+        "name": "Radviliskis",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 595160,
+        "name": "Rūdiškės",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 594693,
+        "name": "Šilalė",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 599808,
+        "name": "Dotnuva",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 600438,
+        "name": "Birzai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 600202,
+        "name": "Cartai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 595284,
+        "name": "Rietavas",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 599570,
+        "name": "Freda",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 599602,
+        "name": "Elektrėnai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 596719,
+        "name": "Naujoji Akmene",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 864389,
+        "name": "Alytus County",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 598456,
+        "name": "Kaniūkai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 596215,
+        "name": "Paliepgiriai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 600213,
+        "name": "Butrimonys",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 864482,
+        "name": "Tauragė County",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 594067,
+        "name": "Švenčionėliai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 593561,
+        "name": "Vabalninkas",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 598286,
+        "name": "Kazlų Rūda",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 597989,
+        "name": "Kretinga",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 599579,
+        "name": "Ežerėlis",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 6955406,
+        "name": "Užupis",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 594656,
+        "name": "Silute",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 595689,
+        "name": "Plunge",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 596473,
+        "name": "Pabradė",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 594607,
+        "name": "Širvintos",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 595016,
+        "name": "Šalčininkai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 593144,
+        "name": "Vilkija",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 593926,
+        "name": "Telsiai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 593821,
+        "name": "Troškūnai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 593303,
+        "name": "Venta",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 594064,
+        "name": "Švenčionys",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 596128,
+        "name": "Panevėžys",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 601194,
+        "name": "Akliniai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 593572,
+        "name": "Užventis",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 595043,
+        "name": "Šakiai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 594488,
+        "name": "Skuodas",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 599686,
+        "name": "Dusetos",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 592891,
+        "name": "Zarasai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 595387,
+        "name": "Ramygala",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 593746,
+        "name": "Tytuvėnėliai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 595596,
+        "name": "Prienai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 593733,
+        "name": "Ukmerge",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 596867,
+        "name": "Molėtai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 594562,
+        "name": "Būgai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 593315,
+        "name": "Velžys",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 598854,
+        "name": "Jieznas",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 598818,
+        "name": "Jonava",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 597729,
+        "name": "Kybartai",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 599504,
+        "name": "Garliava",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 598803,
+        "name": "Joniškėlis",
+        "state": "",
+        "country": "LT"
+    },
+    {
+        "id": 599747,
+        "name": "Dubingiai",
+        "state": "",
+        "country": "LT"
+    }
+]

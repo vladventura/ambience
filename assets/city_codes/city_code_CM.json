@@ -1,0 +1,1004 @@
+[
+    {
+        "id": 2225726,
+        "name": "Muyuka",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2229780,
+        "name": "Koza",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2232283,
+        "name": "Ébolowa",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2228019,
+        "name": "Mbang",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2223421,
+        "name": "Ntui",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2232997,
+        "name": "Dizangué",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2224584,
+        "name": "Ngoro",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2230285,
+        "name": "Bankim",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2235814,
+        "name": "Akom II",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2220853,
+        "name": "Yokadouma",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2235029,
+        "name": "Bali",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2235189,
+        "name": "Bafoussam",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2595172,
+        "name": "Ndom",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 6620518,
+        "name": "Somié",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2229681,
+        "name": "Lagdo",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2231835,
+        "name": "East Region",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 6730148,
+        "name": "Barawa Ladé",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2224641,
+        "name": "Ngomedzap",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2233056,
+        "name": "Dimako",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2228675,
+        "name": "Mamfe",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2234842,
+        "name": "Ngou",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2235776,
+        "name": "Akonolinga",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2229798,
+        "name": "Kousséri",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2231881,
+        "name": "Eséka",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2233387,
+        "name": "Republic of Cameroon",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2594997,
+        "name": "Ndongo",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2223638,
+        "name": "Nlongo",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2230028,
+        "name": "Kontcha",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2230876,
+        "name": "Guider",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2225325,
+        "name": "Ndelele",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2225745,
+        "name": "Mundemba",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2234684,
+        "name": "Batibo",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2222439,
+        "name": "Rey Bouba",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2227853,
+        "name": "Mbengwi",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2220849,
+        "name": "Yoko",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2234339,
+        "name": "Bétaré Oya",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2235194,
+        "name": "Bafia",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2231775,
+        "name": "Évodoula",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2228499,
+        "name": "Manjo",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2221394,
+        "name": "Tonga",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2232486,
+        "name": "Doumomama",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2223226,
+        "name": "Okoa",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2227402,
+        "name": "Meïganga",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2223293,
+        "name": "Obala",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2223763,
+        "name": "Nkongsamba",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2223162,
+        "name": "Ombésa",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2225728,
+        "name": "Mutengene",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2221053,
+        "name": "Wum",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2227808,
+        "name": "Mbi Djoro",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2235196,
+        "name": "Bafang",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2226515,
+        "name": "Minta",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2227980,
+        "name": "Mbankomo",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2234359,
+        "name": "Bertoua",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2228079,
+        "name": "Mbalmayo",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2222312,
+        "name": "Salak",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2229411,
+        "name": "Limbe",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2230362,
+        "name": "Kélkoto",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2222623,
+        "name": "Penja",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2232497,
+        "name": "Doumé",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2232652,
+        "name": "Dombé",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2221030,
+        "name": "Yagoua",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2234865,
+        "name": "Bangangté",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2235748,
+        "name": "Akwa",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2233805,
+        "name": "Bogo",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2230641,
+        "name": "Jakiri",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2231506,
+        "name": "Foumban",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2234803,
+        "name": "Bansoa",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2231851,
+        "name": "Essé",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2235293,
+        "name": "Babanki",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2235660,
+        "name": "Ambam",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2221046,
+        "name": "Yabassi",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 7109573,
+        "name": "Djo",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2224513,
+        "name": "Ngoulmokong",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2220852,
+        "name": "Yokassala",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2233238,
+        "name": "Dankali",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2236053,
+        "name": "Abong Mbang",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2231504,
+        "name": "Foumbot",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2232239,
+        "name": "Edéa",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2229752,
+        "name": "Kumba",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2234936,
+        "name": "Bana",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2224162,
+        "name": "Nkan",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 7110232,
+        "name": "Nkoutaba",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2231538,
+        "name": "Foto",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2225703,
+        "name": "Mvangué",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2235669,
+        "name": "Amàn",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2223734,
+        "name": "Nkoteng",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2234545,
+        "name": "Bekondo",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2234941,
+        "name": "Bamusso",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2231320,
+        "name": "Garoua",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2224413,
+        "name": "Nguti",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2222518,
+        "name": "Pongo",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2225263,
+        "name": "Ndikiniméki",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2235409,
+        "name": "Atog-Boga",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2231755,
+        "name": "Far North Region",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2234635,
+        "name": "Bazou",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2227230,
+        "name": "Melong",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2228881,
+        "name": "Makary",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2229267,
+        "name": "Lolodorf",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2234794,
+        "name": "Banyo",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2233100,
+        "name": "Dibombari",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2221788,
+        "name": "South-West Region",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2228028,
+        "name": "Mbandjok",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2222366,
+        "name": "Saa",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2235186,
+        "name": "Bafut",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2221789,
+        "name": "South Region",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2223603,
+        "name": "North Region",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2231926,
+        "name": "Enongal",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2225457,
+        "name": "Nanga Eboko",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2231319,
+        "name": "Garoua Boulaï",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2234663,
+        "name": "Batouri",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2224212,
+        "name": "Njinikom",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2231564,
+        "name": "Fontem",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2232774,
+        "name": "Djohong",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2229336,
+        "name": "Littoral Region",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2229761,
+        "name": "Kribi",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2224928,
+        "name": "Néméyong II",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2233376,
+        "name": "Centre Region",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2234455,
+        "name": "Belo",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2220957,
+        "name": "Yaoundé",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2224922,
+        "name": "New Bell",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2223527,
+        "name": "Nsimalen",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2232593,
+        "name": "Douala",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2231482,
+        "name": "Fundong",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2233118,
+        "name": "Diang",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2231326,
+        "name": "Garga Sarali",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2228373,
+        "name": "Maroua",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2234536,
+        "name": "Bélabo",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2222539,
+        "name": "Poli",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2221607,
+        "name": "Tcholliré",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2231565,
+        "name": "Fontain",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2224827,
+        "name": "Ngaoundéré",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2222568,
+        "name": "Pitoa",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2222230,
+        "name": "Sangmélima",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2594800,
+        "name": "Idenao",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2234353,
+        "name": "Besongabang",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2232444,
+        "name": "Dschang",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2233410,
+        "name": "Buea",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2224863,
+        "name": "Ngambé",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2234520,
+        "name": "Bélel",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2226641,
+        "name": "Mindif",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2235780,
+        "name": "Akono",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2225991,
+        "name": "Mora",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2222934,
+        "name": "West Region",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2225940,
+        "name": "Mouanko",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2234968,
+        "name": "Bamendjou",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2221530,
+        "name": "Tibati",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2227613,
+        "name": "Mbouda",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2233252,
+        "name": "Dang",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2221513,
+        "name": "Tignère",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2223306,
+        "name": "Nzinbé",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2230599,
+        "name": "Kaélé",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2221504,
+        "name": "Tiko",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2229152,
+        "name": "Loum",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2229748,
+        "name": "Kumbo",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2234974,
+        "name": "Bamenda",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2234904,
+        "name": "Bandjoun",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2223216,
+        "name": "Okola",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2226275,
+        "name": "Mokolo",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2229673,
+        "name": "Laïndé",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2223602,
+        "name": "North-West Region",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2236015,
+        "name": "Adamaoua Region",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2231494,
+        "name": "Fouy",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2226441,
+        "name": "Mme-Bafumen",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2233704,
+        "name": "Bonabéri",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2225712,
+        "name": "Mvan",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2230600,
+        "name": "Kaelé",
+        "state": "",
+        "country": "CM"
+    },
+    {
+        "id": 2228005,
+        "name": "Mbanga",
+        "state": "",
+        "country": "CM"
+    }
+]

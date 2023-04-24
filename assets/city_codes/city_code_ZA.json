@@ -1,0 +1,3302 @@
+[
+    {
+        "id": 3363444,
+        "name": "Observatory",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1010511,
+        "name": "Diasstrand",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 977363,
+        "name": "Meadowlands",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 980921,
+        "name": "Mabopane",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1010967,
+        "name": "Dendron",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 949683,
+        "name": "Thabazimbi",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 946165,
+        "name": "Umhlanga",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1016698,
+        "name": "Bothaville",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1085599,
+        "name": "Province of the Western Cape",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3363675,
+        "name": "Nieuwoudtville",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1005928,
+        "name": "Eldoradopark",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1023698,
+        "name": "Adams College",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 973111,
+        "name": "Mpumalanga",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1015776,
+        "name": "Bredasdorp",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3361026,
+        "name": "Stellenberg",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 7778818,
+        "name": "Auckland Park",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 965289,
+        "name": "Polokwane",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 952747,
+        "name": "Standerton",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1085597,
+        "name": "Limpopo Province",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3361084,
+        "name": "Stanford",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 962330,
+        "name": "Richmond",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 990802,
+        "name": "Kirkwood",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1003764,
+        "name": "Frankfort",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1011031,
+        "name": "Delmas",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3359348,
+        "name": "Windsor Park",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 978895,
+        "name": "Margate",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 987875,
+        "name": "Koppies",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 974670,
+        "name": "Mondlo",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1007311,
+        "name": "Durban",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 951650,
+        "name": "Stutterheim",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1011880,
+        "name": "Da Nova",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 991415,
+        "name": "Kempton Park",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1005646,
+        "name": "eMbalenhle",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 996683,
+        "name": "Heuningspruit",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1007968,
+        "name": "Drieweeksleegte",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 938457,
+        "name": "Wolmaransstad",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1017447,
+        "name": "Bophelong",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1018725,
+        "name": "Bloemfontein",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 952734,
+        "name": "Stanger",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 982701,
+        "name": "Lindley",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 984087,
+        "name": "Lebowakgomo",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1015621,
+        "name": "Brits",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1085598,
+        "name": "Province of North-West",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 949049,
+        "name": "Three Rivers",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 7870444,
+        "name": "Linbro Park",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3363222,
+        "name": "Ottery",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 956507,
+        "name": "Senekal",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3366880,
+        "name": "Hermanus",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 967106,
+        "name": "Oudtshoorn",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 940504,
+        "name": "Wemmer",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 7302797,
+        "name": "Eden Glen",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 946058,
+        "name": "Umtata",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 943937,
+        "name": "Villiers",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 7870412,
+        "name": "Bartlett",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 953781,
+        "name": "Soweto",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 949276,
+        "name": "The Village",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 974222,
+        "name": "Mooirivier",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3359041,
+        "name": "Worcester",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3361711,
+        "name": "Sea Point",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3363913,
+        "name": "Mouille Point",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 8063413,
+        "name": "Arcadia",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 951350,
+        "name": "Sunridge Park",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 991664,
+        "name": "Kathu",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1007514,
+        "name": "Duiwelskloof",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1015633,
+        "name": "Brink’s Vlakfontein",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 949703,
+        "name": "Thaba Nchu",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 942071,
+        "name": "Walmer",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 7302802,
+        "name": "Rondebosch",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 956098,
+        "name": "Shelly Beach",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1000006,
+        "name": "Greytown",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 963941,
+        "name": "Protem",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3363978,
+        "name": "Monte Vista",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1085593,
+        "name": "Province of Eastern Cape",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3370331,
+        "name": "Aurora",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 971352,
+        "name": "New Kingsmead",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 940316,
+        "name": "Westonaria",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1022108,
+        "name": "Aston Bay",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 954161,
+        "name": "Somerset East",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1023061,
+        "name": "Alton",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1003790,
+        "name": "Fraaiuitzicht",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1008612,
+        "name": "Douglas",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1020604,
+        "name": "Bedelia West",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1007420,
+        "name": "Duncan Village",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1014202,
+        "name": "Camerondale",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 990825,
+        "name": "Kinross",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 966380,
+        "name": "Pampierstad",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1023309,
+        "name": "Aliwal North",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 966166,
+        "name": "Parys",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 7302538,
+        "name": "De Waterkant",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 973537,
+        "name": "Mount Edgecombe",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 986958,
+        "name": "Krompan",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1014257,
+        "name": "Calitzdorp",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 995160,
+        "name": "Huhudi",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 994418,
+        "name": "Ixopo",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3365999,
+        "name": "Kenridge",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 964432,
+        "name": "Port Alfred",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1015969,
+        "name": "Brandfort",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1000065,
+        "name": "Greenwood Park",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1021040,
+        "name": "Barkly West",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1002145,
+        "name": "George",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1010962,
+        "name": "Deneysville",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 987015,
+        "name": "Kromhof",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3359510,
+        "name": "Wellington",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 995039,
+        "name": "Hutton Heights",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 939676,
+        "name": "Willowmore",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 986134,
+        "name": "Kuruman",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1015504,
+        "name": "Bronkhorstspruit",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1021086,
+        "name": "Barberton",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1019031,
+        "name": "Blanco",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 973709,
+        "name": "Mossel Bay",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 961152,
+        "name": "Riversdale",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3363901,
+        "name": "Mowbray",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 944385,
+        "name": "Vereeniging",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 975436,
+        "name": "Mmabatho",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3365164,
+        "name": "Kortdoorn",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1014489,
+        "name": "Butterworth",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 994023,
+        "name": "Jan Kempdorp",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 990873,
+        "name": "Kingsmead",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1017780,
+        "name": "Boksburg",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 998606,
+        "name": "Guinesses",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3363983,
+        "name": "Montague Gardens",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 8063768,
+        "name": "Melrose Estate",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3367513,
+        "name": "Grabouw",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3365707,
+        "name": "Kleinsee",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1015420,
+        "name": "Brown Stones",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 976885,
+        "name": "Messina",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 949482,
+        "name": "The Highlands",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 944024,
+        "name": "Victoria West",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 945945,
+        "name": "Upington",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1019704,
+        "name": "Bethlehem",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 988886,
+        "name": "Kloof",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1012413,
+        "name": "Cullinan",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 958724,
+        "name": "Rustenburg",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1014012,
+        "name": "Carolina",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 949026,
+        "name": "Thulamahashi",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 961226,
+        "name": "Ritchie",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 962597,
+        "name": "Reunion",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3362001,
+        "name": "Rugby",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3361934,
+        "name": "Saldanha",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3369083,
+        "name": "Clovelly",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 979691,
+        "name": "Malvern",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1015714,
+        "name": "Brentwood Park",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 990902,
+        "name": "Kingsborough",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3368014,
+        "name": "Epping Forest",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1016666,
+        "name": "Botswana",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 7870450,
+        "name": "North Riding",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 980984,
+        "name": "Mabele-a-podi",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3362671,
+        "name": "Pringle Bay",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1002917,
+        "name": "Ganyesa",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 972673,
+        "name": "Muldersdriseloop",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 964349,
+        "name": "Potchefstroom",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 946877,
+        "name": "Uitenhage",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 959931,
+        "name": "Rooihuiskraal",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1020066,
+        "name": "Berea",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 994493,
+        "name": "Isipingo",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 976358,
+        "name": "Middelburg",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3370221,
+        "name": "Banghoek",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 964649,
+        "name": "Point",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 956754,
+        "name": "Sedgefield",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 977734,
+        "name": "Mbango",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3369035,
+        "name": "Crossroads",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 986846,
+        "name": "Kroonstad",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3369129,
+        "name": "Ceres",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 982899,
+        "name": "Lichtenburg",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1105735,
+        "name": "Sybrandskraal",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 945260,
+        "name": "Vaalpark",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 952192,
+        "name": "Stilfontein",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 953987,
+        "name": "Republic of South Africa",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1022145,
+        "name": "Ashton",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 975511,
+        "name": "Mkuze",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 943951,
+        "name": "Villa Maria",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 988429,
+        "name": "Koffiefontein",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 971421,
+        "name": "Newcastle",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 958435,
+        "name": "Sabierivier",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 963049,
+        "name": "Rayton",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 994858,
+        "name": "Inanda",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1105777,
+        "name": "Centurion",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 972206,
+        "name": "Naboomspruit",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1013076,
+        "name": "Colesberg",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 946257,
+        "name": "Ulundi",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 986717,
+        "name": "Kruisfontein",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 995746,
+        "name": "Honeyvale",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 985015,
+        "name": "Ladybrand",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 964334,
+        "name": "Potfontein",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 964712,
+        "name": "Plettenberg Bay",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1004303,
+        "name": "Ficksburg",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 954486,
+        "name": "Smithfield",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1011951,
+        "name": "Danabaai",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3363441,
+        "name": "Ocean View",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 966466,
+        "name": "Palmietfontein",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 7870390,
+        "name": "Alberton North",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 6942529,
+        "name": "Sunset Beach",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 7304422,
+        "name": "Herolds Bay",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 943952,
+        "name": "Village of Happiness",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1023517,
+        "name": "Agulhas",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 940186,
+        "name": "Whittlesea",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 963230,
+        "name": "Randfontein",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 952199,
+        "name": "Stilbaai-Oos",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 945142,
+        "name": "Vaalwater",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 984998,
+        "name": "Ladysmith",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1001783,
+        "name": "Glen Ambrose",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3369098,
+        "name": "Claremont",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 978660,
+        "name": "Marseilles",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1020605,
+        "name": "Bedelia",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3370147,
+        "name": "Belhar",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 955407,
+        "name": "Sishen",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 943032,
+        "name": "Volksrust",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 957339,
+        "name": "Schapenrust",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 973971,
+        "name": "Morgan’s Bay",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 943960,
+        "name": "Viljoenskroon",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3360687,
+        "name": "Table View",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3369157,
+        "name": "Cape Town",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 972674,
+        "name": "Muldersdrift",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 964408,
+        "name": "Port Saint Johns",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1019933,
+        "name": "Bergville",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 955487,
+        "name": "Sinoville",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 946128,
+        "name": "Umkomaas",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 973786,
+        "name": "Mortimer",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3359094,
+        "name": "Wolseley",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 988290,
+        "name": "Komatipoort",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 982758,
+        "name": "Limewell",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3369174,
+        "name": "Calvinia",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 7870467,
+        "name": "Strydompark",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 988356,
+        "name": "Kokstad",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1010245,
+        "name": "Diepfontein",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 994939,
+        "name": "Ilinge",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1006978,
+        "name": "East Lynne",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3363171,
+        "name": "Oude Raapkraal",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3368439,
+        "name": "Drieankerbaai",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1016670,
+        "name": "Botshabelo",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 944986,
+        "name": "Vanderbijlpark",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1021396,
+        "name": "Balfour",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1007400,
+        "name": "Dundee",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1020310,
+        "name": "Bellair",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1013311,
+        "name": "Clifford",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1020641,
+        "name": "Beaufort West",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 7646541,
+        "name": "Lanseria",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 945970,
+        "name": "Uniondale",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 942701,
+        "name": "Vrede",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 944403,
+        "name": "Verdun",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 995573,
+        "name": "Hoopstad",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 979330,
+        "name": "Manor Gardens",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 971377,
+        "name": "New Hanover",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 997140,
+        "name": "Heilbron",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 956878,
+        "name": "Scottburgh",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 983065,
+        "name": "Leslie",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1013886,
+        "name": "Cato Ridge",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1105776,
+        "name": "Midrand",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1004109,
+        "name": "Fochville",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 963528,
+        "name": "Queensburgh",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 963516,
+        "name": "Queenstown",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3369183,
+        "name": "Cafda Village",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3362764,
+        "name": "Plumstead",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1105773,
+        "name": "Garsfontein",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1020340,
+        "name": "Belfast",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 937246,
+        "name": "Zastron",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 970341,
+        "name": "Nkowakowa",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 993800,
+        "name": "Johannesburg",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 966305,
+        "name": "Panorama",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 985011,
+        "name": "Lady Frere",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 981827,
+        "name": "Louis Trichardt",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1015657,
+        "name": "Brighton Beach",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3368039,
+        "name": "Elsiesrivier",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1003462,
+        "name": "GAKGAPANE",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 941225,
+        "name": "Welbeloond",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1023454,
+        "name": "Albert Falls",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 982332,
+        "name": "Lombardy East",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1022393,
+        "name": "Arboretum",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3367634,
+        "name": "Glen Dirk",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 945813,
+        "name": "Utrecht",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 944531,
+        "name": "Ventersdorp",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3361077,
+        "name": "Steenberg",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3363613,
+        "name": "Noorder-Paarl",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3364795,
+        "name": "Langebaan",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1014653,
+        "name": "Burgersdorp",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 961331,
+        "name": "Rietvlei",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 968453,
+        "name": "Ofcolaco",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3368538,
+        "name": "Doordrift",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 967542,
+        "name": "Orania",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 994334,
+        "name": "Jackson’s Drift",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1023656,
+        "name": "Adelaide",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1022953,
+        "name": "Amanzimtoti",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 957655,
+        "name": "Sandton",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 956375,
+        "name": "Seshego",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 988698,
+        "name": "Knysna",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3358975,
+        "name": "Yzerfontein",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 978944,
+        "name": "Marble Hall",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3362349,
+        "name": "Robertson",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 956839,
+        "name": "Sea Park",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 998210,
+        "name": "Halfway House",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 975144,
+        "name": "Modderfontein",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 940359,
+        "name": "Western Township",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1002174,
+        "name": "Generaal de Wet",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 972803,
+        "name": "Mtubatuba",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 960812,
+        "name": "Ronald’s Vlei",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 951511,
+        "name": "Suits Me",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3364791,
+        "name": "Langebaanweg",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 944595,
+        "name": "Veldenvlei",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 964132,
+        "name": "Pretoria-Wes",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 964406,
+        "name": "Port Shepstone",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 6951112,
+        "name": "Somerset West",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 996918,
+        "name": "Hennenman",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 978352,
+        "name": "Mataffin",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1012080,
+        "name": "Dalton",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 987202,
+        "name": "Kriel",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 941966,
+        "name": "Warmbaths",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1005125,
+        "name": "Ermelo",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 964420,
+        "name": "Port Elizabeth",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1011062,
+        "name": "Delareyville",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 949880,
+        "name": "Tembisa",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 952865,
+        "name": "Springs",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1006984,
+        "name": "East London",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 965528,
+        "name": "Phalaborwa",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1013675,
+        "name": "Chatsworth",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3367527,
+        "name": "Graafwater",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1011632,
+        "name": "De Aar",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3366920,
+        "name": "Helderberg",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 939702,
+        "name": "Williston",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 986822,
+        "name": "Krugersdorp",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 941931,
+        "name": "Warrenton",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 995409,
+        "name": "Horton",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 953975,
+        "name": "Port Elizabeth Airport",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 967476,
+        "name": "Orkney",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 8063460,
+        "name": "Radiokop",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 974719,
+        "name": "Molteno",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1005029,
+        "name": "eSikhawini",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 966196,
+        "name": "Parkhurst",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 940394,
+        "name": "Westbrook",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 956767,
+        "name": "Secunda",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3367458,
+        "name": "Grassy Park",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 949282,
+        "name": "Theunissen",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1001642,
+        "name": "Glenharvie",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 957487,
+        "name": "Sasolburg",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 994257,
+        "name": "Jagersfontein",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1105726,
+        "name": "Ekangala",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3364346,
+        "name": "Malmesbury",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1003953,
+        "name": "Fort Beaufort",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 982103,
+        "name": "Lorraine",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 8063455,
+        "name": "Malanshof",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 940424,
+        "name": "Wesselsbron",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3364682,
+        "name": "Lansdowne",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 985004,
+        "name": "Lady Grey",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1013081,
+        "name": "Colenso",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 939493,
+        "name": "Wingate Park",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 956907,
+        "name": "Schweizer-Reneke",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1105748,
+        "name": "Soutpan",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 962847,
+        "name": "Reitz",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1018673,
+        "name": "Bloemhof",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1015694,
+        "name": "Breyten",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 986873,
+        "name": "Kroondal",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 989747,
+        "name": "Klipdrift",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 8030222,
+        "name": "Heiderand",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 972138,
+        "name": "Nancefield",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3361025,
+        "name": "Stellenbosch",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1001736,
+        "name": "Glencoe",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1001632,
+        "name": "Glenhurd",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1017354,
+        "name": "Bosbokrand",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 979365,
+        "name": "Mankoeng",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3362324,
+        "name": "Roggebaai",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 967573,
+        "name": "Free State",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1017115,
+        "name": "Boschrand",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 940377,
+        "name": "West End",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3368962,
+        "name": "Darling",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1008858,
+        "name": "Dordrecht",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 7870410,
+        "name": "Albertskroon",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 938694,
+        "name": "White River",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 965301,
+        "name": "Pietermaritzburg",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 943882,
+        "name": "Virginia",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 7871282,
+        "name": "Cape Gate",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1008261,
+        "name": "Driefontein",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 991676,
+        "name": "Kate Hamel",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 974933,
+        "name": "Mogwase",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1014034,
+        "name": "Carnarvon",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 958441,
+        "name": "Sabie",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 949224,
+        "name": "Thohoyandou",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1085596,
+        "name": "Province of Northern Cape",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 972535,
+        "name": "Musgrave",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 8063447,
+        "name": "Glen Ashley",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1019330,
+        "name": "Bhisho",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 961935,
+        "name": "Rietfontein",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1013397,
+        "name": "Clarens",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1105774,
+        "name": "Eersterus",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1005976,
+        "name": "Elarduspark",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1012358,
+        "name": "Curry’s Post",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 939608,
+        "name": "Winburg",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 966737,
+        "name": "Paardekraal",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 986820,
+        "name": "Krugersdorp West",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1005544,
+        "name": "Empangeni",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 946973,
+        "name": "Tzaneen",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1004666,
+        "name": "Faerie Glen",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 941812,
+        "name": "Waterfall",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 978677,
+        "name": "Marquard",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1012600,
+        "name": "Cradock",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 948130,
+        "name": "Trichardt",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1006420,
+        "name": "Ekuvukeni",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 942360,
+        "name": "Vyekraal",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1005768,
+        "name": "Ellisras",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1000501,
+        "name": "Grahamstown",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3364246,
+        "name": "McGregor",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 981084,
+        "name": "Lyttelton",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 971534,
+        "name": "Nelspruit",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 962367,
+        "name": "Richards Bay",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 979031,
+        "name": "Mara",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 940445,
+        "name": "Wesbank",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 941976,
+        "name": "Warden",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1023287,
+        "name": "Allanridge",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3362024,
+        "name": "Rosebank",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 964424,
+        "name": "Port Edward",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1000543,
+        "name": "Graaff-Reinet",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1014884,
+        "name": "Bulembu",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 967580,
+        "name": "Orange Farm",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 981158,
+        "name": "Lydenburg",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 967827,
+        "name": "Onverwacht",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 942511,
+        "name": "Vryburg",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 982587,
+        "name": "Little Falls",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1003844,
+        "name": "Fouriesburg",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 937136,
+        "name": "Zeerust",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 997324,
+        "name": "Hattingspruit",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1005040,
+        "name": "Eshowe",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1005265,
+        "name": "Erand",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 964137,
+        "name": "Pretoria",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 984896,
+        "name": "La Mercy",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 989921,
+        "name": "Klerksdorp",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3367573,
+        "name": "Goodwood",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 964078,
+        "name": "Prince Albert",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 976539,
+        "name": "Mhlahlane",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 940908,
+        "name": "Welkom",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1085594,
+        "name": "Gauteng",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1023332,
+        "name": "Alice",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 981139,
+        "name": "Lyndhurst",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 965241,
+        "name": "Piet Retief",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 8184439,
+        "name": "Vierlanden",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 950709,
+        "name": "Swellendam",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 974532,
+        "name": "Monument Park",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 7870407,
+        "name": "Randpark",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 965401,
+        "name": "Phuthaditjhaba",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 945094,
+        "name": "Valhalla",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 957517,
+        "name": "Sardinia Bay",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 945995,
+        "name": "Underberg",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1020098,
+        "name": "Benoni",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 936374,
+        "name": "Roodepoort",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1006919,
+        "name": "Ebenhaezer",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1023672,
+        "name": "Addo",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1003197,
+        "name": "Ga-Modjadji",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1011918,
+        "name": "Danielskuil",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1016181,
+        "name": "Brakpan",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 963944,
+        "name": "Protea Ridge",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 8030071,
+        "name": "Moreletapark",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 996256,
+        "name": "Hluhluwe",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1013888,
+        "name": "Cato Manor",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 978678,
+        "name": "Marowe",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1005781,
+        "name": "Elliot",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 997151,
+        "name": "Heidelberg",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 982771,
+        "name": "Lime Acres",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 996930,
+        "name": "Hendrina",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 964090,
+        "name": "Prieska",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1004962,
+        "name": "Estcourt",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3370352,
+        "name": "Atlantis",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 944540,
+        "name": "Ventersburg",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 939270,
+        "name": "Witbank",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 990849,
+        "name": "King William’s Town",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 963961,
+        "name": "Prospect",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 955313,
+        "name": "Siyabuswa",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1012724,
+        "name": "Cornelia",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 8063445,
+        "name": "Glenmarais",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 995202,
+        "name": "Howick",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 995808,
+        "name": "Home Park",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1013337,
+        "name": "Clermont",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 976897,
+        "name": "Mesa",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 966189,
+        "name": "Parkview",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1013550,
+        "name": "Christiana",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1001775,
+        "name": "Glen Austin",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1011858,
+        "name": "Danville",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 980595,
+        "name": "Mafikeng",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1005401,
+        "name": "Enkelbosch",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 972755,
+        "name": "Muden",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1105785,
+        "name": "Denneboom",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 941728,
+        "name": "Waterkloof",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 952200,
+        "name": "Still Bay",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 963525,
+        "name": "Queensdale",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3363094,
+        "name": "Paarl",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3362864,
+        "name": "Pinelands",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3359736,
+        "name": "Vredendal",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 942683,
+        "name": "Vredefort",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 991247,
+        "name": "Kew",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 997861,
+        "name": "Harding",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3361142,
+        "name": "Springbok",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 969619,
+        "name": "Nottingham Road",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1022391,
+        "name": "Arbor Park",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 941376,
+        "name": "Waverley",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 951506,
+        "name": "Sukani",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 951271,
+        "name": "Sutherland",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 968665,
+        "name": "Modimolle",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 997751,
+        "name": "Harrismith",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 996409,
+        "name": "Himeville",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1002851,
+        "name": "Ga-Rankuwa",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 990930,
+        "name": "Kimberley",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 973139,
+        "name": "Mpophomeni",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1007195,
+        "name": "Dwaleni",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 952745,
+        "name": "Standplaas",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1002108,
+        "name": "Germiston",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 996571,
+        "name": "Highlands",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3361721,
+        "name": "Scottsville",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 944120,
+        "name": "Verulam",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 986083,
+        "name": "Kutloanong",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 996195,
+        "name": "Hoedspruit",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1001860,
+        "name": "Giyani",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1019760,
+        "name": "Bethal",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 7290494,
+        "name": "Greenhills",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 981117,
+        "name": "Lynnwood",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1010728,
+        "name": "De Rust",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1013911,
+        "name": "Cathcart",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 939435,
+        "name": "Winston Park",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 971417,
+        "name": "Newclare",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 942470,
+        "name": "Vryheid",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 969582,
+        "name": "Noupoort",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 951441,
+        "name": "Sundumbili",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 994321,
+        "name": "Jacobs",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3369086,
+        "name": "Cloetesville",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 982393,
+        "name": "Lokaleng",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3369179,
+        "name": "Caledon",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 939666,
+        "name": "Willow Park",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3369056,
+        "name": "Constantia",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 996506,
+        "name": "Hillcrest",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 962649,
+        "name": "Reservoir Hills",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3360934,
+        "name": "Strand",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 976764,
+        "name": "Meyerton",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 959103,
+        "name": "Rosslyn",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3367877,
+        "name": "Franschhoek",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3365617,
+        "name": "Klipdale",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 964315,
+        "name": "Mokopane",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 965960,
+        "name": "Pelham",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1021360,
+        "name": "Ballitoville",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3369090,
+        "name": "Clifton",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3368192,
+        "name": "Edgemead",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1000116,
+        "name": "Greenfields",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 972062,
+        "name": "Province of KwaZulu-Natal",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1012528,
+        "name": "Creighton",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1015612,
+        "name": "Britstown",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1023365,
+        "name": "Alexandria",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 987648,
+        "name": "Koster",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1013266,
+        "name": "Clocolan",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 994557,
+        "name": "Irene",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1014073,
+        "name": "Carletonville",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 970566,
+        "name": "Nigel",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3366939,
+        "name": "Heathfield",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 993911,
+        "name": "Jeffreys Bay",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 993643,
+        "name": "Josefsdeel",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 3363453,
+        "name": "Oakdale",
+        "state": "",
+        "country": "ZA"
+    },
+    {
+        "id": 1001719,
+        "name": "Glendean",
+        "state": "",
+        "country": "ZA"
+    }
+]

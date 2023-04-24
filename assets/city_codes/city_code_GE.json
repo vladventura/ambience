@@ -1,0 +1,878 @@
+[
+    {
+        "id": 615403,
+        "name": "Borjomi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615860,
+        "name": "Akhaltsikhe",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 613918,
+        "name": "Khobi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611964,
+        "name": "Shorap’ani",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 614409,
+        "name": "Gudauta",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 614740,
+        "name": "Jvari",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615219,
+        "name": "Cherkezikhu",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 614778,
+        "name": "Jigrasheni",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611492,
+        "name": "Ts’inandali",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 614087,
+        "name": "St’epants’minda",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611902,
+        "name": "Sighnaghi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 612652,
+        "name": "Och’amch’ire",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 614890,
+        "name": "Jvara",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 613342,
+        "name": "Lagodekhi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 613607,
+        "name": "Kutaisi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 824288,
+        "name": "Ts’q’alt’ubo",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 612366,
+        "name": "P’ot’i",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 613074,
+        "name": "Marneuli",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 612012,
+        "name": "Shaumiani",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615321,
+        "name": "Bzipi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611274,
+        "name": "Urek’i",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 613220,
+        "name": "Leselidze",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611809,
+        "name": "Surami",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611694,
+        "name": "Telavi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 824613,
+        "name": "Bak’urianis Andezit’i",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615504,
+        "name": "Beghleti",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 874575,
+        "name": "Zemo Khevi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 614104,
+        "name": "K’asp’i",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615203,
+        "name": "Chigripsh",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 610824,
+        "name": "Zugdidi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 7667751,
+        "name": "Kharagauli",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611548,
+        "name": "Ts’alk’a",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 612348,
+        "name": "Pskhu",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 612648,
+        "name": "Ochkhamuri",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 612592,
+        "name": "Oni",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 584502,
+        "name": "Abastumani",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 874502,
+        "name": "Ritsa",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 823893,
+        "name": "Ts’vk’vara",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615782,
+        "name": "Alpiiskoe",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 7667714,
+        "name": "Tsalka",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 614371,
+        "name": "Gumista",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 613270,
+        "name": "Lech’k’op’i",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 823853,
+        "name": "Gagrap’sta",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 874627,
+        "name": "Gruzinskoye Ushchel’ye",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 874552,
+        "name": "-",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 616022,
+        "name": "Abasha",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 612230,
+        "name": "Sagarejo",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615448,
+        "name": "Blaburkhva",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 823912,
+        "name": "Adzigezhi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611373,
+        "name": "Ts’nori",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 614540,
+        "name": "Georgia",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615893,
+        "name": "Akhalk’alak’i",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611219,
+        "name": "Vani",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 865536,
+        "name": "Kvemo Kartli",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611128,
+        "name": "Volodarskoye",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 612691,
+        "name": "Ninotsminda",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611674,
+        "name": "Tetri Ts’q’aro",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615912,
+        "name": "Stantsiya Novyy Afon",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 613125,
+        "name": "Makhinjauri",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611062,
+        "name": "Zeda Bashi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615532,
+        "name": "Batumi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 613762,
+        "name": "Kobuleti",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615973,
+        "name": "Adigeni",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 865376,
+        "name": "Tkhubun",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611584,
+        "name": "T’q’ibuli",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 824385,
+        "name": "Naruja",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 613559,
+        "name": "Kveda Chkhorots’q’u",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 614575,
+        "name": "Gardabani",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 612053,
+        "name": "Senak’i",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 612451,
+        "name": "Patara-Shiraki",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 613093,
+        "name": "Manglisi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 865540,
+        "name": "Shida Kartli",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611612,
+        "name": "Tofaloglebi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 613987,
+        "name": "Khashuris Raioni",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 613902,
+        "name": "Khoni",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 613159,
+        "name": "Likhni",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611093,
+        "name": "Zahesi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 823854,
+        "name": "Ipnari",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 865537,
+        "name": "Kakheti",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611847,
+        "name": "Sokhumi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 612502,
+        "name": "Pasanauri",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611398,
+        "name": "Tsqnet’i",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 614455,
+        "name": "Gori",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 613195,
+        "name": "Lidzava",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 865541,
+        "name": "Mtskheta-Mtianeti",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611551,
+        "name": "Ts’alenjikha",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 612126,
+        "name": "Samtredia",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 610864,
+        "name": "Zest’aponi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611403,
+        "name": "Ts’khinvali",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 874453,
+        "name": "Abaakhuda",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 610849,
+        "name": "Zhinvali",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 612987,
+        "name": "Mest’ia",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 823894,
+        "name": "Adzghapsha",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 823850,
+        "name": "Bzybta Tretyy Kilometr",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615921,
+        "name": "Akhaldaba",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615943,
+        "name": "Agara",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615611,
+        "name": "Bagdadi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615583,
+        "name": "Bak’uriani",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615776,
+        "name": "Ambrolauri",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615910,
+        "name": "Akhali-Gagra",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 874469,
+        "name": "Akui",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 614217,
+        "name": "Java",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 612338,
+        "name": "Q’vareli",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 613641,
+        "name": "K’ulashi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615914,
+        "name": "Akhalgori",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 612269,
+        "name": "Saburtalo",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 6940391,
+        "name": "Tskhinvali",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 799968,
+        "name": "Bzypiskhevi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 6643410,
+        "name": "Abkhazia",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 823851,
+        "name": "Dzikhcha",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 865543,
+        "name": "Samegrelo-Zemo Svanetis Mkhare",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 614613,
+        "name": "Gali",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615460,
+        "name": "Bich’vinta",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611564,
+        "name": "Ts’aghveri",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615564,
+        "name": "Bombora",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 613988,
+        "name": "Khashuri",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 613226,
+        "name": "Lent’ekhi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 823895,
+        "name": "Nizhneye Armyanskoye Ushchel’ye",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 612287,
+        "name": "Rustavi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 874560,
+        "name": "Ptitsefabrika",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615994,
+        "name": "Abzhaq’va",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 614622,
+        "name": "Gagra",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611230,
+        "name": "Vale",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611717,
+        "name": "Tbilisi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 6324644,
+        "name": "Meria",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 612974,
+        "name": "Vanati",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 614934,
+        "name": "Didi Lilo",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615844,
+        "name": "Akhmet’a",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615929,
+        "name": "Ajaria",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 613065,
+        "name": "Mart’vili",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 612890,
+        "name": "Mtskheta",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 865539,
+        "name": "Imereti",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 614351,
+        "name": "Gurjaani",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 614580,
+        "name": "Gantiadi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 865851,
+        "name": "Lilo",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 610823,
+        "name": "Zugdidis Munitsip’alit’et’i",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615660,
+        "name": "Asp’indza",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 865397,
+        "name": "Kvemo Iashtkhva",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 874652,
+        "name": "Orekhovo",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611716,
+        "name": "K'alak'i T'bilisi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 824135,
+        "name": "Otradnoe",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 614951,
+        "name": "Didi Gorijvari",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611669,
+        "name": "Tianeti",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 611583,
+        "name": "Tqvarch'eli",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 614897,
+        "name": "Diok’nisi",
+        "state": "",
+        "country": "GE"
+    },
+    {
+        "id": 615419,
+        "name": "Bolnisi",
+        "state": "",
+        "country": "GE"
+    }
+]

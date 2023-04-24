@@ -1,0 +1,590 @@
+[
+    {
+        "id": 2294877,
+        "name": "Tamale",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2297816,
+        "name": "Muete",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2297505,
+        "name": "Navrongo",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2300379,
+        "name": "Ho",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2299872,
+        "name": "Kalesesi",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2302547,
+        "name": "Brong-Ahafo Region",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2306119,
+        "name": "Aburi",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2296458,
+        "name": "Kasoa",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2295684,
+        "name": "Salaga",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2304928,
+        "name": "Akwechi",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2298264,
+        "name": "Mampong",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2300883,
+        "name": "Foso",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2303611,
+        "name": "Axim",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2299645,
+        "name": "Keta",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2306104,
+        "name": "Accra",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2303224,
+        "name": "Bekwai",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2295840,
+        "name": "Prestea",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2303287,
+        "name": "Bawku",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2303258,
+        "name": "Bechem",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2294286,
+        "name": "Upper West Region",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2293721,
+        "name": "Yunyo",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2304548,
+        "name": "Anloga",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2300721,
+        "name": "Gbawe",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2295692,
+        "name": "Sakumona",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2302353,
+        "name": "Central Region",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2294665,
+        "name": "Teshi Old Town",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2298890,
+        "name": "Kumasi",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2296564,
+        "name": "Akim Oda",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2301400,
+        "name": "Dunkwa",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2300660,
+        "name": "Republic of Ghana",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2305894,
+        "name": "Adibo",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2295021,
+        "name": "Sunyani",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2301639,
+        "name": "Dome",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2301360,
+        "name": "Eastern Region",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2301464,
+        "name": "Duayaw-Nkwanta",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2296524,
+        "name": "Odumase",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2304931,
+        "name": "Akwatia",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2294206,
+        "name": "Wa",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2303060,
+        "name": "Bibiani",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2299236,
+        "name": "Kpandae",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2303726,
+        "name": "Avelete",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2296969,
+        "name": "Nungua",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2301669,
+        "name": "Dodoyiri",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2294962,
+        "name": "Swedru",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2302417,
+        "name": "Buokurom",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2302357,
+        "name": "Cape Coast",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2305537,
+        "name": "Agogo",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2302135,
+        "name": "Chum",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2297313,
+        "name": "Nkawkaw",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2294727,
+        "name": "Techiman",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2294234,
+        "name": "Volta Region",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2295065,
+        "name": "Suhum",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2294938,
+        "name": "Tafo",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2299522,
+        "name": "Koforidua",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2304220,
+        "name": "Asamankese",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2294291,
+        "name": "Upper East Region",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2305027,
+        "name": "Akropong",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2294700,
+        "name": "Tema",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2297169,
+        "name": "Northern Region",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2299233,
+        "name": "Kpandu",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2306224,
+        "name": "Aboso",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2294768,
+        "name": "Tarkwa",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2303236,
+        "name": "Begoro",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2297810,
+        "name": "Mumford",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2304116,
+        "name": "Ashanti Region",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2298469,
+        "name": "Langa",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2297503,
+        "name": "Nawari",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2304389,
+        "name": "Apam",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2299625,
+        "name": "Kintampo",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2295773,
+        "name": "Osu Castle",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2293801,
+        "name": "Yendi",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2294076,
+        "name": "Western Region",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2298330,
+        "name": "Medina Estates",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2295517,
+        "name": "Savelugu",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2300372,
+        "name": "Hohoe",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2299349,
+        "name": "Konongo",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2305164,
+        "name": "Akim Swedru",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2299978,
+        "name": "Kablima",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2294086,
+        "name": "Wankyi",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2295385,
+        "name": "Shama Junction",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2297141,
+        "name": "Nsawam",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2302821,
+        "name": "Bolgatanga",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2294342,
+        "name": "Tumu",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2301190,
+        "name": "Elmina",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2297834,
+        "name": "Mpraeso",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2294915,
+        "name": "Takoradi",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2295458,
+        "name": "Sekondi-Takoradi",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2294305,
+        "name": "Maudaso",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2295672,
+        "name": "Saltpond",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2299636,
+        "name": "Kibi",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2298528,
+        "name": "Kwesimintsim",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2294893,
+        "name": "Tano-Kwayem",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2299642,
+        "name": "Kete Krachi",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2306079,
+        "name": "Atsiaman",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2294034,
+        "name": "Winneba",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2303125,
+        "name": "Berekum",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2301217,
+        "name": "Ejura",
+        "state": "",
+        "country": "GH"
+    },
+    {
+        "id": 2296606,
+        "name": "Obuase",
+        "state": "",
+        "country": "GH"
+    }
+]

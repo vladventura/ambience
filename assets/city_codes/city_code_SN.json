@@ -1,0 +1,554 @@
+[
+    {
+        "id": 2245704,
+        "name": "Sédhiou",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2246522,
+        "name": "Rosso",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2248752,
+        "name": "Matam",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2252473,
+        "name": "Diofior",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2253348,
+        "name": "Dakar Dodj",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2250677,
+        "name": "Kayar",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2250849,
+        "name": "Kanel",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2252308,
+        "name": "Diourbel",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2247660,
+        "name": "Ndofane",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2246606,
+        "name": "Pout",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2246641,
+        "name": "Polel Diaoubé",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2245662,
+        "name": "Republic of Senegal",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2250645,
+        "name": "Kédougou",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2244799,
+        "name": "Thiès Nones",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2595757,
+        "name": "Central Dakar",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2249901,
+        "name": "Khombole",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2246780,
+        "name": "Passi",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2250804,
+        "name": "Kaolack",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2247381,
+        "name": "Nguékhokh",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2247044,
+        "name": "Waoundé",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 8133376,
+        "name": "Ouakam",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2253901,
+        "name": "Bignona",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2251084,
+        "name": "Joal-Fadiout",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2245241,
+        "name": "Sokone",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2251688,
+        "name": "Gandiaye",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2251230,
+        "name": "Guinguinéo",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2249781,
+        "name": "Kolda",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2248477,
+        "name": "Mbour",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2249554,
+        "name": "Koungheul",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2251339,
+        "name": "Grand Dakar",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2248409,
+        "name": "Mékhé",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2245546,
+        "name": "Simenti",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2595769,
+        "name": "Terme Sud",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2252606,
+        "name": "Diawara",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2246585,
+        "name": "Ranérou",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2246608,
+        "name": "Pourham",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2251007,
+        "name": "Kaffrine",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2251910,
+        "name": "Fatick",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2246544,
+        "name": "Richard-Toll",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2253349,
+        "name": "Dakar-Bango",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2595991,
+        "name": "Fas Dièye",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2244460,
+        "name": "Tiofak",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2247684,
+        "name": "Ndioum",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2251791,
+        "name": "Foundiougne",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2250982,
+        "name": "Kahone",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2243939,
+        "name": "Ziguinchor",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2244802,
+        "name": "Thiès",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2252081,
+        "name": "Fadiga",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2244436,
+        "name": "Tionk Essil",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2253607,
+        "name": "Boukot Ouolof",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2250139,
+        "name": "Keur Mor Ibra",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2247813,
+        "name": "Ndibène Dahra",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2244322,
+        "name": "Touba",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 8030383,
+        "name": "Mermoz Boabab",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2246451,
+        "name": "Saint-Louis",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2249281,
+        "name": "Linguère",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2244177,
+        "name": "Vélingara",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2245666,
+        "name": "Sémé",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2244122,
+        "name": "Vèndou Séno",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2246789,
+        "name": "Pargui",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2251055,
+        "name": "Kabrousse",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2244990,
+        "name": "Tambacounda",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 7303937,
+        "name": "Région de Sédhiou",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2250338,
+        "name": "Keur Issa Bambara",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2249221,
+        "name": "Louga",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2245170,
+        "name": "Souima",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2245709,
+        "name": "Sébikhotane",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2244221,
+        "name": "Touré",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2252263,
+        "name": "Djidje Kounda",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2595998,
+        "name": "Léona",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2253301,
+        "name": "Dangol",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2247246,
+        "name": "Nianing",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2243973,
+        "name": "Yoff",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2245222,
+        "name": "Somone",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2251544,
+        "name": "Goléré",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2252639,
+        "name": "Diassi",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2246901,
+        "name": "Oussouye",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2244616,
+        "name": "Tiébo",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2248777,
+        "name": "Marsassoum",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2244800,
+        "name": "Région de Thiès",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2246550,
+        "name": "Rhouma",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2253350,
+        "name": "Dakar",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2247157,
+        "name": "Nioro du Rip",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2246922,
+        "name": "Ouro Sogui",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 6620952,
+        "name": "Warang",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 7303936,
+        "name": "Région de Kédougou",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2248698,
+        "name": "Mbaké",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2244987,
+        "name": "Tamba I",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2251354,
+        "name": "Gouye Gal",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2246678,
+        "name": "Pikine",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2244786,
+        "name": "Tiadiaye",
+        "state": "",
+        "country": "SN"
+    },
+    {
+        "id": 2253277,
+        "name": "Dara",
+        "state": "",
+        "country": "SN"
+    }
+]

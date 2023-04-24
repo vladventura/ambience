@@ -1,0 +1,7616 @@
+[
+    {
+        "id": 263000,
+        "name": "Domokós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133755,
+        "name": "Dimos Lesbos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258576,
+        "name": "Lárisa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264481,
+        "name": "Asopós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736381,
+        "name": "Drosáto",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264677,
+        "name": "Argalastí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133892,
+        "name": "Dimos Drama",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252920,
+        "name": "Firá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264083,
+        "name": "Ágioi Déka",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255683,
+        "name": "Pátra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265206,
+        "name": "Ampelóna",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133772,
+        "name": "Dimos Spata-Artemida",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735695,
+        "name": "Kleidí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260142,
+        "name": "Chalkiádes",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264638,
+        "name": "Arkhaía Kórinthos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264650,
+        "name": "Áris",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133910,
+        "name": "Dimos Orchomenos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 445298,
+        "name": "Néos Oropós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256872,
+        "name": "Mytikas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734359,
+        "name": "Samothráki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256865,
+        "name": "Mytilinioí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133846,
+        "name": "Dimos Dio-Olympos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256860,
+        "name": "Mitrópoli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734315,
+        "name": "Siátista",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133860,
+        "name": "Dimos Orestida",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259782,
+        "name": "Kyparissía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255750,
+        "name": "Proástio",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260811,
+        "name": "Kastélla",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257717,
+        "name": "Marathónas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264748,
+        "name": "Apollonía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258377,
+        "name": "Ligourión",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259290,
+        "name": "Nomós Korinthías",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262628,
+        "name": "Erétria",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257406,
+        "name": "Megalochóri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263805,
+        "name": "Áyios Nikólaos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133668,
+        "name": "Dimos Tripoli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 7668056,
+        "name": "Makry-Gialos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262418,
+        "name": "Filiatrá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264501,
+        "name": "Asímion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260629,
+        "name": "Káto Ássos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133770,
+        "name": "Dimos Marousi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257827,
+        "name": "Mantamádos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736921,
+        "name": "Alistráti",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251292,
+        "name": "Zagorá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254123,
+        "name": "Sámi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735338,
+        "name": "Mándalo",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736210,
+        "name": "Galatádes",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736847,
+        "name": "Agkathiá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251317,
+        "name": "Yimnón",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257268,
+        "name": "Menídi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263535,
+        "name": "Rodópoli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734061,
+        "name": "Tycheró",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255971,
+        "name": "Pallíni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258842,
+        "name": "Kréstena",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262696,
+        "name": "Emporeío",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133928,
+        "name": "Dimos Tinos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260604,
+        "name": "Káto Glykóvrysi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735972,
+        "name": "Karyes",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255507,
+        "name": "Perivólia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735861,
+        "name": "Kavála",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736082,
+        "name": "Kalampáki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734430,
+        "name": "Fteliá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735749,
+        "name": "Chrysó",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133810,
+        "name": "Dimos Minoa Pediada",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256660,
+        "name": "Mouzourás",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 2463594,
+        "name": "Potamós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133757,
+        "name": "Dimos Lemnos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 733959,
+        "name": "Valtotópi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263725,
+        "name": "Ágios Stéfanos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133887,
+        "name": "Dimos Pyrgos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254949,
+        "name": "Plomári",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736810,
+        "name": "Áno Kómi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256508,
+        "name": "Neochóri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133764,
+        "name": "Dimos Kozani",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734564,
+        "name": "Plagiári",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264890,
+        "name": "Áno Lekhónia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133808,
+        "name": "Dimos Fyli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261211,
+        "name": "Kaména Voúrla",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734216,
+        "name": "Skotoússa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260886,
+        "name": "Karpochóri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734454,
+        "name": "Prómachoi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265127,
+        "name": "Paralía Milátou",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734270,
+        "name": "Sisamía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736602,
+        "name": "Ágios Loukás",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735481,
+        "name": "Lagkadás",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257122,
+        "name": "Methóni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736899,
+        "name": "Ampelochóri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735804,
+        "name": "Nomós Chalkidikís",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735630,
+        "name": "Kopanós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133926,
+        "name": "Dimos Petroupoli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256296,
+        "name": "Omvriakí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264416,
+        "name": "Astakós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265309,
+        "name": "Alivéri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736902,
+        "name": "Ampeleíes",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6697809,
+        "name": "Thessaly",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258543,
+        "name": "Lávrio",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 2463568,
+        "name": "Stratiá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734946,
+        "name": "Néo Rýsi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261745,
+        "name": "Irákleion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133888,
+        "name": "Dimos Metamorfosi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254115,
+        "name": "Samos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133923,
+        "name": "Dimos Lavreotiki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252927,
+        "name": "Thymianá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258500,
+        "name": "Leonídio",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734108,
+        "name": "Taxiárchis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256632,
+        "name": "Náxos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133946,
+        "name": "Dimos Vari-Voula-Vouliagmeni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736466,
+        "name": "Dáto",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133701,
+        "name": "Dimos Aktio-Vonitsa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261723,
+        "name": "Ystérnia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256769,
+        "name": "Monólithos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133976,
+        "name": "Dimos Grevena",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133674,
+        "name": "Dimos Nemea",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263824,
+        "name": "Ágios Nikólaos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133987,
+        "name": "Dimos Oichalia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133962,
+        "name": "Dimos Polygyros",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133769,
+        "name": "Dimos Hydra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736987,
+        "name": "Áfytos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261702,
+        "name": "Micsi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735888,
+        "name": "Káto Lipochóri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265007,
+        "name": "Agkídia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8223990,
+        "name": "Kolonaki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133988,
+        "name": "Dimos Pylos-Nestoras",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133974,
+        "name": "Dimos Perama",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257923,
+        "name": "Makrísia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261708,
+        "name": "Itháki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253614,
+        "name": "Skýros",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260468,
+        "name": "Katoúna",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 408628,
+        "name": "Néa Alikarnassós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735004,
+        "name": "Néa Magnisía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255458,
+        "name": "Péta",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251780,
+        "name": "Voúla",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265498,
+        "name": "Aíyira",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734915,
+        "name": "Nikókleia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133903,
+        "name": "Dimos Istiaia-Aidipsos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258759,
+        "name": "Kritsá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259707,
+        "name": "Kýthnos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133729,
+        "name": "Dimos Chalcis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257859,
+        "name": "Mália",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265133,
+        "name": "Anáfi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258438,
+        "name": "Lefkáda",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260804,
+        "name": "Kastélli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265056,
+        "name": "Andravída",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133880,
+        "name": "Dimos Kallithea",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259578,
+        "name": "Kokkíni Cháni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8201845,
+        "name": "Gérakas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253878,
+        "name": "Sikyón",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736207,
+        "name": "Galátista",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253858,
+        "name": "Sými",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257400,
+        "name": "Megálo Chorió",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259508,
+        "name": "Kolympári",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252074,
+        "name": "Velestíno",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133749,
+        "name": "Dimos Samos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252891,
+        "name": "Thouría",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735735,
+        "name": "Nomós Kilkís",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736283,
+        "name": "Exaplátanos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734213,
+        "name": "Skoútari",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252165,
+        "name": "Vathý",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734995,
+        "name": "Néa Pélla",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252747,
+        "name": "Traganón",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734391,
+        "name": "Rizári",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256575,
+        "name": "Néa Smýrni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 7290409,
+        "name": "Kefalonia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735927,
+        "name": "Kastoria",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735400,
+        "name": "Lití",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734080,
+        "name": "Thérmi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259970,
+        "name": "Chios",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133982,
+        "name": "Dimos Elliniko-Argyroupoli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735856,
+        "name": "Kavallári",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736309,
+        "name": "Erátyra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735115,
+        "name": "Mikró Monastíri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253817,
+        "name": "Synoikismós Chavaríou",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262603,
+        "name": "Ermoúpolis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263870,
+        "name": "Agios Kirykos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262683,
+        "name": "Ano Arhanes",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253419,
+        "name": "Soúrpi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 733831,
+        "name": "Xylaganí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262757,
+        "name": "Eleoúsa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735638,
+        "name": "Kontariótissa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736859,
+        "name": "Anatolikó",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735636,
+        "name": "Kónitsa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261604,
+        "name": "Kalamata",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259265,
+        "name": "Koróni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265191,
+        "name": "Amfíkleia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259802,
+        "name": "Kímolos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262383,
+        "name": "Fyteíes",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264878,
+        "name": "Áno Merá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259710,
+        "name": "Kýthira",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735025,
+        "name": "Néa Apollonía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734537,
+        "name": "Políkhronon",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262920,
+        "name": "Drépanon",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256504,
+        "name": "Oichalía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735938,
+        "name": "Kastaniés",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258657,
+        "name": "Nomós Lakonías",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262135,
+        "name": "Galátsi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 2463705,
+        "name": "Kanáli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264545,
+        "name": "Nomós Ártas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258013,
+        "name": "Nomós Magnisías",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 2463763,
+        "name": "Ágios Matthaíos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261242,
+        "name": "Kampí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 733798,
+        "name": "Genisséa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133766,
+        "name": "Dimos Salaminas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736447,
+        "name": "Didymóteicho",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736727,
+        "name": "Arrianá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734375,
+        "name": "Nomós Rodópis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262159,
+        "name": "Gaïtánion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252664,
+        "name": "Tríkala",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256614,
+        "name": "Néa Ionía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261814,
+        "name": "Ierápetra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735018,
+        "name": "Néa Irákleia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736071,
+        "name": "Kalí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735750,
+        "name": "Chrysochóri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133666,
+        "name": "Dimos Pavlos Melas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736357,
+        "name": "Édessa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255849,
+        "name": "Pánormos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258569,
+        "name": "Nomós Lasithíou",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735879,
+        "name": "Káto Nevrokópi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133731,
+        "name": "Dimos Karpenisi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256093,
+        "name": "Palaiókipos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262420,
+        "name": "Filiátes",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256571,
+        "name": "Néa Tírins",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6295624,
+        "name": "Villa Ritz",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258091,
+        "name": "Loúros",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256574,
+        "name": "Néa Smírni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261941,
+        "name": "Gouriá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736692,
+        "name": "Ássiros",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261497,
+        "name": "Kalýves",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258445,
+        "name": "Lefkada",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264806,
+        "name": "Anógeia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264396,
+        "name": "Ástros",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133939,
+        "name": "Dimos Skiathos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736586,
+        "name": "Ágios Vasíleios",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265243,
+        "name": "Maroúsi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133867,
+        "name": "Dimos Sintiki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736687,
+        "name": "Asvestochóri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256728,
+        "name": "Moúlki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258521,
+        "name": "Lékhaio",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265078,
+        "name": "Antimácheia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254849,
+        "name": "Portariá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255301,
+        "name": "Pylí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262784,
+        "name": "Elassóna",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257322,
+        "name": "Meligalás",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734330,
+        "name": "Sérres",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262629,
+        "name": "Eresós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6639653,
+        "name": "Alimos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736130,
+        "name": "Ierissós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734715,
+        "name": "Péplos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133680,
+        "name": "Dimos Filadelfeia-Chalkidona",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734695,
+        "name": "Peristerá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256173,
+        "name": "Palaiá Fókaia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 733901,
+        "name": "Vergína",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253343,
+        "name": "Lássi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257448,
+        "name": "Megála Kalývia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 733768,
+        "name": "Akrolímni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133955,
+        "name": "Dimos Karpathos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734455,
+        "name": "Próchoma",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734672,
+        "name": "Petrochóri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252989,
+        "name": "Terpsithéa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734992,
+        "name": "Néa Plágia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735021,
+        "name": "Néa Fókaia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251280,
+        "name": "Zakynthos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259745,
+        "name": "Kipséli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735003,
+        "name": "Néa Málgara",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133863,
+        "name": "Dimos Visaltia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256598,
+        "name": "Néa Mákri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254546,
+        "name": "Psachná",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261720,
+        "name": "Istiaía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264482,
+        "name": "Asopía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736323,
+        "name": "Emmanouíl Pappás",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734385,
+        "name": "Rizó",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260420,
+        "name": "Katsikás",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253305,
+        "name": "Stalís",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256664,
+        "name": "Mouzaki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735813,
+        "name": "Kerkíni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254030,
+        "name": "Selínia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734094,
+        "name": "Thásos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734405,
+        "name": "Péfka",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736051,
+        "name": "Kalí Vrýsi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133777,
+        "name": "Dimos Piraeus",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736229,
+        "name": "Flórina",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262322,
+        "name": "Nomós Fokídos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133956,
+        "name": "Dimos Kasos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734832,
+        "name": "Palaífyto",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265075,
+        "name": "Antíparos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735023,
+        "name": "Néa Éfesos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734579,
+        "name": "Platanórevma",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256653,
+        "name": "Náousa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261283,
+        "name": "Kamárai",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256554,
+        "name": "Nénita",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258066,
+        "name": "Loutráki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133841,
+        "name": "Dimos Thessaloniki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133922,
+        "name": "Dimos Kropia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133934,
+        "name": "Dimos Amorgos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251276,
+        "name": "Nomós Zakýnthou",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253643,
+        "name": "Skiáthos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734328,
+        "name": "Sérvia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736336,
+        "name": "Elefthério - Kordelió",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256968,
+        "name": "Mýloi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 2463670,
+        "name": "Kynopiástes",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6324534,
+        "name": "Vrilissia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133908,
+        "name": "Dimos Thebes",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259595,
+        "name": "Kokkári",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133807,
+        "name": "Dimos Vrilissia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251896,
+        "name": "Vlachiótis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255713,
+        "name": "Pártira",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256750,
+        "name": "Moskháton",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262397,
+        "name": "Filótion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 7290250,
+        "name": "Agrilia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261895,
+        "name": "Grammenítsa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256047,
+        "name": "Palamás",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735615,
+        "name": "Korinós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735930,
+        "name": "Kastanoússa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253866,
+        "name": "Sylivainiótika",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735395,
+        "name": "Livadáki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261039,
+        "name": "Karátoula",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133691,
+        "name": "Dimos Andravida-Kyllini",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133828,
+        "name": "Dimos Agia Paraskevi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 408685,
+        "name": "Afántou",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736661,
+        "name": "Axioúpoli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252685,
+        "name": "Ialysós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133957,
+        "name": "Dimos Kos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258584,
+        "name": "Lápas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133716,
+        "name": "Dimos Florina",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259537,
+        "name": "Kokkónion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133759,
+        "name": "Dimos Rethymno",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256621,
+        "name": "Néa Filadélfeia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133804,
+        "name": "Dimos Epidaurus",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261614,
+        "name": "Álimos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264283,
+        "name": "Agiá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260478,
+        "name": "Káto Soúlion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736753,
+        "name": "Aridaía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256592,
+        "name": "Néa Péramos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258463,
+        "name": "Livadeiá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251833,
+        "name": "Volos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734939,
+        "name": "Néos Marmarás",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734753,
+        "name": "Paranésti",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258175,
+        "name": "Lixoúri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257395,
+        "name": "Megalópoli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261996,
+        "name": "Gónnoi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734268,
+        "name": "Sitagroí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251465,
+        "name": "Géfyra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253376,
+        "name": "Spáta",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256759,
+        "name": "Morfovoúni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261133,
+        "name": "Kapandríti",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261741,
+        "name": "Nomós Irakleíou",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 733840,
+        "name": "Xánthi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734731,
+        "name": "Pedinó",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257814,
+        "name": "Mantoúdi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262607,
+        "name": "Ermióni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257762,
+        "name": "Manoláda",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735342,
+        "name": "Díon",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735852,
+        "name": "Kavýli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735620,
+        "name": "Koryfí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735523,
+        "name": "Krithiá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259813,
+        "name": "Kyllíni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258427,
+        "name": "Lefkímmi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255709,
+        "name": "Pásion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133942,
+        "name": "Dimos Kalampaka",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 733842,
+        "name": "Vrontoú",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254064,
+        "name": "Sardínia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734820,
+        "name": "Palaiokómi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255721,
+        "name": "Páros",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252750,
+        "name": "Tragána",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734538,
+        "name": "Políchni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254283,
+        "name": "Rizómylos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262411,
+        "name": "Filippiáda",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734389,
+        "name": "Rízia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133969,
+        "name": "Dimos Kilkis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256883,
+        "name": "Mitáta",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735731,
+        "name": "Kimméria",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259917,
+        "name": "Chóra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251187,
+        "name": "Zonianá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251332,
+        "name": "Giánnouli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133878,
+        "name": "Dimos Nestos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253360,
+        "name": "Spercheiáda",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252291,
+        "name": "Várda",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258882,
+        "name": "Kraniá Elassónas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734155,
+        "name": "Stavrós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735732,
+        "name": "Kýmina",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735178,
+        "name": "Mesopotamía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736291,
+        "name": "Évosmos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133791,
+        "name": "Dimos Almyros",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258949,
+        "name": "Koutselió",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736226,
+        "name": "Néa Flogitá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133979,
+        "name": "Dimos Argos-Mykines",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 733828,
+        "name": "Xilópolis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258577,
+        "name": "Lárimna",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259251,
+        "name": "Koropí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6779072,
+        "name": "Néa Kríni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133904,
+        "name": "Dimos Karystos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261777,
+        "name": "Nomós Ioannínon",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255293,
+        "name": "Pýlos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264793,
+        "name": "Anthíli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264559,
+        "name": "Árta",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263021,
+        "name": "Dodecanese",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133965,
+        "name": "Dimos Keratsini-Drapetsona",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133927,
+        "name": "Dimos Syros-Ermoupoli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254746,
+        "name": "Prámanta",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257282,
+        "name": "Melívoia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256637,
+        "name": "Náfplio",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264637,
+        "name": "Archaía Olympía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734329,
+        "name": "Nomós Serrón",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736049,
+        "name": "Kallífytos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734517,
+        "name": "Polýgyros",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263997,
+        "name": "Áyios Athanásios",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258312,
+        "name": "Límnes",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734977,
+        "name": "Néa Zíchni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254917,
+        "name": "Polichnítos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259734,
+        "name": "Kyrás Vrýsi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736881,
+        "name": "Amisianá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 7522530,
+        "name": "Marousi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735220,
+        "name": "Melíti",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735640,
+        "name": "Komotiní",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251411,
+        "name": "Geráki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257811,
+        "name": "Mándra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262525,
+        "name": "Fálanna",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254442,
+        "name": "Pteleós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 2463676,
+        "name": "Nomós Kerkýras",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133800,
+        "name": "Dimos North Kynouria",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261150,
+        "name": "Kandíla",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264670,
+        "name": "Árgos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252303,
+        "name": "Vamvakoú",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 737002,
+        "name": "Ádendro",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133947,
+        "name": "Dimos Markopoulo Mesogaias",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260172,
+        "name": "Khalándrion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259806,
+        "name": "Kými",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254695,
+        "name": "Nomós Prevézis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255027,
+        "name": "Plátanos Kalivíon",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262091,
+        "name": "Gavaloú",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734447,
+        "name": "Prosotsáni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257621,
+        "name": "Martínon",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256499,
+        "name": "Neochorópoulo",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735327,
+        "name": "Maniákoi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133743,
+        "name": "Dimos Preveza",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252864,
+        "name": "Tílisos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262862,
+        "name": "Voulgaréli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264928,
+        "name": "Áno Kalentíni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256339,
+        "name": "Oinófyta",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255807,
+        "name": "Pappadátes",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734819,
+        "name": "Axós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255585,
+        "name": "Pérama",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133709,
+        "name": "Dimos Poros",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251959,
+        "name": "Vília",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252267,
+        "name": "Vareiá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133854,
+        "name": "Dimos Zakynthos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133952,
+        "name": "Dimos Kea",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255498,
+        "name": "Perivóli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264022,
+        "name": "Ágios Andréas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133783,
+        "name": "Dimos Peristeri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133806,
+        "name": "Dimos Nafplio",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 2463549,
+        "name": "Virós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6697804,
+        "name": "Epirus",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257126,
+        "name": "Méthana",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264839,
+        "name": "Áno Sýros",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264221,
+        "name": "Agía Marína",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254698,
+        "name": "Préveza",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264421,
+        "name": "Ássos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253286,
+        "name": "Stános",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133840,
+        "name": "Dimos Penteli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734978,
+        "name": "Néa Výssa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256824,
+        "name": "Mólos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736929,
+        "name": "Alexándreia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254990,
+        "name": "Platýkampos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736900,
+        "name": "Ámpeloi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253394,
+        "name": "Spárti",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133966,
+        "name": "Dimos Kastoria",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265100,
+        "name": "Anávyssos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256601,
+        "name": "Ílion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256879,
+        "name": "Míthymna",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734426,
+        "name": "Ptolemaḯda",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133978,
+        "name": "Dimos Xylokastro-Evrostina",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261714,
+        "name": "Itéa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263257,
+        "name": "Darátsos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255305,
+        "name": "Pýli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735925,
+        "name": "Nomós Kastoriás",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133894,
+        "name": "Dimos Volos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736192,
+        "name": "Gázoros",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735902,
+        "name": "Káto Kamíla",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734676,
+        "name": "Petraná",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133682,
+        "name": "Dimos Serifos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262572,
+        "name": "Nomós Evrytanías",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257721,
+        "name": "Marathókampos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133802,
+        "name": "Dimos Megalopoli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734643,
+        "name": "Pylaía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253158,
+        "name": "Steíri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252486,
+        "name": "Tsikalariá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736450,
+        "name": "Diavatá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735679,
+        "name": "Koíla",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256066,
+        "name": "Palaiópyrgos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256297,
+        "name": "Omorfochóri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253130,
+        "name": "Strátos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265500,
+        "name": "Aígio",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255195,
+        "name": "Pyrgetós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734102,
+        "name": "Terpní",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 733749,
+        "name": "Zygós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133930,
+        "name": "Dimos Ierapetra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6692661,
+        "name": "Pefkochori",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265013,
+        "name": "Angelókastro",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736208,
+        "name": "Galatiní",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734575,
+        "name": "Platý",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133898,
+        "name": "Thasos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133900,
+        "name": "Dimos Orestiada",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262426,
+        "name": "Fylí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 408687,
+        "name": "Líndos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 445407,
+        "name": "Nomarchía Dytikís Attikís",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736843,
+        "name": "Angelochóri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735702,
+        "name": "Kítros",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258332,
+        "name": "Lykóvrysi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264496,
+        "name": "Asíni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256558,
+        "name": "Neméa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736682,
+        "name": "Áthyra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261259,
+        "name": "Kamári",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264408,
+        "name": "Astypálaia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258108,
+        "name": "Loukísia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256985,
+        "name": "Milésion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265502,
+        "name": "Aegina",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133704,
+        "name": "Dimos Acharnes",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735546,
+        "name": "Krýa Vrýsi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133832,
+        "name": "Dimos Santorini",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252523,
+        "name": "Tsarítsani",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254955,
+        "name": "Pligónion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734906,
+        "name": "Nisí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262402,
+        "name": "Fílla",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257152,
+        "name": "Messíni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253218,
+        "name": "Stefanovíkeio",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133921,
+        "name": "Dimos Dionysos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133960,
+        "name": "Dimos Palaio Faliro",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256589,
+        "name": "Neápoli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251948,
+        "name": "Výronas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734235,
+        "name": "Skýdra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252101,
+        "name": "Vágia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264668,
+        "name": "Argostólion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252655,
+        "name": "Tríkeri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133970,
+        "name": "Dimos Paionia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6697808,
+        "name": "South Aegean",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735430,
+        "name": "Lýkeio",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261822,
+        "name": "Ýdra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 390903,
+        "name": "Hellenic Republic",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133916,
+        "name": "Dimos Delta",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253871,
+        "name": "Sykoúrio",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260473,
+        "name": "Káto Tithoréa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6697805,
+        "name": "Ionian Islands",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253581,
+        "name": "Skópelos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257669,
+        "name": "Markópoulo Oropoú",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255594,
+        "name": "Perachóra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 444350,
+        "name": "Zipári",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 865290,
+        "name": "Ágios Pávlos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133919,
+        "name": "Dimos Ilio",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735682,
+        "name": "Kleítos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262833,
+        "name": "Ekáli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6692709,
+        "name": "Nidri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 2463701,
+        "name": "Kassiopi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264929,
+        "name": "Anoixi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735318,
+        "name": "Marína",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253880,
+        "name": "Síkinos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133671,
+        "name": "Dimos West Achaea",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256838,
+        "name": "Mokhós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259289,
+        "name": "Kórinthos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734733,
+        "name": "Patrída",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261772,
+        "name": "Íos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263544,
+        "name": "Báfra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253996,
+        "name": "Sérifos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260567,
+        "name": "Káto Chorió",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262462,
+        "name": "Fársala",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254045,
+        "name": "Savália",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260114,
+        "name": "Chaniá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261763,
+        "name": "Ippoforvíon",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734150,
+        "name": "Stavroúpoli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264694,
+        "name": "Áraxos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261842,
+        "name": "Grizáno",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735914,
+        "name": "Kateríni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265240,
+        "name": "Ampelákia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735751,
+        "name": "Chrysochórafa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262969,
+        "name": "Dhráfi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265711,
+        "name": "Adámas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133798,
+        "name": "Dimos Galatsi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253170,
+        "name": "Stylída",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262007,
+        "name": "Gómfoi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260220,
+        "name": "Kerasochóri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735961,
+        "name": "Karyótissa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256914,
+        "name": "Myrsíni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256342,
+        "name": "Papágou",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735251,
+        "name": "Megálos Prínos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261779,
+        "name": "Ioánnina",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735747,
+        "name": "Chrysoúpolis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265095,
+        "name": "Anávra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264374,
+        "name": "Athíkia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734440,
+        "name": "Provatás",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736964,
+        "name": "Aigínio",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735135,
+        "name": "Mikrókampos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263646,
+        "name": "Ágios Geórgios",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734284,
+        "name": "Síndos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133899,
+        "name": "Dimos Kavala",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256428,
+        "name": "Níkaia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133720,
+        "name": "Dimos Dodoni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264604,
+        "name": "Árma",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251667,
+        "name": "Vravrona",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256155,
+        "name": "Palekastro",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261935,
+        "name": "Goúrnes",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734187,
+        "name": "Souflí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133845,
+        "name": "Dimos Agrinio",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734924,
+        "name": "Nigríta",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734957,
+        "name": "Néo Agionéri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259754,
+        "name": "Kiprianós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260897,
+        "name": "Karpásion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734996,
+        "name": "Ólynthos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258610,
+        "name": "Lagkáda",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260037,
+        "name": "Chávari",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261721,
+        "name": "Isthmía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6697811,
+        "name": "Western Macedonia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260210,
+        "name": "Keratéa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261132,
+        "name": "Kaparéllion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254898,
+        "name": "Politiká",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263034,
+        "name": "Dístomo",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251823,
+        "name": "Vónitsa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735521,
+        "name": "Krókos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259949,
+        "name": "Cholargós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133780,
+        "name": "Dimos Nea Ionia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6354951,
+        "name": "Faliraki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735001,
+        "name": "Néa Michanióna",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133670,
+        "name": "Dimos Kalavryta",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736151,
+        "name": "Grevená",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734722,
+        "name": "Pentálofos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6697803,
+        "name": "Eastern Macedonia and Thrace",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133973,
+        "name": "Dimos Aigaleo",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262719,
+        "name": "Ellinikó",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260705,
+        "name": "Katákali",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133779,
+        "name": "Dimos Alexandroupoli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736735,
+        "name": "Armenokhórion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 733965,
+        "name": "Valteró",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6951046,
+        "name": "Tagkoú",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265560,
+        "name": "Agrínio",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 733902,
+        "name": "Vérgi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133683,
+        "name": "Dimos Sifnos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253357,
+        "name": "Sperchógeia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252164,
+        "name": "Vathí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260310,
+        "name": "Nomós Kefallinías",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258522,
+        "name": "Lechainá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133795,
+        "name": "Dimos Oraiokastro",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262187,
+        "name": "Nomós Fthiótidos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736296,
+        "name": "Efkarpía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 2463759,
+        "name": "Ágios Rókkos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264897,
+        "name": "Kopanáki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265107,
+        "name": "Anatolí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258620,
+        "name": "Lamía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 445406,
+        "name": "Nomarchía Anatolikís Attikís",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133710,
+        "name": "Dimos Dafni-Ymittos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735472,
+        "name": "Lagyná",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253908,
+        "name": "Sykiá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257243,
+        "name": "Mertikaíika",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734843,
+        "name": "Páchni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735418,
+        "name": "Limenária",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256520,
+        "name": "Neochórion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258261,
+        "name": "Leipsoí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257149,
+        "name": "Nomós Messinías",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255777,
+        "name": "Paralía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263178,
+        "name": "Dhervéni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259993,
+        "name": "Khiliomódhi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 444637,
+        "name": "Lalódentra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264260,
+        "name": "Agía Galíni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8200697,
+        "name": "Asklipieío",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133932,
+        "name": "Dimos Veroia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736244,
+        "name": "Fillýra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735007,
+        "name": "Néa Krómi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735348,
+        "name": "Makrýgialos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734355,
+        "name": "Sápes",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253045,
+        "name": "Tanágra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257056,
+        "name": "Mykonos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736149,
+        "name": "Nomós Grevenón",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261396,
+        "name": "Kalloní",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133855,
+        "name": "Dimos Corfu",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255398,
+        "name": "Magoúla",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261921,
+        "name": "Goúves",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734496,
+        "name": "Potamiá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255945,
+        "name": "Panaitólion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735015,
+        "name": "Néa Karyá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253494,
+        "name": "Sofikón",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254032,
+        "name": "Selianítika",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734883,
+        "name": "Oraiókastro",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734725,
+        "name": "Nomós Péllis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254286,
+        "name": "Rízoma",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252244,
+        "name": "Varnávas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252062,
+        "name": "Vélo",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734336,
+        "name": "Sélero",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133961,
+        "name": "Dimos Aspropyrgos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256284,
+        "name": "Oreoí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734712,
+        "name": "Peraía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260674,
+        "name": "Katastárion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736643,
+        "name": "Agíasma",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736716,
+        "name": "Askós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736732,
+        "name": "Árnissa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734195,
+        "name": "Sosándra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734880,
+        "name": "Orestiáda",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736449,
+        "name": "Diavatós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253164,
+        "name": "Stýpsi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261680,
+        "name": "Kainoúryion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 408684,
+        "name": "Kremastí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734683,
+        "name": "Peteinós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259830,
+        "name": "Kiáto",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265300,
+        "name": "Álli Meriá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133850,
+        "name": "Dimos Kefalonia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261414,
+        "name": "Kallithéa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6692641,
+        "name": "Agios Georgis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 733776,
+        "name": "Giannitsá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257186,
+        "name": "Mesolóngi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6697810,
+        "name": "Western Greece",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252327,
+        "name": "Valsamáta",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258497,
+        "name": "Lepenoú",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736763,
+        "name": "Áratos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258819,
+        "name": "Kríkellos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735347,
+        "name": "Makrochóri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251606,
+        "name": "Vrontádos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256175,
+        "name": "Palaiá Epídavros",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133830,
+        "name": "Dimos Andros",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260348,
+        "name": "Kéa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6697807,
+        "name": "Peloponnese",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264181,
+        "name": "Agía Paraskeví",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264618,
+        "name": "Archontochóri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734339,
+        "name": "Sárti",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736102,
+        "name": "Léchovo",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734324,
+        "name": "Sevastianá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264641,
+        "name": "Arkása",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734979,
+        "name": "Néa Tríglia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133706,
+        "name": "Dimos Missolonghi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736056,
+        "name": "Kalýves Polygýrou",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736971,
+        "name": "Aianí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6697802,
+        "name": "Crete",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263809,
+        "name": "Arkoúdi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252270,
+        "name": "Vári",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261601,
+        "name": "Kalampáka",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257224,
+        "name": "Mesariá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264353,
+        "name": "Nomós Attikís",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255188,
+        "name": "Pyrgíon",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264220,
+        "name": "Ayía Marína",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261263,
+        "name": "Kamárion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255959,
+        "name": "Pámfila",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133984,
+        "name": "Dimos Karditsa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264359,
+        "name": "Atsipópoulo",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260821,
+        "name": "Kastaniótissa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256075,
+        "name": "Palaió Fáliro",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253003,
+        "name": "Témeni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261507,
+        "name": "Kálymnos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735393,
+        "name": "Livaderó",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736386,
+        "name": "Drymós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263471,
+        "name": "Bendevís",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264642,
+        "name": "Arkalochóri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 2463679,
+        "name": "Corfu",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261002,
+        "name": "Kardamás",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6693122,
+        "name": "Mesolongi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735872,
+        "name": "Káto Scholári",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254505,
+        "name": "Psychikó",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133673,
+        "name": "Dimos Corinth",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133848,
+        "name": "Dimos Pella",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734868,
+        "name": "Ormýlia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252910,
+        "name": "Thívai",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255013,
+        "name": "Platariá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734649,
+        "name": "Nomós Pierías",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260096,
+        "name": "Nomós Chaniás",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736324,
+        "name": "Empório",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734396,
+        "name": "Ritíni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133695,
+        "name": "Chersonisos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736725,
+        "name": "Arsénio",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6951028,
+        "name": "Aggeliká",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255739,
+        "name": "Paravóla",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252848,
+        "name": "Týrnavos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8145341,
+        "name": "Vagiés",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257365,
+        "name": "Mégara",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133778,
+        "name": "Dimos Didymoteicho",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259824,
+        "name": "Kifisiá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735562,
+        "name": "Nomós Kozánis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256622,
+        "name": "Néa Erythraía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735954,
+        "name": "Karperí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260308,
+        "name": "Kéfalos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734003,
+        "name": "Tsákoi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255562,
+        "name": "Pérdika",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252190,
+        "name": "Vasilikón",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264371,
+        "name": "Athens",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734947,
+        "name": "Néo Petrítsi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256626,
+        "name": "Néa Artáki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264673,
+        "name": "Nomós Argolídos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251297,
+        "name": "Gýtheio",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257804,
+        "name": "Mandráki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736199,
+        "name": "Gallikós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736733,
+        "name": "Arnaía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263698,
+        "name": "Áyios Vasílios",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258315,
+        "name": "Limín Khersonísou",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251250,
+        "name": "Zarós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736346,
+        "name": "Elaiochóri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256197,
+        "name": "Paianía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252661,
+        "name": "Trikala",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263854,
+        "name": "Áyios Konstandínos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734543,
+        "name": "Polykárpi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256485,
+        "name": "Néon Monastírion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 733911,
+        "name": "Velventós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265627,
+        "name": "Agnanteró",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263730,
+        "name": "Ágios Spyrídon",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264516,
+        "name": "Argyroúpoli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133697,
+        "name": "Dimos Naxos and Lesser Cyclades",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260093,
+        "name": "Chaniotis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6697800,
+        "name": "Central Greece",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133785,
+        "name": "Dimos Kileler",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133948,
+        "name": "Dimos Siteia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256572,
+        "name": "Néa Stíra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133912,
+        "name": "Dimos Edessa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258182,
+        "name": "Livanátes",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256580,
+        "name": "Néa Seléfkeia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255377,
+        "name": "Petroúpolis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6697801,
+        "name": "Central Macedonia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736083,
+        "name": "Kalamariá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736288,
+        "name": "Evropós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256210,
+        "name": "Oxílithos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256757,
+        "name": "Mória",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 733818,
+        "name": "Xiropótamos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255030,
+        "name": "Plátanos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736601,
+        "name": "Ágios Mámas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133814,
+        "name": "Dimos Leros",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260451,
+        "name": "Káto Vlasía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257258,
+        "name": "Agía Triáda",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262319,
+        "name": "Folégandros",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734198,
+        "name": "Sochós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261912,
+        "name": "Graikós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258241,
+        "name": "Lithakiá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735365,
+        "name": "Loutrós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251773,
+        "name": "Vouliagméni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260531,
+        "name": "Káto Mazaráki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 7701425,
+        "name": "Kambos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133747,
+        "name": "Ikaria",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253676,
+        "name": "Skepastó",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258198,
+        "name": "Livádia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736363,
+        "name": "Nomós Drámas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734183,
+        "name": "Sourotí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133844,
+        "name": "Dimos Trikala",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736065,
+        "name": "Kalývia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735146,
+        "name": "Mýki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133909,
+        "name": "Dimos Livadeia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133750,
+        "name": "Dimos Apokoronas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133812,
+        "name": "Dimos Kalymnos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256606,
+        "name": "Néa Kíos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735390,
+        "name": "Livádi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262564,
+        "name": "Nomós Evvoías",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255753,
+        "name": "Parapótamos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258076,
+        "name": "Loutrá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734540,
+        "name": "Polýkastro",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263166,
+        "name": "Deskáti",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265252,
+        "name": "Amaliáda",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 2463800,
+        "name": "Alepoú",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735016,
+        "name": "Néa Kallikráteia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133951,
+        "name": "Dimos Alimos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265187,
+        "name": "Ámfissa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258873,
+        "name": "Kranídi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 733955,
+        "name": "Vamvakófyto",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133876,
+        "name": "Dimos Athens",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264714,
+        "name": "Aráchova",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734077,
+        "name": "Thessaloníki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261797,
+        "name": "Nomós Ileías",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252939,
+        "name": "Thesprotikó",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736228,
+        "name": "Nomós Florínis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256596,
+        "name": "Néa Manoláda",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133902,
+        "name": "Dimos Eretria",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257948,
+        "name": "Makrychóri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735277,
+        "name": "Mavrovoúni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735399,
+        "name": "Litóchoro",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256268,
+        "name": "Orchomenós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736067,
+        "name": "Prínos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 733839,
+        "name": "Nomós Xánthis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265488,
+        "name": "Acharnés",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252854,
+        "name": "Tínos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258655,
+        "name": "Lálas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252889,
+        "name": "Thrapsanón",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736592,
+        "name": "Ágios Pétros",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133868,
+        "name": "Dimos Aristotelis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254599,
+        "name": "Profítis Ilías",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256257,
+        "name": "Oropós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262687,
+        "name": "Enipiás",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133914,
+        "name": "Dimos Tanagra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258465,
+        "name": "Lesbos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257080,
+        "name": "Megísti",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736017,
+        "name": "Kamariótissa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262433,
+        "name": "Fíki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734128,
+        "name": "Strymonikó",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260630,
+        "name": "Káto Asítai",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133918,
+        "name": "Dimos Kordelio-Evosmos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133707,
+        "name": "Dimos Nafpaktia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6621623,
+        "name": "Archipolis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259618,
+        "name": "Koilás",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254315,
+        "name": "Río",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735111,
+        "name": "Mikrópolis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255319,
+        "name": "Pikérmi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256223,
+        "name": "Ovriá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254864,
+        "name": "Póros",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262067,
+        "name": "Gázi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735857,
+        "name": "Nomós Kaválas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735235,
+        "name": "Melíki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133685,
+        "name": "Dimos Pallini",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133699,
+        "name": "Dimos Paros",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264111,
+        "name": "Agía Varvára",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260133,
+        "name": "Chalkída",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260644,
+        "name": "Káto Achaḯa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261490,
+        "name": "Kalivári",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260379,
+        "name": "Kavásila",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133839,
+        "name": "Dimos Papagou-Cholargos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260987,
+        "name": "Karditsomagoúla",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263978,
+        "name": "Agios Dimitrios",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736024,
+        "name": "Kalós Agrós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260956,
+        "name": "Karyés",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262776,
+        "name": "Eláteia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736840,
+        "name": "Ágkistro",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255229,
+        "name": "Pýrgos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133886,
+        "name": "Dimos Glyfada",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262609,
+        "name": "Erythrés",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133809,
+        "name": "Dimos Nikaia-Agios Ioannis Rentis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735960,
+        "name": "Karítsa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133827,
+        "name": "Dimos Komotini",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133833,
+        "name": "Dimos Ios",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258744,
+        "name": "Krousón",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252833,
+        "name": "Tolón",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256492,
+        "name": "Néon Karlovásion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260979,
+        "name": "Karés Apokorrónou",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264909,
+        "name": "Áno Kastrítsi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257302,
+        "name": "Melíssia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256866,
+        "name": "Mytilene",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262558,
+        "name": "Examília",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252941,
+        "name": "Nomós Thesprotías",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255274,
+        "name": "Piraeus",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254112,
+        "name": "Nomós Sámou",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734075,
+        "name": "Nomós Thessaloníkis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265533,
+        "name": "Aigáleo",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262104,
+        "name": "Gargaliánoi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734664,
+        "name": "Petroússa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 445408,
+        "name": "Nomarchía Athínas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252862,
+        "name": "Tympáki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265142,
+        "name": "Amorgós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 408689,
+        "name": "Lárdos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735975,
+        "name": "Kardiá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734719,
+        "name": "Pentápoli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 406101,
+        "name": "Nomós Piraiós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734014,
+        "name": "Trílofos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264547,
+        "name": "Artesianó",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257868,
+        "name": "Malesína",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734602,
+        "name": "Pigés",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734938,
+        "name": "Néos Mylótopos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734443,
+        "name": "Próti",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253075,
+        "name": "Strovíki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254352,
+        "name": "Rethymno",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261900,
+        "name": "Grammatikoú",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735581,
+        "name": "Kouloúra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253739,
+        "name": "Skála",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133746,
+        "name": "Dimos Molos-Agios Konstantinos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259292,
+        "name": "Domvraína",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251366,
+        "name": "Gérgeri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265650,
+        "name": "Afrátion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133678,
+        "name": "Dimos Neapoli-Sykies",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735434,
+        "name": "Lianovérgi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252030,
+        "name": "Verdikoússa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736319,
+        "name": "Epanomí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6692632,
+        "name": "Attica",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734761,
+        "name": "Pappagiánnis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255138,
+        "name": "Pigí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264662,
+        "name": "Aria",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734943,
+        "name": "Néo Soúli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 2463750,
+        "name": "Benítses",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251685,
+        "name": "Vrakháti",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257434,
+        "name": "Megáli Khóra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261816,
+        "name": "Ydroússa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256930,
+        "name": "Mýrina",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259718,
+        "name": "Kíssamos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257936,
+        "name": "Makrinítsa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253456,
+        "name": "Soúda",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261913,
+        "name": "Graikochóri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 865331,
+        "name": "Melíssi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736364,
+        "name": "Dráma",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255718,
+        "name": "Parthéni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255495,
+        "name": "Periyiáli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263897,
+        "name": "Ágios Ioánnis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259796,
+        "name": "Kinéta",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264445,
+        "name": "Asprópyrgos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6692234,
+        "name": "Potós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264888,
+        "name": "Áno Liósia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260144,
+        "name": "Chálki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261571,
+        "name": "Kálamos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736792,
+        "name": "Áno Poróïa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 7648744,
+        "name": "Metaxourgio",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256054,
+        "name": "Pálairos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258757,
+        "name": "Taxiárches",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735714,
+        "name": "Kýria",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734301,
+        "name": "Sykiés",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 733941,
+        "name": "Vasiliká",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736944,
+        "name": "Akriní",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734987,
+        "name": "Néa Sánta",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 7667930,
+        "name": "Ymittos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255638,
+        "name": "Pelasgía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252946,
+        "name": "Thérmo",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251283,
+        "name": "Zacháro",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 2463575,
+        "name": "Sinarádes",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6544035,
+        "name": "Young Inn",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735474,
+        "name": "Lávara",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133915,
+        "name": "Dimos Volvi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736243,
+        "name": "Filótas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736120,
+        "name": "Nomós Imathías",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736014,
+        "name": "Kampánis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735764,
+        "name": "Chortiátis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259452,
+        "name": "Kompóti",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736029,
+        "name": "Kalochóri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264146,
+        "name": "Agiásos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734320,
+        "name": "Sfendámi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259819,
+        "name": "Nomós Kykládon",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736928,
+        "name": "Alexandroupoli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264519,
+        "name": "Argyropoúli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251681,
+        "name": "Vrachnaíika",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735821,
+        "name": "Keramotí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 443460,
+        "name": "Potokáki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133738,
+        "name": "Dimos Lamia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253717,
+        "name": "Skalánion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734958,
+        "name": "Neochoroúda",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260171,
+        "name": "Chalandrítsa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258793,
+        "name": "Kryonéri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263075,
+        "name": "Dimitsána",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133686,
+        "name": "Dimos Rafina-Pikermi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735661,
+        "name": "Kokkinóchoma",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735497,
+        "name": "Lagós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255096,
+        "name": "Plános",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734120,
+        "name": "Svorónos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736754,
+        "name": "Argos Orestiko",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133866,
+        "name": "Dimos Serres",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262698,
+        "name": "Émponas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260183,
+        "name": "Chaïdári",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256627,
+        "name": "Néa Anchiálos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133681,
+        "name": "Dimos Milos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736166,
+        "name": "Gouménissa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735612,
+        "name": "Kormísta",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734771,
+        "name": "Panórama",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253759,
+        "name": "Sitia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260891,
+        "name": "Karpenísi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261743,
+        "name": "Irákleio",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736245,
+        "name": "Fíliro",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254253,
+        "name": "Rodotópi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261596,
+        "name": "Kalamiá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261431,
+        "name": "Kallifóni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6943434,
+        "name": "Dimos Artas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735720,
+        "name": "Kyprínos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257643,
+        "name": "Marmárion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257035,
+        "name": "Mikrománi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133718,
+        "name": "Dimos Sparti",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265189,
+        "name": "Amfilochía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735014,
+        "name": "Néa Karváli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133760,
+        "name": "Dimos Trifylia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734821,
+        "name": "Palaiochóri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255621,
+        "name": "Pelópi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262752,
+        "name": "Elefsína",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264390,
+        "name": "Atalánti",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736281,
+        "name": "Exochí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253666,
+        "name": "Schísma Eloúndas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265420,
+        "name": "Akraifnía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260988,
+        "name": "Nomós Kardhítsas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254584,
+        "name": "Prokópi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734256,
+        "name": "Leptokaryá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 408686,
+        "name": "Archángelos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256696,
+        "name": "Mourniés",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133882,
+        "name": "Dimos Naousa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265508,
+        "name": "Nomós Aitolías kai Akarnanías",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252942,
+        "name": "Thespiés",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734990,
+        "name": "Néa Poteídaia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736677,
+        "name": "Ávato",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252601,
+        "name": "Trípoli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133821,
+        "name": "Dimos Chios",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734726,
+        "name": "Pélla",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253302,
+        "name": "Stamáta",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736261,
+        "name": "Féres",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 865291,
+        "name": "Triandría",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257141,
+        "name": "Metamórfosi Troizínos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261169,
+        "name": "Kanália",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255689,
+        "name": "Patitírion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 733905,
+        "name": "Véroia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252952,
+        "name": "Thérissos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736878,
+        "name": "Ammochóri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256593,
+        "name": "Néa Palátia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 865238,
+        "name": "Eirinoúpoli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6697806,
+        "name": "North Aegean",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261910,
+        "name": "Gra Liyiá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 733877,
+        "name": "Vólakas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256639,
+        "name": "Náfpaktos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736287,
+        "name": "Nomós Évrou",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735034,
+        "name": "Mousthéni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 7303595,
+        "name": "Dimos Ioánnina",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255736,
+        "name": "Párga",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258754,
+        "name": "Krokeés",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734386,
+        "name": "Rizómata",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735674,
+        "name": "Koímisi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251253,
+        "name": "Zárkos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735643,
+        "name": "Komniná",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736137,
+        "name": "Íasmos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6942763,
+        "name": "Alyki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133883,
+        "name": "Dimos Elefsina",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251888,
+        "name": "Vlachópoulo",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253356,
+        "name": "Spétses",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736618,
+        "name": "Ágios Athanásios",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255439,
+        "name": "Pétra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133884,
+        "name": "Dimos Mandra-Eidyllia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262636,
+        "name": "Epitálio",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736330,
+        "name": "Eleftheroúpolis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263020,
+        "name": "Dodóni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133762,
+        "name": "Chania",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256842,
+        "name": "Moíres",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8131587,
+        "name": "Ymittos Athens",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261003,
+        "name": "Kardámaina",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252232,
+        "name": "Varvásaina",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256131,
+        "name": "Palaióchora",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133953,
+        "name": "Dimos Kythnos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255798,
+        "name": "Pappádos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133700,
+        "name": "Kastelorizo",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260935,
+        "name": "Kárystos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254353,
+        "name": "Nomós Rethýmnis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254165,
+        "name": "Royítika",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255161,
+        "name": "Pithári",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265210,
+        "name": "Ambelókipoi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263219,
+        "name": "Delphi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265028,
+        "name": "Anéza",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260204,
+        "name": "Keratsíni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736751,
+        "name": "Arísvi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133858,
+        "name": "Dimos Deskati",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261445,
+        "name": "Kalývia Thorikoú",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260542,
+        "name": "Káto Lekhónia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736866,
+        "name": "Anaráchi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265507,
+        "name": "Aitolikó",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257975,
+        "name": "Makrakómi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734310,
+        "name": "Sidirókastro",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261401,
+        "name": "Kallíthiro",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262217,
+        "name": "Fry",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265040,
+        "name": "Andros",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265292,
+        "name": "Almyrós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133690,
+        "name": "Dimos Patras",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133959,
+        "name": "Dimos Kalamaria",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133985,
+        "name": "Dimos Ampelokipoi-Menemeni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735769,
+        "name": "Choristí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133774,
+        "name": "Dimos Pylaia-Chortiatis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735264,
+        "name": "Megáli Panagía",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735613,
+        "name": "Korisós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133667,
+        "name": "Dimos Agios Dimitrios",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265342,
+        "name": "Alíartos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735794,
+        "name": "Charopó",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734720,
+        "name": "Pentaplátano",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255646,
+        "name": "Pediní",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265601,
+        "name": "Agriá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736762,
+        "name": "Aravissós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265245,
+        "name": "Amárynthos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 2463662,
+        "name": "Kontokáli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734133,
+        "name": "Stratónion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734973,
+        "name": "Néoi Epivátes",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258575,
+        "name": "Nomós Larísis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252239,
+        "name": "Vartholomió",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265417,
+        "name": "Akráta",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735231,
+        "name": "Melissochóri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735375,
+        "name": "Lófos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256662,
+        "name": "Mouzáki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259730,
+        "name": "Kyriáki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258634,
+        "name": "Lambírion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 733791,
+        "name": "Gerakaroú",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254144,
+        "name": "Salamína",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254842,
+        "name": "Pórto Chéli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735490,
+        "name": "Lákkoma",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735196,
+        "name": "Mesiméri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133857,
+        "name": "Dimos Eordaia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253673,
+        "name": "Schimatári",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263751,
+        "name": "Áyios Serafím",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735563,
+        "name": "Kozáni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262465,
+        "name": "Fáros",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735803,
+        "name": "Chalkidóna",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734698,
+        "name": "Perístasi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255163,
+        "name": "Pythagóreio",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133920,
+        "name": "Dimos Heraklion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261903,
+        "name": "Grammatikó",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265344,
+        "name": "Alfeioúsa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735526,
+        "name": "Kristóni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133665,
+        "name": "Dimos Nea Smyrni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256952,
+        "name": "Mílos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260989,
+        "name": "Kardítsa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133864,
+        "name": "Dimos Irakleia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258672,
+        "name": "Lakkí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257083,
+        "name": "Metsovo",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252626,
+        "name": "Triovasálos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264644,
+        "name": "Nomós Arkadías",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734854,
+        "name": "Ouranoupolis",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133712,
+        "name": "Dimos Ilida (Dimos Ilidas)",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251851,
+        "name": "Nomós Voiotías",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734919,
+        "name": "Nikísiani",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133847,
+        "name": "Dimos Katerini",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258998,
+        "name": "Kouroúpi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736316,
+        "name": "Episkopí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257535,
+        "name": "Mavrommáti",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133811,
+        "name": "Dimos Astypalaia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133702,
+        "name": "Kythira",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133725,
+        "name": "Dimos Igoumenitsa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133917,
+        "name": "Dimos Thermaikos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735017,
+        "name": "Néa Iraklítsa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255093,
+        "name": "Plataiés",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735654,
+        "name": "Kolindrós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133694,
+        "name": "Dimos Kifisia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262098,
+        "name": "Gastoúni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736767,
+        "name": "Ápsalos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265546,
+        "name": "Aiánteio",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261678,
+        "name": "Kaisarianí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254170,
+        "name": "Roviés",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259720,
+        "name": "Kírra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258306,
+        "name": "Límni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262140,
+        "name": "Galatás",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 2463692,
+        "name": "Káto Korakiána",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 257671,
+        "name": "Markópoulo",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261167,
+        "name": "Kanaláki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133877,
+        "name": "Dimos Zografos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735839,
+        "name": "Kefalóvryso",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133842,
+        "name": "Dimos Chalandri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 2463721,
+        "name": "Gastoúri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 258912,
+        "name": "Kouvarás",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261537,
+        "name": "Kalávryta",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256449,
+        "name": "Nerokoúros",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253420,
+        "name": "Soúrmena",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133837,
+        "name": "Dimos Xanthi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735588,
+        "name": "Koufália",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260506,
+        "name": "Káto Patísia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133977,
+        "name": "Dimos Loutraki-Agioi Theodoroi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 733933,
+        "name": "Vathýlakkos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 253716,
+        "name": "Skála Oropoú",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736222,
+        "name": "Fotolívos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133669,
+        "name": "Dimos Aigialeia",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259245,
+        "name": "Kos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735651,
+        "name": "Kolchikón",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 2463771,
+        "name": "Agía Eleoúsa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261807,
+        "name": "Igoumenítsa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 263714,
+        "name": "Áyios Thomás",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260128,
+        "name": "Khalkoútsion",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133786,
+        "name": "Dimos Larissa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133781,
+        "name": "Dimos Rhodes",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133885,
+        "name": "Dimos Megara",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735002,
+        "name": "Néa Mesimvría",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736354,
+        "name": "Echínos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255760,
+        "name": "Paramythiá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133851,
+        "name": "Dimos Lefkada",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736771,
+        "name": "Apalós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256833,
+        "name": "Moláoi",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735881,
+        "name": "Káto Miliá",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 6692203,
+        "name": "Agios Prokopios",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 7910877,
+        "name": "Fanari",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133933,
+        "name": "Dimos Mykonos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 261956,
+        "name": "Goúmero",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 733986,
+        "name": "Tsotíli",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 400666,
+        "name": "Ródos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 255524,
+        "name": "Peristéri",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256808,
+        "name": "Monastiráki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133975,
+        "name": "Dimos Skyros",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256079,
+        "name": "Palaiomonástiro",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734935,
+        "name": "Néos Skopós",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133722,
+        "name": "Dimos Zitsa",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 252200,
+        "name": "Vasilikí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 254425,
+        "name": "Rafína",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 734622,
+        "name": "Chalástra",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 262036,
+        "name": "Glyfáda",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260895,
+        "name": "Karpathos",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 733827,
+        "name": "Xinó Neró",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 264679,
+        "name": "Arfará",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 736694,
+        "name": "Asproválta",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 259229,
+        "name": "Kostakioí",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 260780,
+        "name": "Kastráki",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735736,
+        "name": "Kilkís",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 735215,
+        "name": "Meneméni",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 733797,
+        "name": "Yeorgoulás",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 8133971,
+        "name": "Dimos Kalamata",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 265491,
+        "name": "Nomós Achaḯas",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 256329,
+        "name": "Oinoússes",
+        "state": "",
+        "country": "GR"
+    },
+    {
+        "id": 251525,
+        "name": "Xylókastro",
+        "state": "",
+        "country": "GR"
+    }
+]

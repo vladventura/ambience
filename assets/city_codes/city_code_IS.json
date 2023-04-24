@@ -1,0 +1,308 @@
+[
+    {
+        "id": 3426182,
+        "name": "Höfuðborgarsvæði",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 2628020,
+        "name": "Neskaupstaður",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3337403,
+        "name": "Norðurland Vestra",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3414109,
+        "name": "Ofanleiti",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3418365,
+        "name": "Kelda",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 2629691,
+        "name": "Republic of Iceland",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3416706,
+        "name": "Hafnarfjörður",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 2632811,
+        "name": "Bjarnanes",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3413604,
+        "name": "Selfoss",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 2628310,
+        "name": "Miðgarðar",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3337406,
+        "name": "Suðurland",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3415846,
+        "name": "Hvaleyri",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 6354943,
+        "name": "Egilsstadir",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 2627642,
+        "name": "Raufarhöfn",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 2629833,
+        "name": "Húsavík",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 2630299,
+        "name": "Höfn",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3414079,
+        "name": "Ólafsvík",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3415212,
+        "name": "Kópavogur",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3413829,
+        "name": "Reykjavík",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 2627130,
+        "name": "Siglufjörður",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3412888,
+        "name": "Stykkishólmur",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3418076,
+        "name": "Borgarnes",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3416888,
+        "name": "Grindavík",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3426184,
+        "name": "Vesturland",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 2625252,
+        "name": "Vík í Mýrdal",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 2632287,
+        "name": "Dalvík",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3417972,
+        "name": "Álftanes",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3414222,
+        "name": "Njarðvík",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3426183,
+        "name": "Suðurnes",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3337404,
+        "name": "Norðurland Eystra",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3415021,
+        "name": "Mosfellsbær",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3415667,
+        "name": "Ísafjörður",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3412589,
+        "name": "Þorlákshöfn",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3415496,
+        "name": "Keflavík",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3337405,
+        "name": "Austurland",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3413727,
+        "name": "Sandgerði",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 2633274,
+        "name": "Akureyri",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3413650,
+        "name": "Saurbær",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 2625189,
+        "name": "Vopnafjörður",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3415761,
+        "name": "Hveragerði",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3414979,
+        "name": "Seltjarnarnes",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3418653,
+        "name": "Akranes",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 6692263,
+        "name": "Reykjavik",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 2629399,
+        "name": "Kaupangur",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3411954,
+        "name": "Ytri-Njarðvík",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3416900,
+        "name": "Grímsstaðaholt",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 2627309,
+        "name": "Sauðárkrókur",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3412093,
+        "name": "Vestmannaeyjar",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3417195,
+        "name": "Garðabær",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 2632428,
+        "name": "Reyðarfjörður",
+        "state": "",
+        "country": "IS"
+    },
+    {
+        "id": 3415720,
+        "name": "Hvolsvöllur",
+        "state": "",
+        "country": "IS"
+    }
+]

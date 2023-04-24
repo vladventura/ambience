@@ -1,0 +1,1052 @@
+[
+    {
+        "id": 724784,
+        "name": "Giraltovce",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057772,
+        "name": "Šahy",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3060950,
+        "name": "Brezno",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057086,
+        "name": "Turčianske Teplice",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3060839,
+        "name": "Čachtice",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3056523,
+        "name": "Žiar nad Hronom",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057817,
+        "name": "Rožňové Mitice",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723519,
+        "name": "Spišské Podhradie",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3060835,
+        "name": "Čadca",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 725168,
+        "name": "Bardejov",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057069,
+        "name": "Turzovka",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723358,
+        "name": "Trebišov",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 724144,
+        "name": "Michalovce",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3060322,
+        "name": "Dúbravka",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057552,
+        "name": "Smolenice",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723082,
+        "name": "Ždiar",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 865085,
+        "name": "Presov",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057480,
+        "name": "Stará Turá",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 724159,
+        "name": "Medzev",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057568,
+        "name": "Slovak Republic",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3061184,
+        "name": "Banská Štiavnica",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057191,
+        "name": "Tlmače",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058780,
+        "name": "Martin",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3056702,
+        "name": "Vrbica",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057174,
+        "name": "Topoľčany",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058290,
+        "name": "Palúdzka",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 724443,
+        "name": "Košice",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3059870,
+        "name": "Hriňová",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 724377,
+        "name": "Krompachy",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3059080,
+        "name": "Likavka",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3060942,
+        "name": "Brezová pod Bradlom",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723505,
+        "name": "Stará Ľubovňa",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3056843,
+        "name": "Veľký Bysterec",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 724796,
+        "name": "Gemerská Horka",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 724627,
+        "name": "Humenné",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723195,
+        "name": "Vranov nad Topľou",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057602,
+        "name": "Sládkovičovo",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3059803,
+        "name": "Hybe",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3059101,
+        "name": "Levice",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3343957,
+        "name": "Trencin",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723119,
+        "name": "Vysoké Tatry",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3056568,
+        "name": "Závodie",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3061009,
+        "name": "Boľkovce",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058090,
+        "name": "Poľný Kesov",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3056495,
+        "name": "Zlaté Moravce",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3056508,
+        "name": "Žilina",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723480,
+        "name": "Straňany",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057963,
+        "name": "Púchov",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3060589,
+        "name": "Detva",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058496,
+        "name": "Nová Dubnica",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057384,
+        "name": "Stupava",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3056485,
+        "name": "Zliechov",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057790,
+        "name": "Ružindol",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 724286,
+        "name": "Lipany",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057129,
+        "name": "Tri Duby",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3061015,
+        "name": "Bojnice",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3056920,
+        "name": "Veľká Kotešová",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058533,
+        "name": "Nikelberg",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723468,
+        "name": "Štrba",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058611,
+        "name": "Myjava",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058359,
+        "name": "Orlovský Dvor",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3059179,
+        "name": "Kysucké Nové Mesto",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058210,
+        "name": "Pezinok",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723559,
+        "name": "Snina",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057769,
+        "name": "Šaľa",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058268,
+        "name": "Partizánske",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3059436,
+        "name": "Komárno",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723224,
+        "name": "Vinné",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3060273,
+        "name": "Dvor Prebosek",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3060308,
+        "name": "Dunajská Streda",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3056711,
+        "name": "Vráble",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057637,
+        "name": "Siváci",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 724893,
+        "name": "Dobšiná",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3056697,
+        "name": "Vrbové",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3059050,
+        "name": "Liptovský Mikuláš",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3060852,
+        "name": "Bytča",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057630,
+        "name": "Skalica",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723637,
+        "name": "Sečovce",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723674,
+        "name": "Sabinov",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 865084,
+        "name": "Kosice",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3056459,
+        "name": "Zvolen",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3060405,
+        "name": "Dolný Kubín",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3060095,
+        "name": "Hlohovec",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3343954,
+        "name": "Banska Bystrica",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3059008,
+        "name": "Lovce",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3061268,
+        "name": "Ágota Majer",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3060208,
+        "name": "Gbely",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058012,
+        "name": "Pribylina",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057273,
+        "name": "Svodín",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057197,
+        "name": "Tisovec",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723143,
+        "name": "Vyšné Ružbachy",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057692,
+        "name": "Senec",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3060077,
+        "name": "Holíč",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 724111,
+        "name": "Moldava nad Bodvou",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 6559492,
+        "name": "Oravská Lesná",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 724969,
+        "name": "Chlmec",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723736,
+        "name": "Rimavská Sobota",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058531,
+        "name": "Nitra",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3060972,
+        "name": "Bratislava",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723417,
+        "name": "Svidník",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058083,
+        "name": "Poltár",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057757,
+        "name": "Šamorín",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723529,
+        "name": "Spišská Belá",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058472,
+        "name": "Nové Zámky",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3059821,
+        "name": "Hurbanovo",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723455,
+        "name": "Stropkov",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723819,
+        "name": "Prešov",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3061165,
+        "name": "Bašovce",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058579,
+        "name": "Námestovo",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3060089,
+        "name": "Hnúšťa",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3059448,
+        "name": "Kolárovo",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3056816,
+        "name": "Veľký Meder",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723411,
+        "name": "Svit",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3059775,
+        "name": "Istebník",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058000,
+        "name": "Prievidza",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 724156,
+        "name": "Medzilaborce",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058897,
+        "name": "Malacky",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3056683,
+        "name": "Vrútky",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3060219,
+        "name": "Galanta",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723470,
+        "name": "Strážske",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723526,
+        "name": "Spišská Nová Ves",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057691,
+        "name": "Senica",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057339,
+        "name": "Šurany",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 724941,
+        "name": "Čierna nad Tisou",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3059244,
+        "name": "Krupina",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3059282,
+        "name": "Kremnica",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057789,
+        "name": "Ružomberok",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3061188,
+        "name": "Bánovce nad Bebravou",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058609,
+        "name": "Okres Myjava",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3059796,
+        "name": "Ilava",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 724503,
+        "name": "Kežmarok",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057141,
+        "name": "Trenčianske Teplice",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 724026,
+        "name": "Nová Lesná",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3060242,
+        "name": "Fiľakovo",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057910,
+        "name": "Rajec",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058060,
+        "name": "Považská Bystrica",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057518,
+        "name": "Sološnica",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058663,
+        "name": "Modra",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3061186,
+        "name": "Banská Bystrica",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057124,
+        "name": "Trnava",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057063,
+        "name": "Tvrdošín",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058477,
+        "name": "Nové Mesto nad Váhom",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3060139,
+        "name": "Handlová",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057379,
+        "name": "Štúrovo",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3059111,
+        "name": "Leopoldov",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058493,
+        "name": "Nováky",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058202,
+        "name": "Piešťany",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3056589,
+        "name": "Žarnovica",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 724355,
+        "name": "Kúpele Spišská Belá",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723747,
+        "name": "Revúca",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058546,
+        "name": "Nemšová",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3060151,
+        "name": "Halny",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3060084,
+        "name": "Hody",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058986,
+        "name": "Lučenec",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057293,
+        "name": "Svätý Peter pri Váhu",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723846,
+        "name": "Poprad",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 724535,
+        "name": "Kamenica nad Cirochou",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 724800,
+        "name": "Gelnica",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 724265,
+        "name": "Ľubica",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058498,
+        "name": "Nová Baňa",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723713,
+        "name": "Rožňava",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3056547,
+        "name": "Želiezovce",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723866,
+        "name": "Podolínec",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3058632,
+        "name": "Most pri Bratislave",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3059053,
+        "name": "Liptovský Hrádok",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 724325,
+        "name": "Lajošháza",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057304,
+        "name": "Svätý Jur",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3060346,
+        "name": "Dubnica nad Váhom",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057108,
+        "name": "Trstená",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3056506,
+        "name": "Zilina",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 724015,
+        "name": "Nový Smokovec",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 723554,
+        "name": "Sobrance",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 3057140,
+        "name": "Trenčín",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 724048,
+        "name": "Nižné Nemecké",
+        "state": "",
+        "country": "SK"
+    },
+    {
+        "id": 724294,
+        "name": "Levoča",
+        "state": "",
+        "country": "SK"
+    }
+]

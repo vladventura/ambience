@@ -1,5 +1,7 @@
+import 'dart:async';
 import 'dart:io';
 import 'package:ambience/models/weather_model.dart';
+import 'package:ambience/GUI/location_request.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:ambience/handlers/file_handler.dart';
 import 'package:ambience/handlers/wallpaper_handler.dart';
@@ -19,7 +21,13 @@ void main(List<String> args) async {
   FireHandler.initialize();
   //if not args passed, GUI MODE
   if (args.isEmpty) {
-    runApp(const MyApp());
+    runZonedGuarded(() {
+      WidgetsFlutterBinding.ensureInitialized();
+      runApp(const MyApp());
+    }, (error, stack) {
+      print(error);
+      print(stack);
+    });
   }
   //if there are command line args, GUI-Less mode
   else {
@@ -52,6 +60,7 @@ class MyApp extends StatelessWidget {
           '/': (context) => const LoginApp(),
           '/Home': (context) => const MainApp(),
           '/List': (context) => ListApp(),
+          '/LocationRequest': (context) => const LocationRequest(),
         });
   }
 }
