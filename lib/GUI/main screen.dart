@@ -40,7 +40,7 @@ String checkTime() {
   String hour = (now.hour % 12).toString();
   String minute = now.minute.toString();
   minute = minute.length > 1 ? minute : "0$minute";
-  String amPm = now.hour % 12 > 0 ? "AM" : "PM";
+  String amPm = now.hour % 12 > 0 ? "PM" : "AM";
   String fmt = "$hour:$minute $amPm";
   return fmt;
 }
