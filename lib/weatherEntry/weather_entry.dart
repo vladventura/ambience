@@ -1,6 +1,7 @@
 // ignore_for_file: constant_identifier_names
 
 import 'package:ambience/constants.dart' as constants;
+import 'package:ambience/firebase/fire_handler.dart';
 import 'package:flutter/material.dart';
 import 'package:ambience/storage/storage.dart';
 import 'dart:convert';
@@ -69,7 +70,7 @@ class WeatherEntry {
       // the file exists so we will append the new WeatherEntry
       jsonDecoded[newEntry.idSchema] = newEntry; // add new rule
       String rulesetToJson = jsonEncode(jsonDecoded);
-      store.writeAppDocFile(rulesetToJson, constants.jsonPath);
+      await store.writeAppDocFile(rulesetToJson, constants.jsonPath);
     } else {
       // the file doesn't exist, create it and add the new WeatherEntry
       Map<String, dynamic> newRuleset = {};
@@ -77,18 +78,28 @@ class WeatherEntry {
       String rulesetToJson = jsonEncode(newRuleset);
       await store.writeAppDocFile(rulesetToJson, constants.jsonPath);
     }
+    FireHandler hand = FireHandler();
+    //upload the new json and associated wallpapers
+    await hand.ruleJSONUpload();
   }
 
   // deletes the rule matching key idSchema from the json
   static void deleteRule(String idSchema) async {
     Storage store = Storage();
+    FireHandler hand = FireHandler();
+
     var jsonDecoded = await store.readAppDocJson(constants.jsonPath);
     if (jsonDecoded is Map<String, dynamic>) {
       // the file exists so we can delete this entry
       Map<String, dynamic> temp = jsonDecoded;
+      //Delete wallpaper in firebase
+      await hand.deleteWallpaper(temp[idSchema]["wallpaperFilepath"]);
+
       temp.remove(idSchema);
       String rulesetToJson = jsonEncode(temp);
-      store.writeAppDocFile(rulesetToJson, constants.jsonPath);
+      await store.writeAppDocFile(rulesetToJson, constants.jsonPath);
+      //upload the new json and associated wallpapers
+      await hand.ruleJSONUpload();
       return;
     }
     // the file doesn't exist, do nothing

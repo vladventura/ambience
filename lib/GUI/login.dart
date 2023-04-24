@@ -65,6 +65,8 @@ class _LoginApp extends State<LoginApp> {
     bool success = false; /* BOOLEAN FUNCTION PART GOES HERE */
     try {
       success = await hand.fireSignIn(usrname, passwrd);
+      //fetch user config and wallpapers from cloud(Firestore)
+      hand.ruleJSONDownload();
     } catch (e) {
       errMsg = e.toString(); // set error message
     }

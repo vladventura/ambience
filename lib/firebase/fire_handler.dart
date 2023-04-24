@@ -94,7 +94,7 @@ class FireHandler {
     File image = File(imagePath);
     //byte data
     List<int> imageData = await image.readAsBytes();
-    await docRef.update({imageName: base64Encode(imageData)});
+    await docRef.create({imageName: base64Encode(imageData)});
   }
 
   //optional values is for testing purposes for now
@@ -128,16 +128,13 @@ class FireHandler {
         await store.readAppDocJson(constants.jsonPath);
     String imageName, fileExt;
     //extract images and rename them to ensure names are unique
-    ruleJSON.forEach((key, value) async {
-      //grab file extension
-      fileExt = ((value["wallpaperFilepath"]).split(".")).last;
-      //Prefix Fire_ acts as a tag and using idschema to ensure an unique name.
-      imageName =
-          "Fire_${(value["idSchema"]).replaceAll("_daemon_", "_")}.$fileExt";
-      await imageUpload(value["wallpaperFilepath"], imageName);
-      //ensures unique name, when download function appends a full file path
-      value["wallpaperFilepath"] = imageName;
-    });
+    for (dynamic entry in ruleJSON.values){
+       fileExt = ((entry["wallpaperFilepath"]).split(".")).last;
+        imageName =
+          "Fire_${(entry["idSchema"]).replaceAll("_daemon_", "_")}.$fileExt";
+          await imageUpload(entry["wallpaperFilepath"], imageName);
+          entry["wallpaperFilepath"] = imageName;
+    }
     //upload json
     await docRef.update(ruleJSON);
   }
@@ -154,15 +151,15 @@ class FireHandler {
     //append file path to downloaded images
     Storage store = Storage();
     String imageName;
-    for(dynamic entry in ruleMap.values){
+    for (dynamic entry in ruleMap.values) {
       imageName = entry['wallpaperFilepath'];
-              //set wallfile path to dynamic absolute path of Firebase download folder
+      //set wallfile path to dynamic absolute path of Firebase download folder
       entry["wallpaperFilepath"] =
           await store.provideAppDirectory("Firebase/$imageName");
-                  //download the image to Firebase download folder
+      //download the image to Firebase download folder
       await imageDownload(imageName);
     }
-     
+
     //properly encodes map in a json format string
     String encodedMap = jsonEncode(ruleMap);
     //write to file, overwritting existing json
@@ -170,7 +167,7 @@ class FireHandler {
   }
 
   //will throw if the password is weak
-  //this done to take advtange of the error message stream display to user
+  //this done to take advantage of the error message stream display to user the login screen has
   void isWeakPassword(String password) {
     // Check length
     if (password.length < 8) {
@@ -217,8 +214,29 @@ class FireHandler {
     }
     // Password is strong, no throws
   }
-  //to-do: test the upload and download functions
-  //to-do: handle weather entry rule creation/deletion, and intergrate with firebase
+
+  Future<void> deleteWallpaper(String imageName) async {
+    //check if it exists on Firebase(done by checking if it has the "Fire_" tag)
+    if (imageName.contains("Fire_ambience_")) {
+      Firestore fstore = Firestore.instance;
+      var docRef = fstore
+          .collection("users")
+          .document(userID)
+          .collection("wallpapers")
+          .document(imageName.split("\\").last);
+      //delete from firebase
+      await docRef.delete();
+      //also check and delete if it's in the local cache
+      File imageFile = File(imageName);
+      //if it's in local cache delete it
+      if (await imageFile.exists()) {
+        await imageFile.delete();
+      }
+      //else no further action needed
+    }
+    //else it is a local only file
+    //so firehandler doesn't have to act
+  }
 }
 
 class FirebaseHandlerError implements Exception {

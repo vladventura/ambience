@@ -19,8 +19,8 @@ void main(List<String> args) async {
   FireHandler test = FireHandler();
   await test.fireSignIn("test@server.com", "123456");
   //await test.ruleJSONUpload();
-  await test.ruleJSONDownload();
-  /*
+  //await test.ruleJSONDownload();
+  
   TimeOfDay time = const TimeOfDay(hour: 23, minute: 45);
   DayOfWeek dow = DayOfWeek.tuesday;
   WeatherCondition wc = WeatherCondition.Clouds;
@@ -28,7 +28,9 @@ void main(List<String> args) async {
   String testPaper = "$curr/test.jpg";
   String city = 'New York';
   WeatherEntry mockObj = WeatherEntry(time, dow, testPaper, wc, city);
-  */
+  //WeatherEntry.createRule(mockObj);
+ 
+  //WeatherEntry.deleteRule("ambience_daemon_1682295910655");
   //if not args passed, GUI MODE
   if (args.isEmpty) {
     //runApp(const MyApp());
