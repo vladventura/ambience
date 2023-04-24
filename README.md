@@ -141,8 +141,7 @@ it requires to [Enable Developer Mode](https://learn.microsoft.com/en-us/windows
 
 
 ## Linux Initial Setup
-- Please make the script files prepended with "Ubuntu", inside of the scrips directory of the repo, [executable](https://linuxhint.com/make-a-file-executable-in-linux/). This is needed because
-we use external bash scripts to schedule and remove background changes. 
+- Please make the script files prepended with "Ubuntu", inside of the scrips directory of the repo, [executable](https://linuxhint.com/make-a-file-executable-in-linux/). Is in the same folder as the executable. Also make sure they have executable premissions: `chmod +x scriptname`. We use external bash scripts to schedule and remove background changes. 
 
 # Usage Instructions
 After everything is successfully installed and the initial setup is done, we're ready to start the project.
