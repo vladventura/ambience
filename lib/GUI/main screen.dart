@@ -4,6 +4,7 @@
 //  Add location gear button
 //  Add logout button
 
+import 'dart:async';
 import 'dart:math';
 
 import 'package:ambience/GUI/create.dart';
@@ -38,6 +39,7 @@ String checkTime() {
   final now = DateTime.now();
   String hour = (now.hour % 12).toString();
   String minute = now.minute.toString();
+  minute = minute.length > 1 ? minute : "0$minute";
   String amPm = now.hour % 12 > 0 ? "AM" : "PM";
   String fmt = "$hour:$minute $amPm";
   return fmt;
@@ -64,6 +66,37 @@ String getLocation() {
   return location;
 }
 
+class TimeDisplay extends StatefulWidget {
+  const TimeDisplay({super.key});
+
+  @override
+  // ignore: library_private_types_in_public_api
+  _TimeDisplayState createState() => _TimeDisplayState();
+}
+
+class _TimeDisplayState extends State<TimeDisplay> {
+  String _currentTime = checkTime();
+  void updateTime() {
+    setState(() {
+      _currentTime = checkTime();
+    });
+  }
+
+  @override
+  void initState() {
+    // update time every minute
+    Timer.periodic(Duration(minutes: 1), (timer) {
+      updateTime();
+    });
+    super.initState();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Text(_currentTime);
+  }
+}
+
 class MainApp extends StatelessWidget {
   const MainApp({super.key});
 
@@ -81,10 +114,7 @@ class MainApp extends StatelessWidget {
                     size: 80,
                     color: Colors
                         .amber), // placeholder, attach function to icon to change based on weather
-                Text(
-                  checkTime(), // (TimeOfDay(hour: 12, minute: 02) !!! SCHEDULE TO UPDATE TIME EVERY MINUTE THROUGH A FUNCTION CALL !!!
-                  style: TextStyle(fontWeight: FontWeight.bold),
-                ), // placeholder, attach function to retrieve time
+                TimeDisplay(),
                 const Text("Boston, MA"), // placeholder, drop menu goes here
               ],
             ),
