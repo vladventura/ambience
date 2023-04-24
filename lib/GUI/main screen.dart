@@ -1,5 +1,6 @@
 import 'package:ambience/GUI/create.dart';
 import 'package:ambience/GUI/list.dart';
+import 'package:ambience/models/location_model.dart';
 import 'package:ambience/providers/location_provider.dart';
 import 'package:flutter/material.dart';
 import "package:ambience/GUI/wallpaperobj.dart";
@@ -71,6 +72,26 @@ class FloatingDrawerButton extends StatelessWidget {
   }
 }
 
+class CityHeader extends StatelessWidget {
+  const CityHeader({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    LocationModel? currentLocation = context.read<LocationProvider>().location;
+    String message = "No location information set";
+
+    if (currentLocation != null) {
+      String head = currentLocation.name;
+      String tail = currentLocation.country == "US"
+          ? currentLocation.state!
+          : currentLocation.country;
+      message = "$head, $tail";
+    }
+
+    return Text(message);
+  }
+}
+
 class MainApp extends StatelessWidget {
   const MainApp({super.key});
 
@@ -108,7 +129,7 @@ class MainApp extends StatelessWidget {
                 checkTime(), // (TimeOfDay(hour: 12, minute: 02) !!! SCHEDULE TO UPDATE TIME EVERY MINUTE THROUGH A FUNCTION CALL !!!
                 style: const TextStyle(fontWeight: FontWeight.bold),
               ), // placeholder, attach function to retrieve time
-              const Text("Boston, MA"), // placeholder, drop menu goes here
+              const CityHeader(), // placeholder, drop menu goes here
             ],
           ),
         ],
