@@ -17,27 +17,30 @@ void main() => runApp(const MainApp());
 String current = Directory.current.path;
 
 Widget checkWallpaper() {
-
   String currentFile = ""; // current wallpaper function goes here
 
   // ignore: dead_code, dart's just being a baby
-  if(File(currentFile).existsSync()) {
+  if (File(currentFile).existsSync()) {
     return Expanded(
-              child: Image.file(
-                File(currentFile),
-                fit: BoxFit.fitHeight,), // placeholder, retrieve wallpaper image here
-            );
+      child: Image.file(
+        File(currentFile),
+        fit: BoxFit.fitHeight,
+      ), // placeholder, retrieve wallpaper image here
+    );
   } else {
     return Container(
-            child: const Text("\t No wallpaper currently displayed \t"),
-          );
+      child: const Text("\t No wallpaper currently displayed \t"),
+    );
   }
 }
 
 String checkTime() {
   final now = DateTime.now();
-  final formattedTime = now.hour.toString() + ":" + now.minute.toString();
-  return formattedTime; // need to convert this from military time
+  String hour = (now.hour % 12).toString();
+  String minute = now.minute.toString();
+  String amPm = now.hour % 12 > 0 ? "AM" : "PM";
+  String fmt = "$hour:$minute $amPm";
+  return fmt;
 }
 
 // function to send new location data to backend,
@@ -45,106 +48,117 @@ String checkTime() {
 
 //only ONE location is used for every WeatherEntry
 
-void setLocation(String location) { // may not be string, just a placeholder for now
+void setLocation(String location) {
+  // may not be string, just a placeholder for now
 
   // send location data to backend here
 
   // push location screen here
-
 }
 
-
-String getLocation(){ // retrieve the current location here
+String getLocation() {
+  // retrieve the current location here
 // may not be final
   String location = "placeholder location";
-  
+
   return location;
 }
-
 
 class MainApp extends StatelessWidget {
   const MainApp({super.key});
 
   @override
   Widget build(BuildContext context) {
-
     Widget weatherSection = Container(
-      padding: const EdgeInsets.all(32),
-      child: 
-        Row(
+        padding: const EdgeInsets.all(32),
+        child: Row(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-              Column(
-                crossAxisAlignment: CrossAxisAlignment.center,
-                children: [
-                const Icon(Icons.sunny, size: 80, color: Colors.amber), // placeholder, attach function to icon to change based on weather
-                Text (checkTime(), // (TimeOfDay(hour: 12, minute: 02) !!! SCHEDULE TO UPDATE TIME EVERY MINUTE THROUGH A FUNCTION CALL !!!
-                  style: TextStyle(fontWeight: FontWeight.bold),), // placeholder, attach function to retrieve time
+            Column(
+              crossAxisAlignment: CrossAxisAlignment.center,
+              children: [
+                const Icon(Icons.sunny,
+                    size: 80,
+                    color: Colors
+                        .amber), // placeholder, attach function to icon to change based on weather
+                Text(
+                  checkTime(), // (TimeOfDay(hour: 12, minute: 02) !!! SCHEDULE TO UPDATE TIME EVERY MINUTE THROUGH A FUNCTION CALL !!!
+                  style: TextStyle(fontWeight: FontWeight.bold),
+                ), // placeholder, attach function to retrieve time
                 const Text("Boston, MA"), // placeholder, drop menu goes here
-            ],
-          ),
+              ],
+            ),
           ],
-        )
-    );
-    
+        ));
+
     Widget wallpaperSection = Expanded(
-          child: Row(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              Padding(padding: EdgeInsets.only(left: 32)),
-              
-              checkWallpaper(),
-
-              Padding(padding: EdgeInsets.only(right: 32)),
-            ],
-          ),
-    ); 
-
-    Widget buttonMenu = Container(
-      padding: const EdgeInsets.symmetric(horizontal: 64, vertical: 32),    
       child: Row(
+        mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          OutlinedButton(onPressed: null, //function to close program
-                    child: const Text("Quit"),
-                    style: ButtonStyle(
-                      padding: MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(32)),
-                      backgroundColor: MaterialStatePropertyAll<Color>(Colors.white),
-                      side: MaterialStatePropertyAll<BorderSide>(BorderSide(color: Colors.black, width: 2),),  
-                    ),
-                    ),
-          Spacer(),
-          OutlinedButton(onPressed: () { //function here to switch to list screen
-                    Navigator.pushNamed(context, '/List');
-                    },  
-                    child: const Text("List"),
-                    style: ButtonStyle(
-                      padding: MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(32)),
-                      backgroundColor: MaterialStatePropertyAll<Color>(Colors.white),
-                      side: MaterialStatePropertyAll<BorderSide>(BorderSide(color: Colors.black, width: 2),),
-                    ),
-                    ),
-          Spacer(),
-          OutlinedButton(onPressed: () {
-
-                    Navigator.push(context, 
-                      MaterialPageRoute(builder: (context) => CreateApp(contextWallpaper: WallpaperObj(), intention: 1, location: getLocation())));
-
-                    }, //function here to switch to create screen
-                    child: const Text("Create"),
-                    style: ButtonStyle(
-                      padding: MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(32)),
-                      backgroundColor: MaterialStatePropertyAll<Color>(Colors.white),
-                      side: MaterialStatePropertyAll<BorderSide>(BorderSide(color: Colors.black, width: 2),),  
-                    ),
-                    ),
+          Padding(padding: EdgeInsets.only(left: 32)),
+          checkWallpaper(),
+          Padding(padding: EdgeInsets.only(right: 32)),
         ],
       ),
     );
-    
+
+    Widget buttonMenu = Container(
+      padding: const EdgeInsets.symmetric(horizontal: 64, vertical: 32),
+      child: Row(
+        children: [
+          OutlinedButton(
+            onPressed: null, //function to close program
+            child: const Text("Quit"),
+            style: ButtonStyle(
+              padding: MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(32)),
+              backgroundColor: MaterialStatePropertyAll<Color>(Colors.white),
+              side: MaterialStatePropertyAll<BorderSide>(
+                BorderSide(color: Colors.black, width: 2),
+              ),
+            ),
+          ),
+          Spacer(),
+          OutlinedButton(
+            onPressed: () {
+              //function here to switch to list screen
+              Navigator.pushNamed(context, '/List');
+            },
+            child: const Text("List"),
+            style: ButtonStyle(
+              padding: MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(32)),
+              backgroundColor: MaterialStatePropertyAll<Color>(Colors.white),
+              side: MaterialStatePropertyAll<BorderSide>(
+                BorderSide(color: Colors.black, width: 2),
+              ),
+            ),
+          ),
+          Spacer(),
+          OutlinedButton(
+            onPressed: () {
+              Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                      builder: (context) => CreateApp(
+                          contextWallpaper: WallpaperObj(),
+                          intention: 1,
+                          location: getLocation())));
+            }, //function here to switch to create screen
+            child: const Text("Create"),
+            style: ButtonStyle(
+              padding: MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(32)),
+              backgroundColor: MaterialStatePropertyAll<Color>(Colors.white),
+              side: MaterialStatePropertyAll<BorderSide>(
+                BorderSide(color: Colors.black, width: 2),
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
 
     return MaterialApp(
       home: Scaffold(
-        body:Column(
+        body: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             weatherSection,
@@ -152,7 +166,7 @@ class MainApp extends StatelessWidget {
             buttonMenu,
           ],
         ),
-        ),
-      );
+      ),
+    );
   }
 }
