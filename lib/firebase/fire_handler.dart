@@ -1,5 +1,4 @@
 import 'dart:convert';
-import 'package:ambience/GUI/create.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:firedart/auth/exceptions.dart';
 import 'package:firedart/firedart.dart';
@@ -7,8 +6,7 @@ import 'package:flutter/material.dart';
 import "dart:io";
 import "package:ambience/storage/storage.dart";
 import "package:ambience/constants.dart" as constants;
-import "package:ambience/weatherEntry/weather_entry.dart";
-import 'package:path/path.dart';
+import 'package:argon2/argon2.dart';
 
 class FireHandler {
   static FirebaseAuth auth = FirebaseAuth.instance;
@@ -240,6 +238,29 @@ class FireHandler {
     }
     //else it is a local only file
     //so firehandler doesn't have to act
+  }
+
+  Future<void> uploadLocJSON() async {
+    var docRef = Firestore.instance
+        .collection("users")
+        .document(userID)
+        .collection("config")
+        .document("location");
+    Storage store = Storage();
+    //get the map from file using storage
+    //docRef.update(map);
+  }
+
+  Future<void> downLocJSON() async {
+    var docRef = Firestore.instance
+        .collection("users")
+        .document(userID)
+        .collection("config")
+        .document("location");
+    Document snapshot = await docRef.get();
+    var locMap = snapshot.map;
+    Storage store = Storage();
+    //write Map to file using storage
   }
 }
 
