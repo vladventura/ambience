@@ -151,42 +151,56 @@ Widget buttonMenu(BuildContext context){
 }
 
 class wallPapersWindow extends StatefulWidget{
-  wallPapersWindow
+    List<WallpaperObj> objects = [];
 
-  
+    List<WallpaperEntry> wallEntries = [];
+
+    wallPapersWindow(List<WallpaperObj> objs, {super.key});
+
+  @override
+  State<StatefulWidget> createState() => wallPapersWindowState();
+
 }
 
-class wallPapersWindowState extends StatelessWidget{
+class wallPapersWindowState extends State<wallPapersWindow>{
 
-  List<WallpaperObj> objects = [];
+  List<WallpaperObj> stateObjects = [];
 
-  List<WallpaperEntry> wallEntries = [];
+  List<WallpaperEntry> stateWallEntries = [];
 
   void deleteWallpaper(int id){
     print("delete called!");
-        for(int a = 0; a < wallEntries.length; a++){
-      if(wallEntries[a].ID == id){
+        for(int a = 0; a < stateWallEntries.length; a++){
+      if(stateWallEntries[a].ID == id){
 
-        wallEntries[a].deleteContents();
-        wallEntries.remove(wallEntries[a]);
+        stateWallEntries[a].deleteContents();
+        stateWallEntries.remove(stateWallEntries[a]);
       
       }
+      setState(() async {
+        List<WallpaperObj> tempObjs = await listSavedWallpapers();
+
+        for(int i = 0; i < tempObjs.length; i++){
+          stateWallEntries.add(WallpaperEntry(tempObjs[i], i, deleteWallpaper));
+        }
+      });
     }
   }
 
-  wallPapersWindow(this.objects) {
-
-    for(int i = 0; i < objects.length; i++){
-      wallEntries.add(WallpaperEntry(objects[i], i, deleteWallpaper));
-    }
-
-    print("Constrcutor reached");
-
-    wallEntries.forEach((element) {
-      print(element.ID);
-    });
+  void getAsyncSaved() async {
+    stateObjects = await listSavedWallpapers();
   }
 
+  @override
+  void initState() {
+    super.initState();
+
+    getAsyncSaved();
+
+    for(int i = 0; i < stateObjects.length; i++){
+      stateWallEntries.add(WallpaperEntry(stateObjects[i], i, deleteWallpaper));
+    }
+  }
 
   @override
   Widget build(context) {
@@ -199,7 +213,7 @@ class wallPapersWindowState extends StatelessWidget{
         decoration: BoxDecoration (border: Border.all(color: Colors.black, width: 2)),
         child: Expanded(
           child: ListView(
-            children: wallEntries
+            children: widget.wallEntries
           ),
         ),
       )
