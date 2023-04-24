@@ -1,0 +1,968 @@
+[
+    {
+        "id": 447878,
+        "name": "Tīnay",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 98589,
+        "name": "Nāḩiyat ash Shināfīyah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 7046940,
+        "name": "Kānī ‘Abdū",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 98717,
+        "name": "Ramadi",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 94932,
+        "name": "Kānī Kawah Jabūkh",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 92365,
+        "name": "Qaryat Bānī Mālik",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 89570,
+        "name": "Zaxo",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 7326104,
+        "name": "Nāḩiyat Baḩār",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 384823,
+        "name": "Zālah Nāw",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 6786700,
+        "name": "Tall Daghash",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99097,
+        "name": "Al-Mejar Al-Kabi District",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99135,
+        "name": "Kufa",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 6686317,
+        "name": "-",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 6849114,
+        "name": "Khuḑayr Shahāb",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 98410,
+        "name": "Muḩāfaz̧at Kirkūk",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 6928117,
+        "name": "Al Qaryah al ‘Aşrīyah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99548,
+        "name": "Al ‘Azīzīyah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 448955,
+        "name": "Tall Raml",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 7374646,
+        "name": "Nāḩiyat Alī ash Sharqī",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 92002,
+        "name": "Ṟuwandiz",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 90552,
+        "name": "Sulaymānīyah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 7326105,
+        "name": "Nāḩiyat ‘Atbah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 97990,
+        "name": "Baqubah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 6752102,
+        "name": "Qaryat as Sādah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 6818134,
+        "name": "Yūsuf ‘Alī",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99596,
+        "name": "Alan",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 90026,
+        "name": "Tozkhurmato",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 96965,
+        "name": "Diyālá",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 95446,
+        "name": "Erbil",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 89824,
+        "name": "Umm Qaşr",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 98689,
+        "name": "Ar Rumaylah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 89341,
+        "name": "Muḩāfaz̧at al Başrah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 90708,
+        "name": "Sīnah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 98854,
+        "name": "Nasiriyah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 94889,
+        "name": "Kānī Mīr",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99759,
+        "name": "Ad Dujayl",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 435797,
+        "name": "Al Mu‘allimīn",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 384598,
+        "name": "Muḩammad ‘Azīz",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 6871491,
+        "name": "Maḩmūd ‘Alī",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 98685,
+        "name": "Ar Rumaythah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99237,
+        "name": "Republic of Iraq",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99738,
+        "name": "‘Afak",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 384597,
+        "name": "Charbūkh",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99022,
+        "name": "Muḩāfaz̧at al Qādisīyah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 96994,
+        "name": "Dihok",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 98465,
+        "name": "Muḩāfaz̧at as Sulaymānīyah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 98756,
+        "name": "Qaryat al ‘Arbīd",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99344,
+        "name": "Al Hindīyah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99536,
+        "name": "Al Barjisīyah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 94823,
+        "name": "Muḩāfaz̧at Karbalā’",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 384077,
+        "name": "Nāwday",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 98459,
+        "name": "Aş Şuwayrah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 98885,
+        "name": "‘Anat al Qadīmah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 6860746,
+        "name": "Qaryat al Muftiyāt",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99592,
+        "name": "Muḩāfaz̧at al Anbār",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99532,
+        "name": "Basrah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 435805,
+        "name": "Qaryat al ‘Ankūr",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 94824,
+        "name": "Karbala",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99347,
+        "name": "Al Ḩillah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 93540,
+        "name": "Muḩāfaz̧at Maysān",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 96966,
+        "name": "Dīwānīyah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 446658,
+        "name": "Bāzjī",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 93709,
+        "name": "Mandalī",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 92430,
+        "name": "Al-Hamdaniya",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 448961,
+        "name": "Tall ‘Alāwī",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 7330083,
+        "name": "Nimrah Khamsah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 94787,
+        "name": "Kirkuk",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99454,
+        "name": "Al Fallūjah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 6769334,
+        "name": "Al Falāḩīyah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 384848,
+        "name": "Qarah Gawl al ‘Ulyā",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 6201158,
+        "name": "Shūrīyah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 100077,
+        "name": "Abū Ghurayb",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 98012,
+        "name": "Baynjiwayn",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 417256,
+        "name": "Kūlān",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99914,
+        "name": "Abū Muḩammad",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 91812,
+        "name": "Nāḩīyat Saddat al Hindīyah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 95788,
+        "name": "Hīt",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 98227,
+        "name": "Muḩāfaz̧at Bābil",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 98182,
+        "name": "Baghdad",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 97572,
+        "name": "Buzan",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 94931,
+        "name": "Kānī Kawah al Qadīmah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 6780885,
+        "name": "Ḩayy al Janā’in",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 90353,
+        "name": "Tallkayf",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 417262,
+        "name": "Qalwazah ‘Ulyā",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 92628,
+        "name": "Qal‘at as Sādah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 94964,
+        "name": "Kānī Bardīnah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 98463,
+        "name": "As Sulaymānīyah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 6776436,
+        "name": "Al Ḩaydarīyah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 6835394,
+        "name": "‘Alwān Muḩammad",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 98530,
+        "name": "As Samawah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 6780871,
+        "name": "Ḩasan Yūsuf",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 96309,
+        "name": "Ḩadīthah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 445967,
+        "name": "Qāzaw as Suflá",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 98180,
+        "name": "Muḩāfaz̧at Baghdād",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 92244,
+        "name": "Qāzaw al ‘Ulyā",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 388349,
+        "name": "Al Başrah al Qadīmah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 6806015,
+        "name": "‘Abd Shaḩḩādh Mūsá",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99250,
+        "name": "Al Imām",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 96165,
+        "name": "Hamādīyah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99434,
+        "name": "Nahiyat Ghammas",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 98245,
+        "name": "Az Zubayr",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 91597,
+        "name": "Sāmarrā’",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 92873,
+        "name": "Niskah Jaww",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99439,
+        "name": "Nāḩiyat al Fuhūd",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 448779,
+        "name": "Qaryat al Majarrah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 6871849,
+        "name": "Ash Shīshīn",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 6763613,
+        "name": "Qūr al Aslāf",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 91823,
+        "name": "Aḩmad Ţāhir",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 89977,
+        "name": "Ūlwur",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 6759153,
+        "name": "‘Ayn al Arnab",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 6860697,
+        "name": "Aţ Ţayarān",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99169,
+        "name": "Khāliş",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 92877,
+        "name": "Muḩāfaz̧at Nīnawá",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99039,
+        "name": "Al Musayyib",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 94930,
+        "name": "Kānī Khākī",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99131,
+        "name": "Al Kūt",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 98629,
+        "name": "Ash Shāmīyah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 98622,
+        "name": "Ash Shaţrah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 89693,
+        "name": "Muhafazat Wasit",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99446,
+        "name": "Al Fāw",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 6798467,
+        "name": "Sawḩ al Ghawr",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 7097618,
+        "name": "Nahiyat Hiran",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 97417,
+        "name": "Jamjamāl",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 96269,
+        "name": "‘Arab Ḩasan as Suhayl",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 92004,
+        "name": "Rāwah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99350,
+        "name": "Al Ḩayy",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99062,
+        "name": "Al Miqdādīyah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99010,
+        "name": "Imam Qasim",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 97019,
+        "name": "Muḩāfaz̧at Dhī Qār",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 90150,
+        "name": "Tikrīt",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 7018408,
+        "name": "Ghaitli",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99762,
+        "name": "Ad Dīwānīyah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 96215,
+        "name": "Ḩājj Sallūm",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 95308,
+        "name": "Jalīb Shihāb",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 7097617,
+        "name": "Nāḩiyat Hīrān",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 94589,
+        "name": "Raḩbah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 6837283,
+        "name": "Qaryat al Qahārah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 98862,
+        "name": "An Najaf",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99032,
+        "name": "Muḩāfaz̧at al Muthanná",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 98860,
+        "name": "Najaf",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 94220,
+        "name": "Koysinceq",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 6759629,
+        "name": "Hawr az Zahrah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99369,
+        "name": "Al Hārithah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 93396,
+        "name": "Mudarras",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99071,
+        "name": "Al Mawşil al Jadīdah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99608,
+        "name": "Al ‘Amārah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 97783,
+        "name": "Bayjī",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99060,
+        "name": "Al Mishkhāb",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 94796,
+        "name": "Karīm Āwah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 448149,
+        "name": "Sinjār",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99306,
+        "name": "‘Alī al Gharbī",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 98299,
+        "name": "Qaryat ‘Ayn Nāşir",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 96205,
+        "name": "Ḩalabjah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 94298,
+        "name": "Kifrī",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 98677,
+        "name": "Ar Ruţbah",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99308,
+        "name": "‘Alī al Aḩmad",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 98112,
+        "name": "Balad",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 99072,
+        "name": "Mosul",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 91695,
+        "name": "Muhafazat Salah ad Din",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 95445,
+        "name": "Muḩāfaz̧at Arbīl",
+        "state": "",
+        "country": "IQ"
+    },
+    {
+        "id": 6772182,
+        "name": "Ḩawīlīyah",
+        "state": "",
+        "country": "IQ"
+    }
+]

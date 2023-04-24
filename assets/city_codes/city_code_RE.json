@@ -1,0 +1,302 @@
+[
+    {
+        "id": 935643,
+        "name": "Fond Maurice",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935616,
+        "name": "Le Port",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935661,
+        "name": "Le Butor",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935694,
+        "name": "La Plaine-des-Palmistes",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935691,
+        "name": "La Possession",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935214,
+        "name": "Saint-Pierre",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935317,
+        "name": "Reunion",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935542,
+        "name": "Les Makes",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935520,
+        "name": "Mare à Vieille Place",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935263,
+        "name": "Arrondissement de Saint-Denis",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935582,
+        "name": "Le Tampon",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935227,
+        "name": "Saint-Joseph",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935220,
+        "name": "Arrondissement de Saint-Paul",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935902,
+        "name": "L'Étang-Salé",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935416,
+        "name": "Petite-Île",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935695,
+        "name": "La Plaine des Cafres",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935248,
+        "name": "Sainte-Suzanne",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935267,
+        "name": "Saint-Benoît",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935223,
+        "name": "Saint-Louis",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935419,
+        "name": "Petit Bazar",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935264,
+        "name": "Saint-Denis",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935605,
+        "name": "Les Camélias",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935697,
+        "name": "Petite Île",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935737,
+        "name": "La Butte",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935210,
+        "name": "Salazie",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935213,
+        "name": "Arrondissement de Saint-Pierre",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935975,
+        "name": "Cilaos",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935221,
+        "name": "Saint-Paul",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 936048,
+        "name": "Bras-Panon",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935927,
+        "name": "Dos d'Âne",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935257,
+        "name": "Sainte-Clotilde",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935511,
+        "name": "Marepine",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935806,
+        "name": "Grands Bois",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935251,
+        "name": "Sainte-Rose",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935915,
+        "name": "Entre-Deux",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935239,
+        "name": "Saint-François",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935268,
+        "name": "Saint-André",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935335,
+        "name": "Ravine du Pont-les Bas",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935612,
+        "name": "Les Ramiers",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935608,
+        "name": "Les Avirons",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935225,
+        "name": "Saint-Leu",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935613,
+        "name": "Le Quatorzième",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935300,
+        "name": "Rivière du Mât les Bas",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935146,
+        "name": "Les Trois-Bassins",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935355,
+        "name": "Ravine à Marquet",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 6690283,
+        "name": "Réunion",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935266,
+        "name": "Arrondissement de Saint-Benoît",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935255,
+        "name": "Sainte-Marie",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 935215,
+        "name": "Saint-Philippe",
+        "state": "",
+        "country": "RE"
+    },
+    {
+        "id": 7932385,
+        "name": "Piton Saint-Leu",
+        "state": "",
+        "country": "RE"
+    }
+]

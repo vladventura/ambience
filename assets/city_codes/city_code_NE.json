@@ -1,0 +1,302 @@
+[
+    {
+        "id": 2440371,
+        "name": "Ouallam",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2438855,
+        "name": "Téra",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2441289,
+        "name": "Maradi",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2447513,
+        "name": "Arlit",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2447938,
+        "name": "Alaghsas",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2595293,
+        "name": "Tillaberi Region",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2443250,
+        "name": "I-n-Alakam",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2441194,
+        "name": "Mayahi",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2441482,
+        "name": "Magaria",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2444219,
+        "name": "Gouré",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2445488,
+        "name": "Dosso",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2596709,
+        "name": "Assamakka",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2439812,
+        "name": "Say",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2444995,
+        "name": "Filingué",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2440495,
+        "name": "Nguigmi",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2448024,
+        "name": "Aguié",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 6728346,
+        "name": "Kaché-ni",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2448245,
+        "name": "Abalak",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 7015634,
+        "name": "Masalata",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2442248,
+        "name": "Kollo",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 6306035,
+        "name": "Sabon Gari",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 6750152,
+        "name": "Kaygamari",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2438774,
+        "name": "Tibiri",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 6777949,
+        "name": "Aligoundiri",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2440476,
+        "name": "Republic of Niger",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2446796,
+        "name": "Bilma",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2439155,
+        "name": "Tanout",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2438974,
+        "name": "Tchintabaraden",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2441447,
+        "name": "Maïné Soroa",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2441530,
+        "name": "Madaoua",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2444489,
+        "name": "Gaya",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2438823,
+        "name": "Tessaoua",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2445486,
+        "name": "Dosso Region",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2446267,
+        "name": "Dakoro",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2439374,
+        "name": "Tahoua",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2438678,
+        "name": "Tillabéri",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2441217,
+        "name": "Matamey",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2445553,
+        "name": "Dogondoutchi",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2445702,
+        "name": "Diffa",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2446466,
+        "name": "Bouza",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2447416,
+        "name": "Ayorou",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2441526,
+        "name": "Madarounfa",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2448083,
+        "name": "Agadez",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2569011,
+        "name": "Saga-Aviation",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2442478,
+        "name": "Keïta",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2440485,
+        "name": "Niamey",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2437732,
+        "name": "Birni N Konni",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2440921,
+        "name": "Mirriah",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2437797,
+        "name": "Zinder",
+        "state": "",
+        "country": "NE"
+    },
+    {
+        "id": 2443304,
+        "name": "Illéla",
+        "state": "",
+        "country": "NE"
+    }
+]

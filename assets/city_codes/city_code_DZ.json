@@ -1,0 +1,2462 @@
+[
+    {
+        "id": 2489865,
+        "name": "Mecheria",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2476660,
+        "name": "Tigzirt",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2492913,
+        "name": "Jijel",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2508119,
+        "name": "’Aïn el Turk",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2480672,
+        "name": "Sidi Daoud",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 7115828,
+        "name": "Smala",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2492920,
+        "name": "Djidiouia",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2497988,
+        "name": "El Kala",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2499235,
+        "name": "Douar Rouached",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2504739,
+        "name": "Beni Amrane",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2488722,
+        "name": "Meftah",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2498183,
+        "name": "El Hadjar",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2481058,
+        "name": "Sidi Amrane",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2490584,
+        "name": "Maghnia",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2505572,
+        "name": "Batna",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503654,
+        "name": "Bordj Ghdir",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2504622,
+        "name": "Beni Mered",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2478876,
+        "name": "Tadjenanet",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2508157,
+        "name": "‘Aïn el Hadjel",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503147,
+        "name": "Bougara",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2578252,
+        "name": "Ouled Bou Medienne",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2505915,
+        "name": "Azzaba",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2500904,
+        "name": "Dar Chioukh",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2508130,
+        "name": "’Aïn el Melh",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2482572,
+        "name": "Saïda",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2507155,
+        "name": "Ammi Moussa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2477255,
+        "name": "Telerghma",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2475921,
+        "name": "Tirmitine",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2478217,
+        "name": "Wilaya de Tamanrasset",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2478831,
+        "name": "Tadmaït",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2498113,
+        "name": "El Hammadia",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503852,
+        "name": "Birine",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2491134,
+        "name": "Lakhdaria",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2500583,
+        "name": "Dellys",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2493330,
+        "name": "I-n-Amenas",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2483666,
+        "name": "Wilaya de Relizane",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503880,
+        "name": "Bir el Arche",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2493569,
+        "name": "Ihaïonnene",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2504486,
+        "name": "Ben Mehidi",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2497849,
+        "name": "El Khroub",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2484846,
+        "name": "Ouled Mimoun",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2484894,
+        "name": "Ouled Fayet",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2500592,
+        "name": "Deli Ibrahim",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2498277,
+        "name": "El Gourarir Zaouiet",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2498000,
+        "name": "El Idrissia",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2483827,
+        "name": "Rechaïga",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2492345,
+        "name": "Karkira",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2508309,
+        "name": "’Aïn Abid",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2497972,
+        "name": "El Karimia",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2505865,
+        "name": "Baba Hassen",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2508226,
+        "name": "Wilaya de Aïn Defla",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2481639,
+        "name": "Sfizef",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2485571,
+        "name": "Oued Smar",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2485636,
+        "name": "Oued el Abtal",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2508268,
+        "name": "Aïn Bessem",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2496036,
+        "name": "Ghriss",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2506939,
+        "name": "Aokas",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2496232,
+        "name": "Frenda",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2486505,
+        "name": "Naciria",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503878,
+        "name": "Bir el Ater",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2501440,
+        "name": "Cherchell",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2500889,
+        "name": "Dar el Beïda",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2505854,
+        "name": "Bab Ezzouar",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2494548,
+        "name": "Hammamet",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2498541,
+        "name": "El Bayadh",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503822,
+        "name": "Wilaya de Biskra",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2504552,
+        "name": "Beni Thour",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2508186,
+        "name": "’Aïn el Beïda",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2506519,
+        "name": "Arhribs",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2485572,
+        "name": "Oued Sly",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2483746,
+        "name": "Reguiba",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2491042,
+        "name": "L’Arbaa Naït Irathen",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2498667,
+        "name": "El Aouinet",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2491913,
+        "name": "Khemis el Khechna",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2479183,
+        "name": "Souma",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2476396,
+        "name": "Timizart",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2475475,
+        "name": "Touggourt",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2504107,
+        "name": "Berriche",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2493956,
+        "name": "Héliopolis",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2477528,
+        "name": "Tazoult-Lambese",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2509031,
+        "name": "Abou el Hassan",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2494073,
+        "name": "Hassi Bahbah",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2497978,
+        "name": "El Kantara",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2477462,
+        "name": "Tebesbest",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503769,
+        "name": "Blida",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2502239,
+        "name": "Bou Tlelis",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2492809,
+        "name": "Kaïs",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2508180,
+        "name": "’Aïn el Berd",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 6698360,
+        "name": "BABOR - VILLE",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2506385,
+        "name": "Arzew",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2504175,
+        "name": "Berhoum",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2505530,
+        "name": "Béchar",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2496919,
+        "name": "Ez Zenâta",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2482605,
+        "name": "Sahela Foukania",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2485794,
+        "name": "Wilaya de Ouargla",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2498305,
+        "name": "El Golea",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2475039,
+        "name": "Yakouren",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2482211,
+        "name": "Sebdou",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2493918,
+        "name": "Hennaya",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2502951,
+        "name": "Wilaya de Bouira",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2508010,
+        "name": "’Aïn Merane",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2482908,
+        "name": "Rouiba",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2488616,
+        "name": "Mehdia daira de meghila",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2507323,
+        "name": "Amalou",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2485582,
+        "name": "Oued Rhiou",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2490098,
+        "name": "Mascara",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2508807,
+        "name": "Adrar",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2499593,
+        "name": "Dmita",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2480368,
+        "name": "Sidi Khaled",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2475744,
+        "name": "Tizi Ouzou",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2474871,
+        "name": "Zaouia Sidi Bekri",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2474399,
+        "name": "Zighout Youcef",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2486682,
+        "name": "Wilaya de M’Sila",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2498752,
+        "name": "El Affroun",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2483968,
+        "name": "Râs el Aïoun",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2481696,
+        "name": "Wilaya de Sétif",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2501365,
+        "name": "Chetma",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2506043,
+        "name": "Azazga",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2501152,
+        "name": "Constantine",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2508737,
+        "name": "Aflou",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2474506,
+        "name": "Zeribet el Oued",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2498680,
+        "name": "El Aouana",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2488835,
+        "name": "Médéa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2493222,
+        "name": "I-n-Salah",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2508297,
+        "name": "Aïn Arnat",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2507480,
+        "name": "Algiers",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2491340,
+        "name": "Ksar Ahmera",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2501680,
+        "name": "Chebli",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2484078,
+        "name": "Rahouia",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2506623,
+        "name": "Arbatache",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503755,
+        "name": "Boghni",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2589581,
+        "name": "People’s Democratic Republic of Algeria",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2478554,
+        "name": "Taher",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2479966,
+        "name": "Sidi Moussa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2508225,
+        "name": "’Aïn Deheb",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2479532,
+        "name": "Wilaya de Skikda",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2501296,
+        "name": "Wilaya de Chlef",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2502962,
+        "name": "Bouinan",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2498954,
+        "name": "Ech Chettia",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2480618,
+        "name": "Sidi ech Chahmi",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2497714,
+        "name": "El Malah",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2477457,
+        "name": "Wilaya de Tébessa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2496045,
+        "name": "Wilaya de Ghardaïa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2482557,
+        "name": "Wilaya de Saïda",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2501873,
+        "name": "Chabet el Ameur",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2505653,
+        "name": "Baraki",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2501541,
+        "name": "Chelghoum el Aïd",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2474141,
+        "name": "Boumerdas",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2476915,
+        "name": "Theniet el Had",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2486177,
+        "name": "N’Gaous",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2495659,
+        "name": "Wilaya de Guelma",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2476028,
+        "name": "Tipasa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2491323,
+        "name": "Ksar el Boukhari",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2482159,
+        "name": "Seddouk",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2483668,
+        "name": "Relizane",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2487452,
+        "name": "Mila",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2507943,
+        "name": "Aïn Sefra",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2497060,
+        "name": "Es Senia",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2502686,
+        "name": "Boumahra Ahmed",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2487620,
+        "name": "Metlili Chaamba",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2476403,
+        "name": "Timimoun",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2501089,
+        "name": "Dahmouni",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2502317,
+        "name": "Bouskene",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2494029,
+        "name": "Hassi Messaoud",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2498765,
+        "name": "El Achour",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503229,
+        "name": "Boudouaou",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2475860,
+        "name": "Tissemsilt",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2488742,
+        "name": "Medrissa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2505525,
+        "name": "Wilaya de Béchar",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2487709,
+        "name": "Messelmoun",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2499248,
+        "name": "Douar Ouled Sidi Yoûssef",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2476897,
+        "name": "Tiaret",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2475764,
+        "name": "Tizi Gheniff",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2484835,
+        "name": "Ouled Moussa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2507901,
+        "name": "Aïn Temouchent",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2491300,
+        "name": "Ksar Sbahi",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2498071,
+        "name": "El Haouita",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2476893,
+        "name": "Wilaya de tiaret kabas",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2505569,
+        "name": "Wilaya de Batna",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2482390,
+        "name": "Saoula",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2502958,
+        "name": "Bouïra",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2476302,
+        "name": "Wilaya de Tindouf",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2487130,
+        "name": "Wilaya de Mostaganem",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2502174,
+        "name": "Bouzarea",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503765,
+        "name": "Wilaya de Blida",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2476412,
+        "name": "el hed",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2486523,
+        "name": "Naama",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2500017,
+        "name": "Djelfa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2499055,
+        "name": "Drean",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2493605,
+        "name": "Ighram",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2498172,
+        "name": "El Hadjira",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2507899,
+        "name": "Wilaya de Aïn Temouchent",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2505629,
+        "name": "Barika",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2479609,
+        "name": "Sig",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2487134,
+        "name": "Mostaganem",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2508162,
+        "name": "’Aïn el Hadjar",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2505973,
+        "name": "Azib Aboudaou",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2481389,
+        "name": "Sidi Abdelli",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2488831,
+        "name": "Wilaya de Médéa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2479536,
+        "name": "Skikda",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2507475,
+        "name": "Wilaya d’ Alger",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2508184,
+        "name": "’Aïn el Bell",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2492873,
+        "name": "Kadiria",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2504581,
+        "name": "Beni Saf",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2476700,
+        "name": "Tighenif",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503468,
+        "name": "Boû Arfa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2484618,
+        "name": "Oum el Bouaghi",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2486690,
+        "name": "M’Sila",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2504072,
+        "name": "Besbes",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2502638,
+        "name": "Wilaya de Boumerdes",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2501767,
+        "name": "Charef",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2501465,
+        "name": "Cheraga",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2509176,
+        "name": "Abdelmoumen",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2498552,
+        "name": "El Barga",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2501362,
+        "name": "Chetouane",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2491532,
+        "name": "Korra",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2504674,
+        "name": "Beni Haoua",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2479161,
+        "name": "Sour el Ghozlane",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2490138,
+        "name": "Marhoum",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2498782,
+        "name": "El Abadia",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2489566,
+        "name": "Mechta Gosbat",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503156,
+        "name": "Bougaa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2508287,
+        "name": "Aïn Beïda",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2481001,
+        "name": "Wilaya de Sidi Bel Abbès",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2501404,
+        "name": "Cheria",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2491191,
+        "name": "Laghouat",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2490095,
+        "name": "Wilaya de Mascara",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2488058,
+        "name": "Merad",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2490297,
+        "name": "Makouda",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2481700,
+        "name": "Sétif",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2596771,
+        "name": "Bordj Badji Mokhtar",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2475858,
+        "name": "Wilaya de Tissemsilt",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2479215,
+        "name": "Souk Ahras",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2507912,
+        "name": "Aïn Taya",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2487449,
+        "name": "Wilaya de Mila",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2500013,
+        "name": "Wilaya de Djelfa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2482939,
+        "name": "Rouached",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2477461,
+        "name": "Tébessa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2495662,
+        "name": "Guelma",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2482447,
+        "name": "Salah Bey",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2500401,
+        "name": "Didouche Mourad",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2480169,
+        "name": "Belcourt",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2498590,
+        "name": "El Attaf",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2480198,
+        "name": "Sidi Mérouane",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2506404,
+        "name": "Arris",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2502939,
+        "name": "Bou Ismaïl",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2481207,
+        "name": "Sidi Akkacha",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2475740,
+        "name": "Tizi Rached",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2477537,
+        "name": "Tazmalt",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2502385,
+        "name": "Bou Saâda",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503633,
+        "name": "Bordj Omar Driss",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2482886,
+        "name": "Rouissat",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2477715,
+        "name": "Tarmount",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2504110,
+        "name": "Berriane",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2483761,
+        "name": "Reggane",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2507972,
+        "name": "Aïn Oussera",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2505015,
+        "name": "Ben ’Aknoûn",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2488500,
+        "name": "Mekla",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2481246,
+        "name": "Sidi Aïssa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2483936,
+        "name": "Râs el Oued",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2482736,
+        "name": "Sabra",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2491889,
+        "name": "Khenchela",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2491578,
+        "name": "Kolea",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2508228,
+        "name": "Aïn Defla",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2485551,
+        "name": "Oued Zenati",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2496392,
+        "name": "Benairia",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2474800,
+        "name": "Zebabdja",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2492738,
+        "name": "Kaous",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2508044,
+        "name": "’Aïn Khalfoun",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2505812,
+        "name": "Baghlia",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503847,
+        "name": "Birkhadem",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2486825,
+        "name": "Mouzaïa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2479213,
+        "name": "Wilaya de Souk Ahras",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2475612,
+        "name": "Tolga",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2498704,
+        "name": "El Amria",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2481007,
+        "name": "Sidi Bel Abbès",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2481096,
+        "name": "Sidi Amar",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2476027,
+        "name": "Wilaya de Tipaza",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2476917,
+        "name": "Thenia",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2496740,
+        "name": "Faubourg Marceau",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2505651,
+        "name": "Barbacha",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2475683,
+        "name": "Wilaya de Tlemcen",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2501323,
+        "name": "Chiffa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503874,
+        "name": "Bir el Djir",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2475687,
+        "name": "Tlemcen",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2491195,
+        "name": "L’Agha",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2478226,
+        "name": "Tamalous",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2480991,
+        "name": "Sidi Belkassem",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2494554,
+        "name": "Hammam Bou Hadjar",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503829,
+        "name": "Birtouta",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2483757,
+        "name": "Reghaïa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2485559,
+        "name": "Oued Tlélat",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503661,
+        "name": "Bordj el Kiffan",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2508174,
+        "name": "Aïn el Bya",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2505325,
+        "name": "Wilaya de Bejaïa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2495159,
+        "name": "Hacine",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2488202,
+        "name": "Melouza",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2494962,
+        "name": "Hadjout",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2580216,
+        "name": "Village Negre",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2507169,
+        "name": "Amizour",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2499193,
+        "name": "Douera",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2500282,
+        "name": "Djamaa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2479101,
+        "name": "Stamboul",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2501508,
+        "name": "Chemini",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2480395,
+        "name": "Sidi Hosni",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2508102,
+        "name": "Aïn Fakroun",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2482090,
+        "name": "Sedrata",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2484907,
+        "name": "Ouled el Hadj Abbed",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2494610,
+        "name": "Hamma Bouziane",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2490456,
+        "name": "Mahfouda",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2499104,
+        "name": "Draa el Mizan",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2508059,
+        "name": "Aïn Kercha",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2508262,
+        "name": "’Aïn Boucif",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2474583,
+        "name": "Zeralda",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2491776,
+        "name": "Kherrata",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2478216,
+        "name": "Tamanrasset",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2504385,
+        "name": "Bensekrane",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2506795,
+        "name": "Aoulef",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2491188,
+        "name": "Wilaya de Laghouat",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503641,
+        "name": "Bordj Menaïel",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2485920,
+        "name": "Oran",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2475785,
+        "name": "Tizi",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2477148,
+        "name": "Ténès",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2486512,
+        "name": "Wilaya de Naama",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2484738,
+        "name": "Oumache",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503699,
+        "name": "Wilaya de Bordj Bou Arréridj",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2499116,
+        "name": "Draa Ben Khedda",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2573220,
+        "name": "Aïn Achache",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2491050,
+        "name": "Larbaâ",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2496573,
+        "name": "Feraoun",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2505346,
+        "name": "Beïda Bordj",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2502034,
+        "name": "Brezina",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2491887,
+        "name": "Wilaya de Khenchela",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2507926,
+        "name": "Aïn Smara",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2504136,
+        "name": "Berrahal",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2504616,
+        "name": "Beni Mester",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2496241,
+        "name": "Freha",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2493455,
+        "name": "Illizi",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2507877,
+        "name": "Aïn Touta",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2481784,
+        "name": "Seraidi",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2482893,
+        "name": "Rouina",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2497796,
+        "name": "El Kseur",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2575967,
+        "name": "La Pépinière",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2491911,
+        "name": "Khemis Miliana",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2496049,
+        "name": "Ghardaïa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2507646,
+        "name": "Akbou",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503237,
+        "name": "Boudjima",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2491335,
+        "name": "Ksar Chellala",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2496368,
+        "name": "Fornaka",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2487293,
+        "name": "Mohammadia",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2491653,
+        "name": "Khraicia",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2492991,
+        "name": "Isser",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2475741,
+        "name": "Wilaya de Tizi Ouzou",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2487805,
+        "name": "Meskiana",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2485633,
+        "name": "Oued el Alleug",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2483000,
+        "name": "Robbah",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2494037,
+        "name": "Hassi Maameche",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2479238,
+        "name": "Souidania",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2484202,
+        "name": "Aïn Zaouïa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2501147,
+        "name": "Wilaya de Constantine",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503620,
+        "name": "Bordj Zemoura",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2497460,
+        "name": "Bir Mourad Raïs",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2490827,
+        "name": "Levacher",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2504703,
+        "name": "Beni Douala",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2486284,
+        "name": "Nedroma",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2489694,
+        "name": "Mechta Bou Assida",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2489987,
+        "name": "Mazouna",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2476301,
+        "name": "Tindouf",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2497322,
+        "name": "El Tarf",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2487882,
+        "name": "Merouana",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2498766,
+        "name": "El Achir",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2479099,
+        "name": "Staoueli",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2490183,
+        "name": "Mansoûra",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2498611,
+        "name": "Chlef",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2483649,
+        "name": "Remchi",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2507678,
+        "name": "Akabli",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2485801,
+        "name": "Ouargla",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2479247,
+        "name": "Sougueur",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2490180,
+        "name": "Mansourah",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2479916,
+        "name": "Sidi Okba",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2504659,
+        "name": "Beni Isouid",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2508275,
+        "name": "’Aïn Benian",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503033,
+        "name": "Bou Hanifia el Hamamat",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2487772,
+        "name": "Messaad",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2485618,
+        "name": "Oued Fodda",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2506994,
+        "name": "Annaba",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2475680,
+        "name": "Tleta",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2504099,
+        "name": "Berrouaghia",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2474638,
+        "name": "Zemoura",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2475752,
+        "name": "Tizi-n-Tleta",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2481836,
+        "name": "Sendjas",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2495601,
+        "name": "Guemar",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2505329,
+        "name": "Bejaïa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2497764,
+        "name": "El Madania",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 7838650,
+        "name": "Djebilet Rosfa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503701,
+        "name": "Bordj Bou Arreridj",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2497406,
+        "name": "El Oued",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2498392,
+        "name": "El Eulma",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2497693,
+        "name": "El Matmar",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2492910,
+        "name": "Wilaya de Jijel",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2495846,
+        "name": "Grarem",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2500737,
+        "name": "Debila",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2487852,
+        "name": "Mers el Kebir",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2498775,
+        "name": "El Abiodh Sidi Cheikh",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2502924,
+        "name": "Boukadir",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2501289,
+        "name": "Chorfa",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503181,
+        "name": "Boufarik",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2488716,
+        "name": "Megarine",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2508152,
+        "name": "’Aïn el Hammam",
+        "state": "",
+        "country": "DZ"
+    },
+    {
+        "id": 2503826,
+        "name": "Biskra",
+        "state": "",
+        "country": "DZ"
+    }
+]

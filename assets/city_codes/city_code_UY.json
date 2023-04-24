@@ -1,0 +1,980 @@
+[
+    {
+        "id": 3442057,
+        "name": "Las Piedras",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443341,
+        "name": "Carmelo",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442597,
+        "name": "Florencio Sanchez",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441674,
+        "name": "Migues",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442926,
+        "name": "Cordón",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3439696,
+        "name": "Colonia Valdense",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442236,
+        "name": "Joaquin Suarez",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443183,
+        "name": "Cerro Colorado",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442766,
+        "name": "Dieciocho de Julio",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3439748,
+        "name": "Trinidad",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442138,
+        "name": "La Floresta",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441684,
+        "name": "Mercedes",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441954,
+        "name": "Los Cerrillos",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440554,
+        "name": "Santa Rosa",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3439902,
+        "name": "Tarariras",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443588,
+        "name": "Blanquillo",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440777,
+        "name": "Rocha",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443758,
+        "name": "Artigas",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440684,
+        "name": "San Félix",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440781,
+        "name": "Rivera",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440939,
+        "name": "Punta del Este",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442238,
+        "name": "Joanico",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440596,
+        "name": "San Ramón",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443342,
+        "name": "Carlos Reyles",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3439780,
+        "name": "Departamento de Treinta y Tres",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440791,
+        "name": "Rio Branco",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440033,
+        "name": "Departamento de Tacuarembó",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440771,
+        "name": "Departamento de Rocha",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3439838,
+        "name": "Toledo",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441665,
+        "name": "Minas",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441483,
+        "name": "Nueva Helvecia",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441354,
+        "name": "Pando",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442980,
+        "name": "Colonia Suiza",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440021,
+        "name": "Tala",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441011,
+        "name": "Pocitos",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3439525,
+        "name": "Young",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3439652,
+        "name": "Velázquez",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440541,
+        "name": "Santiago Vázquez",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443280,
+        "name": "Casupa",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440762,
+        "name": "Rodríguez",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440055,
+        "name": "Villa Soriano",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3439831,
+        "name": "Tomás Gomensoro",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442585,
+        "name": "Florida",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440780,
+        "name": "Departamento de Rivera",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442720,
+        "name": "Departamento de Durazno",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442206,
+        "name": "Juan L. Lacaze",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442050,
+        "name": "Las Toscas",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442568,
+        "name": "Fray Bentos",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 7838849,
+        "name": "City Park",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3439787,
+        "name": "Tranqueras",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441442,
+        "name": "Ombues de Lavalle",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441890,
+        "name": "Departamento de Maldonado",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443411,
+        "name": "Departamento de Canelones",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440698,
+        "name": "San Bautista",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441894,
+        "name": "Maldonado",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441358,
+        "name": "Pan de Azucar",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441686,
+        "name": "Mendoza Chico",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440714,
+        "name": "Salto",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442398,
+        "name": "Guichon",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440747,
+        "name": "Rosario",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440654,
+        "name": "San Jacinto",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442939,
+        "name": "Constitucion",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3480812,
+        "name": "Puntas de Valdez",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440696,
+        "name": "San Carlos",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443737,
+        "name": "Atlantida",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443756,
+        "name": "Departamento de Artigas",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3439598,
+        "name": "Villa del Carmen",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441292,
+        "name": "Paso de Carrasco",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443025,
+        "name": "Departamento de Colonia",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440400,
+        "name": "Sarandí del Yi",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443356,
+        "name": "Cardal",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440581,
+        "name": "Santa Bernardina",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442546,
+        "name": "Garzón",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3480820,
+        "name": "Colonia Nicolich",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3439590,
+        "name": "Villa Sara",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441575,
+        "name": "Montevideo",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443533,
+        "name": "Buceo",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440034,
+        "name": "Tacuarembó",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443631,
+        "name": "Bella Union",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3439705,
+        "name": "Oriental Republic of Uruguay",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440639,
+        "name": "San José de Mayo",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442163,
+        "name": "La Barra",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443697,
+        "name": "Baltasar Brum",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442805,
+        "name": "Curticeras",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441243,
+        "name": "Paysandu",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441702,
+        "name": "Melo",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443644,
+        "name": "Belen",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441114,
+        "name": "Piedras Coloradas",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443013,
+        "name": "Colonia del Sacramento",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440054,
+        "name": "Departamento de Soriano",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440645,
+        "name": "Departamento de San José",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441475,
+        "name": "Nuevo París",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443061,
+        "name": "Chuy",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443413,
+        "name": "Canelones",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443289,
+        "name": "Castillos",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440789,
+        "name": "Departamento de Río Negro",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441659,
+        "name": "Minas de Corrales",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443207,
+        "name": "Cerrito",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442231,
+        "name": "Jose Enrique Rodo",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3439661,
+        "name": "25 de Agosto",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441577,
+        "name": "Montes",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440830,
+        "name": "Riachuelo",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441287,
+        "name": "Paso de la Cadena",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441988,
+        "name": "Libertad",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440577,
+        "name": "Santa Clara de Olimar",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443030,
+        "name": "Colón",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442587,
+        "name": "Departamento de Flores",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3439781,
+        "name": "Treinta y Tres",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3480818,
+        "name": "Cap. Juan A. Artigas",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3480825,
+        "name": "Pajas Blancas",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442683,
+        "name": "Empalme Olmos",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440705,
+        "name": "San Antonio",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442299,
+        "name": "Isidoro Noblia",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443256,
+        "name": "Cebollati",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440653,
+        "name": "San Javier",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443909,
+        "name": "Aigua",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442071,
+        "name": "Lascano",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441074,
+        "name": "Piriapolis",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440571,
+        "name": "Santa Lucía",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3439725,
+        "name": "Tupambaé",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443173,
+        "name": "Departamento de Cerro Largo",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440942,
+        "name": "Punta Carretas",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442803,
+        "name": "Curtina",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440963,
+        "name": "Progreso",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440394,
+        "name": "Sarandí Grande",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443928,
+        "name": "Aguas Corrientes",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440379,
+        "name": "Sauce",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441476,
+        "name": "Nuevo Berlin",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441572,
+        "name": "Departamento de Montevideo",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442450,
+        "name": "Gregorio Aznárez",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3480823,
+        "name": "Carrasco",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441377,
+        "name": "Palmitas",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440580,
+        "name": "Santa Catalina",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3439622,
+        "name": "Vergara",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440879,
+        "name": "Rafael Perazza",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443352,
+        "name": "Cardona",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442716,
+        "name": "Ecilda Paullier",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442778,
+        "name": "Delta del Tigre",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443952,
+        "name": "Acegua",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442584,
+        "name": "Departamento de Florida",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3439659,
+        "name": "25 de Mayo",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442221,
+        "name": "Jose Pedro Varela",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441803,
+        "name": "Mariscala",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442007,
+        "name": "Departamento de Lavalleja",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440985,
+        "name": "Porvenir",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441242,
+        "name": "Departamento de Paysandú",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443861,
+        "name": "Anastasia",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442233,
+        "name": "Jose Batlle y Ordonez",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440925,
+        "name": "Quebracho",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440063,
+        "name": "Solís de Mataojo",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440711,
+        "name": "Departamento de Salto",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442727,
+        "name": "Durazno",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441122,
+        "name": "Piedras Blancas",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3480819,
+        "name": "Villa García",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441273,
+        "name": "Paso de los Toros",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3439619,
+        "name": "Vichadero",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3443632,
+        "name": "Bella Italia",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442098,
+        "name": "La Paz",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3441481,
+        "name": "Nueva Palmira",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442750,
+        "name": "Dolores",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3480822,
+        "name": "Barra de Carrasco",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3440076,
+        "name": "Soca",
+        "state": "",
+        "country": "UY"
+    },
+    {
+        "id": 3442105,
+        "name": "La Paloma",
+        "state": "",
+        "country": "UY"
+    }
+]

@@ -1,0 +1,2582 @@
+[
+    {
+        "id": 3614663,
+        "name": "Brus Laguna",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3615169,
+        "name": "Antigua Ocotepeque",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607647,
+        "name": "La Jutosa",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600841,
+        "name": "Teupasenti",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3608503,
+        "name": "Juticalpa",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3609152,
+        "name": "Guayape",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3603028,
+        "name": "Quebrada Seca",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3609453,
+        "name": "Guacamaya",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3614381,
+        "name": "Callejones",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3608631,
+        "name": "Joconal",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607436,
+        "name": "Lamaní",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611008,
+        "name": "El País",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604249,
+        "name": "Departamento de Olancho",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600271,
+        "name": "Yaguacire",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611719,
+        "name": "El Guantillo",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600906,
+        "name": "Tepanguare",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600997,
+        "name": "Taragual",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600338,
+        "name": "Villa de San Francisco",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600969,
+        "name": "Taujica",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601992,
+        "name": "San Juan de Planes",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600340,
+        "name": "Villa de San Antonio",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602852,
+        "name": "Reitoca",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601517,
+        "name": "Santa Rita",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611040,
+        "name": "El Olivar",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3614797,
+        "name": "Belén Gualcho",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602359,
+        "name": "Sandy Bay",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611995,
+        "name": "El Corozal",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607992,
+        "name": "La Encarnación",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600591,
+        "name": "Trujillo",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601563,
+        "name": "Santa Lucía",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601993,
+        "name": "San Juan de Opoa",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602070,
+        "name": "San José del Potrero",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3610118,
+        "name": "El Tigre",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611933,
+        "name": "El Cubolero",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3609608,
+        "name": "Goascorán",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600966,
+        "name": "Taulabé",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601608,
+        "name": "Santa Elena",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3605859,
+        "name": "Loma Encerrada",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601707,
+        "name": "Santa Ana",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601782,
+        "name": "San Pedro Sula",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602184,
+        "name": "San Jerónimo",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604614,
+        "name": "Monterrey",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602169,
+        "name": "San Joaquín",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3608367,
+        "name": "La Burrera",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602097,
+        "name": "San José de Colinas",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611844,
+        "name": "El Escanito",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604389,
+        "name": "Nueva Esperanza",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613533,
+        "name": "Choloma",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600450,
+        "name": "Vallecillo",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3615279,
+        "name": "Ajuterique",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607538,
+        "name": "La Libertad",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3614249,
+        "name": "Cañaveral",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601462,
+        "name": "Santiago Puringla",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3603136,
+        "name": "Punta Piedra",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601698,
+        "name": "Santa Anita",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600195,
+        "name": "Yoro",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3609775,
+        "name": "Erandique",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3608833,
+        "name": "Departamento de Intibucá",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602368,
+        "name": "San Diego",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3603097,
+        "name": "Quebrada de Arena",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611150,
+        "name": "El Negrito",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613229,
+        "name": "Departamento de Copán",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604303,
+        "name": "Ocotillo Occidental",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604384,
+        "name": "Nueva Ocotepeque",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601519,
+        "name": "Santa Rita, Copan",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3605053,
+        "name": "Mangulile",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3614736,
+        "name": "Boca de Hule",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3603041,
+        "name": "Quebrada Larga",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600598,
+        "name": "Trojas",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600057,
+        "name": "Zopilotepe",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3614997,
+        "name": "Ayapa",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601627,
+        "name": "Santa Cruz de Yojoa",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604386,
+        "name": "Nueva Jalapa",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613358,
+        "name": "Departamento de Colón",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607419,
+        "name": "La Masica",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600382,
+        "name": "Veracruz",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3608635,
+        "name": "Jocón",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3609293,
+        "name": "Guanaja",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601921,
+        "name": "San Manuel",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3608377,
+        "name": "La Brea",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602936,
+        "name": "Quiscamote",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601282,
+        "name": "Sinuapa",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3609681,
+        "name": "Florida",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607644,
+        "name": "La Labor",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613974,
+        "name": "Catacamas",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611270,
+        "name": "El Milagro",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604263,
+        "name": "Ojos de Agua",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611481,
+        "name": "El Juncal",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613321,
+        "name": "Comayagua",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3615011,
+        "name": "Auka",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3615557,
+        "name": "Agua Azul",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3606069,
+        "name": "Lejamaní",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601780,
+        "name": "San Pedro Zacapa",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3606319,
+        "name": "Las Tejeras",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613805,
+        "name": "Cerro Grande",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3612160,
+        "name": "El Chichicaste",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601311,
+        "name": "Siguatepeque",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600662,
+        "name": "Tornabé",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602777,
+        "name": "Río Chiquito",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3603799,
+        "name": "Petoa",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3615473,
+        "name": "Agua Caliente",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604579,
+        "name": "Morocelí",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3610487,
+        "name": "El Rincón",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611088,
+        "name": "El Ocote",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3609415,
+        "name": "Guaimitas",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604292,
+        "name": "Ojo de Agua",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600949,
+        "name": "Tegucigalpa",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3615213,
+        "name": "Amapala",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600931,
+        "name": "Tela",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3605018,
+        "name": "Marale",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611352,
+        "name": "El Lolo",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607948,
+        "name": "La Esperanza",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3615030,
+        "name": "Atenas de San Cristóbal",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604318,
+        "name": "Departamento de Ocotepeque",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3610912,
+        "name": "El Pedernal",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607030,
+        "name": "Las Ánimas",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3612929,
+        "name": "Cuyamel",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601179,
+        "name": "Subirana",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3605873,
+        "name": "Loma Alta",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3615391,
+        "name": "Agua Fría",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3606250,
+        "name": "Las Vegas",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3610866,
+        "name": "El Perico",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611986,
+        "name": "El Corpus",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3615582,
+        "name": "Agalteca",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601664,
+        "name": "Santa Cruz",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3615065,
+        "name": "Armenta",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3608828,
+        "name": "Iralaya",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3612810,
+        "name": "Dulce Nombre de Culmí",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607251,
+        "name": "Departamento de La Paz",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3608112,
+        "name": "La Criba",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3612784,
+        "name": "El Achiotal",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613708,
+        "name": "Chalmeca",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3603035,
+        "name": "Quebradas",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601436,
+        "name": "San Vicente Centenario",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3609342,
+        "name": "Gualjoco",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3605837,
+        "name": "Lomitas",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3605042,
+        "name": "Manto",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613547,
+        "name": "Chivana",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601402,
+        "name": "Savannah Bight",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3614835,
+        "name": "Barra Patuca",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601159,
+        "name": "Sulaco",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613171,
+        "name": "Corquín",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602785,
+        "name": "Río Bonito",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601162,
+        "name": "Sula",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604414,
+        "name": "Nombre de Jesús",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600134,
+        "name": "Zamora",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3608743,
+        "name": "Jamalteca",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602823,
+        "name": "Río Abajo",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601494,
+        "name": "Santa Rosa de Copán",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3605010,
+        "name": "Maraquito",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3609389,
+        "name": "Gualaco",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602257,
+        "name": "San Ignacio",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600199,
+        "name": "Yorito",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602277,
+        "name": "San Francisco del Valle",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601039,
+        "name": "Támara",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601899,
+        "name": "San Marcos",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602284,
+        "name": "San Francisco de Coray",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613105,
+        "name": "Coyoles Central",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613140,
+        "name": "Departamento de Cortés",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600608,
+        "name": "Trinidad",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3612949,
+        "name": "Cusuna",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601689,
+        "name": "Departamento de Santa Bárbara",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611720,
+        "name": "El Guante",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604503,
+        "name": "Namasigüe",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600139,
+        "name": "Zambrano",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602984,
+        "name": "Quezailica",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607847,
+        "name": "La Guacamaya",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601367,
+        "name": "Sensenti",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3612734,
+        "name": "El Agua Dulcita",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3612801,
+        "name": "Duyure",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3610278,
+        "name": "El Socorro",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604395,
+        "name": "Nueva Armenia",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3615115,
+        "name": "Aramecina",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607723,
+        "name": "La Inea",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3608656,
+        "name": "Jiquinlaca",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600800,
+        "name": "Tierra Blanca",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3608514,
+        "name": "Jutiapa",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3610365,
+        "name": "El Rusio",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613906,
+        "name": "Cedros",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3609231,
+        "name": "Guarizama",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3612138,
+        "name": "El Chimbo",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611185,
+        "name": "El Naranjo",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3609742,
+        "name": "Esquías",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613509,
+        "name": "Chotepe",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604478,
+        "name": "Naranjito",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602281,
+        "name": "San Francisco de la Paz",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613175,
+        "name": "Corozal",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600704,
+        "name": "Tocoa",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3605950,
+        "name": "Liure",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611842,
+        "name": "El Escaño de Tepale",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3606292,
+        "name": "Las Trojes",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3614319,
+        "name": "Campamento",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600236,
+        "name": "Yaruchel",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3603169,
+        "name": "Puerto Alto",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604795,
+        "name": "Minas de Oro",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613847,
+        "name": "Cerro Blanco",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604949,
+        "name": "Mata de Plátano",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613528,
+        "name": "Ciudad Choluteca",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3610060,
+        "name": "El Triunfo",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3605258,
+        "name": "Los Tangos",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3609672,
+        "name": "Departamento de Francisco Morazán",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601977,
+        "name": "San Lorenzo",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602066,
+        "name": "San José de Río Tinto",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3610082,
+        "name": "El Tránsito",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602769,
+        "name": "Río Esteban",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601784,
+        "name": "San Pedro de Tutule",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3615090,
+        "name": "Arenal",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600605,
+        "name": "Trinidad de Copán",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3614113,
+        "name": "Carbajales",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600357,
+        "name": "Victoria",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604251,
+        "name": "Olanchito",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607802,
+        "name": "Laguna Seca",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602355,
+        "name": "San Esteban",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3606669,
+        "name": "Las Lajas",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3615027,
+        "name": "Departamento de Atlántida",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3615067,
+        "name": "Armenia",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600629,
+        "name": "Tras Cerros",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600193,
+        "name": "Departamento de Yoro",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602286,
+        "name": "San Francisco de Cones",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3603326,
+        "name": "Potrerillos",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3614218,
+        "name": "Cane",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604229,
+        "name": "Omoa",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607135,
+        "name": "La Presa",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607053,
+        "name": "La Rosa",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601691,
+        "name": "Santa Bárbara",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600626,
+        "name": "Travesía",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600165,
+        "name": "Yuscarán",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604184,
+        "name": "Oropéndolas",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607294,
+        "name": "Langue",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3608860,
+        "name": "Ilama",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3606901,
+        "name": "San José de Las Conchas",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3614789,
+        "name": "Berlín",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601302,
+        "name": "Silca",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3608798,
+        "name": "Jacaleapa",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613263,
+        "name": "Concordia",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613145,
+        "name": "Correderos",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3610139,
+        "name": "El Terrero",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611144,
+        "name": "El Níspero",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3614583,
+        "name": "Buenos Aires",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3610051,
+        "name": "El Triunfo de la Cruz",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600456,
+        "name": "Departamento de Valle",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3609583,
+        "name": "Departamento de Gracias a Dios",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3610675,
+        "name": "El Porvenir",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602272,
+        "name": "San Francisco de Yojoa",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601211,
+        "name": "Sonaguera",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3610789,
+        "name": "El Plan",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602473,
+        "name": "San Antonio",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611699,
+        "name": "El Guayabito",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3603649,
+        "name": "Pimienta Vieja",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3614872,
+        "name": "Baracoa",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602337,
+        "name": "San Fernando",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3606185,
+        "name": "La Trinidad",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3605729,
+        "name": "Los Caminos",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607797,
+        "name": "Laguna Verde",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600026,
+        "name": "Puerto Cortez",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3606075,
+        "name": "La Zumbadora",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604911,
+        "name": "Mateo",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3606066,
+        "name": "Departamento de Lempira",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3610613,
+        "name": "El Progreso",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3615125,
+        "name": "Arada",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3610251,
+        "name": "El Suyatal",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602036,
+        "name": "San Juan",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602786,
+        "name": "Río Blanquito",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600421,
+        "name": "Valle de Ángeles",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3609586,
+        "name": "Gracias",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602428,
+        "name": "San Antonio del Norte",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601496,
+        "name": "Santa Rosa de Aguán",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3605436,
+        "name": "Los Naranjos",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3615028,
+        "name": "Atima",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3614011,
+        "name": "Casa Quemada",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3609928,
+        "name": "El Zapotal del Norte",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3615070,
+        "name": "Arimís",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3605382,
+        "name": "Los Planes",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602065,
+        "name": "San José de Tarros",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602736,
+        "name": "Coxen Hole",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601951,
+        "name": "San Lucas",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607731,
+        "name": "La Huesa",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604203,
+        "name": "Orica",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604584,
+        "name": "Morazán",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3614970,
+        "name": "Azacualpa",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3612581,
+        "name": "El Benque",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611718,
+        "name": "El Guapinol",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3603627,
+        "name": "Pinalejo",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613286,
+        "name": "Concepción de Guasistagua",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613314,
+        "name": "Comayagüela",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3614705,
+        "name": "Bonito Oriental",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3610610,
+        "name": "El Puente",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602561,
+        "name": "Sambo Creek",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607919,
+        "name": "La Flecha",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611068,
+        "name": "El Ojochal",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3608715,
+        "name": "Jesús de Otoro",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600280,
+        "name": "Wawina",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3610942,
+        "name": "Departamento de El Paraíso",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3603856,
+        "name": "Peña Blanca",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3606035,
+        "name": "Lepaterique",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613319,
+        "name": "Departamento de Comayagua",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600254,
+        "name": "Yamaranguila",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601733,
+        "name": "San Sebastián",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611267,
+        "name": "El Mochito",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604518,
+        "name": "Naco",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3610046,
+        "name": "El Tular",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607146,
+        "name": "La Playona",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3606251,
+        "name": "Las Vegas, Santa Barbara",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3610318,
+        "name": "El Sauce",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3605005,
+        "name": "Marcala",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602094,
+        "name": "San José de Comayagua",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3612813,
+        "name": "Dulce Nombre",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3610813,
+        "name": "El Pino",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602077,
+        "name": "San José del Boquerón",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602118,
+        "name": "San José",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600232,
+        "name": "Yarumela",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607254,
+        "name": "La Paz",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607986,
+        "name": "La Entrada",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607930,
+        "name": "La Estancia",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3609690,
+        "name": "Flores",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3603256,
+        "name": "Protección",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602287,
+        "name": "San Francisco de Becerra",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601543,
+        "name": "Santa María del Real",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604189,
+        "name": "Orocuina",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3608500,
+        "name": "Jutiquile",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3612064,
+        "name": "El Ciruelo",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613394,
+        "name": "Cofradía",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3605000,
+        "name": "Marcovia",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3608198,
+        "name": "La Chorrera",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3610965,
+        "name": "El Paraíso",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613281,
+        "name": "Concepción del Sur",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3603221,
+        "name": "Pueblo Nuevo",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3608248,
+        "name": "La Ceiba",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607838,
+        "name": "La Guama",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3610232,
+        "name": "El Tablón",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3608718,
+        "name": "Jericó",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601984,
+        "name": "San Juan Pueblo",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607511,
+        "name": "La Lima",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602436,
+        "name": "San Antonio de la Cuesta",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3606048,
+        "name": "Lepaera",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3603998,
+        "name": "Paptalaya",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602758,
+        "name": "Río Lindo",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601702,
+        "name": "Santa Ana de Yusguare",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601403,
+        "name": "Sabá",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3615069,
+        "name": "Arizona",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604270,
+        "name": "Ojojona",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613527,
+        "name": "Departamento de Choluteca",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613371,
+        "name": "Cololaca",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3615108,
+        "name": "Araulí",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3609418,
+        "name": "Guaimaca",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602396,
+        "name": "San Buenaventura",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611356,
+        "name": "El Llano",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3615358,
+        "name": "Agualote",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601925,
+        "name": "San Luis de Planes",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3605222,
+        "name": "Lucerna",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600327,
+        "name": "Villanueva",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607381,
+        "name": "La Mina",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611987,
+        "name": "Corpus",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611128,
+        "name": "El Obraje",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3610555,
+        "name": "El Rancho",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3606097,
+        "name": "La Virtud",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602444,
+        "name": "San Antonio de Cortés",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602546,
+        "name": "San Agustín",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3614914,
+        "name": "Baja Mar",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3606159,
+        "name": "La Unión",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3608932,
+        "name": "Republic of Honduras",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3812188,
+        "name": "Texíguat",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611069,
+        "name": "El Ocotón",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3614328,
+        "name": "Camasca",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607042,
+        "name": "La Sabana",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607830,
+        "name": "La Guata",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604686,
+        "name": "Monjarás",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3608834,
+        "name": "Intibucá",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611572,
+        "name": "Elíxir",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3615556,
+        "name": "Agua Azul Rancho",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3609667,
+        "name": "French Harbor",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602952,
+        "name": "Quimistán",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601080,
+        "name": "Tacamiche",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602790,
+        "name": "Río Blanco",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3615509,
+        "name": "Agua Blanca Sur",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613230,
+        "name": "Copán",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3612640,
+        "name": "El Bálsamo",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611319,
+        "name": "El Marañón",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3603267,
+        "name": "Prieta",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604522,
+        "name": "Nacaome",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600642,
+        "name": "Toyós",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601833,
+        "name": "San Nicolás",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3612937,
+        "name": "Cuyalí",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3811264,
+        "name": "Quemamacho",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613189,
+        "name": "Corocito",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3603167,
+        "name": "Puerto Castilla",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602602,
+        "name": "Salamá",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602680,
+        "name": "Sabanagrande",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604375,
+        "name": "Nuevo Chamelecón",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3615332,
+        "name": "Aguas del Padre",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601072,
+        "name": "Talanga",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601932,
+        "name": "San Luis",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3614893,
+        "name": "Bálsamo Oriental",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3612838,
+        "name": "Dolores",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613015,
+        "name": "Cucuyagua",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613285,
+        "name": "Concepción de la Barranca",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3610377,
+        "name": "El Rosario",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602301,
+        "name": "San Francisco",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3614158,
+        "name": "Capiro",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601874,
+        "name": "San Matías",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3610331,
+        "name": "El Salvador",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607983,
+        "name": "La Ermita",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3602092,
+        "name": "San José de Copán",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3603805,
+        "name": "Pespire",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3605491,
+        "name": "Los Llanitos",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3603920,
+        "name": "Paujiles",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601999,
+        "name": "San Juan de Flores",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3603130,
+        "name": "Punuare",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3601888,
+        "name": "San Marcos de Colón",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3603157,
+        "name": "Puerto Lempira",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3608692,
+        "name": "Jícaro Galán",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3612907,
+        "name": "Danlí",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3615022,
+        "name": "Auas",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3613900,
+        "name": "Ceguaca",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3607003,
+        "name": "La Sarrosa",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600328,
+        "name": "Villa Nueva",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3609112,
+        "name": "Güinope",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3614343,
+        "name": "Camalote",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3609673,
+        "name": "Francia",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604181,
+        "name": "Oropolí",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600951,
+        "name": "Teguajinal",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604320,
+        "name": "Ocote Paulino",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604835,
+        "name": "Mezapa",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3608142,
+        "name": "La Concepción",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3614805,
+        "name": "Bejuco",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3603137,
+        "name": "Punta Ocote",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3612750,
+        "name": "El Aguacate",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3611628,
+        "name": "El Higuerito",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3604712,
+        "name": "Mojimán",
+        "state": "",
+        "country": "HN"
+    },
+    {
+        "id": 3600895,
+        "name": "Tepusteca",
+        "state": "",
+        "country": "HN"
+    }
+]

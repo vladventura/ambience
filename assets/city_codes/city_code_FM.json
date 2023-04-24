@@ -1,0 +1,662 @@
+[
+    {
+        "id": 7628253,
+        "name": "Tamatam",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626949,
+        "name": "Ngulu Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 2081175,
+        "name": "State of Yap",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7627186,
+        "name": "Pingelap",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7628250,
+        "name": "Pulap",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626987,
+        "name": "Tonoas Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626936,
+        "name": "Dalipebinaw Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626952,
+        "name": "Satawal Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626953,
+        "name": "Sorol Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626970,
+        "name": "Nema Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7628103,
+        "name": "Polowat",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7645731,
+        "name": "Elato",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7668886,
+        "name": "Weno - Chuuk State Legislature",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7645378,
+        "name": "Kuttu",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7645375,
+        "name": "Moch",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626945,
+        "name": "Ifalik Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626980,
+        "name": "Polowat Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 4036980,
+        "name": "Feeduqor",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626922,
+        "name": "Kolonia Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626983,
+        "name": "Satowan Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7628259,
+        "name": "Onoun",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626985,
+        "name": "Tamatam Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7645270,
+        "name": "Ettal",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626973,
+        "name": "Oneop Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626977,
+        "name": "Piherarh Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626920,
+        "name": "Kapingamarangi Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626938,
+        "name": "Elato Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7645217,
+        "name": "Losap",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626965,
+        "name": "Losap Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626966,
+        "name": "Lekinioch Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7645384,
+        "name": "Satowan",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626964,
+        "name": "Kuttu Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626974,
+        "name": "Onou Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7645726,
+        "name": "Lamotrek",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7627037,
+        "name": "Nukuoro",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7645381,
+        "name": "Ta",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7667608,
+        "name": "Madolenihm Municipality Government",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 2082036,
+        "name": "State of Kosrae",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7645195,
+        "name": "Ruo",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7645763,
+        "name": "Eauripik",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7644931,
+        "name": "Nomwin",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626926,
+        "name": "Sapwuahfik Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7628277,
+        "name": "Onou",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626978,
+        "name": "Piis-Emwar Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626941,
+        "name": "Faraulep Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7645769,
+        "name": "Fais",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 4043034,
+        "name": "Kolonia",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7668874,
+        "name": "Tonoas Municipal Building",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7648441,
+        "name": "Utwe",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626924,
+        "name": "Mokil Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 4044958,
+        "name": "Komwonlaid Village",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626929,
+        "name": "Pingelap Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7645768,
+        "name": "Sorol",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626992,
+        "name": "Weno Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626935,
+        "name": "Utwe Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7645369,
+        "name": "Lukunor",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7648250,
+        "name": "Tafunsak",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626927,
+        "name": "Nukuoro Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626971,
+        "name": "Namoluk Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7645213,
+        "name": "Nema",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7648112,
+        "name": "Colonia",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7628274,
+        "name": "Pisaras",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626947,
+        "name": "Lamotrek Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7645372,
+        "name": "Oneop",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7668879,
+        "name": "Weno Municipal Offices",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7628452,
+        "name": "Mokil",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7645723,
+        "name": "Satawal",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626934,
+        "name": "Tafunsak Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626972,
+        "name": "Nomwin Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 2082038,
+        "name": "Kolonia Town",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626984,
+        "name": "Ta Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626979,
+        "name": "Pollap Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626991,
+        "name": "Unanu Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626923,
+        "name": "Madolenihm Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7627628,
+        "name": "Houk",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626982,
+        "name": "Ruo Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626939,
+        "name": "Fais Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7645772,
+        "name": "Ngulu",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 2081550,
+        "name": "State of Pohnpei",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626967,
+        "name": "Makur Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 2081918,
+        "name": "Federated States of Micronesia",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626960,
+        "name": "Fananu Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626968,
+        "name": "Moch Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626937,
+        "name": "Eauripik Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7627586,
+        "name": "Namoluk",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7627089,
+        "name": "Ngatik",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626969,
+        "name": "Murilo Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7627032,
+        "name": "Kapingamarangi",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7648440,
+        "name": "Malem",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 2081342,
+        "name": "Tofol",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626951,
+        "name": "Rumung Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7628280,
+        "name": "Unanu",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 4036933,
+        "name": "Rumung",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7628283,
+        "name": "Makur",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 2082282,
+        "name": "State of Chuuk",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626932,
+        "name": "Lelu Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626933,
+        "name": "Malem Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7648249,
+        "name": "Lelu",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 2081114,
+        "name": "Weno",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7645169,
+        "name": "Fananu",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626956,
+        "name": "Weloy Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 2081986,
+        "name": "Palikir - National Government Center",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626975,
+        "name": "Onoun Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7645190,
+        "name": "Murilo",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626959,
+        "name": "Ettal Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626930,
+        "name": "Sokehs Municipality",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7645754,
+        "name": "Ifalik",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7645221,
+        "name": "Piis",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7645749,
+        "name": "Faraulep",
+        "state": "",
+        "country": "FM"
+    },
+    {
+        "id": 7626963,
+        "name": "Houk Municipality",
+        "state": "",
+        "country": "FM"
+    }
+]

@@ -1,0 +1,740 @@
+[
+    {
+        "id": 2315026,
+        "name": "Kasongo-Lunda",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2313762,
+        "name": "Libenge",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 211098,
+        "name": "Lubao",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2317397,
+        "name": "Bandundu",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 922944,
+        "name": "Kasumbalesa",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 923058,
+        "name": "Kambove",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 208705,
+        "name": "Moni",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 215527,
+        "name": "Kabinda",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 215601,
+        "name": "Kabasele-Pania",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 216404,
+        "name": "Gbadolite",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2312249,
+        "name": "Mushie",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2315417,
+        "name": "Inongo",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2312895,
+        "name": "Mbandaka",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 206938,
+        "name": "Province du Nord-Kivu",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2312393,
+        "name": "Moanda",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 8070734,
+        "name": "Bolaka",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2314705,
+        "name": "Kikwit",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 214575,
+        "name": "Kampene",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 218355,
+        "name": "Boluka",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 212902,
+        "name": "Kindu",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 219344,
+        "name": "Batikayafi",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 210379,
+        "name": "Lusambo",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 205297,
+        "name": "Tambo",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 215771,
+        "name": "Isiro",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2315728,
+        "name": "Gemena",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 214974,
+        "name": "Kalemie",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 212730,
+        "name": "Kisangani",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 203312,
+        "name": "Democratic Republic of the Congo",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 1105460,
+        "name": "Lumpundu",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 205413,
+        "name": "South Kivu Province",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 214478,
+        "name": "Kananga",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 215597,
+        "name": "Kabasinze",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 217637,
+        "name": "Businga",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 218241,
+        "name": "Bonema",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 212962,
+        "name": "Kimbalata",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 219496,
+        "name": "Bapaidu",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 216541,
+        "name": "Fizi",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 217745,
+        "name": "Bumba",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 215668,
+        "name": "Kabalo",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 388578,
+        "name": "Lumwe",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 204498,
+        "name": "Ukungu",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 218253,
+        "name": "Bondo",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 217834,
+        "name": "Bukama",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 922806,
+        "name": "Kipushi",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2317285,
+        "name": "Basankusu",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 211734,
+        "name": "Lisala",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 204891,
+        "name": "Tshilundu",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 217695,
+        "name": "Bunia",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 214229,
+        "name": "Kapeo",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2312892,
+        "name": "Mbanza",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2593460,
+        "name": "Masina",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 214138,
+        "name": "Province du Kasaï Oriental",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 205703,
+        "name": "Katanga Province",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 209610,
+        "name": "Province du Maniema",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 220448,
+        "name": "Aketi",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2313002,
+        "name": "Matadi",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 214614,
+        "name": "Kamina",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 922704,
+        "name": "Lubumbashi",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 207570,
+        "name": "Mwene-Ditu",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 209228,
+        "name": "Mbuji-Mayi",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 922741,
+        "name": "Likasi",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 922773,
+        "name": "Kolwezi",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2313084,
+        "name": "Mangai",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 211384,
+        "name": "Longanio",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 217389,
+        "name": "Demba",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 204318,
+        "name": "Wamba",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 215605,
+        "name": "Kabare",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 213632,
+        "name": "Kavumu",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2311968,
+        "name": "Nioki",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 204283,
+        "name": "Watsa",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 207596,
+        "name": "Mweka",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 208891,
+        "name": "Mokumbano",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2312096,
+        "name": "Ndolo",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2316821,
+        "name": "Bokuda",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 211647,
+        "name": "Lodja",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 218680,
+        "name": "Boende",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2312888,
+        "name": "Mbanza-Ngungu",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 209598,
+        "name": "Manono",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 923051,
+        "name": "Sampasa Kamina",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2317396,
+        "name": "Bandundu Province",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 205945,
+        "name": "Salukwango",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 216449,
+        "name": "Gandajika",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2314302,
+        "name": "Kinshasa",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 216139,
+        "name": "Orientale Province",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2310882,
+        "name": "Yanga",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 204953,
+        "name": "Tshikapa",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 212360,
+        "name": "Kongolo",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 8145527,
+        "name": "Noabo",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 217831,
+        "name": "Bukavu",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 214139,
+        "name": "Province du Kasaï-Occidental",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2317277,
+        "name": "Province du Kongo Central",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 218229,
+        "name": "Bongandanga",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 922262,
+        "name": "Ruashi",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 210939,
+        "name": "Luebo",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2311502,
+        "name": "Sengo",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 8070735,
+        "name": "Ipeko",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2316748,
+        "name": "Bolobo",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2314300,
+        "name": "Kinshasa City",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 203717,
+        "name": "Yangambi",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 219563,
+        "name": "Bangenze",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2314129,
+        "name": "Kiteke",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 219414,
+        "name": "Basoko",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2591272,
+        "name": "Lukole",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 217570,
+        "name": "Buta",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 204405,
+        "name": "Uvira",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 217562,
+        "name": "Butembo",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 216661,
+        "name": "Province de l’Équateur",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2316259,
+        "name": "Bulungu",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2316473,
+        "name": "Bosobolo",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 205970,
+        "name": "Sake",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2317301,
+        "name": "Baraka",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 214755,
+        "name": "Kama",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 205706,
+        "name": "Sewe",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 212760,
+        "name": "Kirumba",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 219057,
+        "name": "Beni",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 215976,
+        "name": "Ilebo",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 206362,
+        "name": "Pekia",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2315057,
+        "name": "Kasangulu",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2313371,
+        "name": "Lukolela",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 213940,
+        "name": "Kasongo",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 216281,
+        "name": "Goma",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 2311127,
+        "name": "Tshela",
+        "state": "",
+        "country": "CD"
+    },
+    {
+        "id": 214389,
+        "name": "Kaniama",
+        "state": "",
+        "country": "CD"
+    }
+]

@@ -1,0 +1,6194 @@
+[
+    {
+        "id": 3770955,
+        "name": "Villa Rica",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669799,
+        "name": "San Hilario",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3679379,
+        "name": "La Cruz",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3690431,
+        "name": "Aguadas",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 6851663,
+        "name": "Inspección de Policía Puerto Ospina",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665566,
+        "name": "Zaragoza",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682232,
+        "name": "Galeras",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682292,
+        "name": "Fundación",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668631,
+        "name": "Santa María",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686311,
+        "name": "Chuscal",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670357,
+        "name": "Saldaña",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670764,
+        "name": "Rioblanco",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686712,
+        "name": "Charta",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689002,
+        "name": "Belén",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666905,
+        "name": "Tópaga",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670520,
+        "name": "Sabana de Torres",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674292,
+        "name": "Mosquera",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670692,
+        "name": "Rivera",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667003,
+        "name": "Tocaima",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688266,
+        "name": "Buesaco",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667202,
+        "name": "Tibú",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665657,
+        "name": "Yumbo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3679776,
+        "name": "La Belleza",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668302,
+        "name": "San Vicente",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681008,
+        "name": "Municipio Hato Corozal",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792395,
+        "name": "Puerto Concordia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667323,
+        "name": "Tello",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686065,
+        "name": "Colosó",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3756455,
+        "name": "Tutehón",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669352,
+        "name": "San Luis de Palenque",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671020,
+        "name": "Apulo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669623,
+        "name": "San José",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673899,
+        "name": "Neiva",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680886,
+        "name": "Herrán",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3764011,
+        "name": "Jalisco",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3793791,
+        "name": "Los Lagos",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685413,
+        "name": "Departamento de Cundinamarca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686120,
+        "name": "Colombia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686736,
+        "name": "Charalá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673637,
+        "name": "Oiba",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670061,
+        "name": "San Antonio del Prado",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688918,
+        "name": "Beltrán",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3684945,
+        "name": "El Bagre",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670038,
+        "name": "San Benito Abad",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670709,
+        "name": "Río Viejo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667991,
+        "name": "San Luis de Sincé",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675757,
+        "name": "Machetá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681644,
+        "name": "Guaitarilla",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688462,
+        "name": "Bucarasica",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668257,
+        "name": "Saravena",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671381,
+        "name": "Puerto Niño",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687339,
+        "name": "Carito",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792383,
+        "name": "Agustín Codazzi",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680854,
+        "name": "Hobo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686288,
+        "name": "Cicuco",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672068,
+        "name": "Planeta Rica",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3678413,
+        "name": "La Merced",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682266,
+        "name": "Gachalá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3684579,
+        "name": "El Charco",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3690582,
+        "name": "Abriaquí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674463,
+        "name": "Montenegro",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792387,
+        "name": "El Retorno",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672093,
+        "name": "Pivijay",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687806,
+        "name": "Campoalegre",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673887,
+        "name": "Nemocón",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668228,
+        "name": "Sasaima",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3683155,
+        "name": "El Rosal",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670595,
+        "name": "Rosas",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3781858,
+        "name": "El Toronjo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687925,
+        "name": "Cali",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665965,
+        "name": "Villa Mejía",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682299,
+        "name": "Fuente de Oro",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680317,
+        "name": "Jericó",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665895,
+        "name": "Villeta",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667247,
+        "name": "Teruel",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667772,
+        "name": "Suárez",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673536,
+        "name": "Orocué",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3676397,
+        "name": "Lorica",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671765,
+        "name": "Prado",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3782173,
+        "name": "Palacio",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665616,
+        "name": "Zambrano",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666834,
+        "name": "Totoró",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667373,
+        "name": "Tasco",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3676477,
+        "name": "Lloró",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665924,
+        "name": "Villapinzón",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670242,
+        "name": "San Alberto",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686158,
+        "name": "Cocorná",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3678502,
+        "name": "La Mana",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667579,
+        "name": "Tadó",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686227,
+        "name": "Cisneros",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686532,
+        "name": "Chipaque",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666481,
+        "name": "Une",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675242,
+        "name": "Marmato",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688006,
+        "name": "Cajicá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673268,
+        "name": "Palestina",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685943,
+        "name": "Coper",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3678186,
+        "name": "La Paz",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681652,
+        "name": "Departamento del Guainía",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3778842,
+        "name": "La Esmeralda",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3676604,
+        "name": "Líbano",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687951,
+        "name": "Departamento de Caldas",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688021,
+        "name": "Cajamarca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674412,
+        "name": "Morales",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671387,
+        "name": "Puerto Nariño",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675504,
+        "name": "Manaure",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680434,
+        "name": "Ituango",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682185,
+        "name": "Gama",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689167,
+        "name": "Barranca de Upía",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666577,
+        "name": "Turbaco",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688451,
+        "name": "Buenaventura",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665987,
+        "name": "Villa Hermosa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670849,
+        "name": "Retiro",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672761,
+        "name": "Patía",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669173,
+        "name": "San Pablo de Borbur",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685871,
+        "name": "Corinto",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686513,
+        "name": "Chiquinquirá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3684615,
+        "name": "El Cerrito",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686540,
+        "name": "Chinú",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668594,
+        "name": "Santana",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3763578,
+        "name": "Mesetas",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682172,
+        "name": "Gámeza",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689232,
+        "name": "Baraya",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665678,
+        "name": "Yotoco",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680450,
+        "name": "Itagüí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681769,
+        "name": "Guachené",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675443,
+        "name": "Manizales",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685840,
+        "name": "Coromoro",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687111,
+        "name": "Caserío Regalito",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792386,
+        "name": "El Cantón de San Pablo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673424,
+        "name": "Pacho",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3827656,
+        "name": "Rondiña",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666575,
+        "name": "Turbaná",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666645,
+        "name": "Tuluá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689802,
+        "name": "Anzoátegui",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 7524718,
+        "name": "Santa Maria",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667528,
+        "name": "Tamalameque",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667380,
+        "name": "Tarso",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666550,
+        "name": "Tuta",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668087,
+        "name": "Sibaté",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685578,
+        "name": "Cuba",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687209,
+        "name": "Casablanca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675707,
+        "name": "Madrid",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670502,
+        "name": "Sabanalarga",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681175,
+        "name": "Gutiérrez",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689740,
+        "name": "Aranzazu",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670587,
+        "name": "Rovira",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685432,
+        "name": "Cumbal",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669736,
+        "name": "San Jacinto",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686422,
+        "name": "Chocontá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686636,
+        "name": "Chigorodó",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688689,
+        "name": "Bogotá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689841,
+        "name": "Anolaima",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669355,
+        "name": "San Luis de Gaceno",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669997,
+        "name": "San Carlos",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3783506,
+        "name": "El Central",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792375,
+        "name": "Carepa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669056,
+        "name": "San Rafael",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689941,
+        "name": "Anapoima",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3793692,
+        "name": "Viva Dios",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665991,
+        "name": "Villagómez",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687505,
+        "name": "Caparrapí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674161,
+        "name": "Murindó",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688499,
+        "name": "Briceño",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685027,
+        "name": "El Águila",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3684029,
+        "name": "Elías",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670855,
+        "name": "Restrepo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666903,
+        "name": "Topaipí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3732964,
+        "name": "Lejanías",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668245,
+        "name": "Sardinata",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671091,
+        "name": "Quinchía",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671549,
+        "name": "Puerto Asís",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688889,
+        "name": "Berlín",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687230,
+        "name": "Cartago",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689235,
+        "name": "Baranoa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666519,
+        "name": "Villa de San Diego de Ubaté",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689653,
+        "name": "Arenal",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682481,
+        "name": "Filadelfia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681429,
+        "name": "Guarne",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667892,
+        "name": "Socha Viejo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673398,
+        "name": "Belalcázar",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670756,
+        "name": "Río de Oro",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674885,
+        "name": "Melgar",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675409,
+        "name": "Manzanares",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689714,
+        "name": "Arauquita",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666163,
+        "name": "Ventaquemada",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669332,
+        "name": "San Martín",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682030,
+        "name": "Giraldo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688357,
+        "name": "Buenos Aires",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670350,
+        "name": "Salgar",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686922,
+        "name": "Cereté",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667760,
+        "name": "Subachoque",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670698,
+        "name": "Departamento de Risaralda",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3678405,
+        "name": "La Mesa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689979,
+        "name": "Ambalema",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667478,
+        "name": "Tame",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682358,
+        "name": "Fosca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689559,
+        "name": "Armenia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674027,
+        "name": "Nariño",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671497,
+        "name": "Puerto Colombia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682549,
+        "name": "Estancia Nueva",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674603,
+        "name": "Momil",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3769975,
+        "name": "Puerto Chigüiro",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668323,
+        "name": "Santuario",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689899,
+        "name": "Andes",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3676912,
+        "name": "La Unión",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667471,
+        "name": "Taminango",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669987,
+        "name": "San Carlos de Guaroa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682510,
+        "name": "Falan",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689831,
+        "name": "Ansermanuevo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667351,
+        "name": "Tausa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673397,
+        "name": "Páez",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685984,
+        "name": "Consacá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668017,
+        "name": "Simijaca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 8182090,
+        "name": "Ciudad Montes",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670910,
+        "name": "Regidor",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670260,
+        "name": "San Agustín",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685178,
+        "name": "Dolores",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689759,
+        "name": "Aracataca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668332,
+        "name": "Santo Tomás",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689336,
+        "name": "Bagadó",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686324,
+        "name": "Churidó",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685540,
+        "name": "Cucunubá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792384,
+        "name": "Manaure Balcón del Cesar",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670218,
+        "name": "San Andrés",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685084,
+        "name": "Duitama",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3690552,
+        "name": "Acevedo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682788,
+        "name": "El Valle",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3779399,
+        "name": "Canalete",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680113,
+        "name": "Junín",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3690030,
+        "name": "Alvarado",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688855,
+        "name": "Betania",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667728,
+        "name": "Sucre",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3679780,
+        "name": "Labateca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671615,
+        "name": "Puebloviejo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3678907,
+        "name": "La Gloria",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680656,
+        "name": "Ibagué",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672086,
+        "name": "Pizarro",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666082,
+        "name": "Departamento del Vichada",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673369,
+        "name": "Paipa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673662,
+        "name": "Ocaña",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3731933,
+        "name": "Palmas del Socorro",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688151,
+        "name": "Cabuyaro",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675791,
+        "name": "Macanal",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674640,
+        "name": "Mogotes",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3828718,
+        "name": "Yapurquer",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667780,
+        "name": "Suan",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670812,
+        "name": "Ricaurte",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686011,
+        "name": "Concordia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673976,
+        "name": "Nechí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675118,
+        "name": "Matanza",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671072,
+        "name": "Quipile",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689611,
+        "name": "Argelia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687634,
+        "name": "Candelaria",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666881,
+        "name": "Toro",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666333,
+        "name": "Valdivia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666111,
+        "name": "Vergara",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682254,
+        "name": "Gaira",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667355,
+        "name": "Tauramena",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681952,
+        "name": "Granada",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686605,
+        "name": "Chimá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674470,
+        "name": "Montelíbano",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668023,
+        "name": "Simacota",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686196,
+        "name": "Clemencia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3733861,
+        "name": "Curillo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685095,
+        "name": "Dosquebradas",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 6196086,
+        "name": "Cubara",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3684115,
+        "name": "El Guamo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682281,
+        "name": "Funza",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670280,
+        "name": "Sampués",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689815,
+        "name": "Departamento de Antioquia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689239,
+        "name": "Barandillas",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667905,
+        "name": "Soacha",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667660,
+        "name": "Susacón",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673668,
+        "name": "Ocache",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675808,
+        "name": "Mabobo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792374,
+        "name": "Buriticá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685889,
+        "name": "Departamento de Córdoba",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665986,
+        "name": "Villahermosa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689325,
+        "name": "Bahía Solano",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3679716,
+        "name": "Labranzagrande",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687952,
+        "name": "Caldas",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681222,
+        "name": "Güicán",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686918,
+        "name": "Cerinza",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670205,
+        "name": "Providencia y Santa Catalina, Departamento de Archipiélago de San Andrés",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3683149,
+        "name": "El Rosario",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3775262,
+        "name": "Quípama",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669358,
+        "name": "Cubarral",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666311,
+        "name": "Valle de San José",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687310,
+        "name": "Carolina",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689798,
+        "name": "Apartadó",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669895,
+        "name": "San Fernando",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666102,
+        "name": "Versalles",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670718,
+        "name": "Riosucio",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671576,
+        "name": "Puerres",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682182,
+        "name": "Gamarra",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685814,
+        "name": "Corozalito",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685893,
+        "name": "Córdoba",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675255,
+        "name": "Maripí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689723,
+        "name": "Aratoca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666304,
+        "name": "Valledupar",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667218,
+        "name": "Tibaná",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674130,
+        "name": "Mutatá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3732273,
+        "name": "Los Santos",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669310,
+        "name": "San Mateo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680616,
+        "name": "Iles",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681990,
+        "name": "González",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682279,
+        "name": "Fúquene",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686002,
+        "name": "Condoto",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665881,
+        "name": "Viotá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667901,
+        "name": "Soatá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3733434,
+        "name": "El Dorado",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668373,
+        "name": "Santo Domingo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680349,
+        "name": "Java",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669549,
+        "name": "San José del Palmar",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688128,
+        "name": "Cáceres",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682018,
+        "name": "Girón",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671287,
+        "name": "Puerto Wilches",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681364,
+        "name": "Guataquí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673143,
+        "name": "Palmito",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671315,
+        "name": "Puerto Tejada",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3827693,
+        "name": "La Macarena",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666887,
+        "name": "Toribío",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672290,
+        "name": "Piedras",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672521,
+        "name": "Pensilvania",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3684276,
+        "name": "El Doncello",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686445,
+        "name": "Chivolo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686233,
+        "name": "Circasia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688106,
+        "name": "Cáchira",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669482,
+        "name": "San Juan de Arama",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3678097,
+        "name": "La Plata",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672540,
+        "name": "Peñol",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675252,
+        "name": "San Sebastián de Mariquita",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686279,
+        "name": "Ciénaga",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680176,
+        "name": "Juan de Acosta",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673286,
+        "name": "Palermo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668562,
+        "name": "Santa Rita",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686867,
+        "name": "Chachagüí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665811,
+        "name": "Yacuanquer",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685058,
+        "name": "Ebéjico",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689026,
+        "name": "Becerril",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689047,
+        "name": "Bavaria",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686441,
+        "name": "Choachí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667288,
+        "name": "Tenza",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689877,
+        "name": "Angelópolis",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668078,
+        "name": "Sibundoy",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666959,
+        "name": "Toledo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682682,
+        "name": "El Zulia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686110,
+        "name": "Republic of Colombia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687213,
+        "name": "Casabianca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3690429,
+        "name": "Agua de Dios",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682262,
+        "name": "Gachancipá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 7522928,
+        "name": "Villa Maria",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672077,
+        "name": "Planadas",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674702,
+        "name": "Miranda",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687479,
+        "name": "Departamento del Caquetá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670034,
+        "name": "San Bernardo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688673,
+        "name": "Bojacá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792692,
+        "name": "Fosfaco",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3827723,
+        "name": "Valle del Guamuez",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670884,
+        "name": "Remolino",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792380,
+        "name": "Tiquisio",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682385,
+        "name": "Floridablanca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687324,
+        "name": "Carmen de Apicalá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685200,
+        "name": "Distracción",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666309,
+        "name": "Valle de San Juan",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3769960,
+        "name": "Paratebueno",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672997,
+        "name": "Pandi",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685733,
+        "name": "Cota",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681731,
+        "name": "Guadalupe",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673974,
+        "name": "Necoclí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674576,
+        "name": "Monguí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675605,
+        "name": "Málaga",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667701,
+        "name": "Supatá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674393,
+        "name": "Morelia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666755,
+        "name": "Tres Esquinas",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666381,
+        "name": "Urumita",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673475,
+        "name": "Otanche",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681563,
+        "name": "Guamo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682205,
+        "name": "Gallinazo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686675,
+        "name": "Chía",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685794,
+        "name": "Corrales",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3780941,
+        "name": "El Salero",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680880,
+        "name": "Herveo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682160,
+        "name": "Garagoa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667386,
+        "name": "Tarqui",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671655,
+        "name": "Pueblo Nuevo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674810,
+        "name": "Departamento del Meta",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680902,
+        "name": "Heliconia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681255,
+        "name": "Guayatá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3780602,
+        "name": "Fredonia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3684860,
+        "name": "El Bordo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672328,
+        "name": "Piedecuesta",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668937,
+        "name": "Santa Ana",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680641,
+        "name": "Icononzo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 8016083,
+        "name": "Puerto Real",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666092,
+        "name": "Vetas",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3676791,
+        "name": "La Victoria",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686479,
+        "name": "Chiriguaná",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792377,
+        "name": "Vegachí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686569,
+        "name": "Chinavita",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686851,
+        "name": "Chaguaní",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687677,
+        "name": "Cañasgordas",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668716,
+        "name": "Santa Isabel",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681303,
+        "name": "Guayabetal",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685126,
+        "name": "Donmatías",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673849,
+        "name": "Nilo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666041,
+        "name": "Vijagual",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689793,
+        "name": "Apía",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3771124,
+        "name": "Crucero de Pescador",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685724,
+        "name": "Cotorra",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666254,
+        "name": "Departamento del Vaupés",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665547,
+        "name": "Zetaquira",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3683427,
+        "name": "El Poblado",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688009,
+        "name": "Cajibío",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680387,
+        "name": "Jamundí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682374,
+        "name": "Fonseca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685069,
+        "name": "Durania",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687758,
+        "name": "Campo de la Cruz",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3683776,
+        "name": "El Mono",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675657,
+        "name": "Maicao",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688465,
+        "name": "Bucaramanga",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3783478,
+        "name": "Tuchín",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687880,
+        "name": "Caloto",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671002,
+        "name": "Ramiriquí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680857,
+        "name": "Hispania",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670199,
+        "name": "San Antero",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675857,
+        "name": "Lourdes",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688923,
+        "name": "Belmira",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667791,
+        "name": "Sotomayor",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670966,
+        "name": "Ráquira",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681368,
+        "name": "Guatapé",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3683233,
+        "name": "El Retén",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686255,
+        "name": "Cimitarra",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3679554,
+        "name": "La Ceja",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673431,
+        "name": "Pachavita",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665626,
+        "name": "Zacarías",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688928,
+        "name": "Bello",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689771,
+        "name": "Aquitania",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665860,
+        "name": "Vistahermosa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3690316,
+        "name": "Aguazul",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 7910975,
+        "name": "Santa Cruz de Mompox",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673798,
+        "name": "Departamento de Norte de Santander",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669480,
+        "name": "San Juan de Betulia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671418,
+        "name": "Puerto López",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674010,
+        "name": "Natagaima",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668096,
+        "name": "Siachoque",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673826,
+        "name": "Nocaima",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671228,
+        "name": "Pupiales",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3684452,
+        "name": "El Copey",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673590,
+        "name": "Onzaga",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669947,
+        "name": "San Diego",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3684510,
+        "name": "El Cocuy",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792376,
+        "name": "Ciudad Bolívar",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3678328,
+        "name": "Landázuri",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675287,
+        "name": "María la Baja",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669956,
+        "name": "San Cristóbal",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3679505,
+        "name": "La Chorrera",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685708,
+        "name": "Coyaima",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689291,
+        "name": "Balboa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666193,
+        "name": "Venecia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3684270,
+        "name": "El Dorán",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3829343,
+        "name": "Orito",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688656,
+        "name": "Bolívar",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682981,
+        "name": "El Tablón",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673386,
+        "name": "Paicol",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667402,
+        "name": "Tarazá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669718,
+        "name": "San Jerónimo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666673,
+        "name": "Tubará",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667820,
+        "name": "Sonsón",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681997,
+        "name": "Gómez Plata",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3678083,
+        "name": "La Playa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687426,
+        "name": "Caramanta",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671540,
+        "name": "Puerto Berrío",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688775,
+        "name": "Boavita",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792379,
+        "name": "Santa Rosa del Sur",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665803,
+        "name": "Yaguará",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688170,
+        "name": "Cabrera",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672197,
+        "name": "Pinillos",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792396,
+        "name": "La Tola",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792406,
+        "name": "Tibacuy",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686880,
+        "name": "Departamento del Cesar",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682283,
+        "name": "Funes",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671203,
+        "name": "Purísima de la Concepción",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687084,
+        "name": "Castilla La Nueva",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3811890,
+        "name": "Caja",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666939,
+        "name": "Santiago de Tolú",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689436,
+        "name": "Departamento del Atlántico",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674784,
+        "name": "Milán",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3690520,
+        "name": "Agrado",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689982,
+        "name": "Amazonas",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668396,
+        "name": "Santiago",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3690549,
+        "name": "Achí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666936,
+        "name": "Tolú Viejo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682395,
+        "name": "Florián",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687318,
+        "name": "Carmen de Viboral",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3690226,
+        "name": "Aldana",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689551,
+        "name": "Guayabal",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665542,
+        "name": "Zipaquirá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670929,
+        "name": "Recreo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685628,
+        "name": "Cuajadoras",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792392,
+        "name": "Plato",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674021,
+        "name": "Departamento de Nariño",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3690136,
+        "name": "Almaguer",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665813,
+        "name": "Yacopí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673695,
+        "name": "Nunchía",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687335,
+        "name": "Carlosama",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672512,
+        "name": "Peque",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670644,
+        "name": "Roldanillo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680531,
+        "name": "Íquira",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3829349,
+        "name": "Puerto Caicedo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681797,
+        "name": "Guacarí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685223,
+        "name": "Dibulla",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682458,
+        "name": "Flandes",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665544,
+        "name": "Zipacón",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672486,
+        "name": "Pereira",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3690102,
+        "name": "Altamira",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672261,
+        "name": "Piendamó",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792394,
+        "name": "Mapiripán",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665934,
+        "name": "Villanueva",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681353,
+        "name": "Guática",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670745,
+        "name": "Riohacha",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666087,
+        "name": "Vianí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682330,
+        "name": "Fresno",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670475,
+        "name": "Sabaneta",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671098,
+        "name": "Quimbaya",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670513,
+        "name": "Sabanagrande",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672698,
+        "name": "Pauna",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3684257,
+        "name": "El Edén",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685533,
+        "name": "Cúcuta",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686027,
+        "name": "Concepción",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3684266,
+        "name": "El Dovio",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673220,
+        "name": "Palmar de Varela",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680692,
+        "name": "Departamento del Huila",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667547,
+        "name": "Talaigua Viejo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669399,
+        "name": "San Luis",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666226,
+        "name": "Venadillo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689205,
+        "name": "Barbosa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667651,
+        "name": "Sutamarchán",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670011,
+        "name": "San Calixto",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686464,
+        "name": "Chita",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686134,
+        "name": "Cogua",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665992,
+        "name": "Villagarzón",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670303,
+        "name": "Samacá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792389,
+        "name": "Isnos",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668175,
+        "name": "Segovia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667665,
+        "name": "Susa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669857,
+        "name": "San Francisco",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666475,
+        "name": "Unguía",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3676884,
+        "name": "La Uvita",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671950,
+        "name": "Polonuevo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3679130,
+        "name": "La Esperanza",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666313,
+        "name": "Departamento del Valle del Cauca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668268,
+        "name": "Sapuyes",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686883,
+        "name": "Cértegui",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673482,
+        "name": "Ospina",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681491,
+        "name": "Guapotá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667007,
+        "name": "Toca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3676720,
+        "name": "La Virginia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688705,
+        "name": "Bochalema",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3676623,
+        "name": "Leticia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668033,
+        "name": "Silos",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671330,
+        "name": "Puerto Salgar",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672123,
+        "name": "Pital",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3678345,
+        "name": "La Muerte",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681356,
+        "name": "Guateque",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671531,
+        "name": "Puerto Boyacá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3738301,
+        "name": "El Tarra",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671732,
+        "name": "Pringamosa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3684662,
+        "name": "El Castillo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3690572,
+        "name": "Acandí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675768,
+        "name": "Maceo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3679007,
+        "name": "La Florida",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3732203,
+        "name": "Palonegro",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665688,
+        "name": "Yopal",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672255,
+        "name": "Pijao",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672295,
+        "name": "Piedrancha",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686051,
+        "name": "Combita",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675432,
+        "name": "Manta",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686460,
+        "name": "Chitagá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686907,
+        "name": "Cerrito",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671087,
+        "name": "Quindío Department",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680491,
+        "name": "Iscuandé",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689157,
+        "name": "Barranco de Loba",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 8182072,
+        "name": "Estanzuela",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689381,
+        "name": "Ayapel",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668025,
+        "name": "Silvia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666570,
+        "name": "Turbo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674654,
+        "name": "Mocoa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667447,
+        "name": "Tangua",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689458,
+        "name": "Astrea",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685702,
+        "name": "Cravo Norte",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3690287,
+        "name": "Aipe",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668472,
+        "name": "Santa Rosa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682361,
+        "name": "Fortul",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668605,
+        "name": "Santa Marta",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3782071,
+        "name": "Las Tominejas",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3690010,
+        "name": "Amalfi",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3782136,
+        "name": "Minas",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669454,
+        "name": "San Juan Nepomuceno",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689039,
+        "name": "Bayunca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666025,
+        "name": "Vijes",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667811,
+        "name": "Soplaviento",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671916,
+        "name": "Popayán",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3776374,
+        "name": "El Mirador",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685442,
+        "name": "Cumaral",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686835,
+        "name": "Chalán",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 6974754,
+        "name": "El Mecaya",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665693,
+        "name": "Yolombó",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669545,
+        "name": "San José de Miranda",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3676540,
+        "name": "Linares",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681360,
+        "name": "Guatavita",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685974,
+        "name": "Contadero",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686585,
+        "name": "Chimichagua",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672087,
+        "name": "Salahonda",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674499,
+        "name": "Montecristo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689905,
+        "name": "Andalucía",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3679660,
+        "name": "La Calera",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3829421,
+        "name": "Chananané",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682068,
+        "name": "Génova",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685345,
+        "name": "Curití",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682039,
+        "name": "Ginebra",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688875,
+        "name": "Arboleda",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671848,
+        "name": "Potosí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688650,
+        "name": "Departamento de Bolívar",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681596,
+        "name": "Guamal",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671208,
+        "name": "Purificación",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685292,
+        "name": "Dagua",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670207,
+        "name": "San Andrés de Sotavento",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668861,
+        "name": "Santa Catalina",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667211,
+        "name": "Tibasosa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674676,
+        "name": "Mitú",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685295,
+        "name": "Dabeiba",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688071,
+        "name": "Caicedonia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666287,
+        "name": "Valparaíso",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669461,
+        "name": "San Juan de Urabá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682465,
+        "name": "Firavitoba",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673829,
+        "name": "Nobsa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687541,
+        "name": "Cantagallo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670352,
+        "name": "Salento",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675191,
+        "name": "Marulanda",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680539,
+        "name": "Ipiales",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671119,
+        "name": "Quetame",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672176,
+        "name": "Piojó",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666326,
+        "name": "Valencia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667244,
+        "name": "Tesalia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666003,
+        "name": "Villa de Leyva",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672532,
+        "name": "Peñón de Opia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689507,
+        "name": "Arroyohondo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3684770,
+        "name": "El Calvario",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3679065,
+        "name": "La Estrella",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669218,
+        "name": "San Onofre",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685949,
+        "name": "Copacabana",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689870,
+        "name": "Angostura",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675826,
+        "name": "Luruaco",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671424,
+        "name": "Puerto Lleras",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3781883,
+        "name": "Gachetá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666522,
+        "name": "Ubaque",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666436,
+        "name": "Uramita",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672327,
+        "name": "Pie de Pató",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673902,
+        "name": "Neira",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674580,
+        "name": "Mongua",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675452,
+        "name": "Maní",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666526,
+        "name": "Ubalá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682573,
+        "name": "Espinal",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3683778,
+        "name": "El Molino",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685418,
+        "name": "Cunday",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685961,
+        "name": "Contratación",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3786682,
+        "name": "Azucenos",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685335,
+        "name": "Curumaní",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669293,
+        "name": "La Dorada",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673126,
+        "name": "Palocabildo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686142,
+        "name": "Coello",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3679542,
+        "name": "La Celia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682944,
+        "name": "El Tendido",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674618,
+        "name": "Molagavita",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670431,
+        "name": "Sáchica",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3775850,
+        "name": "Bosconia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3678575,
+        "name": "La Llanada",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667473,
+        "name": "Támesis",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671470,
+        "name": "Puerto Escondido",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670874,
+        "name": "Repelón",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675512,
+        "name": "Manatí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668655,
+        "name": "Santa Lucía",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3690250,
+        "name": "Albania",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668263,
+        "name": "Sarancocho",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682400,
+        "name": "Floresta",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689833,
+        "name": "Anserma",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 7033249,
+        "name": "Santa Barbara Central",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671437,
+        "name": "Puerto Leguízamo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673164,
+        "name": "Palmira",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682108,
+        "name": "Garzón",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666395,
+        "name": "Urrao",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3684319,
+        "name": "El Diamante",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669346,
+        "name": "San Marcos",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3732002,
+        "name": "Las Flores",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688989,
+        "name": "Belén de Umbría",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3735680,
+        "name": "Santacruz",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685569,
+        "name": "Cucaita",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792382,
+        "name": "Cartagena del Chairá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665691,
+        "name": "Yondó",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666640,
+        "name": "Tumaco",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670629,
+        "name": "Roncesvalles",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669087,
+        "name": "San Pedro de Urabá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668454,
+        "name": "Santa Rosa de Cabal",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673676,
+        "name": "Obando",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687490,
+        "name": "Capitanejo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667023,
+        "name": "Titiribí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3676417,
+        "name": "López",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688811,
+        "name": "Bituima",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674519,
+        "name": "Montebello",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672778,
+        "name": "Pasto",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686272,
+        "name": "Ciénaga de Oro",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689570,
+        "name": "Arjona",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689718,
+        "name": "Arauca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673609,
+        "name": "Olaya Herrera",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681025,
+        "name": "Hato",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667764,
+        "name": "Suaza",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682425,
+        "name": "Florencia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682631,
+        "name": "Envigado",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687029,
+        "name": "Departamento del Cauca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 8184847,
+        "name": "La Consolata",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 7527065,
+        "name": "Nancilandia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687972,
+        "name": "Calamar",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689124,
+        "name": "Barrio Obrero",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671772,
+        "name": "Pradera",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680601,
+        "name": "Imués",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671604,
+        "name": "Puente Aranda",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672428,
+        "name": "Pesca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670700,
+        "name": "Risaralda",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689838,
+        "name": "Anorí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669084,
+        "name": "San Pelayo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667649,
+        "name": "Sutatausa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688536,
+        "name": "Departamento de Boyacá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669793,
+        "name": "San Ignacio",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674678,
+        "name": "Mistrató",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680554,
+        "name": "Inzá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671216,
+        "name": "Pureto",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792425,
+        "name": "Alto de Garzón",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673379,
+        "name": "Pailitas",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3828545,
+        "name": "San José del Guaviare",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666680,
+        "name": "Trujillo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669011,
+        "name": "San Roque",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3678118,
+        "name": "La Pintada",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666582,
+        "name": "Túquerres",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675780,
+        "name": "Macaravita",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689228,
+        "name": "Barbacoas",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682380,
+        "name": "Fómeque",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667516,
+        "name": "Támara",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675668,
+        "name": "Mahates",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687933,
+        "name": "Caldono",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3683115,
+        "name": "El Salado",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670521,
+        "name": "Sabana del Potrero",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675234,
+        "name": "Marquetalia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666314,
+        "name": "Vallecito",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673511,
+        "name": "Ortega",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665898,
+        "name": "Villavieja",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671116,
+        "name": "Quibdó",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689717,
+        "name": "Departamento de Arauca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3690577,
+        "name": "Acacías",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687418,
+        "name": "Caraño",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665913,
+        "name": "Villa del Rosario",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685823,
+        "name": "Corozal",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688685,
+        "name": "Distrito Capital de Bogotá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674597,
+        "name": "Mompós",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682473,
+        "name": "Filandia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687835,
+        "name": "Campamento",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673407,
+        "name": "Padilla",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3676644,
+        "name": "Lenguazaque",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680453,
+        "name": "Istmina",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680366,
+        "name": "Jardín",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681029,
+        "name": "Hatillo de Loba",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3690237,
+        "name": "Alcalá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668028,
+        "name": "Silvania",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671018,
+        "name": "Ragonvalia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666370,
+        "name": "Usiacurí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669977,
+        "name": "San Cayetano",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667796,
+        "name": "Sotaquirá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670368,
+        "name": "Salamina",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667834,
+        "name": "Somondoco",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680393,
+        "name": "Jambaló",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665900,
+        "name": "Villavicencio",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671901,
+        "name": "Pore",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669440,
+        "name": "San Lorenzo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681306,
+        "name": "Guayabal de Síquima",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689816,
+        "name": "Santa Fe de Antioquia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3769932,
+        "name": "Monterrey",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686107,
+        "name": "Colón",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686471,
+        "name": "Chiscas",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3676661,
+        "name": "Leiva",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3690160,
+        "name": "Algeciras",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3731909,
+        "name": "El Naranjito",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667629,
+        "name": "Tabio",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682047,
+        "name": "Gigante",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689697,
+        "name": "Arboledas",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3690592,
+        "name": "Abejorral",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687025,
+        "name": "Caucasia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671178,
+        "name": "Departamento del Putumayo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666951,
+        "name": "Departamento de Tolima",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673368,
+        "name": "Paispamba",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3683497,
+        "name": "El Peñón",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680840,
+        "name": "Honda",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665559,
+        "name": "Zarzal",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682633,
+        "name": "Entrerríos",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666075,
+        "name": "Victoria",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3678847,
+        "name": "Departamento de La Guajira",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686894,
+        "name": "Cerro de San Antonio",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674931,
+        "name": "Medina",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3676674,
+        "name": "Lebrija",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667697,
+        "name": "Supía",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3769976,
+        "name": "Puerto Gaitán",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681505,
+        "name": "Guapí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3690584,
+        "name": "Ábrego",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667880,
+        "name": "Socotá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672665,
+        "name": "Payán",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665910,
+        "name": "Villarrica",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669808,
+        "name": "San Gil",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675692,
+        "name": "Magangué",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682313,
+        "name": "Frontino",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3677457,
+        "name": "La Sierra",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687476,
+        "name": "Cáqueza",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665918,
+        "name": "Villa Rosa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667725,
+        "name": "Departamento de Sucre",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674735,
+        "name": "Miraflores",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688112,
+        "name": "Cachipay",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673783,
+        "name": "Nóvita",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687238,
+        "name": "Cartagena",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674337,
+        "name": "Morroa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3684917,
+        "name": "El Banco",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689162,
+        "name": "Barrancas",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3829940,
+        "name": "Atenas",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668292,
+        "name": "San Vicente de Chucurí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682243,
+        "name": "Galán",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681234,
+        "name": "Güepsa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3684683,
+        "name": "El Carmen",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669938,
+        "name": "Sandoná",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674453,
+        "name": "Montería",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3679622,
+        "name": "La Capilla",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667816,
+        "name": "Sopetrán",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674166,
+        "name": "Murillo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668451,
+        "name": "Santa Rosa de Osos",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669469,
+        "name": "San Juan del Cesar",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3676205,
+        "name": "Los Córdobas",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3679778,
+        "name": "Bella Suiza",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689689,
+        "name": "Arcabuco",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686561,
+        "name": "Chinchiná",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667082,
+        "name": "Timaná",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669128,
+        "name": "San Pedro",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3678363,
+        "name": "La Montañita",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670754,
+        "name": "Riofrío",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673045,
+        "name": "Pamplona",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667873,
+        "name": "Sogamoso",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3676626,
+        "name": "Lérida",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673756,
+        "name": "Nueva Granada",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681344,
+        "name": "Departamento del Guaviare",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668012,
+        "name": "Simití",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675263,
+        "name": "Marinilla",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3683180,
+        "name": "El Roble",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685428,
+        "name": "Cumbitara",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685600,
+        "name": "Cuatro Bocas",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667717,
+        "name": "Suesca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3690172,
+        "name": "Algarrobo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3736146,
+        "name": "Nochebuena",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666493,
+        "name": "Úmbita",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792378,
+        "name": "Altos del Rosario",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671714,
+        "name": "Providencia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668895,
+        "name": "Santa Bárbara",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674572,
+        "name": "Moniquirá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3690465,
+        "name": "Aguachica",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668138,
+        "name": "Sesquilé",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3678000,
+        "name": "La Primavera",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686262,
+        "name": "Ciénega",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665741,
+        "name": "Yarumal",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675686,
+        "name": "Departamento del Magdalena",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689450,
+        "name": "Ataco",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673352,
+        "name": "Pajarito",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666042,
+        "name": "Vigía del Fuerte",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667070,
+        "name": "Timbiquí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670018,
+        "name": "San Bernardo del Viento",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668572,
+        "name": "Santander de Quilichao",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665973,
+        "name": "Villamaría",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670447,
+        "name": "Saboyá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689709,
+        "name": "Arbeláez",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3679556,
+        "name": "La Ceibita",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689187,
+        "name": "Barichara",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666997,
+        "name": "Tocancipá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672249,
+        "name": "Pijiño del Carmen",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675595,
+        "name": "Malambo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792398,
+        "name": "Puerto Guzmán",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792408,
+        "name": "Santa Genoveva de Docordó",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685271,
+        "name": "Dávila",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687451,
+        "name": "Caracolí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666363,
+        "name": "Útica",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670899,
+        "name": "Remedios",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3677010,
+        "name": "La Tebaida",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681966,
+        "name": "Gramalote",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3690264,
+        "name": "Albán",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3769623,
+        "name": "Chivor",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667983,
+        "name": "Sincelejo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3676864,
+        "name": "La Vega",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671633,
+        "name": "Pueblo Rico",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687321,
+        "name": "Carmen de Carupa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668098,
+        "name": "Siachia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670730,
+        "name": "Rionegro",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689693,
+        "name": "Arboletes",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792404,
+        "name": "San Antonio del Tequendama",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667849,
+        "name": "Soledad",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792743,
+        "name": "La Argentina",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681702,
+        "name": "Guaduas",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3683508,
+        "name": "El Peñol",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687173,
+        "name": "Departamento de Casanare",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671371,
+        "name": "Puerto Parra",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682393,
+        "name": "Florida",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689589,
+        "name": "Ariguaní",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672110,
+        "name": "Pitalito",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3678702,
+        "name": "La Isla",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674569,
+        "name": "Moñitos",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3684189,
+        "name": "El Espino",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666562,
+        "name": "Turmequé",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688396,
+        "name": "Buenavista",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681404,
+        "name": "Guasca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3690019,
+        "name": "Amagá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668286,
+        "name": "San Zenón",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685529,
+        "name": "Cucutilla",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3684689,
+        "name": "El Carmen de Chucurí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3684293,
+        "name": "El Difícil",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3683528,
+        "name": "El Paujíl",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688087,
+        "name": "Cácota",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671961,
+        "name": "Policarpa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670293,
+        "name": "Samaniego",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689172,
+        "name": "Barranca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674272,
+        "name": "Mountain",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671591,
+        "name": "Puente Nacional",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688710,
+        "name": "Bocatoma",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680335,
+        "name": "Jenesano",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673578,
+        "name": "Oporapa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3778835,
+        "name": "La Cumbre",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666409,
+        "name": "Uribia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667290,
+        "name": "Tenjo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670107,
+        "name": "San Antonio",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671348,
+        "name": "Puerto Rico",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672599,
+        "name": "Pelaya",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673413,
+        "name": "Pácora",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671450,
+        "name": "Inírida",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682274,
+        "name": "Fusagasugá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688030,
+        "name": "Caimito",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670419,
+        "name": "Sahagún",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666232,
+        "name": "Vélez",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686431,
+        "name": "Departamento del Chocó",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673811,
+        "name": "Norcasia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 7544046,
+        "name": "Rincón de Contado",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669188,
+        "name": "San Pablo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674012,
+        "name": "Nátaga",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3678674,
+        "name": "La Jagua de Ibirico",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672651,
+        "name": "Paz de Río",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667868,
+        "name": "Solano",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671936,
+        "name": "Ponedera",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675305,
+        "name": "Margarita",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681168,
+        "name": "Hacarí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3683538,
+        "name": "El Paso",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3684785,
+        "name": "El Cairo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3684666,
+        "name": "El Carmen de Bolívar",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3683209,
+        "name": "El Rhin",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688254,
+        "name": "Bugalagrande",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668578,
+        "name": "Departamento de Santander",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687355,
+        "name": "Caribe",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3792399,
+        "name": "El Playón",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3683968,
+        "name": "El Jordán",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686793,
+        "name": "Chaparral",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672813,
+        "name": "Pasca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682516,
+        "name": "Facatativá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682963,
+        "name": "El Tambo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665792,
+        "name": "Yalí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688256,
+        "name": "Guadalajara de Buga",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669929,
+        "name": "San Estanislao",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682238,
+        "name": "Galapa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671161,
+        "name": "Quebradanegra",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681832,
+        "name": "Guaca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685649,
+        "name": "Cruces de Anorí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671630,
+        "name": "Pueblorrico",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689147,
+        "name": "Barranquilla",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674962,
+        "name": "Medellín",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3682028,
+        "name": "Girardot City",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688072,
+        "name": "Caicedo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667044,
+        "name": "Tipacoque",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671519,
+        "name": "Puerto Carreño",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674851,
+        "name": "Mercaderes",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689169,
+        "name": "Barrancabermeja",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3669557,
+        "name": "San José de la Montaña",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3689915,
+        "name": "Ancuya",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3685571,
+        "name": "Cubará",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665587,
+        "name": "Zapatoca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681756,
+        "name": "Guachucal",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667158,
+        "name": "Tierralta",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671337,
+        "name": "Puerto Rondón",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675212,
+        "name": "Marsella",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3676591,
+        "name": "Liborina",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3678167,
+        "name": "La Peña",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681619,
+        "name": "Gualmatán",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668447,
+        "name": "Santa Rosa de Viterbo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675987,
+        "name": "Los Palmitos",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3687964,
+        "name": "Calarcá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675637,
+        "name": "Majagual",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671325,
+        "name": "Puerto Santander",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666502,
+        "name": "Ulloa",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668434,
+        "name": "Santa Sofía",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3672633,
+        "name": "Pedraza",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3680090,
+        "name": "Juradó",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667807,
+        "name": "Sopó",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671346,
+        "name": "Puerto Yuca",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3681767,
+        "name": "Guachetá",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667783,
+        "name": "Suaita",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3671308,
+        "name": "Puerto Triunfo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 7544228,
+        "name": "El Ejido",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673455,
+        "name": "Ovejas",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3675975,
+        "name": "Los Patios",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688839,
+        "name": "Betulia",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3674121,
+        "name": "Muzo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666608,
+        "name": "Tunja",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3673690,
+        "name": "Nuquí",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3828811,
+        "name": "Kilómetro Diez y Ocho",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3688991,
+        "name": "Belén de los Andaquíes",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670235,
+        "name": "San Alonso",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3686574,
+        "name": "Chinácota",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3827660,
+        "name": "San Sebastián",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3666719,
+        "name": "Trinidad",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3668132,
+        "name": "Sevilla",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3670383,
+        "name": "Saladoblanco",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667918,
+        "name": "Sitionuevo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3665851,
+        "name": "Viterbo",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3683463,
+        "name": "El Piñón",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3766939,
+        "name": "Bellavista",
+        "state": "",
+        "country": "CO"
+    },
+    {
+        "id": 3667887,
+        "name": "Socorro",
+        "state": "",
+        "country": "CO"
+    }
+]

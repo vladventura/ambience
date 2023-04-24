@@ -1,5 +1,8 @@
+import 'dart:async';
 import 'dart:io';
 import 'package:ambience/models/weather_model.dart';
+import 'package:ambience/GUI/location_request.dart';
+import 'package:ambience/providers/location_provider.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:ambience/handlers/file_handler.dart';
 import 'package:ambience/handlers/wallpaper_handler.dart';
@@ -12,6 +15,7 @@ import "package:ambience/GUI/create.dart";
 import "package:ambience/GUI/list.dart";
 import "package:ambience/GUI/login.dart";
 import "package:ambience/GUI/main screen.dart";
+import 'package:provider/provider.dart';
 
 void main(List<String> args) async {
   await dotenv.load();
@@ -33,7 +37,22 @@ void main(List<String> args) async {
   //WeatherEntry.deleteRule("ambience_daemon_1682295910655");
   //if not args passed, GUI MODE
   if (args.isEmpty) {
-    //runApp(const MyApp());
+    runZonedGuarded(() {
+      WidgetsFlutterBinding.ensureInitialized();
+      runApp(
+        MultiProvider(
+          providers: [
+            ChangeNotifierProvider(
+              create: (_) => LocationProvider(),
+            ),
+          ],
+          child: const MyApp(),
+        ),
+      );
+    }, (error, stack) {
+      print(error);
+      print(stack);
+    });
   }
   //if there are command line args, GUI-Less mode
   else {
@@ -57,16 +76,18 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'Flutter Demo',
-        theme: ThemeData(
-          primarySwatch: Colors.blue,
-        ),
-        initialRoute: '/',
-        routes: {
-          '/': (context) => const LoginApp(),
-          '/Home': (context) => const MainApp(),
-          '/List': (context) => const ListApp(),
-        });
+      title: 'Flutter Demo',
+      theme: ThemeData(
+        primarySwatch: Colors.blue,
+      ),
+      initialRoute: '/',
+      routes: {
+        '/': (context) => const LoginApp(),
+        '/Home': (context) => const MainApp(),
+        '/List': (context) => const ListApp(),
+        '/LocationRequest': (context) => const LocationRequest(),
+      },
+    );
   }
 }
 
@@ -83,16 +104,6 @@ class _MyHomePageState extends State<MyHomePage> {
   String _input = "";
 
   void _pickFile() async {
-    // An alternative approach can be the following
-    /* 
-    String pathToFile = await getImagePathFromPicker();
-    if (pathToFile.isNotEmpty) {
-      setState(() {
-        _input = pathToFile;
-      });
-    }
-    */
-    // And we get rid of exceptions
     String pathToFile = "";
     try {
       pathToFile = await getImagePathFromPicker();
@@ -112,6 +123,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     String? cityInput;
+
     //mock object for testing
     //==========================
     TimeOfDay time = const TimeOfDay(hour: 23, minute: 45);
@@ -122,7 +134,6 @@ class _MyHomePageState extends State<MyHomePage> {
     String city = 'New York';
     WeatherEntry mockObj = WeatherEntry(time, dow, testPaper, wc, city);
     //===========================
-
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.title),
@@ -132,11 +143,8 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             //weather api text field
-            // ignore: prefer_const_constructors
             TextField(
-              // ignore: prefer_const_constructors
-              decoration: InputDecoration(
-                // ignore: prefer_const_constructors
+              decoration: const InputDecoration(
                 border: OutlineInputBorder(),
                 labelText: 'enter email',
               ),
@@ -145,9 +153,7 @@ class _MyHomePageState extends State<MyHomePage> {
               },
             ),
             TextField(
-              // ignore: prefer_const_constructors
-              decoration: InputDecoration(
-                // ignore: prefer_const_constructors
+              decoration: const InputDecoration(
                 border: OutlineInputBorder(),
                 labelText: 'Enter password',
               ),
@@ -156,9 +162,7 @@ class _MyHomePageState extends State<MyHomePage> {
               },
             ),
             TextField(
-              // ignore: prefer_const_constructors
-              decoration: InputDecoration(
-                // ignore: prefer_const_constructors
+              decoration: const InputDecoration(
                 border: OutlineInputBorder(),
                 hintText: 'Enter city name to get weather for',
               ),
@@ -189,7 +193,7 @@ class _MyHomePageState extends State<MyHomePage> {
         onPressed: _setWallpaper,
         tooltip: 'Set Wallpaper',
         child: const Icon(Icons.add),
-      ), // This trailing comma makes auto-formatting nicer for build methods.
+      ),
     );
   }
 }

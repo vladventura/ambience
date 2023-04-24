@@ -1,0 +1,1790 @@
+[
+    {
+        "id": 3505034,
+        "name": "Guatapanal",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3512208,
+        "name": "Azua",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3495111,
+        "name": "Pedro García",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3499574,
+        "name": "Loma del Yaque",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3502497,
+        "name": "La Guamita",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3504175,
+        "name": "Jamao al Norte",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3510637,
+        "name": "Cambita Garabitos",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3509989,
+        "name": "Cayetano Germosén",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3503936,
+        "name": "Juan Antonio Alix",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3511174,
+        "name": "Borrachón",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3502935,
+        "name": "La Cruz de Mendoza",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493146,
+        "name": "San Francisco de Macorís",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493811,
+        "name": "Rincón Largo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3502015,
+        "name": "La Laguneta",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3491916,
+        "name": "Villa Riva",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3508170,
+        "name": "El Callejón",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3505128,
+        "name": "Guananico",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3491807,
+        "name": "Yaguate",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3502745,
+        "name": "La Entrada",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3496772,
+        "name": "Provincia María Trinidad Sánchez",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3511262,
+        "name": "Bohechío",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3508639,
+        "name": "El Aguacate",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3496284,
+        "name": "Monción",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3504793,
+        "name": "Hatillo Palma",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3497667,
+        "name": "Los Prados",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3491805,
+        "name": "Yaguate Arriba",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3504097,
+        "name": "Jicomé",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3495015,
+        "name": "Provincia de Peravia",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3508266,
+        "name": "El Cachón",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3491914,
+        "name": "Villarpando",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3507304,
+        "name": "El Hoyito",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3512064,
+        "name": "Bánica",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493743,
+        "name": "Río San Juan",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493873,
+        "name": "Rincón",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3494509,
+        "name": "Postrer Río",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3504033,
+        "name": "Joba Arriba",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3510553,
+        "name": "Cana Chapetón",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3500013,
+        "name": "La Uvilla",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493031,
+        "name": "Provincia de San Pedro de Macorís",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493983,
+        "name": "Rancho Español",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3497585,
+        "name": "Los Rinconcitos",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3503811,
+        "name": "Juan Santiago",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3492908,
+        "name": "Santo Domingo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3492984,
+        "name": "Santa Cruz de El Seibo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493494,
+        "name": "Sabana Grande",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3494552,
+        "name": "Pontón Abajo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3500955,
+        "name": "Provincia de La Romana",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3504080,
+        "name": "Jima Abajo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3508503,
+        "name": "El Alto Espino",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3495136,
+        "name": "Provincia de Pedernales",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3494267,
+        "name": "Provincia de Puerto Plata",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3495102,
+        "name": "Pedro Sánchez",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3505825,
+        "name": "Estebanía",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3508234,
+        "name": "El Caimán",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3512573,
+        "name": "Arenoso",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3512720,
+        "name": "Amina",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3512042,
+        "name": "Provincia de Barahona",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3491948,
+        "name": "Villa Bisonó",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3510065,
+        "name": "Castillo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3507269,
+        "name": "Provincia de Elías Piña",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3510992,
+        "name": "Caballero",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3496396,
+        "name": "Miches",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3504815,
+        "name": "Hatico",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493271,
+        "name": "Salsipuedes",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3511540,
+        "name": "San Cristóbal",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3497042,
+        "name": "Mamey",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3495964,
+        "name": "Naranjo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493756,
+        "name": "Río Limpio",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3492997,
+        "name": "Samaná",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3499450,
+        "name": "Los Amaceyes",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3496331,
+        "name": "Moca",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3499230,
+        "name": "Los Botados",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3495857,
+        "name": "Neiba",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3507810,
+        "name": "El Corozal",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3492517,
+        "name": "Tamboril",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3495115,
+        "name": "Pedro Corto",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3503900,
+        "name": "Juan de Herrera",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 6201372,
+        "name": "Provincia de San José de Ocoa",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493143,
+        "name": "San Gregorio de Nigua",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3497176,
+        "name": "Majagual",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3496134,
+        "name": "Monte Plata",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3498418,
+        "name": "Los Hidalgos",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3492627,
+        "name": "El Batey",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493480,
+        "name": "Sabana Grande de Palenque",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3498029,
+        "name": "Los Montones Abajo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3505517,
+        "name": "Galván",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3506630,
+        "name": "El Peñón",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3496200,
+        "name": "Provincia de Monte Cristi",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493022,
+        "name": "San Rafael del Yuma",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3495811,
+        "name": "Nizao",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3500641,
+        "name": "Las Charcas",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3504837,
+        "name": "Habanero",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3506034,
+        "name": "El Valle",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3500261,
+        "name": "Las Salinas",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3506719,
+        "name": "El Palmar",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493152,
+        "name": "San Francisco Abajo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3491736,
+        "name": "Yayas de Viajama",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3504983,
+        "name": "Guayabo Dulce",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3492073,
+        "name": "Veragua Arriba",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3512128,
+        "name": "Bajos de Haina",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3500518,
+        "name": "Las Guáranas",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3500432,
+        "name": "Las Lagunas",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3509207,
+        "name": "Cotuí",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3512067,
+        "name": "Baní",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3502675,
+        "name": "La Excavación",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3503845,
+        "name": "Juan López Abajo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3495020,
+        "name": "Peralta",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3495555,
+        "name": "Palmar Arriba",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3507117,
+        "name": "El Llano",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3505778,
+        "name": "Fantino",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3495684,
+        "name": "Oviedo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3505432,
+        "name": "Gonzalo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3512902,
+        "name": "Agua Santa del Yuna",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3492985,
+        "name": "Santa Cruz de Barahona",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493186,
+        "name": "Provincia de San Cristóbal",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493478,
+        "name": "Sabana Iglesia",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493282,
+        "name": "Provincia de Hermanas Mirabal",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3511277,
+        "name": "Boca de Yuma",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3505029,
+        "name": "Guayabal",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493174,
+        "name": "San Fernando de Monte Cristi",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3502786,
+        "name": "La Descubierta",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3492628,
+        "name": "Sosúa",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3512152,
+        "name": "Baitoíta",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3494584,
+        "name": "Polo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3504160,
+        "name": "Jaquimeyes",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3510083,
+        "name": "Castañuelas",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3496939,
+        "name": "Mancha Nueva",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3509823,
+        "name": "Cevicos",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3510969,
+        "name": "Cabarete",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3496274,
+        "name": "Provincia de Monseñor Nouel",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3494770,
+        "name": "Piloto",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3492557,
+        "name": "Tábara Arriba",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3504466,
+        "name": "Hondo Valle",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3503100,
+        "name": "La Ciénaga",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3512795,
+        "name": "Altamira",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3506541,
+        "name": "El Pino",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493887,
+        "name": "Restauración",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3504951,
+        "name": "Guaymate",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493100,
+        "name": "San José de Ocoa",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3495137,
+        "name": "Pedernales",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3495546,
+        "name": "Palmar de Ocoa",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3509882,
+        "name": "Cercado Abajo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3510874,
+        "name": "Cabrera",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493383,
+        "name": "Sabaneta",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3503338,
+        "name": "La Canela",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3505867,
+        "name": "Provincia Espaillat",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3507247,
+        "name": "El Jamo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3500370,
+        "name": "Las Matas de Farfán",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3503782,
+        "name": "Juncalito Abajo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3497204,
+        "name": "Maizal",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493601,
+        "name": "Sabana Buey",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3508718,
+        "name": "Provincia Duarte",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3512050,
+        "name": "Provincia de Baoruco",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3510363,
+        "name": "Canoa",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3511074,
+        "name": "Buena Vista",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493032,
+        "name": "San Pedro de Macorís",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3495664,
+        "name": "Padre Las Casas",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3500243,
+        "name": "Las Terrenas",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3512689,
+        "name": "Andrés",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3491908,
+        "name": "Villa Tapia",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3496751,
+        "name": "Marmolejos",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3492477,
+        "name": "Tenares",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3491941,
+        "name": "Villa Francisca",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3504766,
+        "name": "Provincia de Hato Mayor",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493482,
+        "name": "Sabana Grande de Boyá",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3505947,
+        "name": "Enriquillo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 6692498,
+        "name": "Playa Escondida",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3505861,
+        "name": "Esperalvillo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3492912,
+        "name": "Provincia de Santiago Rodríguez",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3492367,
+        "name": "Tireo Arriba",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3491927,
+        "name": "Villa Jaragua",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3504158,
+        "name": "Jarabacoa",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493192,
+        "name": "Provincia Sánchez Ramírez",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3492123,
+        "name": "Vallejuelo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3508569,
+        "name": "El Alto",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493175,
+        "name": "Puerto Plata",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3498607,
+        "name": "Los Frailes",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3512027,
+        "name": "Barcequillo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3491913,
+        "name": "Villas Agrícolas Número Dos",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3491952,
+        "name": "Villa Altagracia",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3499602,
+        "name": "Loma de Cabrera",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3508286,
+        "name": "El Cacao",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3508083,
+        "name": "El Carril",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3492112,
+        "name": "Provincia de Valverde",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3492914,
+        "name": "Santiago de los Caballeros",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493091,
+        "name": "Provincia de San Juan",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3496247,
+        "name": "Monte Adentro",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3499977,
+        "name": "Provincia de La Vega",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3503256,
+        "name": "La Caya",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3494121,
+        "name": "Quisqueya",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3504077,
+        "name": "Jimaní",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3507770,
+        "name": "El Cruce",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3494979,
+        "name": "Pescadería",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3491937,
+        "name": "Villa González",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3509363,
+        "name": "Constanza",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3511626,
+        "name": "Bayaguana",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3491943,
+        "name": "Villa Elisa",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3492030,
+        "name": "Vicente Noble",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493949,
+        "name": "Rancho Viejo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3512407,
+        "name": "Arroyo Hondo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3505855,
+        "name": "Esperanza",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3503706,
+        "name": "Provincia de La Altagracia",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3495272,
+        "name": "Paraíso",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3507461,
+        "name": "El Guayabal",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3508951,
+        "name": "Provincia de Dajabón",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3494655,
+        "name": "Pizarrete",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3503950,
+        "name": "Juan Adrián",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3504326,
+        "name": "Provincia de Independencia",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3499559,
+        "name": "Loma La Cruz",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3509382,
+        "name": "Concepción de La Vega",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3508694,
+        "name": "Duvergé",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3507852,
+        "name": "El Consuelo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3494768,
+        "name": "Pimentel",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3496601,
+        "name": "Matanzas",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3512735,
+        "name": "Amador",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3513047,
+        "name": "Acosta",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3511233,
+        "name": "Bonao",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3512209,
+        "name": "Provincia de Azua",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3495159,
+        "name": "Paya",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3505612,
+        "name": "Fundación",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3495313,
+        "name": "Pantanal",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493410,
+        "name": "Sabana Yegua",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3504702,
+        "name": "Herrera",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3508952,
+        "name": "Dajabón",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3499976,
+        "name": "La Venta",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3509191,
+        "name": "Cristóbal",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493232,
+        "name": "Samaná Province",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3495024,
+        "name": "Pepillo Salcedo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3507662,
+        "name": "El Ensanchito",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3503910,
+        "name": "Juancho",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493537,
+        "name": "Sabana del Puerto",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3494064,
+        "name": "Ramón Santana",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3504193,
+        "name": "Jaibón",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3502616,
+        "name": "La Fuentecita",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493732,
+        "name": "Río Verde Arriba",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493612,
+        "name": "Sabana Angosta",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3496132,
+        "name": "Provincia de Monte Plata",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493000,
+        "name": "Santa Ana Arriba",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3496446,
+        "name": "Mella",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493081,
+        "name": "San Juan de la Maguana",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3500367,
+        "name": "Las Matas de Santa Cruz",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493568,
+        "name": "Sabana de la Mar",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493198,
+        "name": "Sánchez",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3505933,
+        "name": "Ensanche Piantini",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3505943,
+        "name": "Ensanche Bella Vista",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3506415,
+        "name": "El Puerto",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3512206,
+        "name": "Azucey",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3508796,
+        "name": "Dominican Republic",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493103,
+        "name": "San José de Las Matas",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3502736,
+        "name": "La Ermita",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3512166,
+        "name": "Baitoa",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 6201373,
+        "name": "Provincia de Santo Domingo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3491905,
+        "name": "Villa Vásquez",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3494863,
+        "name": "Piedra Blanca",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3504765,
+        "name": "Hato Mayor del Rey",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3505819,
+        "name": "Estero Hondo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3510822,
+        "name": "Cachón",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3508010,
+        "name": "El Cercado",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3495304,
+        "name": "Pantoja",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3499748,
+        "name": "Licey al Medio",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3502373,
+        "name": "Laguna Salada",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3503011,
+        "name": "La Colorada",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3495694,
+        "name": "Otra Banda",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3504332,
+        "name": "Imbert",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3504438,
+        "name": "Hostos",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3505392,
+        "name": "Gran Calle",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3505006,
+        "name": "Guayabo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3505488,
+        "name": "Gaspar Hernández",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3494329,
+        "name": "Pueblo Viejo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3495256,
+        "name": "Partido",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3496460,
+        "name": "Mejía de Navarrete",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3496574,
+        "name": "Matayaya",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3497350,
+        "name": "Luperón",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3497564,
+        "name": "Los Ríos",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3491929,
+        "name": "Villa Isabela",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3509028,
+        "name": "Cuesta Colorada",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3512332,
+        "name": "Arroyo Salado",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3506189,
+        "name": "Provincia de El Seibo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3499829,
+        "name": "Lázaro",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3492520,
+        "name": "Tamayo",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3500957,
+        "name": "La Romana",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3491923,
+        "name": "Villa María",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3492918,
+        "name": "Provincia de Santiago",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3492897,
+        "name": "San Víctor Arriba",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3506235,
+        "name": "El Sabroso",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3508761,
+        "name": "Don Juan",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3491796,
+        "name": "Yamasá",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3496021,
+        "name": "Nagua",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3496024,
+        "name": "Distrito Nacional",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3510425,
+        "name": "Canca La Piedra",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3510885,
+        "name": "Cabral",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3495098,
+        "name": "Pedro Santana",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3494242,
+        "name": "Punta Cana",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3498191,
+        "name": "Los Llanos",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3509386,
+        "name": "Comendador",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3493240,
+        "name": "Salvaleón de Higüey",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3507628,
+        "name": "El Factor",
+        "state": "",
+        "country": "DO"
+    },
+    {
+        "id": 3496831,
+        "name": "Mao",
+        "state": "",
+        "country": "DO"
+    }
+]

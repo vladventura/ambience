@@ -1,0 +1,1970 @@
+[
+    {
+        "id": 153352,
+        "name": "Mlowo",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 154309,
+        "name": "Mbumi",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 158321,
+        "name": "Karema",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 877426,
+        "name": "Ruhuwiko",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 160141,
+        "name": "Dunda",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 151445,
+        "name": "Nkoaranga",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 160677,
+        "name": "Chake Chake",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 157632,
+        "name": "Kijini",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155946,
+        "name": "Lindi Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149590,
+        "name": "United Republic of Tanzania",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 153408,
+        "name": "Mlangali",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 158006,
+        "name": "Kibaya",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 877597,
+        "name": "Nangomba",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 151211,
+        "name": "Nyalikungu",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 158422,
+        "name": "Kandete",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 153412,
+        "name": "Mlandizi",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 159107,
+        "name": "Ipinda",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 878054,
+        "name": "Masuguru",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 158514,
+        "name": "Kaliua",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 158160,
+        "name": "Katoro",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 157732,
+        "name": "Kigoma Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 160192,
+        "name": "Dodoma Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 157045,
+        "name": "Kirya",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 157268,
+        "name": "Kingori",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 154915,
+        "name": "Maneromango",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 148730,
+        "name": "Zanzibar",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 156493,
+        "name": "Kongwa",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 435764,
+        "name": "Manyara Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 154747,
+        "name": "Marwa",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 154733,
+        "name": "Masama",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 150885,
+        "name": "Old Shinyanga",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 157198,
+        "name": "Kiomboi",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149050,
+        "name": "Uvinza",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 156312,
+        "name": "Kwakoa",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 157448,
+        "name": "Kilimatinde",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 877588,
+        "name": "Nanhyanga",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149155,
+        "name": "Usa River",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 154995,
+        "name": "Malya",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 154775,
+        "name": "Mara Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155052,
+        "name": "Malangali",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 158178,
+        "name": "Katesh",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 160260,
+        "name": "Dar es Salaam Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 148679,
+        "name": "Kagera Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155515,
+        "name": "Mabama",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 159071,
+        "name": "Iringa",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 877401,
+        "name": "Songea",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 150173,
+        "name": "Sea View",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155921,
+        "name": "Liwale",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 151599,
+        "name": "Ngudu",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149929,
+        "name": "Sikonge",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 159492,
+        "name": "Ifakara",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 877471,
+        "name": "Nyangao",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 158974,
+        "name": "Issenye",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 160670,
+        "name": "Chala",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 158016,
+        "name": "Kibara",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 159067,
+        "name": "Iringa Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 158563,
+        "name": "Kakonko",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 153423,
+        "name": "Mlalo",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155101,
+        "name": "Makumbako",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 160021,
+        "name": "Foraha",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 151266,
+        "name": "Nyakabindi",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 156025,
+        "name": "Lembeni",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155321,
+        "name": "Magomeni",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 153046,
+        "name": "Msanga",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 156111,
+        "name": "Kyela",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 878141,
+        "name": "Madimba",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149239,
+        "name": "Ulenje",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155093,
+        "name": "Makungu",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149606,
+        "name": "Tanga",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 152781,
+        "name": "Mtinko",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 152403,
+        "name": "Mvomero",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 878367,
+        "name": "Kitama",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 6640202,
+        "name": "Merelani",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 157977,
+        "name": "Kibiti",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 878223,
+        "name": "Luchingu",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 877776,
+        "name": "Mtawanya",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 161218,
+        "name": "Bariadi",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 154566,
+        "name": "Matui",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155514,
+        "name": "Mabamba",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 153482,
+        "name": "Mkuranga",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 159218,
+        "name": "Ilembula",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 877416,
+        "name": "Ruvuma Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 153384,
+        "name": "Mlimba",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 160971,
+        "name": "Bukene",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 153772,
+        "name": "Misasi",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 157247,
+        "name": "Kintinku",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155310,
+        "name": "Magugu",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 157738,
+        "name": "Kigoma",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155016,
+        "name": "Malinyi",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 878121,
+        "name": "Mahuta",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149039,
+        "name": "Uwelini",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149812,
+        "name": "Sokoni",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149129,
+        "name": "Ushirombo",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 7284275,
+        "name": "Nungwi",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155076,
+        "name": "Makuyuni",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 151785,
+        "name": "Nduli",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 151929,
+        "name": "Nangwa",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 151567,
+        "name": "Nguruka",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 161154,
+        "name": "Biharamulo",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 158825,
+        "name": "Izazi",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 154668,
+        "name": "Masiwani",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 161322,
+        "name": "Arusha Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 158876,
+        "name": "Itumba",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 877670,
+        "name": "Namalenga",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 161197,
+        "name": "Basotu",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 159398,
+        "name": "Igugunu",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 151062,
+        "name": "Nyanguge",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 153220,
+        "name": "Morogoro",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 877605,
+        "name": "Nanganga",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 160961,
+        "name": "Bukoba",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 158597,
+        "name": "Kahama",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 877391,
+        "name": "Tandahimba",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149703,
+        "name": "Sumbawanga",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 152183,
+        "name": "Mwaya",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 154576,
+        "name": "Matonga",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 152793,
+        "name": "Mtimbira",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 154313,
+        "name": "Mbulu",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 154666,
+        "name": "Masoko",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 151678,
+        "name": "Ngerengere",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 150037,
+        "name": "Shelui",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 151872,
+        "name": "Ndago",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 878087,
+        "name": "Manda",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 878281,
+        "name": "Lindi",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 877384,
+        "name": "Tingi",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 158027,
+        "name": "Kibaha",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149437,
+        "name": "Tukuyu",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 158024,
+        "name": "Kibakwe",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 153209,
+        "name": "Moshi",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 152743,
+        "name": "Mto wa Mbu",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 154321,
+        "name": "Mbuguni",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 150442,
+        "name": "Rukwa Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149512,
+        "name": "Tinde",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155274,
+        "name": "Mahenge",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 877702,
+        "name": "Nachingwea",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 160660,
+        "name": "Chalinze",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 151920,
+        "name": "Nansio",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 158684,
+        "name": "Kabanga",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149775,
+        "name": "Songwa",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 156918,
+        "name": "Kisiwani",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 154654,
+        "name": "Masumbwe",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 160196,
+        "name": "Dodoma",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 159179,
+        "name": "Ilula",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 156963,
+        "name": "Kishapu",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 152570,
+        "name": "Muleba",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 148728,
+        "name": "Zanzibar Central/South Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 157429,
+        "name": "Kilindoni",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 152877,
+        "name": "Mtambile",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 877747,
+        "name": "Mtwara",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 152689,
+        "name": "Mugango",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 152632,
+        "name": "Muheza",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149595,
+        "name": "Tanga Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149310,
+        "name": "Ujiji",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 878195,
+        "name": "Lukuledi",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 157182,
+        "name": "Kipalapala",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 156996,
+        "name": "Kisarawe",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 158151,
+        "name": "Katumba",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 151988,
+        "name": "Namanga",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 152224,
+        "name": "Mwanza",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 148987,
+        "name": "Vikindu",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 154380,
+        "name": "Mbeya",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 156589,
+        "name": "Koani",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 150634,
+        "name": "Puma",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 153709,
+        "name": "Mwandiga",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 159647,
+        "name": "Hedaru",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 159380,
+        "name": "Igurusi",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 156588,
+        "name": "Koani Ndogo",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 152497,
+        "name": "Muriti",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 154002,
+        "name": "Mhango",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 160798,
+        "name": "Butiama",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 159219,
+        "name": "Ilembo",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 154758,
+        "name": "Marombosa",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155187,
+        "name": "Makanya",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 157449,
+        "name": "Kilimanjaro Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155334,
+        "name": "Magole",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 159267,
+        "name": "Ikungi",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 878006,
+        "name": "Mbekenyera",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 150930,
+        "name": "Nzega",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 156974,
+        "name": "Kisesa",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 877433,
+        "name": "Ruangwa",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 157403,
+        "name": "Kilosa",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 161325,
+        "name": "Arusha",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 152663,
+        "name": "Mugumu",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155569,
+        "name": "Lushoto",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 158492,
+        "name": "Kamachumu",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 156124,
+        "name": "Kyaka",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 878362,
+        "name": "Kitangari",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 156098,
+        "name": "Laela",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155743,
+        "name": "Lugoba",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 159454,
+        "name": "Igalula",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 153176,
+        "name": "Mpanda",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149172,
+        "name": "Urambo",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 877631,
+        "name": "Namikupa",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 157377,
+        "name": "Kilwa Masoko",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 154780,
+        "name": "Maramba",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 160892,
+        "name": "Bunda",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 153871,
+        "name": "Mikumi",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 154375,
+        "name": "Mbeya Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149581,
+        "name": "Tarime",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155307,
+        "name": "Kihangara",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 160552,
+        "name": "Chato",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 877998,
+        "name": "Mbinga",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149402,
+        "name": "Tunduma",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 878400,
+        "name": "Kigonsera",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 153247,
+        "name": "Monduli",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 158214,
+        "name": "Kasulu",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 878455,
+        "name": "Chiungutwa",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149151,
+        "name": "Usagara",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 157014,
+        "name": "Kisanga",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 150436,
+        "name": "Rulenge",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 160073,
+        "name": "Endasak",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 154470,
+        "name": "Mazinde",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 157695,
+        "name": "Kigunga",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 152718,
+        "name": "Mtwango",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 161023,
+        "name": "Bugarama",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155244,
+        "name": "Majengo",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 160833,
+        "name": "Buseresere",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 153955,
+        "name": "Micheweni",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 159951,
+        "name": "Galappo",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 151986,
+        "name": "Namanyere",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 159386,
+        "name": "Igunga",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 159134,
+        "name": "Inyonga",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 153214,
+        "name": "Morogoro Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 877744,
+        "name": "Mtwara Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155263,
+        "name": "Mahonda",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 159909,
+        "name": "Geiro",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 152451,
+        "name": "Musoma",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 152219,
+        "name": "Mwanza Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155584,
+        "name": "Lupiro",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 161312,
+        "name": "Babati",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 877925,
+        "name": "Mingoyo",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 150099,
+        "name": "Sepuka",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 159936,
+        "name": "Gamba",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 156080,
+        "name": "Lalago",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 150793,
+        "name": "Pangani",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 157653,
+        "name": "Kihurio",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 150732,
+        "name": "Pemba South Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 151262,
+        "name": "Nyakahanga",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 157960,
+        "name": "Kibondo",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149027,
+        "name": "Uyovu",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 158324,
+        "name": "Kiratu",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 148724,
+        "name": "Zanzibar Urban/West Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 150276,
+        "name": "Same",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155285,
+        "name": "Mahanje",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 878041,
+        "name": "Matiri",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149879,
+        "name": "Singida",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 156636,
+        "name": "Kiwengwa",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 154097,
+        "name": "Mgandu",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 878242,
+        "name": "Liuli",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149132,
+        "name": "Usevia",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 151373,
+        "name": "Nshamba",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 154635,
+        "name": "Matamba",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 151424,
+        "name": "Nkove",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 156510,
+        "name": "Kondoa",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149070,
+        "name": "Utete",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 151711,
+        "name": "Ngara",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 157863,
+        "name": "Kidatu",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 152009,
+        "name": "Nakatunguru",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 159186,
+        "name": "Ilongero",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149658,
+        "name": "Tabora",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 160877,
+        "name": "Bungu",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149876,
+        "name": "Singida Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 154638,
+        "name": "Matai",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 161204,
+        "name": "Bashanet",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155848,
+        "name": "Longido",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 151240,
+        "name": "Nyakato",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 157107,
+        "name": "Kirando",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 878058,
+        "name": "Masasi",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 161022,
+        "name": "Bugene",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 159382,
+        "name": "Igurubi",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 159369,
+        "name": "Ihale",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 161100,
+        "name": "Boma la Ngombe",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 150004,
+        "name": "Shinyanga Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 152169,
+        "name": "Mwembe",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 157826,
+        "name": "Kidodi",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 158289,
+        "name": "Kasamwa",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 150733,
+        "name": "Pemba North Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 150580,
+        "name": "Regeza Mwendo",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 151363,
+        "name": "Nsunga",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 153759,
+        "name": "Misungwi",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 153094,
+        "name": "Mpwapwa",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 152546,
+        "name": "Mungaa",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 160592,
+        "name": "Chanika",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 150453,
+        "name": "Rujewa",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 8128937,
+        "name": "Banana",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149418,
+        "name": "Tumbi",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 160464,
+        "name": "Chimala",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 156513,
+        "name": "Konde",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 159045,
+        "name": "Isaka",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149768,
+        "name": "Soni",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 151610,
+        "name": "Ngorongoro",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 160266,
+        "name": "Dareda",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 160172,
+        "name": "Dongobesh",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 153585,
+        "name": "Mkokotoni",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149114,
+        "name": "Usoke",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 148842,
+        "name": "Wete",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149653,
+        "name": "Tabora Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 150689,
+        "name": "Poli",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155056,
+        "name": "Malampaka",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149792,
+        "name": "Somanda",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 151479,
+        "name": "Njombe",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 160263,
+        "name": "Dar es Salaam",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 152265,
+        "name": "Mwanga",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 156627,
+        "name": "Kiwira",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 158904,
+        "name": "Itigi",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 158179,
+        "name": "Katerero",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 157366,
+        "name": "Kimamba",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 878073,
+        "name": "Maposeni",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 152376,
+        "name": "Mwadui",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 160950,
+        "name": "Bukonyo",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 148942,
+        "name": "Vwawa",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 152933,
+        "name": "Msowero",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 159242,
+        "name": "Ikwiriri",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 150602,
+        "name": "Coast Region",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 878184,
+        "name": "Lulindi",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 878023,
+        "name": "Mbamba Bay",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 877581,
+        "name": "Nanyamba",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 877784,
+        "name": "Mtama",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 161290,
+        "name": "Bagamoyo",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155503,
+        "name": "Mabibe",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 151775,
+        "name": "Ndungu",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 152042,
+        "name": "Naberera",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 151108,
+        "name": "Nyamuswa",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 150006,
+        "name": "Shinyanga",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 154648,
+        "name": "Maswa",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 149854,
+        "name": "Sirari",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 155405,
+        "name": "Mafinga",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 877532,
+        "name": "Newala Kisimani",
+        "state": "",
+        "country": "TZ"
+    },
+    {
+        "id": 151720,
+        "name": "Nganane",
+        "state": "",
+        "country": "TZ"
+    }
+]

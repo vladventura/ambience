@@ -7,7 +7,9 @@ import 'package:ambience/storage/storage.dart';
 import 'dart:convert';
 import 'package:path/path.dart' as p;
 
+// added empty for when the user hasn't entered anything yet
 enum WeatherCondition {
+  Empty, // the NULL case
   Clear,
   Clouds,
   Rain,
@@ -59,7 +61,8 @@ class WeatherEntry {
   // WeatherEntry mockObj = WeatherEntry(time, time, dow, testPaper, wc, city);
   // WeatherEntry.createRule(mockObj);
   // This function will add the entry to the json file
-  static void createRule(WeatherEntry newEntry) async {
+  // Prevents duplicates from being added.
+  static Future<bool> createRule(WeatherEntry newEntry) async {
     Storage store = Storage();
     var jsonDecoded = await store.readAppDocJson(constants.jsonPath);
     // if the read fails then the file doesn't exist,
@@ -68,6 +71,17 @@ class WeatherEntry {
     //    if it doesnt return a string ('failed') then it succeeded
     if (jsonDecoded is Map<String, dynamic>) {
       // the file exists so we will append the new WeatherEntry
+      // first check to see if this is a duplicate rule:
+      bool duplicate = false;
+      jsonDecoded.forEach((key, value) {
+        duplicate = newEntry.startTime.hour == value["startTimeHour"] &&
+            newEntry.startTime.minute == value["startTimeMinute"] &&
+            newEntry.dayOfWeek == value["dayOfWeek"] &&
+            newEntry.weatherCondition == value["weatherCondition"];
+      });
+      if (duplicate) {
+        return false;
+      }
       jsonDecoded[newEntry.idSchema] = newEntry; // add new rule
       String rulesetToJson = jsonEncode(jsonDecoded);
       await store.writeAppDocFile(rulesetToJson, constants.jsonPath);
@@ -81,6 +95,7 @@ class WeatherEntry {
     FireHandler hand = FireHandler();
     //upload the new json and associated wallpapers
     await hand.ruleJSONUpload();
+    return true;
   }
 
   // deletes the rule matching key idSchema from the json

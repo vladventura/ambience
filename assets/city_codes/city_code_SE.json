@@ -1,0 +1,6176 @@
+[
+    {
+        "id": 2706766,
+        "name": "Helsingborg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2682834,
+        "name": "Reftele",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 602149,
+        "name": "Umeå Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2664783,
+        "name": "Vårsta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2692965,
+        "name": "Malmö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 603037,
+        "name": "Sävar",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2701980,
+        "name": "Käpplunda",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2724956,
+        "name": "Åsele Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2697455,
+        "name": "Länghem",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2682570,
+        "name": "Rimbo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2699780,
+        "name": "Köpings Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2700858,
+        "name": "Kimstad",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2664129,
+        "name": "Västra Böckestad",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2675175,
+        "name": "Sörby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2689344,
+        "name": "Nordingrå",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2699206,
+        "name": "Krokek",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 606638,
+        "name": "Bergsviken",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2681447,
+        "name": "Röstebo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2678153,
+        "name": "Skåre",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2690580,
+        "name": "Nacka",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2727594,
+        "name": "Åby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 606084,
+        "name": "Gällivare kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2680352,
+        "name": "Sandared",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2694838,
+        "name": "Lindö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2706678,
+        "name": "Hemse",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2694552,
+        "name": "Ljungbyholm",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2708665,
+        "name": "Hällefors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2712414,
+        "name": "Gävle",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2718133,
+        "name": "Dals Långed",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2704662,
+        "name": "Höviksnäs",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2726983,
+        "name": "Åled",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2713516,
+        "name": "Frövi",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 606266,
+        "name": "Edefors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 8126430,
+        "name": "Linköping socken",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 602909,
+        "name": "Skelleftehamn",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2671055,
+        "name": "Sturkö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2675561,
+        "name": "Södra Vi",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2699879,
+        "name": "Kolsva",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2662777,
+        "name": "Vinsta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2703714,
+        "name": "Ingebo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2718759,
+        "name": "Bunkeflostrand",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2712190,
+        "name": "Gidböle",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2676586,
+        "name": "Smedjebacken",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2665901,
+        "name": "Vadstena Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2684945,
+        "name": "Överum",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2690959,
+        "name": "Motala Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2599289,
+        "name": "Alunda",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 606531,
+        "name": "Boden",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2689336,
+        "name": "Nordmaling",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2722570,
+        "name": "Billdal",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2727731,
+        "name": "Abborrberget",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2691742,
+        "name": "Mjölby Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2702260,
+        "name": "Kalmar Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 6930653,
+        "name": "Salem",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2702449,
+        "name": "Kållered",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2676238,
+        "name": "Söderfors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2684386,
+        "name": "Påskallavik",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2662517,
+        "name": "Vittsjö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2707366,
+        "name": "Hasslö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2662689,
+        "name": "Visby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2678129,
+        "name": "Skärhamn",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2706183,
+        "name": "Hjo Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2723201,
+        "name": "Bastuträsk",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2716586,
+        "name": "Ekerö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2726332,
+        "name": "Älvdalen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2698242,
+        "name": "Kvissleby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2668429,
+        "name": "Tollarp1",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2689570,
+        "name": "Nöbbele",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2688368,
+        "name": "Norrköping",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2678687,
+        "name": "Sjuntorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2664855,
+        "name": "Värnamo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2724958,
+        "name": "Åsele",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725136,
+        "name": "Arvidsjaur",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 603823,
+        "name": "Överkalix",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2715953,
+        "name": "Eskilstuna",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2669112,
+        "name": "Tidaholms kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2678205,
+        "name": "Skara Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2690843,
+        "name": "Munkedal",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2663482,
+        "name": "Veddige",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 3337386,
+        "name": "Västra Götalands län",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2727222,
+        "name": "Åkers Styckebruk",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725924,
+        "name": "Ånge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2673829,
+        "name": "Stigtomta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2716166,
+        "name": "Enköping",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2667328,
+        "name": "Gimo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2670542,
+        "name": "Svalöv",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2684231,
+        "name": "Pershagen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2696503,
+        "name": "Lerum",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2724180,
+        "name": "Axelvold",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2724231,
+        "name": "Avesta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2673629,
+        "name": "Stöpen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2692943,
+        "name": "Malmslätt",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2671392,
+        "name": "Strängnäs",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2708326,
+        "name": "Hälsingfors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 605647,
+        "name": "Hortlax",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2669117,
+        "name": "Tibro Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2674993,
+        "name": "Sösdala",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2670478,
+        "name": "Svanesund",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2665487,
+        "name": "Vallda",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2708152,
+        "name": "Hammarstrand",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2680227,
+        "name": "Sandseryd",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2663293,
+        "name": "Vetlanda",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2679106,
+        "name": "Simrishamns kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2681368,
+        "name": "Rottne",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2662148,
+        "name": "Ystads Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2675078,
+        "name": "Sorsele Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2669047,
+        "name": "Timrå",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 604006,
+        "name": "Norrfjärden",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2697703,
+        "name": "Landvetter",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2724227,
+        "name": "Åvik",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2693555,
+        "name": "Lunds Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2678265,
+        "name": "Skänninge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2717126,
+        "name": "Duvbo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2705127,
+        "name": "Hölö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2713943,
+        "name": "Förslöv",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2670044,
+        "name": "Svenljunga",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2690283,
+        "name": "Näsby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2711537,
+        "name": "Göteborg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2713509,
+        "name": "Frufällan",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 3331621,
+        "name": "Andalen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2685699,
+        "name": "Östhammar",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2704638,
+        "name": "Hovsta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 602912,
+        "name": "Skellefteå Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2690829,
+        "name": "Munkfors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2686858,
+        "name": "Önnestad",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2702776,
+        "name": "Jursla",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2677719,
+        "name": "Skepplanda",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2670879,
+        "name": "Sundbyberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2720793,
+        "name": "Boksjö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2706917,
+        "name": "Hedentorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2703546,
+        "name": "Insjön",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2664939,
+        "name": "Vårgårda",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2668365,
+        "name": "Tomelilla",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2684394,
+        "name": "Partille Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 6944523,
+        "name": "Duvedal",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2673758,
+        "name": "Stockaryd",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2681587,
+        "name": "Rosenlund",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2680959,
+        "name": "Rydsgård",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2704716,
+        "name": "Hova",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2719961,
+        "name": "Brålanda",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2726615,
+        "name": "Almby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2704613,
+        "name": "Hudiksvall",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2705049,
+        "name": "Hörby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2727664,
+        "name": "Abisko",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 3326000,
+        "name": "Petersberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725898,
+        "name": "Ängelholms Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2704620,
+        "name": "Huddinge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2599415,
+        "name": "Björklinge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2702997,
+        "name": "Jokkmokk",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2720382,
+        "name": "Borlänge Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 606086,
+        "name": "Gällivare",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2679832,
+        "name": "Säters Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2677869,
+        "name": "Skattkärr",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2670833,
+        "name": "Sundsbruk",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2689471,
+        "name": "Nora",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2663398,
+        "name": "Vellinge Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2690713,
+        "name": "Myggenäs",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2679567,
+        "name": "Segeltorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2715656,
+        "name": "Fagersta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2663161,
+        "name": "Vi",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2700487,
+        "name": "Klippan",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2716825,
+        "name": "Edsvalla",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2701725,
+        "name": "Karlshamns kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2662996,
+        "name": "Vikingstad",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 602426,
+        "name": "Täfteå",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2690960,
+        "name": "Motala",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2707682,
+        "name": "Härnösands Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2674803,
+        "name": "Spikarna",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2703756,
+        "name": "Indor",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2665063,
+        "name": "Vansbro",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2708710,
+        "name": "Hällbybrunn",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2711896,
+        "name": "Glimåkra",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2712411,
+        "name": "Gävleborgs län",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2720437,
+        "name": "Borgholm",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 3326030,
+        "name": "Karlsro",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2701680,
+        "name": "Karlstad",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2693347,
+        "name": "Lycksele",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2718245,
+        "name": "Dalby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2701715,
+        "name": "Karlskoga",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2675382,
+        "name": "Solsidan",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2692630,
+        "name": "Mariehäll",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2686469,
+        "name": "Örnsköldsvik",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2696473,
+        "name": "Lessebo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 6943587,
+        "name": "Onsala",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2689204,
+        "name": "Ås",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 606333,
+        "name": "Dartsel",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2688367,
+        "name": "Norrköpings Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2686380,
+        "name": "Orsa",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2703268,
+        "name": "Järna",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2706184,
+        "name": "Hjo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 6930654,
+        "name": "Skytteholm",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2710731,
+        "name": "Grillby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2665902,
+        "name": "Vadstena",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2684593,
+        "name": "Påarp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2703292,
+        "name": "Järfälla kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2699282,
+        "name": "Kristinehamn",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2664203,
+        "name": "Västervik",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2712988,
+        "name": "Gamleby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2714765,
+        "name": "Fjälkinge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2602446,
+        "name": "Marielund",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2690055,
+        "name": "Nausta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2677063,
+        "name": "Skultorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2669113,
+        "name": "Tidaholm",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2701221,
+        "name": "Katrineholms Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2662851,
+        "name": "Vindeln",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2711508,
+        "name": "Gotland",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2719757,
+        "name": "Bränningen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2681825,
+        "name": "Ronneby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2669414,
+        "name": "Tanums Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 606249,
+        "name": "Ersmark",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2664870,
+        "name": "Värmlands län",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2688188,
+        "name": "Norsborg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2690578,
+        "name": "Nacka Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2662946,
+        "name": "Vilan",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2721585,
+        "name": "Bjurholm",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2715164,
+        "name": "Fellingsbro",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2675418,
+        "name": "Sollebrunn",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2687444,
+        "name": "Odensjö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2675416,
+        "name": "Sollefteå",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2712044,
+        "name": "Gislaveds Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2665844,
+        "name": "Vagnhärad",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2675408,
+        "name": "Sollentuna",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2704398,
+        "name": "Hultsfred",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2670128,
+        "name": "Svedala",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2676511,
+        "name": "Smögen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2679819,
+        "name": "Sätofta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725901,
+        "name": "Ängelholm",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2719670,
+        "name": "Brastad",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 7839202,
+        "name": "Hässelby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2685724,
+        "name": "Östervåla",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2715324,
+        "name": "Färjestaden",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2715081,
+        "name": "Filipstad",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2726416,
+        "name": "Alster",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2686466,
+        "name": "Örnsköldsviks Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2682706,
+        "name": "Resarö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2717400,
+        "name": "Dorotea Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2673146,
+        "name": "Stora Hammar",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2698753,
+        "name": "Kumla Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2669019,
+        "name": "Tingsryd",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2680764,
+        "name": "Säffle",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2694522,
+        "name": "Ljungskile",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 605676,
+        "name": "Holmsund",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2677025,
+        "name": "Skurup",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2704611,
+        "name": "Hudiksvalls Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2709214,
+        "name": "Hagfors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2721259,
+        "name": "Boo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2696328,
+        "name": "Lidköpings Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2719965,
+        "name": "Bräkne-Hoby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2681743,
+        "name": "Rörberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2694375,
+        "name": "Löddeköpinge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2692349,
+        "name": "Matfors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2727314,
+        "name": "Åkarp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2667847,
+        "name": "Torshälla",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 603814,
+        "name": "Övertorneå",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 602150,
+        "name": "Umeå",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2712255,
+        "name": "Getinge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2700801,
+        "name": "Kiruna Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2718836,
+        "name": "Bua",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2687498,
+        "name": "Ödåkra",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 604382,
+        "name": "Matarengi",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 606350,
+        "name": "Byske",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2720114,
+        "name": "Botkyrka Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725192,
+        "name": "Årsunda",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2681821,
+        "name": "Ronneby Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2707057,
+        "name": "Heby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2682977,
+        "name": "Raus",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2699176,
+        "name": "Krokom",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2693081,
+        "name": "Malen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2717266,
+        "name": "Drängsered",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2712859,
+        "name": "Gantofta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2704136,
+        "name": "Huskvarna",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2670715,
+        "name": "Sunnäs",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2699957,
+        "name": "Kolla",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2713219,
+        "name": "Gagnef",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725722,
+        "name": "Ankarsrum",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2712373,
+        "name": "Genarp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2685092,
+        "name": "Ovanåkers Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2706982,
+        "name": "Hedemora",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2679855,
+        "name": "Säter",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 3336566,
+        "name": "Fisksätra",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2664994,
+        "name": "Varbergs Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725379,
+        "name": "Årjäng",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2707664,
+        "name": "Harplinge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2713797,
+        "name": "Fränsta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2720037,
+        "name": "Boxholm",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2667876,
+        "name": "Torsby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2718271,
+        "name": "Dalarö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2719312,
+        "name": "Brevik",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2720670,
+        "name": "Bollstabruk",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2715351,
+        "name": "Färgelanda",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 602566,
+        "name": "Storvik",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2722363,
+        "name": "Bjärnum",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2714327,
+        "name": "Floby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2720028,
+        "name": "Braås",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2712887,
+        "name": "Gånghester",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2717842,
+        "name": "Deje",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2666670,
+        "name": "Uddevalla",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2696329,
+        "name": "Lidköping",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2692876,
+        "name": "Malung",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2686674,
+        "name": "Örbyhus",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2721518,
+        "name": "Blackeberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2676174,
+        "name": "Södertälje Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2727130,
+        "name": "Alafors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 7670962,
+        "name": "Berghem",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725123,
+        "name": "Arvika",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2687454,
+        "name": "Odensbacken",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2713385,
+        "name": "Furulund",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2719212,
+        "name": "Broby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2667809,
+        "name": "Torslanda",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2705562,
+        "name": "Hökåsen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2691510,
+        "name": "Molkom",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2699281,
+        "name": "Kristinehamns Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2680662,
+        "name": "Sala",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725371,
+        "name": "Arjeplogs Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2709494,
+        "name": "Habo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2716758,
+        "name": "Ekängen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2715573,
+        "name": "Falkenberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2692633,
+        "name": "Mariefred",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2664330,
+        "name": "Västerhus",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2680977,
+        "name": "Rydaholm",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2694537,
+        "name": "Ljunghusen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 605859,
+        "name": "Haparanda",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2706040,
+        "name": "Höga",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2721581,
+        "name": "Bjursås",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2700754,
+        "name": "Kivik",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2713964,
+        "name": "Forsheda",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2667094,
+        "name": "Tumba",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2702923,
+        "name": "Jonstorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2707953,
+        "name": "Haninge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2671230,
+        "name": "Strömsnäsbruk",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2689018,
+        "name": "Norrahammar",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2687690,
+        "name": "Nykvarn",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 606209,
+        "name": "Falmarksforsen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2697295,
+        "name": "Långshyttan",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2703321,
+        "name": "Jannelund",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2717517,
+        "name": "Djursholm",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2663432,
+        "name": "Vejbystrand",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2699050,
+        "name": "Kronoberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2663548,
+        "name": "Vävle",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2694631,
+        "name": "Lit",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2700854,
+        "name": "Kinda Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2701792,
+        "name": "Karlholmsbruk",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2696332,
+        "name": "Lidingö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2699777,
+        "name": "Köpmanholmen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 605393,
+        "name": "Kalix",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2670878,
+        "name": "Sundbybergs Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2719245,
+        "name": "Bro",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 3336568,
+        "name": "Skanör med Falsterbo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 8131853,
+        "name": "Linköpings S:t Lars",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2666493,
+        "name": "Ulricehamn",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2676591,
+        "name": "Smedby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2663535,
+        "name": "Växjö Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2680985,
+        "name": "Ryd",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2686657,
+        "name": "Örebro",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2699310,
+        "name": "Kristianstad",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 603570,
+        "name": "Piteå",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2685867,
+        "name": "Östergötlands län",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 603304,
+        "name": "Röbäck",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2688131,
+        "name": "Nossebro",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2599299,
+        "name": "Anneberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2689513,
+        "name": "Nolhaga",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2702683,
+        "name": "Kågeröd",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2723350,
+        "name": "Bårslöv",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2677234,
+        "name": "Skövde",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2704327,
+        "name": "Hummelsta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2709628,
+        "name": "Gustavsberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2721505,
+        "name": "Blacksta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2701757,
+        "name": "Karlsborg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2710797,
+        "name": "Grebbestad",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2688248,
+        "name": "Norrtälje Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2705085,
+        "name": "Hönekulla",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2690167,
+        "name": "Nässjö Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2702469,
+        "name": "Kålleboda",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2687636,
+        "name": "Nynäshamn",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2677019,
+        "name": "Skutskär",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2664441,
+        "name": "Västerås",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2669118,
+        "name": "Tibro",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2719106,
+        "name": "Bromölla",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2691387,
+        "name": "Mörarp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2713974,
+        "name": "Forserum",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2670603,
+        "name": "Surte",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2667109,
+        "name": "Tullinge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2698691,
+        "name": "Kungsholmen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2700497,
+        "name": "Klintehamn",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2703339,
+        "name": "Jämshög",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2711451,
+        "name": "Gråbo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2662149,
+        "name": "Ystad",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725439,
+        "name": "Ardala",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2694808,
+        "name": "Lindsdal",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2706523,
+        "name": "Herrljunga",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2712045,
+        "name": "Gislaved",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2666669,
+        "name": "Uddevalla Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2726470,
+        "name": "Alsike",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2662935,
+        "name": "Vilhelmina",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2721357,
+        "name": "Blekinge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2697727,
+        "name": "Landsbro",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2698697,
+        "name": "Kungshamn",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2700218,
+        "name": "Knislinge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2664529,
+        "name": "Västansjö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2693049,
+        "name": "Målilla",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2696500,
+        "name": "Lerums Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2699791,
+        "name": "Köping",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2664339,
+        "name": "Vasterhaninge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2686162,
+        "name": "Oskarshamn",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2700960,
+        "name": "Kil",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2680820,
+        "name": "Säby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2667872,
+        "name": "Torsby Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2724320,
+        "name": "Åtvidabergs Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2599418,
+        "name": "Marieberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2662324,
+        "name": "Vrigstad",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2700663,
+        "name": "Klänkeberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2716443,
+        "name": "Ekshärad",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2724327,
+        "name": "Attsjö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2687420,
+        "name": "Ödeshög",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2726285,
+        "name": "Älvkarleby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2682995,
+        "name": "Rättvik",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2664292,
+        "name": "Västernorrlands län",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2694283,
+        "name": "Löknäs",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2700079,
+        "name": "Kode",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2686153,
+        "name": "Ösmo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 603291,
+        "name": "Rolfs",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2706435,
+        "name": "Hillerstorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2687517,
+        "name": "Ockelbo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2708429,
+        "name": "Hallstahammar",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 7839203,
+        "name": "Hässelby Gård",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2717558,
+        "name": "Djurås",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2686087,
+        "name": "Östanbo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2663399,
+        "name": "Vellinge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2696479,
+        "name": "Lesjöfors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2691395,
+        "name": "Mora Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2691602,
+        "name": "Mockfjärd",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725336,
+        "name": "Arlöv",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 605387,
+        "name": "Kalix Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 606530,
+        "name": "Bodens Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2688172,
+        "name": "Norsjö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2720681,
+        "name": "Bollmora",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2715568,
+        "name": "Falköping",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2713659,
+        "name": "Fristad",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2717884,
+        "name": "Degerfors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2709969,
+        "name": "Gullbrandstorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2717824,
+        "name": "Delsbo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725134,
+        "name": "Arvidsjaurs Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2706448,
+        "name": "Hille",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2665093,
+        "name": "Vännäs",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2667264,
+        "name": "Trönninge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2674649,
+        "name": "Staffanstorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2706914,
+        "name": "Hedesunda",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2687509,
+        "name": "Öckerö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2683436,
+        "name": "Ramnäs",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2692059,
+        "name": "Mellbystrand",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2673693,
+        "name": "Stockvik",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2701223,
+        "name": "Katrineholm",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2726755,
+        "name": "Alingsås Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2726314,
+        "name": "Alvesta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2712651,
+        "name": "Garnviken",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2718393,
+        "name": "Charlottenberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2726240,
+        "name": "Åmål",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2698433,
+        "name": "Kvarnholmen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2673723,
+        "name": "Stockholms Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2712995,
+        "name": "Gamla Staden",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2686209,
+        "name": "Osby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2723567,
+        "name": "Bålsta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2679698,
+        "name": "Sävsjö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 606642,
+        "name": "Södra Bergsbyn",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2683371,
+        "name": "Ramshult",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2668674,
+        "name": "Tjörns Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2713679,
+        "name": "Frillesås",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2714618,
+        "name": "Fjugesta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2719485,
+        "name": "Bredaryd",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2676215,
+        "name": "Söderköping",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2664194,
+        "name": "Västhammar",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2673621,
+        "name": "Storå",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2693524,
+        "name": "Lunna",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 603261,
+        "name": "Rosvik",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2694502,
+        "name": "Ljusdals Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2726330,
+        "name": "Älvdalens kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2710683,
+        "name": "Grimsta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 603035,
+        "name": "Råneå",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2680969,
+        "name": "Rydebäck",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2724962,
+        "name": "Åseda",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2662881,
+        "name": "Vimmerby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2711174,
+        "name": "Gränna",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2696058,
+        "name": "Lilla Edets Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2664880,
+        "name": "Värmdö Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2685903,
+        "name": "Österbybruk",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 602137,
+        "name": "Ursviken",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2721035,
+        "name": "Bodafors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2709196,
+        "name": "Häggatorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2690478,
+        "name": "Nämnsbo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2694762,
+        "name": "Linköping",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2700839,
+        "name": "Kinna",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2689580,
+        "name": "Njurundabommen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2669098,
+        "name": "Tierp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2721534,
+        "name": "Bjuv",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2704619,
+        "name": "Huddinge Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 606072,
+        "name": "Gammelstad",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2698745,
+        "name": "Kummelnäs",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2682532,
+        "name": "Ringön",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2724621,
+        "name": "Aspenäs",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2676214,
+        "name": "Söderköpings Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2702976,
+        "name": "Jönköpings län",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2682913,
+        "name": "Rävlanda",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 604010,
+        "name": "Norrbotten",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2705718,
+        "name": "Högsby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2670036,
+        "name": "Svenneby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2716601,
+        "name": "Ekenässjön",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2726163,
+        "name": "Åmotfors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2717412,
+        "name": "Donsö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2665708,
+        "name": "Vålberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 602261,
+        "name": "Töre",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2706057,
+        "name": "Hofors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2717898,
+        "name": "Degeberga",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2712377,
+        "name": "Gemla",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 603919,
+        "name": "Obbola",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2703212,
+        "name": "Järpen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2682776,
+        "name": "Ren",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2707138,
+        "name": "Haverdal",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2685981,
+        "name": "Österåkers Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2674209,
+        "name": "Stenhamra",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2724410,
+        "name": "Åsundatorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2696804,
+        "name": "Laxå",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2689287,
+        "name": "Nordstaden",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2680075,
+        "name": "Sandviken",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2708025,
+        "name": "Hanaskog",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2697861,
+        "name": "Laholm",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2723287,
+        "name": "Båstad",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2698293,
+        "name": "Kvidinge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2667904,
+        "name": "Torsås",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2663435,
+        "name": "Veinge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2675397,
+        "name": "Solna",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2666950,
+        "name": "Tvååker",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2699768,
+        "name": "Kopparberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2694264,
+        "name": "Lomma",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2702996,
+        "name": "Jokkmokks Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2710268,
+        "name": "Grunnarp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2717268,
+        "name": "Drängsbo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725003,
+        "name": "Åsbro",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2677356,
+        "name": "Sköllersta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2714401,
+        "name": "Flen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725194,
+        "name": "Årstaskog",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2704042,
+        "name": "Hyllinge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2682487,
+        "name": "Rinkabyholm",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2705075,
+        "name": "Hönö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2706100,
+        "name": "Hjuvik",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2704956,
+        "name": "Hörnefors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 3337385,
+        "name": "Skåne län",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2690101,
+        "name": "Näsum",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2700199,
+        "name": "Knivsta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2723079,
+        "name": "Bengtsfors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2691792,
+        "name": "Mjällby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2702977,
+        "name": "Jönköpings Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2696650,
+        "name": "Leksand",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2686493,
+        "name": "Ornäs",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 601972,
+        "name": "Viken",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2701712,
+        "name": "Karlskrona Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2704008,
+        "name": "Hyltebruk",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2716281,
+        "name": "Emmaboda",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2685177,
+        "name": "Östra Vi",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2692611,
+        "name": "Mariestads Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2676224,
+        "name": "Söderhamn",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2677548,
+        "name": "Skivarp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2684485,
+        "name": "Pålsboda",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2664201,
+        "name": "Västerviks Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2679302,
+        "name": "Sigtuna",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2711798,
+        "name": "Gnesta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725378,
+        "name": "Årjängs Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2715341,
+        "name": "Färila",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2706323,
+        "name": "Hittarp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2671060,
+        "name": "Sturefors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2686286,
+        "name": "Örsundsbro",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2694779,
+        "name": "Linghem",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2699393,
+        "name": "Kramfors Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2701123,
+        "name": "Kättsta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2722120,
+        "name": "Björkfors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2727234,
+        "name": "Åkersberga",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2727363,
+        "name": "Åhus",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2669768,
+        "name": "Täby Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 602913,
+        "name": "Skellefteå",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 3326037,
+        "name": "Slätten",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2684636,
+        "name": "Oxie",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2708511,
+        "name": "Hallsberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2712409,
+        "name": "Gävle Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2691542,
+        "name": "Moheda",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2671490,
+        "name": "Storvreta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2687063,
+        "name": "Olofstorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2676222,
+        "name": "Söderhamns Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2701714,
+        "name": "Karlskoga Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2726568,
+        "name": "Älmhults Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2719111,
+        "name": "Bromma",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2712642,
+        "name": "Garphyttan",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2723488,
+        "name": "Bara",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2669046,
+        "name": "Timrå Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2678804,
+        "name": "Sjömarken",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2721828,
+        "name": "Björneborg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2671530,
+        "name": "Storuman",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 602804,
+        "name": "Södra Sunderbyn",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2687062,
+        "name": "Olofström",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2697944,
+        "name": "Lagan",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2667302,
+        "name": "Trollhättan",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2670781,
+        "name": "Sundsvall",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2708889,
+        "name": "Häljarp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2706543,
+        "name": "Herrestad",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2716968,
+        "name": "Ed",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2664996,
+        "name": "Varberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2686656,
+        "name": "Örebro Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2671529,
+        "name": "Storumans Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2706054,
+        "name": "Hofterup",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2670403,
+        "name": "Svärdsjö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2706483,
+        "name": "Hestra",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2716437,
+        "name": "Eksjö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2663536,
+        "name": "Växjö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2691400,
+        "name": "Mora",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2692637,
+        "name": "Mariedal",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2708794,
+        "name": "Halland",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 813418,
+        "name": "Yttre-Bergnäset",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2722799,
+        "name": "Bergholmen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2716854,
+        "name": "Edsgården",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 603569,
+        "name": "Piteå Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2670540,
+        "name": "Svalövs Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2678210,
+        "name": "Skara",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2723440,
+        "name": "Barkåkra",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2674326,
+        "name": "Stehag",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2703038,
+        "name": "Johannedal",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2698520,
+        "name": "Kvänum",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2706619,
+        "name": "Henån",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725456,
+        "name": "Arbrå",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2699308,
+        "name": "Kristianstads kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 604490,
+        "name": "Luleå",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2691230,
+        "name": "Mörtnäs",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2692972,
+        "name": "Malmköping",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2666823,
+        "name": "Tygelsjö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2722545,
+        "name": "Billingsfors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2726394,
+        "name": "Älta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2663254,
+        "name": "Vibble",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2673722,
+        "name": "Stockholm",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2700597,
+        "name": "Klåveröd",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2703300,
+        "name": "Järbo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2715329,
+        "name": "Färjenäs",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2720504,
+        "name": "Bor",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2662659,
+        "name": "Vislanda",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2724134,
+        "name": "Axvall",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 8051325,
+        "name": "Sundshult",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2685915,
+        "name": "Österby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2726705,
+        "name": "Alleby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2670995,
+        "name": "Styrsö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2685747,
+        "name": "Östersunds Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2674594,
+        "name": "Stallarholmen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2676644,
+        "name": "Smålandsstenar",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2701640,
+        "name": "Kärne",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 602201,
+        "name": "Tuolluvaara",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2721348,
+        "name": "Blentarp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2665403,
+        "name": "Vallkärra",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2692613,
+        "name": "Mariestad",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2680460,
+        "name": "Saltsjöbaden",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2713193,
+        "name": "Gålarp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2692475,
+        "name": "Märsta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 606370,
+        "name": "Bureå",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2700011,
+        "name": "Kolbäck",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2714795,
+        "name": "Fittja",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2687272,
+        "name": "Öjersjö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2704245,
+        "name": "Hunnebostrand",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2670776,
+        "name": "Sundsvalls Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2717401,
+        "name": "Dorotea",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2724778,
+        "name": "Askersund",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2687700,
+        "name": "Nyköping",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2678528,
+        "name": "Skälby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2671221,
+        "name": "Strömsund",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2685828,
+        "name": "Östermalm",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2690866,
+        "name": "Munka-Ljungby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2666545,
+        "name": "Ullered",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2680350,
+        "name": "Sandarne",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2722563,
+        "name": "Billesholm",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2678173,
+        "name": "Skärblacka",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 605155,
+        "name": "Kiruna",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2690989,
+        "name": "Mossle",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2694529,
+        "name": "Ljungsbro",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2667253,
+        "name": "Trosa",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2720496,
+        "name": "Borås",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2720678,
+        "name": "Bollnäs Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 6619708,
+        "name": "Majorna",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2665174,
+        "name": "Väne Åsaka",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2689192,
+        "name": "Norra Åsum",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 7304459,
+        "name": "Erikslid",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2691326,
+        "name": "Morgongåva",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2699394,
+        "name": "Kramfors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2665857,
+        "name": "Vaggeryd",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2681576,
+        "name": "Rosersberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2672053,
+        "name": "Storfors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2691459,
+        "name": "Mölndal",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2698681,
+        "name": "Kungsör",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2669086,
+        "name": "Tillberga",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2719609,
+        "name": "Brattåsen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2713971,
+        "name": "Forshaga",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2723128,
+        "name": "Beddinge Läge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2708365,
+        "name": "Halmstad",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2665090,
+        "name": "Vännäsby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2698733,
+        "name": "Kungsängen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2679226,
+        "name": "Siljansnäs",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725065,
+        "name": "Åsa",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 603761,
+        "name": "Pajala",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2715459,
+        "name": "Falun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2701727,
+        "name": "Karlshamn",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725469,
+        "name": "Arboga Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2686160,
+        "name": "Oskarström",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2666237,
+        "name": "Upplands Väsby kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2693678,
+        "name": "Lund",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2707363,
+        "name": "Hasslösa",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2679397,
+        "name": "Sibbhult",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2716296,
+        "name": "Elverslösa",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2711790,
+        "name": "Gnosjö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2713350,
+        "name": "Fyllinge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2698729,
+        "name": "Kungsbacka",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2687698,
+        "name": "Nyköpings Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2678926,
+        "name": "Sjöberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2682155,
+        "name": "Rödeby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2692469,
+        "name": "Marstrand",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2674181,
+        "name": "Stenkullen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2666238,
+        "name": "Upplands Väsby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2689452,
+        "name": "Norberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2720485,
+        "name": "Borensberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 603292,
+        "name": "Roknäs",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2705402,
+        "name": "Höllviken",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2703684,
+        "name": "Ingelstad",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 606714,
+        "name": "Backa",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2675365,
+        "name": "Sölvesborg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2662778,
+        "name": "Vinslöv",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2678913,
+        "name": "Sjöbo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2720689,
+        "name": "Bollebygd",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2670278,
+        "name": "Svärtinge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2715658,
+        "name": "Fagerslätt",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2681416,
+        "name": "Roteberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2685900,
+        "name": "Österbymo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2701154,
+        "name": "Kattisavan",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2669772,
+        "name": "Täby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2676207,
+        "name": "Södermanlands län",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2688250,
+        "name": "Norrtälje",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2698767,
+        "name": "Kumla",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2707608,
+        "name": "Härryda Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2676176,
+        "name": "Södertälje",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2723503,
+        "name": "Bankeryd",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2669193,
+        "name": "Tenhult",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2675079,
+        "name": "Sorsele",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2683709,
+        "name": "Radbyn",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2675691,
+        "name": "Södra Sandby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2726576,
+        "name": "Älmhult",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2722996,
+        "name": "Berg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2716668,
+        "name": "Ekeby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2699767,
+        "name": "Dalarna",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725372,
+        "name": "Arjeplog",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2720679,
+        "name": "Bollnäs",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 606363,
+        "name": "Burträsk",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2726005,
+        "name": "Aneby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2670613,
+        "name": "Surahammar",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2689733,
+        "name": "Nibbleåsen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2694417,
+        "name": "Löberöd",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2690170,
+        "name": "Nässjö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2664921,
+        "name": "Vargön",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2691462,
+        "name": "Mölnbo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2692661,
+        "name": "Mariannelund",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2671389,
+        "name": "Strängnäs Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2702259,
+        "name": "Kalmar",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2679300,
+        "name": "Sigtuna Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2669342,
+        "name": "Tärnsjö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2600754,
+        "name": "Brynäs",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2692748,
+        "name": "Mantorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2722320,
+        "name": "Bjästa",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2706713,
+        "name": "Hemmesta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 7304451,
+        "name": "Bagarmossen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2716165,
+        "name": "Enköpings Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2722932,
+        "name": "Berga",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 603897,
+        "name": "Ön",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2677644,
+        "name": "Skillingaryd",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2670536,
+        "name": "Svalsta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2665451,
+        "name": "Vallentuna Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2689520,
+        "name": "Nolby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2676731,
+        "name": "Slite",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 606649,
+        "name": "Bergnäset",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2701590,
+        "name": "Kärra",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2707952,
+        "name": "Haninge Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2704397,
+        "name": "Hultsfreds Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2694366,
+        "name": "Lödöse",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2691407,
+        "name": "Mönsterås",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2726347,
+        "name": "Älvängen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2691271,
+        "name": "Mörrum",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2708426,
+        "name": "Hallstavik",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2664852,
+        "name": "Värnamo Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 604779,
+        "name": "Långsele",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2686979,
+        "name": "Olstorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2700162,
+        "name": "Knoxhult",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2709912,
+        "name": "Gullspång",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2702979,
+        "name": "Jönköping",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 605028,
+        "name": "Koskullskulle",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2694893,
+        "name": "Lindesberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725271,
+        "name": "Arnö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 6269436,
+        "name": "Ingared",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2670470,
+        "name": "Svängsta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 604419,
+        "name": "Malmberget",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2677239,
+        "name": "Skottsund",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2715945,
+        "name": "Eslövs Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2692049,
+        "name": "Mellerud",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2706003,
+        "name": "Höganäs",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2718991,
+        "name": "Brunflo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2722026,
+        "name": "Björkö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2667499,
+        "name": "Träslövsläge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2671206,
+        "name": "Strövelstorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2724472,
+        "name": "Assmundtorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2701096,
+        "name": "Kävlinge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2683835,
+        "name": "Råå",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2686596,
+        "name": "Örkelljunga",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2718144,
+        "name": "Dalsjöfors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2662795,
+        "name": "Vinninga",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2677233,
+        "name": "Skövde Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2662666,
+        "name": "Viskafors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2715946,
+        "name": "Eslöv",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2714727,
+        "name": "Fjällbonäs",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2664315,
+        "name": "Västerlo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2711533,
+        "name": "Göteborgs stad",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2667405,
+        "name": "Trekanten",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2666771,
+        "name": "Tyringe",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2680657,
+        "name": "Sala kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725422,
+        "name": "Åre kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725201,
+        "name": "Årsta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2664179,
+        "name": "Västmanlands län",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2681866,
+        "name": "Rönnäng",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2686649,
+        "name": "Öregrund",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2667599,
+        "name": "Tranemo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2685750,
+        "name": "Östersund",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725471,
+        "name": "Arboga",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2673969,
+        "name": "Stensta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2711820,
+        "name": "Glumslöv",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2668180,
+        "name": "Tormestorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2700279,
+        "name": "Knäred",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2694165,
+        "name": "Lönsboda",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2698739,
+        "name": "Kungälv",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2708663,
+        "name": "Hälleforsnäs",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2677062,
+        "name": "Skultuna",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2671224,
+        "name": "Strömstad",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2668516,
+        "name": "Toftenäs",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2710343,
+        "name": "Grums",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2693002,
+        "name": "Malmbäck",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2679721,
+        "name": "Sävja",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2706981,
+        "name": "Hedemora Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2677593,
+        "name": "Skinnskatteberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725348,
+        "name": "Ärla",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2704885,
+        "name": "Horred",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2661886,
+        "name": "Kingdom of Sweden",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2669415,
+        "name": "Tanumshede",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2664415,
+        "name": "Västerbottens län",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2665170,
+        "name": "Vänersborgs Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2667402,
+        "name": "Trelleborg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2702489,
+        "name": "Källby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2721226,
+        "name": "Boarp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2696059,
+        "name": "Lilla Edet",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2665171,
+        "name": "Vänersborg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2705055,
+        "name": "Höör",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2665691,
+        "name": "Valbo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2675406,
+        "name": "Sollentuna Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2707217,
+        "name": "Hästveda",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2668195,
+        "name": "Torkelstorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2687897,
+        "name": "Nybro Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2722734,
+        "name": "Bergsjö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2708016,
+        "name": "Handen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2698726,
+        "name": "Kungsbacka Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2680068,
+        "name": "Sandvikens Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2719466,
+        "name": "Bredbyn",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2663585,
+        "name": "Vattholma",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2697859,
+        "name": "Laholms Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2703348,
+        "name": "Jämjö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2722751,
+        "name": "Hoverberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2722742,
+        "name": "Bergshamra",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2703525,
+        "name": "Irsta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2684653,
+        "name": "Oxelösund",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 606239,
+        "name": "Esrange",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2724435,
+        "name": "Åstorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2691798,
+        "name": "Mjälga",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2726026,
+        "name": "Anderstorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2722362,
+        "name": "Bjärred",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2666264,
+        "name": "Hjärup",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2724413,
+        "name": "Åsumtorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2670061,
+        "name": "Sveg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2693313,
+        "name": "Lyngsjö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 606388,
+        "name": "Bredträskheden",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2679107,
+        "name": "Simrishamn",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2668552,
+        "name": "Töcksfors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2704962,
+        "name": "Horndal",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2707684,
+        "name": "Härnösand",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2684395,
+        "name": "Partille",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2708821,
+        "name": "Hällabrottet",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2666199,
+        "name": "Uppsala",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2714678,
+        "name": "Fjärås kyrkby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2714903,
+        "name": "Finspång",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 606833,
+        "name": "Älvsbyns Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2691457,
+        "name": "Mölndals kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2703935,
+        "name": "Ickornetorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2697719,
+        "name": "Landskrona",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2703145,
+        "name": "Järvsö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2707396,
+        "name": "Hässleholms Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2662706,
+        "name": "Virserum",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 7931985,
+        "name": "Alby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2669788,
+        "name": "Taberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2691743,
+        "name": "Mjölby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2673076,
+        "name": "Stora Höga",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2667757,
+        "name": "Torup",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 603303,
+        "name": "Robertsfors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2726756,
+        "name": "Alingsås",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2665578,
+        "name": "Valla",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2665452,
+        "name": "Vallentuna",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2690901,
+        "name": "Mullsjö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2696608,
+        "name": "Lenhovda",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2694560,
+        "name": "Ljungby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2701679,
+        "name": "Karlstads Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2716863,
+        "name": "Edsbyn",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 3332888,
+        "name": "Hedegärde",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2700791,
+        "name": "Kista",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2691440,
+        "name": "Mölnlycke",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2704114,
+        "name": "Husum",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 606507,
+        "name": "Boliden",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2700947,
+        "name": "Kilafors",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2723362,
+        "name": "Barsele",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2698295,
+        "name": "Kvicksund",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 3332754,
+        "name": "Hälle",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2711526,
+        "name": "Götene",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2694759,
+        "name": "Linköpings Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2697766,
+        "name": "Lammhult",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 3336569,
+        "name": "Nödinge-Nol",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2710885,
+        "name": "Grästorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2682850,
+        "name": "Rebbelberga",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2662868,
+        "name": "Vinäs",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2724321,
+        "name": "Åtvidaberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2668247,
+        "name": "Töreboda",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2720004,
+        "name": "Bräcke",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2662758,
+        "name": "Vintrosa",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2699786,
+        "name": "Köpingebro",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2709600,
+        "name": "Gusum",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2720383,
+        "name": "Borlänge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2670710,
+        "name": "Sunne",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2698738,
+        "name": "Kungälvs Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2694475,
+        "name": "Ljusne",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2717720,
+        "name": "Diseröd",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2700694,
+        "name": "Klågerup",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2721285,
+        "name": "Blomstermåla",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2673952,
+        "name": "Stenstorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2700800,
+        "name": "Kisa",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2675280,
+        "name": "Söråker",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2717881,
+        "name": "Degerfors Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2691471,
+        "name": "Mölltorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2707399,
+        "name": "Hässleholm",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2701078,
+        "name": "Kaxholmen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2602687,
+        "name": "Södermalm",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2694554,
+        "name": "Ljungbyhed",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2693301,
+        "name": "Lysekil",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2687902,
+        "name": "Nybro",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2692596,
+        "name": "Markaryd",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2694503,
+        "name": "Ljusdal",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2702405,
+        "name": "Kallinge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2724693,
+        "name": "Asmundtorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2703396,
+        "name": "Jakobsberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2692624,
+        "name": "Marieholm",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 605428,
+        "name": "Kåge",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2716080,
+        "name": "Eriksberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2693346,
+        "name": "Lycksele kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2673875,
+        "name": "Stenungsund",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2686161,
+        "name": "Oskarshamns Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2663077,
+        "name": "Vikarbyn",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2667628,
+        "name": "Tranås",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2700509,
+        "name": "Klinta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2677456,
+        "name": "Skoghall",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2701713,
+        "name": "Karlskrona",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2710205,
+        "name": "Grycksbo",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2676488,
+        "name": "Smygehamn",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2662880,
+        "name": "Vimmerby Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2675396,
+        "name": "Solna Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2683803,
+        "name": "Råberga",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2715566,
+        "name": "Falköpings Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2726049,
+        "name": "Anderslöv",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 604496,
+        "name": "Lövön",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 606834,
+        "name": "Älvsbyn",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 604488,
+        "name": "Luleå kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2666219,
+        "name": "Uppsala Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2703827,
+        "name": "Iggesund",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2711256,
+        "name": "Grängesberg",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2695016,
+        "name": "Limmared",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2713596,
+        "name": "Frösakull",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2665675,
+        "name": "Valdemarsvik",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2676700,
+        "name": "Slottsbron",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2693152,
+        "name": "Malå",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2722836,
+        "name": "Bergeforsen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 603760,
+        "name": "Pajala Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2679920,
+        "name": "Särö",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2690061,
+        "name": "Nättraby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2715458,
+        "name": "Falu kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2703330,
+        "name": "Jämtlands län",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2691348,
+        "name": "Mörbylånga",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2663514,
+        "name": "Veberöd",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2667401,
+        "name": "Trelleborgs Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 605314,
+        "name": "Karesuando",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2693759,
+        "name": "Ludvika",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2694831,
+        "name": "Lindome",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2726939,
+        "name": "Alfta",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 3328014,
+        "name": "Viddviken",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2715572,
+        "name": "Falkenbergs Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2688255,
+        "name": "Norrsundet",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2665018,
+        "name": "Vara",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2704654,
+        "name": "Hovmantorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 605857,
+        "name": "Haparanda Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2662830,
+        "name": "Vingåker",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2713656,
+        "name": "Fritsla",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2702908,
+        "name": "Jordbro",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2708363,
+        "name": "Halmstads Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2663540,
+        "name": "Vaxholm",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2669057,
+        "name": "Timmernabben",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2684213,
+        "name": "Perstorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2682569,
+        "name": "Rimforsa",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2703610,
+        "name": "Inlag",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 603819,
+        "name": "Överluleå",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2686655,
+        "name": "Örebro län",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 603448,
+        "name": "Sävast",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2718975,
+        "name": "Brunna",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 606141,
+        "name": "Forsbacka",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2695079,
+        "name": "Lillsjönäs",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2715951,
+        "name": "Eskilstuna Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2705294,
+        "name": "Holmen",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2725432,
+        "name": "Are",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2670883,
+        "name": "Sundby",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2706392,
+        "name": "Hindås",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2677370,
+        "name": "Skogstorp",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2670127,
+        "name": "Svedala Kommun",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2675146,
+        "name": "Sörforsa",
+        "state": "",
+        "country": "SE"
+    },
+    {
+        "id": 2669254,
+        "name": "Teckomatorp",
+        "state": "",
+        "country": "SE"
+    }
+]
