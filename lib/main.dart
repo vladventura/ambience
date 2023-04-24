@@ -16,7 +16,10 @@ import "package:ambience/GUI/main screen.dart";
 void main(List<String> args) async {
   await dotenv.load();
   FireHandler.initialize();
-
+  FireHandler test = FireHandler();
+  await test.fireSignIn("test@server.com", "123456");
+  await test.ruleJSONUpload();
+  /*
   TimeOfDay time = const TimeOfDay(hour: 23, minute: 45);
   DayOfWeek dow = DayOfWeek.tuesday;
   WeatherCondition wc = WeatherCondition.Clouds;
@@ -24,10 +27,10 @@ void main(List<String> args) async {
   String testPaper = "$curr/test.jpg";
   String city = 'New York';
   WeatherEntry mockObj = WeatherEntry(time, dow, testPaper, wc, city);
-
+  */
   //if not args passed, GUI MODE
   if (args.isEmpty) {
-    runApp(const MyApp());
+    //runApp(const MyApp());
   }
   //if there are command line args, GUI-Less mode
   else {

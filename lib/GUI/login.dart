@@ -1,9 +1,7 @@
 // log-in screen for fire branch functionality to work
-// ignore_for_file: prefer_const_constructors
-
+import 'package:ambience/firebase/fire_handler.dart';
 import 'package:flutter/material.dart';
 import 'dart:io';
-import 'package:ambience/Firebase/fire_handler.dart';
 
 String current = Directory.current.path;
 
@@ -128,25 +126,49 @@ class _LoginApp extends State<LoginApp> {
       decoration: BoxDecoration(
         border: Border.all(color: Colors.black, width: 2),
       ),
-      child: TextField(
-        onChanged: null,
-        controller: _passController,
-        obscureText: _obscureFlag,
-        textAlign: TextAlign.left,
-        maxLength: 50,
-        decoration: InputDecoration(
-          labelText: "Password",
-          labelStyle: const TextStyle(fontSize: 20),
-          suffixIcon: IconButton(
-            // ignore: dead_code
-            icon: Icon(_obscureFlag ? Icons.visibility : Icons.visibility_off),
-            onPressed: () {
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          TextField(
+            onChanged: null,
+            controller: _passController,
+            obscureText: _obscureFlag,
+            textAlign: TextAlign.left,
+            maxLength: 50,
+            decoration: InputDecoration(
+              labelText: "Password",
+              labelStyle: const TextStyle(fontSize: 20),
+              suffixIcon: IconButton(
+                icon: Icon(
+                    _obscureFlag ? Icons.visibility : Icons.visibility_off),
+                onPressed: () {
+                  setState(() {
+                    _obscureFlag = !_obscureFlag;
+                  });
+                },
+              ),
+            ),
+          ),
+          TextButton(
+            onPressed: () async {
+              try {
+                //TO-DO actucally tap into stream to user
+                await hand.resetPwd(_nameController.text);
+              } catch (e) {
+                errMsg = e.toString();
+                setState(() {
+                  _visibleLog = true;
+                });
+              }
+              //if no throws
+              errMsg = "Check your inbox for a password reset request";
               setState(() {
-                _obscureFlag = !_obscureFlag;
+                _visibleLog = true;
               });
             },
+            child: const Text('Forgot Your Password?'),
           ),
-        ),
+        ],
       ),
     );
   }

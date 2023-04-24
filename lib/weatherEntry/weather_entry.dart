@@ -4,6 +4,7 @@ import 'package:ambience/constants.dart' as constants;
 import 'package:flutter/material.dart';
 import 'package:ambience/storage/storage.dart';
 import 'dart:convert';
+import 'package:path/path.dart' as p;
 
 enum WeatherCondition {
   Clear,
@@ -44,6 +45,7 @@ class WeatherEntry {
 
   WeatherEntry(this.startTime, this.dayOfWeek, this.wallpaperFilepath,
       this.weatherCondition, this.city) {
+    wallpaperFilepath = p.normalize(wallpaperFilepath);
     idSchema += DateTime.now().millisecondsSinceEpoch.toString();
   }
 
@@ -127,7 +129,7 @@ class WeatherEntry {
     startTime = TimeOfDay(
         hour: (json['startTimeHour']), minute: (json['startTimeMinute']));
     dayOfWeek = DayOfWeek.values[(json['dayOfWeek'])];
-    wallpaperFilepath = json['wallpaperFilepath'];
+    wallpaperFilepath = p.normalize(json['wallpaperFilepath']);
     weatherCondition = WeatherCondition.values[(json['weatherCondition'])];
     idSchema = json['idSchema'];
     city = json['city'];

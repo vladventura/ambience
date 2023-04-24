@@ -4,10 +4,9 @@ import 'package:firedart/auth/exceptions.dart';
 import 'package:firedart/firedart.dart';
 import 'package:flutter/material.dart';
 import "dart:io";
-import "package:ambience/weatherEntry/weather_entry.dart";
 import "package:ambience/storage/storage.dart";
 import "package:ambience/constants.dart" as constants;
-import 'dart:isolate';
+import "package:ambience/weatherEntry/weather_entry.dart";
 
 class FireHandler {
   static FirebaseAuth auth = FirebaseAuth.instance;
@@ -38,7 +37,7 @@ class FireHandler {
       final user = await auth.getUser();
       if (user.emailVerified == false) {
         //auth.deleteAccount();
-       // throw "Email is not verified, please sign up, then verify, then login";
+        // throw "Email is not verified, please sign up, then verify, then login";
       }
     } on AuthException catch (e) {
       //to-do allow retries for incorrect attempts
@@ -55,10 +54,24 @@ class FireHandler {
   Future<bool> fireSignUp(String email, String password) async {
     FirebaseAuth auth = FirebaseAuth.instance;
     try {
+      //check if it's a weak password, will throw if it is.
+      //it throws to take advantage of login screen displaying errors
       isWeakPassword(password);
       await auth.signUp(email, password);
       await auth.requestEmailVerification();
+      //throwing to show message to user
       throw "please verify your email, then sign in";
+    } on AuthException catch (e) {
+      //to-do allow retries for incorrect attempts
+      throw (e.message);
+    } catch (e) {
+      throw e.toString();
+    }
+  }
+
+  Future<bool> resetPwd(String email) async {
+    try {
+      await auth.resetPassword(email);
     } on AuthException catch (e) {
       //to-do allow retries for incorrect attempts
       throw (e.message);
@@ -68,26 +81,14 @@ class FireHandler {
     return true;
   }
 
-  Future<bool> changepwd(password) async {
-    try {
-      //isWeakPassword(password);
-      await auth.changePassword(password);
-    } catch (e) {
-      throw e.toString();
-    }
-    return true;
-  }
-
-  //optional values is for testing purposes for now
-  //yes I know it has hardcoded paths
-  Future<void> imageUpload(String imagePathAddon) async {
-    //since the path of ambience needs to be dynamically resolved, it cannot be passed as an optional parameter directly
-    var docRef = Firestore.instance.collection(userID).document("wallpapers");
-    File image = File(imagePathAddon);
+  //encode and upload image to firestore(firebase database)
+  Future<void> imageUpload(String imagePath, String imageName) async {
+    Firestore fstore = Firestore.instance;
+    var docRef = fstore.collection("users").document(userID).collection("wallpapers").document(imageName);
+    File image = File(imagePath);
     //byte data
     List<int> imageData = await image.readAsBytes();
-    //to-do check is base64Encode works with UTF-16, or replace with something that does
-    await docRef.update({'imageData': base64Encode(imageData)});
+    await docRef.create({imageName: base64Encode(imageData)});
   }
 
   //optional values is for testing purposes for now
@@ -104,13 +105,27 @@ class FireHandler {
   }
 
   Future<void> ruleJSONUpload() async {
-    DocumentReference docRef =
-        Firestore.instance.collection(userID).document("ruleset");
+    FirebaseAuth auth = FirebaseAuth.instance;
+
+    var docRef =
+        Firestore.instance.collection("users").document(userID).collection("config").document(constants.jsonPath);
     Storage store = Storage();
     var ruleJSON = await store.readAppDocJson(constants.jsonPath);
     //upload json
-    await docRef.update(ruleJSON);
-    //to-do: extract wallpapers from ruleset and upload
+    await docRef.create(ruleJSON);
+    //extract wallpapers from ruleset and uploads them
+    wallRipper();
+  }
+
+  //Rips images from
+  Future<void> wallRipper() async {
+    Map<String, WeatherEntry> ruleMap = await WeatherEntry.getRuleList();
+    String imageName;
+    //iterate through and upload
+    ruleMap.forEach((key, value) {
+      imageName = ((value.wallpaperFilepath).split('\\')).last;
+      imageUpload(value.wallpaperFilepath, imageName);
+    });
   }
 
   Future<void> ruleJSONDownload() async {
@@ -126,6 +141,8 @@ class FireHandler {
     store.writeAppDocFile(encodedMap, constants.jsonPath);
   }
 
+  //will throw if the password is weak
+  //this done to take advtange of the error message stream display to user
   void isWeakPassword(String password) {
     // Check length
     if (password.length < 8) {
@@ -170,10 +187,8 @@ class FireHandler {
     if (commonPasswords.contains(password.toLowerCase())) {
       throw "Weak password! Don't use a common password";
     }
-
     // Password is strong, no throws
   }
-
   //to-do: test the upload and download functions
   //to-do: handle weather entry rule creation/deletion, and intergrate with firebase
 }
