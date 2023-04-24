@@ -23,7 +23,7 @@ class EntryControls extends StatelessWidget { // controls to copy, edit, and del
 
   Widget Controls = Container();
 
-  EntryControls(int id, Function func){ //takes a wallpaper obj reference to call it later
+  EntryControls(int id, Function func, {super.key}){ //takes a wallpaper obj reference to call it later
 
   ID = id;
 
@@ -78,7 +78,7 @@ class WallpaperEntry extends StatelessWidget {
     return;
   }
 
-  WallpaperEntry(WallpaperObj obj, int id, Function func) {
+  WallpaperEntry(WallpaperObj obj, int id, Function func, {super.key}) {
     object = obj;
     wallFile = obj.filePath;
     cond = obj.cond;
@@ -107,6 +107,7 @@ class WallpaperEntry extends StatelessWidget {
     wallpaperControls = EntryControls(ID, func);
   }
 
+  @override
   Widget build(BuildContext context) {
     return Container(
       decoration: BoxDecoration(border: Border.all(color: Colors.black, width: 1)),
@@ -158,6 +159,7 @@ class wallPapersWindow extends StatelessWidget{
   Function deleteWallpaper(int id){
 
    return (int id){
+    print("delete called!");
         for(int a = 0; a < wallEntries.length; a++){
       if(wallEntries[a].ID == id){
 

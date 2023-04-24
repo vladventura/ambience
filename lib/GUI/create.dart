@@ -445,7 +445,7 @@ class _CreateApp extends State<CreateApp> {
 
   //function that performs the final action before closing the create page
   //decides what to do based on the intention variable
-  bool confirmCreation(int intend, WallpaperObj origObj, WallpaperObj newObj) {
+  Future<bool> confirmCreation(int intend, WallpaperObj origObj, WallpaperObj newObj) async {
 
     // return true if created successfully
     // return false if new wallpaper is a duplicate
@@ -462,7 +462,7 @@ class _CreateApp extends State<CreateApp> {
 
     for(int i = 0; i < newObj.entries.length; i++){
 
-      WeatherEntry.createRule(newObj.entries[i]);
+      await WeatherEntry.createRule(newObj.entries[i]);
 
       bool success = true; //only for the time being, delete once createRule becomes boolean
 
@@ -594,7 +594,7 @@ class _CreateApp extends State<CreateApp> {
                                                                   toNumber(minuteController.text), dayToggles.getDays());
                         
 
-                        bool success = confirmCreation(widget.intention, widget.contextWallpaper, newObj);
+                        bool success = await confirmCreation(widget.intention, widget.contextWallpaper, newObj);
 
                         if(success){ // add fields to newWallpaperObj
                           Navigator.pop(context); // return to previous menu
