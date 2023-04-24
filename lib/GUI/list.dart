@@ -287,8 +287,7 @@ class ListApp extends StatefulWidget {
 class ListAppState extends State<ListApp> {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-        home: Scaffold(
+    return Scaffold(
       body: FutureBuilder<List<WallpaperObj>>(
           future: listSavedWallpapers(),
           builder: (BuildContext context,
@@ -310,6 +309,6 @@ class ListAppState extends State<ListApp> {
               );
             }
           }),
-    ));
+    );
   }
 }
