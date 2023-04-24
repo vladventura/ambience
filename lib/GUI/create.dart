@@ -6,7 +6,9 @@
 //  probably gonna have to change WallpaperObj to accept WallpaperEntry data
 // make day buttons do stuff, 'cause they currently don't
 // Scrap the copy option - done
-// add time conversions
+// add time conversions - done
+// ENSURE THAT JSON FILE ALWAYS EXISTS
+
 
 import 'dart:async';
 import 'dart:math';
@@ -595,7 +597,6 @@ class _CreateApp extends State<CreateApp> {
                         bool success = confirmCreation(widget.intention, widget.contextWallpaper, newObj);
 
                         if(success){ // add fields to newWallpaperObj
-
                           Navigator.pop(context); // return to previous menu
                         }
                         else {
@@ -605,7 +606,8 @@ class _CreateApp extends State<CreateApp> {
                         } 
                       }
                     else {
-                        setState( (){
+                        setState( (){ // test this later, when an error occurs the daytoggles reset to all false and still pass checkfields somehow.
+                        dayToggles.daysActive = [false,false,false,false,false,false,false];
                         errType = 1;
                         _visibleErr = true;}
                         );

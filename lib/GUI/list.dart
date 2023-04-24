@@ -1,4 +1,6 @@
-// TODO: Add Function parameter to pass to the button widgets (so that they can pass the ID up to the list screen)
+// TODO: Add Function parameter to pass to the button widgets (so that they can pass the ID up to the list screen) - done
+// add a text widget to show the days active for a given wallpaperEntry
+
 
 import 'package:flutter/material.dart';
 import 'dart:io';
@@ -49,8 +51,7 @@ class EntryControls extends StatelessWidget { // controls to copy, edit, and del
 }
 }
 
-class 
-WallpaperEntry extends StatelessWidget {
+class WallpaperEntry extends StatelessWidget {
 
   int ID = 0;
 
@@ -77,7 +78,6 @@ WallpaperEntry extends StatelessWidget {
     return;
   }
 
-  //constructor placeholder to just test list screen
   WallpaperEntry(WallpaperObj obj, int id, Function func) {
     object = obj;
     wallFile = obj.filePath;
@@ -149,62 +149,11 @@ Widget buttonMenu(BuildContext context){
   );
 }
 
-Widget wallPapersWindow() {
-
-  // function that creates a list of WallpaperObjs.
-  // Searches list of created WeatherEntries and groups them together
-  // into a list of WallpaperObjects.
-  Future<List<WallpaperObj>> listSavedWallpapers() async {
-
-    Map<String, WeatherEntry> rulesList = WeatherEntry.getRuleList() as Map<String, WeatherEntry>;
-
-    List<WeatherEntry> entries = [];
-
-    rulesList.forEach((key, value) {
-      entries.add(value);
-    });
-
-    List<List<WeatherEntry>> foundWeatherEntries = [];
-
-    // first loop, finds every different WeatherEntry
-    for(int i = 0; i < entries.length; i++){
-      
-      for(int j = 0; j < foundWeatherEntries.length; j++){
-        
-        //if there is a Weathercondition is the same, add it to one of the lists
-        if(foundWeatherEntries[j][0].city == entries[i].city
-        && foundWeatherEntries[j][0].startTime == entries[i].startTime
-        && foundWeatherEntries[j][0].wallpaperFilepath == entries[i].wallpaperFilepath
-        && foundWeatherEntries[j][0].weatherCondition == entries[i].weatherCondition)
-        {
-          foundWeatherEntries[j].add(entries[i]);
-        }
-
-        // otherwise it is an entirely new entry, and a new list must be added
-        else{
-          foundWeatherEntries.add([entries[i]]);
-        }
-      }
-    }
-
-    List<WallpaperObj> temp = [];
-
-    // second loop, creates a list of WallpaperObj based on how many unique entries there are
-    for(int k = 0; k < foundWeatherEntries.length; k++){
-      temp.add(WallpaperObj(foundWeatherEntries[k]));
-    }
-
-    return temp;
-
-  }
+class wallPapersWindow extends StatelessWidget{
 
   List<WallpaperObj> objects = [];
 
   List<WallpaperEntry> wallEntries = [];
-
-  wallPapersWindow() async {
-    objects = await listSavedWallpapers();
-  }
 
   Function deleteWallpaper(int id){
 
@@ -220,11 +169,23 @@ Widget wallPapersWindow() {
    };
   }
 
-  for(int i = 0; i < objects.length; i++){
-    wallEntries.add(WallpaperEntry(objects[i], i, deleteWallpaper));
+  wallPapersWindow(this.objects) {
+
+    for(int i = 0; i < objects.length; i++){
+      wallEntries.add(WallpaperEntry(objects[i], i, deleteWallpaper));
+    }
+
+    print("Constrcutor reached");
+
+    wallEntries.forEach((element) {
+      print(element.ID);
+    });
   }
 
-  return Expanded(
+
+  @override
+  Widget build(context) {
+    return Expanded(
     child: Container (
       padding: const EdgeInsets.all(32),
       child: Container (
@@ -239,6 +200,87 @@ Widget wallPapersWindow() {
       )
     )
   );
+  } 
+}
+
+// function that creates a list of WallpaperObjs.
+// Searches list of created WeatherEntries and groups them together
+// into a list of WallpaperObjects.
+Future<List<WallpaperObj>> listSavedWallpapers() async {
+
+  print("listSavedWallpapers called!");
+
+  Map<String, WeatherEntry> rulesList = await WeatherEntry.getRuleList();
+
+  if(rulesList.isEmpty)
+  {
+    print("bruh this is empty");
+  }
+
+  List<WeatherEntry> entries = [];
+
+  rulesList.forEach((key, value) {
+    entries.add(value);
+  });
+
+  if(entries.isEmpty)
+  {
+    print("bruh this entries list is empty");
+  }
+
+
+  List<List<WeatherEntry>> foundWeatherEntries = [];
+
+  // first loop, finds every different WeatherEntry
+  for(int i = 0; i < entries.length; i++){
+
+    if(foundWeatherEntries.isNotEmpty){
+      for(int j = 0; j < foundWeatherEntries.length; j++){
+        
+        //if there is a Weathercondition is the same, add it to one of the lists
+        if(foundWeatherEntries[j][0].city == entries[i].city
+        && foundWeatherEntries[j][0].startTime == entries[i].startTime
+        && foundWeatherEntries[j][0].wallpaperFilepath == entries[i].wallpaperFilepath
+        && foundWeatherEntries[j][0].weatherCondition == entries[i].weatherCondition)
+        {
+          foundWeatherEntries[j].add(entries[i]);
+          print("same entry found");
+        }
+
+        // otherwise it is an entirely new entry, and a new list must be added
+        else{
+          foundWeatherEntries.add([entries[i]]);
+          print("unique entry found");
+        }
+      }
+    }
+    else{
+      foundWeatherEntries.add([entries[i]]);
+    }
+      
+  }
+
+  if(foundWeatherEntries.isEmpty)
+  {
+    print("bruh the foundWeatherEntries is empty");
+  }
+
+
+  List<WallpaperObj> temp = [];
+
+  // second loop, creates a list of WallpaperObj based on how many unique entries there are
+  for(int k = 0; k < foundWeatherEntries.length; k++){
+    temp.add(WallpaperObj(foundWeatherEntries[k]));
+  }
+
+  if(temp.isEmpty)
+  {
+    print("why the FUCK is temp empty??");
+  }
+
+
+  return temp;
+
 }
 
 class ListApp extends StatefulWidget{
@@ -253,15 +295,28 @@ class ListAppState extends State<ListApp> {
   @override
   Widget build(BuildContext context) {
 
-    Widget window = wallPapersWindow(); // miiiiiight need to check if there are no rules in the json first
-
     return MaterialApp(
       home: Scaffold(
-        body: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [listTitle(), window, buttonMenu(context)],
-        ),
-      ),
-    );
+        body: FutureBuilder<List<WallpaperObj>>(
+          future: listSavedWallpapers(),
+            builder: (BuildContext context, AsyncSnapshot<List<WallpaperObj>> snapshot) {
+              if(!snapshot.hasData){
+                return Center(child: Icon(Icons.hourglass_top),);
+              }
+              else{
+
+                final List<WallpaperObj>? objects = snapshot.data;
+
+                return Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [listTitle(), wallPapersWindow(objects!), buttonMenu(context)]);
+              }
+            }
+
+          ),            
+          
+        )
+         
+      );
   }
 }
