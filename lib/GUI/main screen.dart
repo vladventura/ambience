@@ -1,5 +1,6 @@
 import 'package:ambience/GUI/create.dart';
 import 'package:ambience/GUI/list.dart';
+import 'package:ambience/firebase/fire_handler.dart';
 import 'package:ambience/models/location_model.dart';
 import 'package:ambience/providers/location_provider.dart';
 import 'package:flutter/material.dart';
@@ -271,6 +272,8 @@ class MainApp extends StatelessWidget {
               ListTile(
                 title: const Text("Log out"),
                 onTap: () {
+                  FireHandler hand = FireHandler();
+                  hand.fireSignOut();
                   Navigator.of(context).pushNamed('/');
                 },
               ),

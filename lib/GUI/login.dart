@@ -1,7 +1,10 @@
 // log-in screen for fire branch functionality to work
+import 'package:ambience/providers/location_provider.dart';
+import 'package:ambience/storage/storage.dart';
 import 'package:ambience/firebase/fire_handler.dart';
 import 'package:flutter/material.dart';
 import 'dart:io';
+import 'package:ambience/constants.dart' as constants;
 
 String current = Directory.current.path;
 
@@ -11,14 +14,12 @@ class LoginMsg extends StatelessWidget {
 
   String errMsg = "";
 
-
   LoginMsg({super.key, required this.visibleLog, required this.errMsg});
 
   // change to accept custom error messages from firebase
 
   Text _loginFail(String msg) {
-
-return Text(
+    return Text(
       msg,
       style: TextStyle(
         color: Colors.red,
@@ -31,13 +32,11 @@ return Text(
 
   @override
   Widget build(BuildContext context) {
-
     return Container(
       // needs a "stateful widget" to work properly and change states
       alignment: Alignment.topCenter,
       padding: const EdgeInsets.only(right: 24),
       child: Column(
-
         children: [
           // change to have only one error message, as there's gonna be a whole lotta messages
           Visibility(
@@ -71,7 +70,7 @@ class _LoginApp extends State<LoginApp> {
     try {
       success = await hand.fireSignIn(usrname, passwrd);
       //fetch user config and wallpapers from cloud(Firestore)
-      hand.ruleJSONDownload();
+      await hand.ruleJSONDownload();
     } catch (e) {
       errMsg = e.toString(); // set error message
     }
@@ -84,7 +83,6 @@ class _LoginApp extends State<LoginApp> {
       });
     }
   }
-
 
   void _signup(String usrname, String passwrd) async {
     bool success = false;
@@ -256,7 +254,6 @@ class _LoginApp extends State<LoginApp> {
           _loginSignin(),
           LoginMsg(
             visibleLog: _visibleLog,
-
             errMsg: errMsg,
           ),
         ],

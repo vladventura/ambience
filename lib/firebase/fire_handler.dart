@@ -117,6 +117,10 @@ class FireHandler {
     await store.writeAppDocFileBytes(imageData, path);
   }
 
+  void fireSignOut() {
+    auth.signOut();
+  }
+
   Future<void> ruleJSONUpload() async {
     var docRef = Firestore.instance
         .collection("users")
@@ -128,12 +132,12 @@ class FireHandler {
         await store.readAppDocJson(constants.jsonPath);
     String imageName, fileExt;
     //extract images and rename them to ensure names are unique
-    for (dynamic entry in ruleJSON.values){
-       fileExt = ((entry["wallpaperFilepath"]).split(".")).last;
-        imageName =
+    for (dynamic entry in ruleJSON.values) {
+      fileExt = ((entry["wallpaperFilepath"]).split(".")).last;
+      imageName =
           "Fire_${(entry["idSchema"]).replaceAll("_daemon_", "_")}.$fileExt";
-          await imageUpload(entry["wallpaperFilepath"], imageName);
-          entry["wallpaperFilepath"] = imageName;
+      await imageUpload(entry["wallpaperFilepath"], imageName);
+      entry["wallpaperFilepath"] = imageName;
     }
     //upload json
     await docRef.update(ruleJSON);

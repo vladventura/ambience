@@ -21,7 +21,7 @@ void main(List<String> args) async {
   await dotenv.load();
   FireHandler.initialize();
   FireHandler test = FireHandler();
-  await test.fireSignIn("test@server.com", "123456");
+  //await test.fireSignIn("test@server.com", "123456");
   //await test.ruleJSONUpload();
   //await test.ruleJSONDownload();
   
@@ -123,7 +123,6 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     String? cityInput;
-
     //mock object for testing
     //==========================
     TimeOfDay time = const TimeOfDay(hour: 23, minute: 45);

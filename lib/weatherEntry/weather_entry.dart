@@ -6,6 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:ambience/storage/storage.dart';
 import 'dart:convert';
 import 'package:path/path.dart' as p;
+import 'package:ambience/providers/location_provider.dart';
 
 // added empty for when the user hasn't entered anything yet
 enum WeatherCondition {
@@ -189,5 +190,21 @@ class WeatherEntry {
       return true;
     }
     return false;
+  }
+
+  static Future<bool> updateLocInfo(String cityID) async {
+    Storage store = Storage();
+    Map<String, dynamic> ruleMap =
+        await store.readAppDocJson(constants.jsonPath);
+    //if it's empty nothing needs to be updated
+    //if it's not empty update all entries with the new location
+    if (ruleMap.isNotEmpty) {
+      for (dynamic entry in ruleMap.values) {
+        entry["city"] = cityID;
+      }
+      String ruleMapToJSON = jsonEncode(ruleMap);
+      await store.writeAppDocFile(ruleMapToJSON, constants.jsonPath);
+    }
+    return true;
   }
 }
