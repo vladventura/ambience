@@ -1,8 +1,5 @@
 // ignore_for_file: prefer_const_literals_to_create_immutables, avoid_unnecessary_containers, prefer_const_constructors, sort_child_properties_last, unused_import
 
-// TO DO:
-//  Add location gear button
-//  Add logout button
 
 import 'dart:async';
 import 'dart:math';
@@ -35,7 +32,7 @@ Widget checkWallpaper() {
   }
 }
 
-String checkTime() {
+String checkTime() { // copy and slightly edit this to convert to regular time
   final now = DateTime.now();
   String hour = (now.hour % 12).toString();
   String minute = now.minute.toString();

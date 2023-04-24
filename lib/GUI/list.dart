@@ -27,7 +27,7 @@ class EntryControls extends StatelessWidget { // controls to copy, edit, and del
 
   ID = id;
 
-  VoidCallback action = () {func(id);};
+  VoidCallback action = () { func(ID); };
 
   Controls = Row(
     // displays the wallpaper's controls
@@ -150,15 +150,19 @@ Widget buttonMenu(BuildContext context){
   );
 }
 
-class wallPapersWindow extends StatelessWidget{
+class wallPapersWindow extends StatefulWidget{
+  wallPapersWindow
+
+  
+}
+
+class wallPapersWindowState extends StatelessWidget{
 
   List<WallpaperObj> objects = [];
 
   List<WallpaperEntry> wallEntries = [];
 
-  Function deleteWallpaper(int id){
-
-   return (int id){
+  void deleteWallpaper(int id){
     print("delete called!");
         for(int a = 0; a < wallEntries.length; a++){
       if(wallEntries[a].ID == id){
@@ -168,7 +172,6 @@ class wallPapersWindow extends StatelessWidget{
       
       }
     }
-   };
   }
 
   wallPapersWindow(this.objects) {
@@ -216,7 +219,7 @@ Future<List<WallpaperObj>> listSavedWallpapers() async {
 
   if(rulesList.isEmpty)
   {
-    print("bruh this is empty");
+    return [];
   }
 
   List<WeatherEntry> entries = [];
@@ -314,11 +317,8 @@ class ListAppState extends State<ListApp> {
                 children: [listTitle(), wallPapersWindow(objects!), buttonMenu(context)]);
               }
             }
-
           ),            
-          
-        )
-         
+        )         
       );
   }
 }

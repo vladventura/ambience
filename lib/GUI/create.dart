@@ -2,12 +2,14 @@
 
 
 // TO DO: 
-//  make data persistent past setstate() calls
 //  probably gonna have to change WallpaperObj to accept WallpaperEntry data
 // make day buttons do stuff, 'cause they currently don't
 // Scrap the copy option - done
 // add time conversions - done
-// ENSURE THAT JSON FILE ALWAYS EXISTS
+// ENSURE THAT JSON FILE ALWAYS EXISTS - done
+// add tooltips
+// fix parendata widget problems
+// device-specific getwallpaper stuff (specific to OS)
 
 
 import 'dart:async';
@@ -585,7 +587,7 @@ class _CreateApp extends State<CreateApp> {
                     ),
                     ),
           Spacer(),
-          OutlinedButton(onPressed: () {
+          OutlinedButton(onPressed: () async {
 
                     if(checkFields(hourController.text, minuteController.text, fileChooser.getCurrentFile(), weatherDrops.getCondition(), dayToggles.getDays())){
 
@@ -607,7 +609,6 @@ class _CreateApp extends State<CreateApp> {
                       }
                     else {
                         setState( (){ // test this later, when an error occurs the daytoggles reset to all false and still pass checkfields somehow.
-                        dayToggles.daysActive = [false,false,false,false,false,false,false];
                         errType = 1;
                         _visibleErr = true;}
                         );
