@@ -3,6 +3,7 @@ import 'package:ambience/firebase/fire_handler.dart';
 import 'package:ambience/handlers/wallpaper_handler.dart';
 import 'package:ambience/models/location_model.dart';
 import 'package:ambience/providers/location_provider.dart';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import "package:ambience/GUI/wallpaperobj.dart";
 import 'dart:io';
@@ -16,6 +17,9 @@ void main() => runApp(const MainApp());
 String current = Directory.current.path;
 
 Widget checkWallpaper() {
+  if (defaultTargetPlatform == TargetPlatform.android) {
+    return const Text("\tCurrent wallpaper not available on Android!");
+  }
   return FutureBuilder(
     future: WallpaperHandler.getCurrentWallpaperPath(),
     builder: (context, snapshot) {
