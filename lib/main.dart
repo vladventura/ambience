@@ -11,7 +11,6 @@ import 'package:flutter/material.dart';
 import 'package:ambience/api/weather.dart';
 import "package:ambience/daemon/daemon.dart";
 import 'package:ambience/firebase/fire_handler.dart';
-
 import "package:ambience/GUI/create.dart";
 import "package:ambience/GUI/list.dart";
 import "package:ambience/GUI/login.dart";
@@ -21,6 +20,9 @@ import 'package:provider/provider.dart';
 void main(List<String> args) async {
   await dotenv.load();
   FireHandler.initialize();
+  FireHandler test = FireHandler();
+
+
   //if not args passed, GUI MODE
   if (args.isEmpty) {
     runZonedGuarded(() {
@@ -108,7 +110,6 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     String? cityInput;
-
     //mock object for testing
     //==========================
     TimeOfDay time = const TimeOfDay(hour: 23, minute: 45);

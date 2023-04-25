@@ -1,9 +1,10 @@
 // log-in screen for fire branch functionality to work
-// ignore_for_file: prefer_const_constructors
-
+import 'package:ambience/providers/location_provider.dart';
+import 'package:ambience/storage/storage.dart';
+import 'package:ambience/firebase/fire_handler.dart';
 import 'package:flutter/material.dart';
 import 'dart:io';
-import 'package:ambience/Firebase/fire_handler.dart';
+import 'package:ambience/constants.dart' as constants;
 
 String current = Directory.current.path;
 
@@ -18,8 +19,7 @@ class LoginMsg extends StatelessWidget {
   // change to accept custom error messages from firebase
 
   Text _loginFail(String msg) {
-
-return Text(
+    return Text(
       msg,
       style: TextStyle(
         color: Colors.red,
@@ -32,13 +32,11 @@ return Text(
 
   @override
   Widget build(BuildContext context) {
-
     return Container(
       // needs a "stateful widget" to work properly and change states
       alignment: Alignment.topCenter,
       padding: const EdgeInsets.only(right: 24),
       child: Column(
-
         children: [
           // change to have only one error message, as there's gonna be a whole lotta messages
           Visibility(
@@ -71,6 +69,9 @@ class _LoginApp extends State<LoginApp> {
     bool success = false; /* BOOLEAN FUNCTION PART GOES HERE */
     try {
       success = await hand.fireSignIn(usrname, passwrd);
+      //commented out to allow rapid offline testing
+      //fetch user config and wallpapers from cloud(Firestore)
+      //await hand.ruleJSONDownload();
     } catch (e) {
       errMsg = e.toString(); // set error message
     }
@@ -84,17 +85,14 @@ class _LoginApp extends State<LoginApp> {
     }
   }
 
-
   void _signup(String usrname, String passwrd) async {
-    //always true for testing
-    bool success = true; /* BOOLEAN FUNCTION PART GOES HERE */
-    /*
+    bool success = true; //set to true for rapid testing
     try {
-      success = await hand.fireSignUp(usrname, passwrd);
+      //uncomment in final version
+      //success = await hand.fireSignUp(usrname, passwrd);
     } catch (e) {
       errMsg = e.toString(); // set error message
     }
-    */
     if (success) {
       _visibleLog = false;
       Navigator.pushNamed(context, '/Home');
@@ -136,25 +134,49 @@ class _LoginApp extends State<LoginApp> {
       decoration: BoxDecoration(
         border: Border.all(color: Colors.black, width: 2),
       ),
-      child: TextField(
-        onChanged: null,
-        controller: _passController,
-        obscureText: _obscureFlag,
-        textAlign: TextAlign.left,
-        maxLength: 50,
-        decoration: InputDecoration(
-          labelText: "Password",
-          labelStyle: const TextStyle(fontSize: 20),
-          suffixIcon: IconButton(
-            // ignore: dead_code
-            icon: Icon(_obscureFlag ? Icons.visibility : Icons.visibility_off),
-            onPressed: () {
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          TextField(
+            onChanged: null,
+            controller: _passController,
+            obscureText: _obscureFlag,
+            textAlign: TextAlign.left,
+            maxLength: 50,
+            decoration: InputDecoration(
+              labelText: "Password",
+              labelStyle: const TextStyle(fontSize: 20),
+              suffixIcon: IconButton(
+                icon: Icon(
+                    _obscureFlag ? Icons.visibility : Icons.visibility_off),
+                onPressed: () {
+                  setState(() {
+                    _obscureFlag = !_obscureFlag;
+                  });
+                },
+              ),
+            ),
+          ),
+          TextButton(
+            onPressed: () async {
+              try {
+                //TO-DO actucally tap into stream to user
+                await hand.resetPwd(_nameController.text);
+              } catch (e) {
+                errMsg = e.toString();
+                setState(() {
+                  _visibleLog = true;
+                });
+              }
+              //if no throws
+              errMsg = "Check your inbox for a password reset request";
               setState(() {
-                _obscureFlag = !_obscureFlag;
+                _visibleLog = true;
               });
             },
+            child: const Text('Forgot Your Password?'),
           ),
-        ),
+        ],
       ),
     );
   }

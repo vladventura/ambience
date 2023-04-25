@@ -13,8 +13,7 @@ class Storage {
   String weatherDataPath = constants.weatherDataPath;
   String logFilePath = constants.logFilePath;
   String configPath = constants.configPath;
-  String appDataDirName = constants.appDataDirName;
-
+  String appDataDirName = constants.appDataDirName; 
   //path_provider gets a directory for presistent data
   Future<String> get _localPath async {
     final directory = await getApplicationDocumentsDirectory();
@@ -61,6 +60,26 @@ class Storage {
     return (await temp.writeAsString(content));
   }
 
+  Future<File> writeAppDocFileBytes(List<int> bytes, String pathaddon,
+      [String mode = 'n']) async {
+    final path = await _localDirectoryPath;
+    File temp = File(p.normalize("$path/$pathaddon"));
+    //existence check
+    if (!(await temp.exists())) {
+      //create file and any non-existing parents
+      await (temp.create(recursive: true)).catchError((e) {
+        debugPrint("error with creating path: ${temp.path}");
+        //for now return the base path on error, but may be subject to change
+        return temp;
+      });
+    }
+    //append mode.
+    if (mode == 'a') {
+      return (await temp.writeAsBytes(bytes, mode: FileMode.append));
+    }
+    // Write the file, normally
+    return (await temp.writeAsBytes(bytes));
+  }
   //read json from file and converts it to Dart object and returns said object
   Future<dynamic> readAppDocJson(String path) async {
     try {
@@ -74,5 +93,10 @@ class Storage {
       // If encountering an error
       return 'failed';
     }
+  }
+  Future<String> provideAppDirectory(String addon)async{
+    final path = await _localDirectoryPath;
+    String directory = (p.normalize("$path/$addon"));
+    return directory;
   }
 }

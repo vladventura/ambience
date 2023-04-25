@@ -1,9 +1,12 @@
 // ignore_for_file: constant_identifier_names
 
 import 'package:ambience/constants.dart' as constants;
+import 'package:ambience/firebase/fire_handler.dart';
 import 'package:flutter/material.dart';
 import 'package:ambience/storage/storage.dart';
 import 'dart:convert';
+import 'package:path/path.dart' as p;
+import 'package:ambience/providers/location_provider.dart';
 
 // added empty for when the user hasn't entered anything yet
 enum WeatherCondition {
@@ -46,6 +49,7 @@ class WeatherEntry {
 
   WeatherEntry(this.startTime, this.dayOfWeek, this.wallpaperFilepath,
       this.weatherCondition, this.city) {
+    wallpaperFilepath = p.normalize(wallpaperFilepath);
     idSchema += DateTime.now().millisecondsSinceEpoch.toString();
   }
 
@@ -81,7 +85,7 @@ class WeatherEntry {
       }
       jsonDecoded[newEntry.idSchema] = newEntry; // add new rule
       String rulesetToJson = jsonEncode(jsonDecoded);
-      store.writeAppDocFile(rulesetToJson, constants.jsonPath);
+      await store.writeAppDocFile(rulesetToJson, constants.jsonPath);
     } else {
       // the file doesn't exist, create it and add the new WeatherEntry
       Map<String, dynamic> newRuleset = {};
@@ -89,19 +93,29 @@ class WeatherEntry {
       String rulesetToJson = jsonEncode(newRuleset);
       await store.writeAppDocFile(rulesetToJson, constants.jsonPath);
     }
+    FireHandler hand = FireHandler();
+    //upload the new json and associated wallpapers
+    //await hand.ruleJSONUpload();
     return true;
   }
 
   // deletes the rule matching key idSchema from the json
   static void deleteRule(String idSchema) async {
     Storage store = Storage();
+    FireHandler hand = FireHandler();
+
     var jsonDecoded = await store.readAppDocJson(constants.jsonPath);
     if (jsonDecoded is Map<String, dynamic>) {
       // the file exists so we can delete this entry
       Map<String, dynamic> temp = jsonDecoded;
+      //Delete wallpaper in firebase
+      //await hand.deleteWallpaper(temp[idSchema]["wallpaperFilepath"]);
+
       temp.remove(idSchema);
       String rulesetToJson = jsonEncode(temp);
-      store.writeAppDocFile(rulesetToJson, constants.jsonPath);
+      await store.writeAppDocFile(rulesetToJson, constants.jsonPath);
+      //upload the new json and associated wallpapers
+      //await hand.ruleJSONUpload();
       return;
     }
     // the file doesn't exist, do nothing
@@ -142,7 +156,7 @@ class WeatherEntry {
     startTime = TimeOfDay(
         hour: (json['startTimeHour']), minute: (json['startTimeMinute']));
     dayOfWeek = DayOfWeek.values[(json['dayOfWeek'])];
-    wallpaperFilepath = json['wallpaperFilepath'];
+    wallpaperFilepath = p.normalize(json['wallpaperFilepath']);
     weatherCondition = WeatherCondition.values[(json['weatherCondition'])];
     idSchema = json['idSchema'];
     city = json['city'];
@@ -176,5 +190,21 @@ class WeatherEntry {
       return true;
     }
     return false;
+  }
+
+  static Future<bool> updateLocInfo(String cityID) async {
+    Storage store = Storage();
+    Map<String, dynamic> ruleMap =
+        await store.readAppDocJson(constants.jsonPath);
+    //if it's empty nothing needs to be updated
+    //if it's not empty update all entries with the new location
+    if (ruleMap.isNotEmpty) {
+      for (dynamic entry in ruleMap.values) {
+        entry["city"] = cityID;
+      }
+      String ruleMapToJSON = jsonEncode(ruleMap);
+      await store.writeAppDocFile(ruleMapToJSON, constants.jsonPath);
+    }
+    return true;
   }
 }
