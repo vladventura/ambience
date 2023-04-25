@@ -169,7 +169,9 @@ class _LocationRequest extends State<LocationRequest> {
 
   void _submit() {
     String chosenName = _autocompleteController.text;
-    Map<String, dynamic> city = _citiesList.where((element) {
+
+    if(chosenName.isNotEmpty){
+      Map<String, dynamic> city = _citiesList.where((element) {
       return element['name'] == chosenName &&
           (_chosenCountryCode == "US"
               ? element['state'] == _chosenState
@@ -177,6 +179,7 @@ class _LocationRequest extends State<LocationRequest> {
     }).toList()[0];
     context.read<LocationProvider>().setLocation(city);
     Navigator.of(context).pushNamed('/Home');
+    }
   }
 
   ButtonStyle _buttonStyle({

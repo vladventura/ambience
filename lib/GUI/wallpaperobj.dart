@@ -46,8 +46,14 @@ class WallpaperObj {
   String time = "placeholder time";
   String city = "placeholder city";
 
+  // time is military, must be converted
+  // in order to be shown in frontend
   int hour = 0;
   int minute = 0;
+
+  bool isAmPm() {
+    return (hour > 12);
+  }
 
   //stores Weather entries of the same kind on different days
   List<WeatherEntry> entries;
@@ -72,23 +78,22 @@ class WallpaperObj {
     //initializing list in order fron sun to sat
 
     List<WeatherEntry> temp = [];
-    for(int i = 0; i < 7; i++) {
-      for(int j = 0; j < 7; j++){
-        if (entries[i].dayOfWeek == DayOfWeek.values[j]){
-          temp[i] = entries[i];
-        }
+
+    bool hasDay(List<WeatherEntry> w, DayOfWeek d){
+      for(int i = 0; i < w.length; i++){
+        if(w[i].dayOfWeek == d){ return true; }
       }
+      return false;
     }
-    entries = temp; // assign sorted list to entries list
 
     // 7 days, sun to sat
-    days = [entries[0].dayOfWeek == DayOfWeek.sunday,
-            entries[1].dayOfWeek == DayOfWeek.monday,
-            entries[2].dayOfWeek == DayOfWeek.tuesday,
-            entries[3].dayOfWeek == DayOfWeek.wednesday,
-            entries[4].dayOfWeek == DayOfWeek.thursday,
-            entries[5].dayOfWeek == DayOfWeek.friday,
-            entries[6].dayOfWeek == DayOfWeek.saturday,];
+    days = [hasDay(entries,DayOfWeek.sunday),
+            hasDay(entries,DayOfWeek.monday),
+            hasDay(entries,DayOfWeek.tuesday),
+            hasDay(entries,DayOfWeek.wednesday),
+            hasDay(entries,DayOfWeek.thursday),
+            hasDay(entries,DayOfWeek.friday),
+            hasDay(entries,DayOfWeek.saturday),];
     } 
 
     else { // if there is no WeatherEntry passed
@@ -105,11 +110,7 @@ class WallpaperObj {
   WallpaperObj.newObj(this.filePath, this.cond,
                       this.hour, this.minute,
                       this.days, [this.entries = const[]]){
-
-      filePath = "";
-      cond = WeatherCondition.Empty;
-      hour = 0;
-      minute = 0;
+                        
       time = hour.toString() + ":" + minute.toString();
 
       entries = createEntries(filePath, cond, hour, minute, days, city);
@@ -121,7 +122,7 @@ class WallpaperObj {
   List<WeatherEntry> createEntries(String file, WeatherCondition cond, 
                                   int hour, int minute, List<bool> days, String city)
   {
-
+  
     List<WeatherEntry> temp = [];
 
     for(int i = 0; i < days.length; i++)

@@ -30,7 +30,7 @@ Widget checkWallpaper() {
   }
 }
 
-String checkTime() {
+String checkTime() { // copy and slightly edit this to convert to regular time
   final now = DateTime.now();
   String hour = (now.hour % 12).toString();
   String minute = now.minute.toString();
@@ -160,8 +160,7 @@ class MainApp extends StatelessWidget {
             children: [
               const Icon(Icons.sunny,
                   size: 80,
-                  color: Colors
-                      .amber), // placeholder, attach function to icon to change based on weather
+                  color: Colors.black45), // placeholder, attach function to icon to change based on weather
               Text(
                 checkTime(), // (TimeOfDay(hour: 12, minute: 02) !!! SCHEDULE TO UPDATE TIME EVERY MINUTE THROUGH A FUNCTION CALL !!!
                 style: const TextStyle(fontWeight: FontWeight.bold),
