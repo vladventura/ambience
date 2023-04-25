@@ -34,6 +34,8 @@ class FireHandler {
     try {
       await auth.signIn(email, password);
       //checks to see if user has verified or not.
+      //since free plan can't access server side functions, delete if they try to
+      //sign in with unverified account
       final user = await auth.getUser();
       if (user.emailVerified == false) {
         //auth.deleteAccount();
@@ -92,7 +94,7 @@ class FireHandler {
     File image = File(imagePath);
     //byte data
     List<int> imageData = await image.readAsBytes();
-    await docRef.create({imageName: base64Encode(imageData)});
+    await docRef.update({imageName: base64Encode(imageData)});
   }
 
   //optional values is for testing purposes for now
