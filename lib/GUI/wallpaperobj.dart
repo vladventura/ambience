@@ -44,6 +44,7 @@ class WallpaperObj {
   WeatherCondition cond = WeatherCondition.Clear;
   String time = "";
   String city = "";
+  int cityId;
 
   // time is military, must be converted
   // in order to be shown in frontend
@@ -60,7 +61,7 @@ class WallpaperObj {
   List<bool> days = [false, false, false, false, false, false, false];
   // constructor for an existing WeatherEntry(s)
   // list MUST be in order from sunday to saturday
-  WallpaperObj([this.entries = const []]) {
+  WallpaperObj(this.cityId, [this.entries = const []]) {
     if (entries.isNotEmpty) {
       filePath = entries[0].wallpaperFilepath;
       cond = entries[0].weatherCondition;
@@ -114,18 +115,18 @@ class WallpaperObj {
   }
 
   WallpaperObj.newObj(
-      this.filePath, this.cond, this.hour, this.minute, this.days,
+      this.filePath, this.cond, this.hour, this.minute, this.days, this.city, this.cityId,
       [this.entries = const []]) {
-    time = hour.toString() + ":" + minute.toString();
+    time = "$hour:$minute";
 
-    entries = createEntries(filePath, cond, hour, minute, days, city);
+    entries = createEntries(filePath, cond, hour, minute, days, city, cityId);
 
     days = [false, false, false, false, false, false, false];
   }
 
   //private function to create entries out of data received
   List<WeatherEntry> createEntries(String file, WeatherCondition cond, int hour,
-      int minute, List<bool> days, String city) {
+      int minute, List<bool> days, String city, int cityId) {
     List<WeatherEntry> temp = [];
 
     for (int i = 0; i < days.length; i++) {
@@ -134,7 +135,7 @@ class WallpaperObj {
 
         TimeOfDay tempTime = TimeOfDay(hour: hour, minute: minute);
 
-        temp.add(WeatherEntry(tempTime, DayOfWeek.values[i], file, cond, city));
+        temp.add(WeatherEntry(tempTime, DayOfWeek.values[i], file, cond, city, cityId));
       }
     }
 

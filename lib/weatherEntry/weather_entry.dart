@@ -6,7 +6,6 @@ import 'package:flutter/material.dart';
 import 'package:ambience/storage/storage.dart';
 import 'dart:convert';
 import 'package:path/path.dart' as p;
-import 'package:ambience/providers/location_provider.dart';
 
 // added empty for when the user hasn't entered anything yet
 enum WeatherCondition {
@@ -46,9 +45,10 @@ class WeatherEntry {
   WeatherCondition weatherCondition = WeatherCondition.Clear;
   String idSchema = 'ambience_daemon_';
   String city = 'london';
+  int cityId = 4930956;
 
   WeatherEntry(this.startTime, this.dayOfWeek, this.wallpaperFilepath,
-      this.weatherCondition, this.city) {
+      this.weatherCondition, this.city, this.cityId) {
     wallpaperFilepath = p.normalize(wallpaperFilepath);
     idSchema += DateTime.now().millisecondsSinceEpoch.toString();
   }
@@ -162,6 +162,7 @@ class WeatherEntry {
     weatherCondition = WeatherCondition.values[(json['weatherCondition'])];
     idSchema = json['idSchema'];
     city = json['city'];
+    cityId = json['cityId'];
   }
 
   static Future<void> deleteRuleList() async {
@@ -185,7 +186,8 @@ class WeatherEntry {
         'wallpaperFilepath': wallpaperFilepath,
         'weatherCondition': weatherCondition.index,
         'idSchema': idSchema,
-        'city': city
+        'city': city,
+        'cityId': cityId,
       };
   bool compareWeather(String incomingWeather) {
     if (incomingWeather == weatherCondition.name) {
