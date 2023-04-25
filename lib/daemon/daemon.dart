@@ -13,12 +13,12 @@ import 'package:ambience/api/weather_api.dart';
 
 class Daemon {
   //Boot daemon function to read all ruleobjs to check if any have been missed.
-  static void bootWork() async {
+  static Future<void> bootWork() async {
     Map<String, WeatherEntry> ruleMap = await WeatherEntry.getRuleList();
     //get map from map of maps
     List<dynamic> entryList = ruleMap.values.toList();
     //get weather data(assume location is shared across all rules)
-    WeatherModel weatherData = await getWeatherData(entryList[0]);
+    WeatherModel weatherData = await getWeatherDataForecast(entryList[0]);
     for (int i = 0; i < entryList.length; i++) {
       await weatherCheck(entryList[i], weatherData);
     }
@@ -49,7 +49,7 @@ class Daemon {
   }
 
   //A daemon that checks all rules on boots
-  static void daemonBoot() async {
+  static Future<void> daemonBoot() async {
     String current = Directory.current.path;
     String daemonMode = 'boot';
     if (Platform.isWindows) {
@@ -93,7 +93,7 @@ class Daemon {
   }
 
   //schedules daemons with the current platform
-  static void daemonSpawner(WeatherEntry ruleObj) async {
+  static Future<void> daemonSpawner(WeatherEntry ruleObj) async {
     String current = Directory.current.path;
     //replace spaces with underscore to keep mutli-word arguments together in commandline
     String id = ruleObj.idSchema.replaceAll(" ", "_");
@@ -166,7 +166,7 @@ class Daemon {
   }
 
   //removes daemons from the current platform
-  static void daemonBanisher(String idSchema) async {
+  static Future<void> daemonBanisher(String idSchema) async {
     String current = Directory.current.path;
     if (Platform.isWindows) {
       File checkExist = File("$current\\winTaskRemover.ps1");
@@ -226,7 +226,7 @@ class Daemon {
     String key = "ruleobj";
     if (params.containsKey(key)) {
       WeatherEntry ruleobj = params[key];
-      WeatherModel weatherData = await getWeatherData(ruleobj);
+      WeatherModel weatherData = await getWeatherDataForecast(ruleobj);
       await weatherCheck(ruleobj, weatherData);
     } else {
       debugPrint(
@@ -234,7 +234,8 @@ class Daemon {
     }
   }
 
-  static Future<WeatherModel> getWeatherData(WeatherEntry ruleObj) async {
+  static Future<WeatherModel> getWeatherDataForecast(
+      WeatherEntry ruleObj) async {
     //get current time, so data fetch time doesn't effect finding the most up to date weather data
     var nowTime = DateTime.now();
     //if cannot access weather api

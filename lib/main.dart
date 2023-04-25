@@ -45,12 +45,12 @@ void main(List<String> args) async {
   else {
     //boot daemon case
     if (args[0] == 'boot') {
-      Daemon.bootWork();
+      await Daemon.bootWork();
     } else {
       String idSchema = args[1];
       var ruleObj = await WeatherEntry.getRule(idSchema);
-      WeatherModel weatherData = await Daemon.getWeatherData(ruleObj);
-      Daemon.weatherCheck(ruleObj, weatherData);
+      WeatherModel weatherData = await Daemon.getWeatherDataForecast(ruleObj);
+      await Daemon.weatherCheck(ruleObj, weatherData);
     }
     //explict exit, else Windows task scheduler will never know the task ended
     exit(0);
