@@ -3,6 +3,7 @@ const String logFilePath = "log.txt";
 const String configPath = "config.txt";
 const String appDataDirName = "Ambience";
 const String jsonPath = "ruleset.json";
+const String locationFilename = "locationInfo.json";
 const String bootDaemonID = "ambience_daemon_boot";
 
 const List<Map<String, String>> allUSStates = [
