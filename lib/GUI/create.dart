@@ -9,11 +9,13 @@
 // device-specific getwallpaper stuff (specific to OS)
 
 import 'dart:async';
+import 'package:ambience/providers/location_provider.dart';
 import 'package:ambience/weatherEntry/weather_entry.dart';
 import 'package:flutter/material.dart';
 import 'dart:io';
 import "package:ambience/GUI/wallpaperobj.dart";
 import "package:ambience/handlers/file_handler.dart";
+import 'package:provider/provider.dart';
 
 void main() => runApp(
       CreateApp(
@@ -23,6 +25,8 @@ void main() => runApp(
           14,
           30,
           [false, true, false, true, false, true, false],
+          "Boston",
+          4930956,
           [],
         ),
         intention: 1,
@@ -607,12 +611,14 @@ class _CreateApp extends State<CreateApp> {
                     iconToWeatherCond[weatherDropKey.currentState?._weatherVal],
                     dayToggles.getDays())) {
                   WallpaperObj newObj = WallpaperObj.newObj(
-                      fileChooser.getCurrentFile(),
-                      iconToWeatherCond[
-                          weatherDropKey.currentState?._weatherVal],
-                      toMilitary(toNumber(hourController.text), AMPM.getAmPm()),
-                      toNumber(minuteController.text),
-                      dayToggles.getDays());
+                    fileChooser.getCurrentFile(),
+                    iconToWeatherCond[weatherDropKey.currentState?._weatherVal],
+                    toMilitary(toNumber(hourController.text), AMPM.getAmPm()),
+                    toNumber(minuteController.text),
+                    dayToggles.getDays(),
+                    context.read<LocationProvider>().location!.name,
+                    context.read<LocationProvider>().location!.id,
+                  );
 
                   confirmCreation(
                           widget.intention, widget.contextWallpaper, newObj)

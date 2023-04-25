@@ -220,7 +220,7 @@ class MainApp extends StatelessWidget {
                 context,
                 MaterialPageRoute(
                   builder: (context) => CreateApp(
-                    contextWallpaper: WallpaperObj(),
+                    contextWallpaper: WallpaperObj(context.read<LocationProvider>().location?.id ?? 4930956),
                     intention: 1,
                     location: getLocation(),
                   ),
