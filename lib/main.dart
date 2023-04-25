@@ -16,13 +16,12 @@ import "package:ambience/GUI/list.dart";
 import "package:ambience/GUI/login.dart";
 import "package:ambience/GUI/main screen.dart";
 import 'package:provider/provider.dart';
+import 'package:ambience/api/weather.dart';
 
 void main(List<String> args) async {
   await dotenv.load();
   FireHandler.initialize();
   FireHandler test = FireHandler();
-
-
   //if not args passed, GUI MODE
   if (args.isEmpty) {
     runZonedGuarded(() {
@@ -157,7 +156,7 @@ class _MyHomePageState extends State<MyHomePage> {
               },
             ),
             ElevatedButton(
-                onPressed: () => weather(cityInput),
+                onPressed: () => weatherForecast(cityInput),
                 child: const Text("Get weather")),
             ElevatedButton(
                 onPressed: () => Daemon.daemonSpawner(mockObj),

@@ -2,14 +2,13 @@ import 'weather_api.dart';
 import 'package:flutter/foundation.dart';
 import 'package:ambience/storage/storage.dart';
 import 'dart:developer';
+import 'package:ambience/handlers/request_handler.dart';
+import 'dart:convert';
 
 //Reads weather data JSON from file.
-//Note this is a bit if a proof of concept function
-//Data needs to be prased to be utitlize, right now there is only an example of doing so
-Future<void> weather(String? input) async {
-  //not fully functional
+Future<void> weatherForecast(String? input) async {
   //get weather data
-  if (await (getAndWriteWeather(input)) == false) {
+  if (await (getAndWriteWeatherForecast(input)) == false) {
     debugPrint("Failed to get Weatherdata!");
     return;
   }
@@ -20,7 +19,17 @@ Future<void> weather(String? input) async {
   //sample of parsing weather data
   //note it is a mix of lists and maps. Hence key and index accesing.
   inspect(weatherData);
-  debugPrint(
-      "Found weather for ${weatherData['city']['name']} in ${weatherData['city']['country']}."
-      " The weather: ${(weatherData['list'][0])['weather'][0]['description']}.");
+}
+
+Future<Map<String, dynamic>> weatherNow(String? input) async {
+  //get weather data
+
+  try {
+    var nowWeather = await (getWeatherNow(input));
+    return jsonDecode(nowWeather);
+  } catch (e) {
+    debugPrint(e.toString());
+    Map<String, dynamic> empty = <String,dynamic>{};
+    return empty;
+  }
 }

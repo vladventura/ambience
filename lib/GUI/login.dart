@@ -160,8 +160,8 @@ class _LoginApp extends State<LoginApp> {
           TextButton(
             onPressed: () async {
               try {
-                //TO-DO actucally tap into stream to user
-                await hand.resetPwd(_nameController.text);
+                //commented out for rapid offline testing
+                //await hand.resetPwd(_nameController.text);
               } catch (e) {
                 errMsg = e.toString();
                 setState(() {
