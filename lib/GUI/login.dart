@@ -72,7 +72,7 @@ class _LoginApp extends State<LoginApp> {
       //commented out to allow rapid offline testing
       //fetch user config and wallpapers from cloud(Firestore)
       //await hand.ruleJSONDownload();
-      await hand.downloadLocJSON();
+      //await hand.downloadLocJSON();
     } catch (e) {
       errMsg = e.toString(); // set error message
     }
