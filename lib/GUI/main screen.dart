@@ -1,3 +1,5 @@
+import 'dart:convert';
+
 import 'package:ambience/GUI/create.dart';
 import 'package:ambience/GUI/list.dart';
 import 'package:ambience/models/location_model.dart';
@@ -12,6 +14,27 @@ import 'package:provider/provider.dart';
 void main() => runApp(const MainApp());
 
 String current = Directory.current.path;
+
+Future<IconData> getCurrentWeather() async {
+
+  Map stringToIcon = {
+  "Clear":Icons.sunny,
+  "Clouds":Icons.cloud,
+  "Rain":Icons.water_drop,
+  "Thunderstorm":Icons.thunderstorm,
+  "Snow":Icons.cloudy_snowing,
+  "Empty":Icons.question_mark
+  };
+
+  // call 
+  Map<String, dynamic> json = jsonDecode(source);
+
+  if(stringToIcon.entries.contains(json["weather"])){
+    return stringToIcon[json["weather"]];
+  }
+
+  else{ return Icons.question_mark; } // in the event that the current weather is something we aren't prepared for (such as ash or tornado)
+}
 
 Widget checkWallpaper() {
   String currentFile = ""; // current wallpaper function goes here
@@ -148,7 +171,10 @@ class MainApp extends StatelessWidget {
     );
   }
 
-  Widget weatherSection() {
+  Future<Widget> weatherSection() async {
+
+    IconData icon = await getCurrentWeather();
+
     return Container(
       padding: const EdgeInsets.all(32),
       child: Row(
@@ -157,7 +183,7 @@ class MainApp extends StatelessWidget {
           Column(
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
-              const Icon(Icons.sunny,
+              Icon(icon,
                   size: 80,
                   color: Colors.black45), // placeholder, attach function to icon to change based on weather
               Text(
@@ -242,7 +268,18 @@ class MainApp extends StatelessWidget {
         body: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            weatherSection(),
+            FutureBuilder <Widget> (
+              future: weatherSection(),
+              builder: (BuildContext context,
+                AsyncSnapshot<Widget> snapshot){
+                  if(!snapshot.hasData){
+                    return const Icon(Icons.hourglass_top);
+                  }
+                  else{
+                    return snapshot.data!;
+                  }
+                }
+              ),
             wallpaperSection(),
             buttonMenu(context),
           ],

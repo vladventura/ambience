@@ -5,7 +5,7 @@
 // add time conversions - done
 // ENSURE THAT JSON FILE ALWAYS EXISTS - done
 // add tooltips
-// fix parendata widget problems
+// fix parendata widget problems - done
 // device-specific getwallpaper stuff (specific to OS)
 
 import 'dart:async';
