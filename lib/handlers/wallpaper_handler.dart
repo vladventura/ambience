@@ -1,11 +1,13 @@
 import "dart:async";
+import 'dart:convert';
 import 'dart:ffi' as ffi;
 import 'package:async_wallpaper/async_wallpaper.dart';
 import 'package:ffi/ffi.dart';
-import 'dart:io' show Directory, File, Process;
+import 'dart:io' show Directory, File, Process, ProcessResult;
 import 'package:ambience/native/generated_bindings.dart';
 import 'package:flutter/foundation.dart';
 import 'package:path/path.dart' as path;
+import 'package:path_provider/path_provider.dart';
 
 class InvalidPlatformException implements Exception {
   String cause;
@@ -27,6 +29,39 @@ class WallpaperHandler {
     } else {
       throw InvalidPlatformException("Android platform not implemented");
     }
+  }
+
+  static Future<File> getCurrentWallpaperPath(
+      {TargetPlatform? platform}) async {
+    TargetPlatform currentPlatform = platform ?? defaultTargetPlatform;
+    // Android has too much variance per vendor for us to account for, sorry!
+    switch (currentPlatform) {
+      case TargetPlatform.windows:
+        return await _getCurrentWallpaperPathWindows();
+      case TargetPlatform.linux:
+        return await _getCurrentWallpaperPathLinux();
+      default:
+        throw InvalidPlatformException(
+            "Platform's current wallpaper not implemented");
+    }
+  }
+
+  static Future<File> _getCurrentWallpaperPathLinux() async {
+    String command = "gsettings get org.gnome.desktop.background picture-uri";
+    ProcessResult result = await Process.run('bash', ['-c', command]);
+    String path = utf8.decode(result.stdout);
+    File f = File(path);
+    return f;
+  }
+
+  static Future<File> _getCurrentWallpaperPathWindows() async {
+    // get
+    Directory d = await getApplicationSupportDirectory();
+    // AppData
+    d = d.parent.parent;
+    File currentWallpaper = File(path.join(
+        d.path, 'Microsoft', 'Windows', 'Themes', 'TranscodedWallpaper'));
+    return currentWallpaper;
   }
 
   static String get dyLibPath => _dylibPath;
