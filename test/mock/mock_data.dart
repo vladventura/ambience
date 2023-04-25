@@ -12,6 +12,7 @@ const Map<String, dynamic> fakeCityInfo = {
   "countryCode": 207,
   'lat': 0.011,
   'lon': 1.11,
+  'id': 1843561,
 };
 
 const Map<String, dynamic> fakeGeoSingleComplete = {
@@ -31,6 +32,7 @@ Map<String, dynamic> fakeWeatherEntry = {
   "weatherCondition": WeatherCondition.Rain.index,
   "idSchema": "ambience_daemon_fakentry",
   "city": "Incheon",
+  "cityId": 1843561
 };
 
 const String mockKey = "fakepi-key";

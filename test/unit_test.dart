@@ -1,6 +1,5 @@
 import "dart:convert";
 import "dart:io" show File, Directory, FileSystemEntity;
-import "package:ambience/api/weather.dart";
 import "package:ambience/constants.dart";
 import "package:ambience/storage/storage.dart";
 import "package:ambience/weatherEntry/weather_entry.dart";
@@ -12,7 +11,6 @@ import "package:flutter_dotenv/flutter_dotenv.dart";
 import "package:flutter_test/flutter_test.dart";
 import "package:ambience/api/geolocate_api.dart";
 import "package:ambience/api/weather_api.dart";
-import "package:ambience/handlers/file_handler.dart" as FileHandler;
 import "package:ambience/handlers/request_handler.dart";
 import "package:ambience/handlers/wallpaper_handler.dart";
 import "package:ambience/models/geolocation_model.dart";
@@ -28,7 +26,7 @@ class MockRequestHandler extends Handler {
 
   @override
   Future<dynamic> requestWeatherDataForecast(
-      String? input, List<dynamic> cords) async {
+      int? locationId) async {
     return http.Response(json.encode(fakeWeatherResponse['body']), 200);
   }
 }
@@ -65,9 +63,7 @@ void main() {
   group('Weather API', () {
     test('Should return mock weather', () async {
       Handler mockHandler = MockRequestHandler();
-      List<dynamic> geo = await geolocate("Mock City", handler: mockHandler);
-      http.Response response = await getWeatherForecast("Mock City",
-          latlon: geo, handler: mockHandler);
+      http.Response response = await getWeatherForecast(fakeCityInfo['cityId'], handler: mockHandler);
       Map<String, dynamic> result = json.decode(response.body);
       expect(result, fakeWeatherResponse['body']);
     });

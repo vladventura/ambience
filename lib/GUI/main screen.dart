@@ -1,5 +1,4 @@
 import 'package:ambience/GUI/create.dart';
-import 'package:ambience/GUI/list.dart';
 import 'package:ambience/firebase/fire_handler.dart';
 import 'package:ambience/models/location_model.dart';
 import 'package:ambience/providers/location_provider.dart';
@@ -8,7 +7,6 @@ import "package:ambience/GUI/wallpaperobj.dart";
 import 'dart:io';
 import "dart:async";
 import "package:ambience/constants.dart";
-import 'package:flutter/services.dart';
 
 import 'package:provider/provider.dart';
 
@@ -238,7 +236,9 @@ class MainApp extends StatelessWidget {
                   context,
                   MaterialPageRoute(
                     builder: (context) => CreateApp(
-                      contextWallpaper: WallpaperObj(),
+                      contextWallpaper: WallpaperObj(
+                          context.read<LocationProvider>().location?.id ??
+                              4930956),
                       intention: 1,
                       location: getLocation(),
                     ),
