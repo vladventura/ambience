@@ -72,6 +72,7 @@ class _LoginApp extends State<LoginApp> {
       //commented out to allow rapid offline testing
       //fetch user config and wallpapers from cloud(Firestore)
       //await hand.ruleJSONDownload();
+      //await hand.downloadLocJSON();
     } catch (e) {
       errMsg = e.toString(); // set error message
     }
@@ -250,30 +251,30 @@ class _LoginApp extends State<LoginApp> {
         alignment: Alignment.topRight,
         constraints: BoxConstraints(),
         child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          Spacer(flex:2),
-          _loginHeader(),
-          Container(
-            child: FittedBox(
-            fit: BoxFit.fitHeight,
-            child: _loginFields(),
-          ),
-          ),
-          const Padding(padding: EdgeInsets.only(top: 8)),
-          FittedBox(
-            fit: BoxFit.fitHeight,
-            child:_loginSignin(),
-          ),
-          Spacer(flex:1),
-          LoginMsg(
-            visibleLog: _visibleLog,
-            errMsg: errMsg,
-          ),
-          Spacer(flex:2)
-        ],
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Spacer(flex: 2),
+            _loginHeader(),
+            Container(
+              child: FittedBox(
+                fit: BoxFit.fitHeight,
+                child: _loginFields(),
+              ),
+            ),
+            const Padding(padding: EdgeInsets.only(top: 8)),
+            FittedBox(
+              fit: BoxFit.fitHeight,
+              child: _loginSignin(),
+            ),
+            Spacer(flex: 1),
+            LoginMsg(
+              visibleLog: _visibleLog,
+              errMsg: errMsg,
+            ),
+            Spacer(flex: 2)
+          ],
+        ),
       ),
-      ),
-      );
+    );
   }
 }
