@@ -1,11 +1,13 @@
 import "dart:async";
 import 'dart:ffi' as ffi;
+import 'package:ambience/GUI/create.dart';
 import 'package:async_wallpaper/async_wallpaper.dart';
 import 'package:ffi/ffi.dart';
 import 'dart:io' show Directory, File, Process;
 import 'package:ambience/native/generated_bindings.dart';
 import 'package:flutter/foundation.dart';
 import 'package:path/path.dart' as path;
+import 'package:path_provider/path_provider.dart';
 
 class InvalidPlatformException implements Exception {
   String cause;
@@ -27,6 +29,28 @@ class WallpaperHandler {
     } else {
       throw InvalidPlatformException("Android platform not implemented");
     }
+  }
+
+  static Future<File> getCurrentWallpaperPath({TargetPlatform? platform}) async {
+    TargetPlatform currentPlatform = platform ?? defaultTargetPlatform;
+    switch (currentPlatform) {
+      case TargetPlatform.windows:
+        return await _getCurrentWallpaperPathWindows();
+      default:
+        throw InvalidPlatformException("Platform's current wallpaper not implemented");
+    }
+  }
+
+  static Future<File> _getCurrentWallpaperPathWindows() async {
+    // get
+    Directory d = await getApplicationSupportDirectory();
+    // AppData
+    d = d.parent.parent;
+    File currentWallpaper = File(path.join(d.path, 'Microsoft', 'Windows', 'Themes', 'TranscodedWallpaper'));
+    if (await currentWallpaper.exists()) {
+      return currentWallpaper;
+    }
+    return File("");
   }
 
   static String get dyLibPath => _dylibPath;
