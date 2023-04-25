@@ -2,10 +2,12 @@
 // add a text widget to show the days active for a given wallpaperEntry
 
 import 'package:ambience/constants.dart';
+import 'package:ambience/providers/location_provider.dart';
 import 'package:flutter/material.dart';
 import 'dart:io';
 import 'package:ambience/weatherEntry/weather_entry.dart';
 import "package:ambience/GUI/wallpaperobj.dart";
+import 'package:provider/provider.dart';
 
 void main() => runApp(ListApp());
 
@@ -30,9 +32,9 @@ class EntryControls extends StatelessWidget {
 
     ID = id;
 
-    VoidCallback action = () {
+    action() {
       func(ID);
-    };
+    }
 
     Controls = Row(
       // displays the wallpaper's controls
@@ -40,19 +42,20 @@ class EntryControls extends StatelessWidget {
         IconButton(
           onPressed:
               action, // function to delete the wallpaperObj, deleting the rules associated with it
-          icon: Icon(Icons.delete),
+          icon: const Icon(Icons.delete),
           style: controlStyle,
         ),
         IconButton(
           onPressed:
               action, //function to edit the existing wallpaper, goes to create screen w/ data
-          icon: Icon(Icons.edit),
+          icon: const Icon(Icons.edit),
           style: controlStyle,
         ),
       ],
     );
   }
 
+  @override
   Widget build(BuildContext context) {
     return Controls;
   }
@@ -61,7 +64,7 @@ class EntryControls extends StatelessWidget {
 class WallpaperEntry extends StatelessWidget {
   int ID = 0;
 
-  WallpaperObj object = WallpaperObj();
+  WallpaperObj object = WallpaperObj(0);
 
   String wallFile = "Null";
 
@@ -216,7 +219,7 @@ class wallPapersWindowState extends State<wallPapersWindow> {
 // function that creates a list of WallpaperObjs.
 // Searches list of created WeatherEntries and groups them together
 // into a list of WallpaperObjects.
-Future<List<WallpaperObj>> listSavedWallpapers() async {
+Future<List<WallpaperObj>> listSavedWallpapers(BuildContext context) async {
   debugPrint("listSavedWallpapers called!");
 
   Map<String, WeatherEntry> rulesList = await WeatherEntry.getRuleList();
@@ -271,7 +274,9 @@ Future<List<WallpaperObj>> listSavedWallpapers() async {
 
   // second loop, creates a list of WallpaperObj based on how many unique entries there are
   for (int k = 0; k < foundWeatherEntries.length; k++) {
-    temp.add(WallpaperObj(foundWeatherEntries[k]));
+    // I know, time though
+    temp.add(WallpaperObj(
+        context.read<LocationProvider>().location!.id, foundWeatherEntries[k]));
   }
 
   if (temp.isEmpty) {
@@ -293,7 +298,7 @@ class ListAppState extends State<ListApp> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: FutureBuilder<List<WallpaperObj>>(
-          future: listSavedWallpapers(),
+          future: listSavedWallpapers(context),
           builder: (BuildContext context,
               AsyncSnapshot<List<WallpaperObj>> snapshot) {
             if (!snapshot.hasData) {

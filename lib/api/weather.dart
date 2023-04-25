@@ -1,12 +1,12 @@
+import 'package:ambience/models/location_model.dart';
 import 'weather_api.dart';
 import 'package:flutter/foundation.dart';
 import 'package:ambience/storage/storage.dart';
 import 'dart:developer';
-import 'package:ambience/handlers/request_handler.dart';
 import 'dart:convert';
 
 //Reads weather data JSON from file.
-Future<void> weatherForecast(String? input) async {
+Future<void> weatherForecast(LocationModel? input) async {
   //get weather data
   if (await (getAndWriteWeatherForecast(input)) == false) {
     debugPrint("Failed to get Weatherdata!");
@@ -21,15 +21,14 @@ Future<void> weatherForecast(String? input) async {
   inspect(weatherData);
 }
 
-Future<Map<String, dynamic>> weatherNow(String? input) async {
+Future<Map<String, dynamic>> weatherNow(LocationModel? input) async {
   //get weather data
-
   try {
     var nowWeather = await (getWeatherNow(input));
     return jsonDecode(nowWeather);
   } catch (e) {
     debugPrint(e.toString());
-    Map<String, dynamic> empty = <String,dynamic>{};
+    Map<String, dynamic> empty = <String, dynamic>{};
     return empty;
   }
 }
