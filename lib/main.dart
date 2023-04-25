@@ -57,8 +57,24 @@ void main(List<String> args) async {
   }
 }
 
-class MyApp extends StatelessWidget {
+class MyApp extends StatefulWidget {
   const MyApp({super.key});
+
+  @override
+  State<MyApp> createState() => _MyAppState();
+}
+
+class _MyAppState extends State<MyApp> {
+
+  @override
+  void initState() {
+    super.initState();
+    asyncInit();
+  }
+
+  void asyncInit() async {
+    await context.read<LocationProvider>().loadLocation();
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -74,111 +90,5 @@ class MyApp extends StatelessWidget {
           '/List': (context) => ListApp(),
           '/LocationRequest': (context) => const LocationRequest(),
         });
-  }
-}
-
-class MyHomePage extends StatefulWidget {
-  const MyHomePage({super.key, required this.title});
-
-  final String title;
-
-  @override
-  State<MyHomePage> createState() => _MyHomePageState();
-}
-
-class _MyHomePageState extends State<MyHomePage> {
-  String _input = "";
-
-  void _pickFile() async {
-    String pathToFile = "";
-    try {
-      pathToFile = await getImagePathFromPicker();
-    } on NoFileChosenException {
-      debugPrint("No files chosen");
-    } on FileNotFoundException {
-      debugPrint("No path was found for the given file");
-    } finally {
-      setState(() {
-        _input = pathToFile;
-      });
-    }
-  }
-
-  void _setWallpaper() async => await WallpaperHandler.setWallpaper(_input);
-
-  @override
-  Widget build(BuildContext context) {
-    String? cityInput;
-    //mock object for testing
-    //==========================
-    TimeOfDay time = const TimeOfDay(hour: 23, minute: 45);
-    DayOfWeek dow = DayOfWeek.tuesday;
-    WeatherCondition wc = WeatherCondition.Clouds;
-    String curr = Directory.current.path;
-    String testPaper = "$curr/test.jpg";
-    String city = 'New York';
-    WeatherEntry mockObj = WeatherEntry(time, dow, testPaper, wc, city);
-    //===========================
-    return Scaffold(
-      appBar: AppBar(
-        title: Text(widget.title),
-      ),
-      body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: <Widget>[
-            //weather api text field
-            TextField(
-              decoration: const InputDecoration(
-                border: OutlineInputBorder(),
-                labelText: 'enter email',
-              ),
-              onChanged: (text) {
-                cityInput = text;
-              },
-            ),
-            TextField(
-              decoration: const InputDecoration(
-                border: OutlineInputBorder(),
-                labelText: 'Enter password',
-              ),
-              onChanged: (text) {
-                cityInput = text;
-              },
-            ),
-            TextField(
-              decoration: const InputDecoration(
-                border: OutlineInputBorder(),
-                hintText: 'Enter city name to get weather for',
-              ),
-              onChanged: (text) {
-                cityInput = text;
-              },
-            ),
-            ElevatedButton(
-                onPressed: () => weatherForecast(cityInput),
-                child: const Text("Get weather")),
-            ElevatedButton(
-                onPressed: () => Daemon.daemonSpawner(mockObj),
-                child: const Text("Demon Mock Obj Test")),
-            //open file
-            ElevatedButton(
-              onPressed: _pickFile,
-              child: const Text("Open File"),
-            ),
-            ElevatedButton(
-              onPressed: () => Daemon.daemonBanisher(mockObj.idSchema),
-              child: const Text("banish thy daemon"),
-            ),
-            if (_input.isNotEmpty) Text("Path to file is $_input"),
-          ],
-        ),
-      ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: _setWallpaper,
-        tooltip: 'Set Wallpaper',
-        child: const Icon(Icons.add),
-      ),
-    );
   }
 }
