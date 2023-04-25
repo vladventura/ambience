@@ -13,11 +13,14 @@ class Storage {
   String weatherDataPath = constants.weatherDataPath;
   String logFilePath = constants.logFilePath;
   String configPath = constants.configPath;
-  String appDataDirName = constants.appDataDirName; 
+  String appDataDirName = constants.appDataDirName;
+  Directory? documentsDir;
+
   //path_provider gets a directory for presistent data
   Future<String> get _localPath async {
-    final directory = await getApplicationDocumentsDirectory();
-    return directory.path;
+    // I couldn't help it
+    documentsDir ??= await getApplicationDocumentsDirectory();
+    return documentsDir!.path;
   }
 
   //Creat Ambience folder if it doesn't exist already,
