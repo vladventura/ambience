@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:ambience/weatherEntry/weather_entry.dart';
 import 'package:path/path.dart' as path;
@@ -107,21 +109,25 @@ class WallpaperObj {
     }
   }
 
-  WallpaperObj.newObj(this.filePath, this.cond,
-                      this.hour, this.minute,
-                      this.days, [this.entries = const[]]){
+  WallpaperObj newObj(String path, WeatherCondition condition,
+                      int hour, int minute, List<bool> days) async {
                         
       time = hour.toString() + ":" + minute.toString();
 
-      entries = createEntries(filePath, cond, hour, minute, days, city);
+      entries = await createEntries();
 
       days = [false, false, false, false, false, false, false];
+
+      return WallpaperObj(entries);
+  }
+
+  void initEntries() async {
+    entries = await createEntries();
   }
 
   //private function to create entries out of data received
-  List<WeatherEntry> createEntries(String file, WeatherCondition cond, 
-                                  int hour, int minute, List<bool> days, String city)
-  {
+  Future<List<WeatherEntry>> createEntries()
+  async {
   
     List<WeatherEntry> temp = [];
 
@@ -131,7 +137,9 @@ class WallpaperObj {
 
         TimeOfDay tempTime = TimeOfDay(hour: hour, minute: minute);
 
-        temp.add(WeatherEntry(tempTime, DayOfWeek.values[i], file, cond, city));
+      Timer(const Duration(milliseconds: 10),(){
+        temp.add(WeatherEntry(tempTime, DayOfWeek.values[i], filePath, cond, city));
+      });
       }
     }
 

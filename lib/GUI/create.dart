@@ -10,6 +10,7 @@
 
 import 'dart:async';
 import 'package:ambience/weatherEntry/weather_entry.dart';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'dart:io';
 import "package:ambience/GUI/wallpaperobj.dart";
@@ -477,21 +478,23 @@ class _CreateApp extends State<CreateApp> {
         []; // in case you need to abort and undo the new rules
 
     for (int i = 0; i < newObj.entries.length; i++) {
-      await WeatherEntry.createRule(newObj.entries[i]);
+    
+      debugPrint(newObj.entries[i].dayOfWeek.name);
 
-      bool success =
-          true; //only for the time being, delete once createRule becomes boolean
+      bool success = await WeatherEntry.createRule(newObj.entries[i]);
 
       if (success) {
         tempSchemas.add(newObj.entries[i].idSchema);
-      }
-      // else {
-      //   tempSchemas.forEach((element) {
-      //     WeatherEntry.deleteRule(element);
-      //   });
 
-      //   return false;
-      // }
+        debugPrint(newObj.entries[i].idSchema);
+      }
+      else { // conflict found, undo creation of every entry
+         tempSchemas.forEach((element) {
+           WeatherEntry.deleteRule(element);
+         });
+
+         return false;
+      }
     }
 
     return true;
@@ -599,7 +602,7 @@ class _CreateApp extends State<CreateApp> {
             ),
             const Spacer(),
             OutlinedButton(
-              onPressed: () {
+              onPressed: () async {
                 if (checkFields(
                     hourController.text,
                     minuteController.text,
@@ -613,6 +616,7 @@ class _CreateApp extends State<CreateApp> {
                       toMilitary(toNumber(hourController.text), AMPM.getAmPm()),
                       toNumber(minuteController.text),
                       dayToggles.getDays());
+
 
                   confirmCreation(
                           widget.intention, widget.contextWallpaper, newObj)

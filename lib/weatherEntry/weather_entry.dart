@@ -93,7 +93,7 @@ class WeatherEntry {
       String rulesetToJson = jsonEncode(newRuleset);
       await store.writeAppDocFile(rulesetToJson, constants.jsonPath);
     }
-    FireHandler hand = FireHandler();
+//    FireHandler hand = FireHandler();
     //upload the new json and associated wallpapers
     //await hand.ruleJSONUpload();
     return true;

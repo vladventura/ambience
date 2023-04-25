@@ -2,6 +2,7 @@ import 'dart:convert';
 
 import 'package:ambience/GUI/create.dart';
 import 'package:ambience/GUI/list.dart';
+import 'package:ambience/api/weather.dart';
 import 'package:ambience/firebase/fire_handler.dart';
 import 'package:ambience/models/location_model.dart';
 import 'package:ambience/providers/location_provider.dart';
@@ -28,10 +29,11 @@ Future<IconData> getCurrentWeather() async {
   };
 
   // call 
-  Map<String, dynamic> json = jsonDecode(source);
+  Map<String, dynamic> json = await weatherNow("placeholder"); // CHANGE THIS TO GET THE LOCALE FROM FILE
+  // in the form of a (city?)
 
-  if(stringToIcon.entries.contains(json["weather"])){
-    return stringToIcon[json["weather"]];
+  if(stringToIcon.entries.contains(json["main"])){
+    return stringToIcon[json["main"]];
   }
 
   else{ return Icons.question_mark; } // in the event that the current weather is something we aren't prepared for (such as ash or tornado)
