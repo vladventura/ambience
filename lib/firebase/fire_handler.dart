@@ -34,6 +34,8 @@ class FireHandler {
     try {
       await auth.signIn(email, password);
       //checks to see if user has verified or not.
+      //since free plan can't access server side functions, delete if they try to
+      //sign in with unverified account
       final user = await auth.getUser();
       if (user.emailVerified == false) {
         //auth.deleteAccount();
@@ -92,7 +94,7 @@ class FireHandler {
     File image = File(imagePath);
     //byte data
     List<int> imageData = await image.readAsBytes();
-    await docRef.create({imageName: base64Encode(imageData)});
+    await docRef.update({imageName: base64Encode(imageData)});
   }
 
   //optional values is for testing purposes for now
@@ -245,22 +247,34 @@ class FireHandler {
         .collection("users")
         .document(userID)
         .collection("config")
-        .document("location");
-    Storage store = Storage();
+        .document(constants.locationFilename);
     //get the map from file using storage
-    //docRef.update(map);
+    Storage store = Storage();
+    try {
+      var locMap = await store.readAppDocJson(constants.locationFilename);
+      docRef.update(locMap);
+    } catch (e) {
+      //if file doesn't exist fail silently and return
+      return;
+    }
+  
   }
 
-  Future<void> downLocJSON() async {
+  Future<void> downloadLocJSON() async {
     var docRef = Firestore.instance
         .collection("users")
         .document(userID)
         .collection("config")
-        .document("location");
-    Document snapshot = await docRef.get();
-    var locMap = snapshot.map;
-    Storage store = Storage();
-    //write Map to file using storage
+        .document(constants.locationFilename);
+    try {
+      Document snapshot = await docRef.get();
+      var locMap = snapshot.map;
+      Storage store = Storage();
+      await store.writeAppDocFile(locMap, constants.locationFilename);
+    } catch (e) {
+      //if file doesn't exist fail silently and return
+      return;
+    }
   }
 }
 
