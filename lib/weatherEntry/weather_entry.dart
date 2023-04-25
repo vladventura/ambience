@@ -93,7 +93,8 @@ class WeatherEntry {
       String rulesetToJson = jsonEncode(newRuleset);
       await store.writeAppDocFile(rulesetToJson, constants.jsonPath);
     }
-    FireHandler hand = FireHandler();
+    //commented out to enable rapid local testing
+    //FireHandler hand = FireHandler();
     //upload the new json and associated wallpapers
     //await hand.ruleJSONUpload();
     return true;
@@ -102,7 +103,8 @@ class WeatherEntry {
   // deletes the rule matching key idSchema from the json
   static void deleteRule(String idSchema) async {
     Storage store = Storage();
-    FireHandler hand = FireHandler();
+    //commented out to enable rapid local testing
+    //FireHandler hand = FireHandler();
 
     var jsonDecoded = await store.readAppDocJson(constants.jsonPath);
     if (jsonDecoded is Map<String, dynamic>) {
