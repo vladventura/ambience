@@ -50,7 +50,7 @@ void main() {
   });
   group('Request Handler', () {
     test('Should load API Key properly', () {
-      dotenv.testLoad(fileInput: "APIKEY=$mockKey");
+      dotenv.testLoad(fileInput: "OpenweatherAPI=$mockKey");
       RequestHandler handler = const RequestHandler();
       expect(handler.apiKey, mockKey);
     });
