@@ -18,13 +18,12 @@ import "package:ambience/handlers/file_handler.dart";
 
 void main() => runApp(
       CreateApp(
-        contextWallpaper: WallpaperObj.newObj(
+        contextWallpaper: WallpaperObj().newObj(
           "G:/Dedicated memes folder/Image memes/b65040ee-199c-4c36-a2b2-15b1e950b3a5.png",
           WeatherCondition.Clouds,
           14,
           30,
           [false, true, false, true, false, true, false],
-          [],
         ),
         intention: 1,
         location: "",
@@ -609,7 +608,7 @@ class _CreateApp extends State<CreateApp> {
                     fileChooser.getCurrentFile(),
                     iconToWeatherCond[weatherDropKey.currentState?._weatherVal],
                     dayToggles.getDays())) {
-                  WallpaperObj newObj = WallpaperObj.newObj(
+                  WallpaperObj newObj = WallpaperObj().newObj(
                       fileChooser.getCurrentFile(),
                       iconToWeatherCond[
                           weatherDropKey.currentState?._weatherVal],

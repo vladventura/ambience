@@ -13,34 +13,33 @@ import 'dart:io';
 
 String current = Directory.current.path;
 
-const List<String> Days =
-[
+const List<String> Days = [
   "Sunday",
   "Monday",
   "Tuesday",
- "Wednesday",
+  "Wednesday",
   "Thursday",
   "Friday",
   "Saturday"
 ];
 
 Map iconToWeatherCond = {
-  Icons.sunny:WeatherCondition.Clear,
-  Icons.cloud:WeatherCondition.Clouds,
-  Icons.water_drop:WeatherCondition.Rain,
-  Icons.thunderstorm:WeatherCondition.Thunderstorm,
-  Icons.cloudy_snowing:WeatherCondition.Snow,
-  Icons.ads_click:WeatherCondition.Empty
-  };
+  Icons.sunny: WeatherCondition.Clear,
+  Icons.cloud: WeatherCondition.Clouds,
+  Icons.water_drop: WeatherCondition.Rain,
+  Icons.thunderstorm: WeatherCondition.Thunderstorm,
+  Icons.cloudy_snowing: WeatherCondition.Snow,
+  Icons.ads_click: WeatherCondition.Empty
+};
 
 Map weathercondToIcon = {
-  WeatherCondition.Clear:Icons.sunny,
-  WeatherCondition.Clouds:Icons.cloud,
-  WeatherCondition.Rain:Icons.water_drop,
-  WeatherCondition.Thunderstorm:Icons.thunderstorm,
-  WeatherCondition.Snow:Icons.cloudy_snowing,
-  WeatherCondition.Empty:Icons.ads_click
-  };
+  WeatherCondition.Clear: Icons.sunny,
+  WeatherCondition.Clouds: Icons.cloud,
+  WeatherCondition.Rain: Icons.water_drop,
+  WeatherCondition.Thunderstorm: Icons.thunderstorm,
+  WeatherCondition.Snow: Icons.cloudy_snowing,
+  WeatherCondition.Empty: Icons.ads_click
+};
 
 class WallpaperObj {
   String filePath = "$current/lib/GUI/20210513_095523.jpg";
@@ -59,14 +58,12 @@ class WallpaperObj {
 
   //stores Weather entries of the same kind on different days
   List<WeatherEntry> entries;
-  
+
   List<bool> days = [false, false, false, false, false, false, false];
   // constructor for an existing WeatherEntry(s)
   // list MUST be in order from sunday to saturday
-  WallpaperObj([this.entries = const[]]){
-
-    if(entries.isNotEmpty)
-    {
+  WallpaperObj([this.entries = const []]) {
+    if (entries.isNotEmpty) {
       filePath = entries[0].wallpaperFilepath;
       cond = entries[0].weatherCondition;
 
@@ -77,28 +74,31 @@ class WallpaperObj {
 
       city = entries[0].city;
 
-    //initializing list in order fron sun to sat
+      //initializing list in order fron sun to sat
 
-    List<WeatherEntry> temp = [];
+      List<WeatherEntry> temp = [];
 
-    bool hasDay(List<WeatherEntry> w, DayOfWeek d){
-      for(int i = 0; i < w.length; i++){
-        if(w[i].dayOfWeek == d){ return true; }
+      bool hasDay(List<WeatherEntry> w, DayOfWeek d) {
+        for (int i = 0; i < w.length; i++) {
+          if (w[i].dayOfWeek == d) {
+            return true;
+          }
+        }
+        return false;
       }
-      return false;
-    }
 
-    // 7 days, sun to sat
-    days = [hasDay(entries,DayOfWeek.sunday),
-            hasDay(entries,DayOfWeek.monday),
-            hasDay(entries,DayOfWeek.tuesday),
-            hasDay(entries,DayOfWeek.wednesday),
-            hasDay(entries,DayOfWeek.thursday),
-            hasDay(entries,DayOfWeek.friday),
-            hasDay(entries,DayOfWeek.saturday),];
-    } 
-
-    else { // if there is no WeatherEntry passed
+      // 7 days, sun to sat
+      days = [
+        hasDay(entries, DayOfWeek.sunday),
+        hasDay(entries, DayOfWeek.monday),
+        hasDay(entries, DayOfWeek.tuesday),
+        hasDay(entries, DayOfWeek.wednesday),
+        hasDay(entries, DayOfWeek.thursday),
+        hasDay(entries, DayOfWeek.friday),
+        hasDay(entries, DayOfWeek.saturday),
+      ];
+    } else {
+      // if there is no WeatherEntry passed
       filePath = "";
       cond = WeatherCondition.Empty;
       hour = 0;
@@ -109,16 +109,16 @@ class WallpaperObj {
     }
   }
 
-  WallpaperObj newObj(String path, WeatherCondition condition,
-                      int hour, int minute, List<bool> days) async {
-                        
-      time = hour.toString() + ":" + minute.toString();
-
+  WallpaperObj newObj(String path, WeatherCondition condition, int hour,
+      int minute, List<bool> days) {
+    time = "$hour:$minute";
+    runZonedGuarded(() => null, (error, stack) async {
       entries = await createEntries();
+    });
 
-      days = [false, false, false, false, false, false, false];
+    days = [false, false, false, false, false, false, false];
 
-      return WallpaperObj(entries);
+    return WallpaperObj(entries);
   }
 
   void initEntries() async {
@@ -126,26 +126,22 @@ class WallpaperObj {
   }
 
   //private function to create entries out of data received
-  Future<List<WeatherEntry>> createEntries()
-  async {
-  
+  Future<List<WeatherEntry>> createEntries() async {
     List<WeatherEntry> temp = [];
 
-    for(int i = 0; i < days.length; i++)
-    {
-      if(days[i]){ // if there is a Weatherentry for the ith day of the week
+    for (int i = 0; i < days.length; i++) {
+      if (days[i]) {
+        // if there is a Weatherentry for the ith day of the week
 
         TimeOfDay tempTime = TimeOfDay(hour: hour, minute: minute);
 
-      Timer(const Duration(milliseconds: 10),(){
-        temp.add(WeatherEntry(tempTime, DayOfWeek.values[i], filePath, cond, city));
-      });
+        Timer(const Duration(milliseconds: 10), () {
+          temp.add(WeatherEntry(
+              tempTime, DayOfWeek.values[i], filePath, cond, city));
+        });
       }
     }
 
     return temp;
-
   }
-
-
 }
