@@ -21,9 +21,7 @@ void main(List<String> args) async {
   await dotenv.load();
   FireHandler.initialize();
   FireHandler test = FireHandler();
-  //await test.fireSignIn("test@server.com", "123456");
-  //await test.ruleJSONUpload();
-  //await test.ruleJSONDownload();
+
   
   TimeOfDay time = const TimeOfDay(hour: 23, minute: 45);
   DayOfWeek dow = DayOfWeek.tuesday;
