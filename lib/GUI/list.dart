@@ -68,9 +68,12 @@ class WallpaperEntry extends StatelessWidget {
 
   String time = "";
 
+  String daysText = "";
+
   Widget wallPaperThumb = Container();
   Widget wallpaperCond = Container();
   Widget wallpaperControls = Container();
+  Widget wallpaperDays = Container();
 
   void deleteContents() {
     for (int l = 0; l < object.entries.length; l++) {
@@ -98,16 +101,34 @@ class WallpaperEntry extends StatelessWidget {
       child: Image.file(File(wallFile), fit: BoxFit.fitWidth),
     );
 
+    String daysText = (obj.days[0] ? "SA " : "")
+                  + (obj.days[1] ? "M ": "")
+                  + (obj.days[2] ? "T ": "")
+                  + (obj.days[3] ? "W ": "")
+                  + (obj.days[4] ? "TH ": "")
+                  + (obj.days[5] ? "F ": "")
+                  + (obj.days[6] ? "SU ": "");
+
+    wallpaperDays = Text(daysText);
+
     wallpaperCond = Expanded(
-        child: Column(
-      mainAxisAlignment: MainAxisAlignment.center,
-      children: [
-        Icon(weathercondToIcon[cond]), // placeholder
-        Container(alignment: Alignment.center, child: Text(time)),
-      ],
-    ));
+      child: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Icon(weathercondToIcon[cond]), // placeholder
+          Container(alignment: Alignment.center, child: Text(time)),
+          wallpaperDays,
+        ],
+      ),
+    );
 
     wallpaperControls = EntryControls(ID, func);
+
+  for(int i = 0; i < obj.days.length; i++){
+
+  }
+
+
   }
 
   @override

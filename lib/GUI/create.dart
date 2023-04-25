@@ -7,6 +7,7 @@
 // add tooltips
 // fix parendata widget problems - done
 // device-specific getwallpaper stuff (specific to OS)
+// GIVE LOCATION TO NEW WALLPAPEROBJECTS
 
 import 'dart:async';
 import 'package:ambience/weatherEntry/weather_entry.dart';
@@ -617,6 +618,7 @@ class _CreateApp extends State<CreateApp> {
                       toNumber(minuteController.text),
                       dayToggles.getDays());
 
+                  newObj.entries = await newObj.createEntries();
 
                   confirmCreation(
                           widget.intention, widget.contextWallpaper, newObj)
