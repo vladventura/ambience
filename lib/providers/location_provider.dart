@@ -6,11 +6,13 @@ import "package:ambience/weatherEntry/weather_entry.dart";
 class LocationProvider with ChangeNotifier {
   LocationModel? _foundLocation;
 
-  Future<void> initProvider() async {
-    _foundLocation ??= await Utils.loadFromLocationFile();
+  Future<void> loadLocation() async {
+    _foundLocation = await Utils.loadFromLocationFile();
   }
 
-  LocationModel? get location => _foundLocation;
+  LocationModel? get location {
+    return _foundLocation;
+  }
 
   void setLocation(Map<String, dynamic> incoming) async {
     _foundLocation = LocationModel.fromJson(incoming);
