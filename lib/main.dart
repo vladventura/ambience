@@ -22,17 +22,7 @@ void main(List<String> args) async {
   FireHandler.initialize();
   FireHandler test = FireHandler();
 
-  
-  TimeOfDay time = const TimeOfDay(hour: 23, minute: 45);
-  DayOfWeek dow = DayOfWeek.tuesday;
-  WeatherCondition wc = WeatherCondition.Clouds;
-  String curr = Directory.current.path;
-  String testPaper = "$curr/test.jpg";
-  String city = 'New York';
-  WeatherEntry mockObj = WeatherEntry(time, dow, testPaper, wc, city);
-  //WeatherEntry.createRule(mockObj);
- 
-  //WeatherEntry.deleteRule("ambience_daemon_1682295910655");
+
   //if not args passed, GUI MODE
   if (args.isEmpty) {
     runZonedGuarded(() {
