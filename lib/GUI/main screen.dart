@@ -1,7 +1,9 @@
 import 'package:ambience/GUI/create.dart';
 import 'package:ambience/firebase/fire_handler.dart';
+import 'package:ambience/handlers/wallpaper_handler.dart';
 import 'package:ambience/models/location_model.dart';
 import 'package:ambience/providers/location_provider.dart';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import "package:ambience/GUI/wallpaperobj.dart";
 import 'dart:io';
@@ -15,19 +17,29 @@ void main() => runApp(const MainApp());
 String current = Directory.current.path;
 
 Widget checkWallpaper() {
-  String currentFile = ""; // current wallpaper function goes here
-
-  // ignore: dead_code, dart's just being a baby
-  if (File(currentFile).existsSync()) {
-    return Expanded(
-      child: Image.file(
-        File(currentFile),
-        fit: BoxFit.fitHeight,
-      ), // placeholder, retrieve wallpaper image here
-    );
-  } else {
-    return const Text("\t No wallpaper currently displayed \t");
+  if (defaultTargetPlatform == TargetPlatform.android) {
+    return const Text("\tCurrent wallpaper not available on Android!");
   }
+  return FutureBuilder(
+    future: WallpaperHandler.getCurrentWallpaperPath(),
+    builder: (context, snapshot) {
+      if (!snapshot.hasData) {
+        return const Text("\tLoading current wallpaper...");
+      } else if (snapshot.data != null) {
+        File f = snapshot.data!;
+        debugPrint(f.path);
+        if (f.existsSync()) {
+          return Expanded(
+            child: Image.file(
+              f,
+              fit: BoxFit.fitHeight,
+            ),
+          );
+        }
+      }
+      return const Text("\tFailed to find current wallpaper!\t");
+    },
+  );
 }
 
 String checkTime() {
