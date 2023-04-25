@@ -1,3 +1,4 @@
+import 'package:ambience/firebase/fire_handler.dart';
 import 'package:ambience/models/location_model.dart';
 import 'package:ambience/utils.dart';
 import 'package:flutter/material.dart';
@@ -22,10 +23,16 @@ class LocationProvider with ChangeNotifier {
       String cityID = "${_foundLocation!.id}";
       //use this when cityID code infrastructure is setup
       //await WeatherEntry.updateLocInfo(cityID);
-      
+
       //Using null assertion since confirmed to be non-null at this point
       //remove this once city ID system is in place, this for legacy support.
       await WeatherEntry.updateLocInfo(_foundLocation!.name);
+      await Utils.saveToLocationFile(_foundLocation!);
+      //fire handler commented out for rapid offline testing.
+      //fire handler auth instance
+      //FireHandler hand = FireHandler();
+      //upload this new location data to the cloud
+      //await hand.uploadLocJSON();
     }
     notifyListeners();
   }

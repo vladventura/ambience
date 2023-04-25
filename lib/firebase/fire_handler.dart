@@ -247,22 +247,34 @@ class FireHandler {
         .collection("users")
         .document(userID)
         .collection("config")
-        .document("location");
-    Storage store = Storage();
+        .document(constants.locationFilename);
     //get the map from file using storage
-    //docRef.update(map);
+    Storage store = Storage();
+    try {
+      var locMap = await store.readAppDocJson(constants.locationFilename);
+      docRef.update(locMap);
+    } catch (e) {
+      //if file doesn't exist fail silently and return
+      return;
+    }
+  
   }
 
-  Future<void> downLocJSON() async {
+  Future<void> downloadLocJSON() async {
     var docRef = Firestore.instance
         .collection("users")
         .document(userID)
         .collection("config")
-        .document("location");
-    Document snapshot = await docRef.get();
-    var locMap = snapshot.map;
-    Storage store = Storage();
-    //write Map to file using storage
+        .document(constants.locationFilename);
+    try {
+      Document snapshot = await docRef.get();
+      var locMap = snapshot.map;
+      Storage store = Storage();
+      await store.writeAppDocFile(locMap, constants.locationFilename);
+    } catch (e) {
+      //if file doesn't exist fail silently and return
+      return;
+    }
   }
 }
 
