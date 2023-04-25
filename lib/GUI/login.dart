@@ -13,7 +13,6 @@ class LoginMsg extends StatelessWidget {
 
   String errMsg = "";
 
-
   LoginMsg({super.key, required this.visibleLog, required this.errMsg});
 
   // change to accept custom error messages from firebase
@@ -132,7 +131,7 @@ class _LoginApp extends State<LoginApp> {
 
   Container _passwordInput() {
     return Container(
-      padding: const EdgeInsets.all(12),
+      padding: const EdgeInsets.symmetric(horizontal: 12),
       width: 300,
       decoration: BoxDecoration(
         border: Border.all(color: Colors.black, width: 2),
@@ -163,7 +162,7 @@ class _LoginApp extends State<LoginApp> {
   Container _loginFields() {
     return Container(
       alignment: Alignment.center,
-      padding: const EdgeInsets.all(48),
+      padding: const EdgeInsets.symmetric(horizontal: 48, vertical: 8),
       child: Column(
         children: [
           _usernameInput(),
@@ -218,7 +217,6 @@ class _LoginApp extends State<LoginApp> {
         _loginButton(),
         const Padding(padding: EdgeInsets.all(12)),
         _signupButton(),
-        const Padding(padding: EdgeInsets.all(12)),
       ],
     );
   }
@@ -226,20 +224,34 @@ class _LoginApp extends State<LoginApp> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Column(
+      body: Container(
+        alignment: Alignment.topRight,
+        constraints: BoxConstraints(),
+        child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
+          Spacer(flex:2),
           _loginHeader(),
+          Container(
+            child: FittedBox(
+            fit: BoxFit.fitHeight,
+            child: _loginFields(),
+          ),
+          ),
           const Padding(padding: EdgeInsets.only(top: 8)),
-          _loginFields(),
-          _loginSignin(),
+          FittedBox(
+            fit: BoxFit.fitHeight,
+            child:_loginSignin(),
+          ),
+          Spacer(flex:1),
           LoginMsg(
             visibleLog: _visibleLog,
-
             errMsg: errMsg,
           ),
+          Spacer(flex:2)
         ],
       ),
-    );
+      ),
+      );
   }
 }

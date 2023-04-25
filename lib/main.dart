@@ -62,18 +62,17 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      initialRoute: '/',
-      routes: {
-        '/': (context) => const LoginApp(),
-        '/Home': (context) => const MainApp(),
-        '/List': (context) => const ListApp(),
-        '/LocationRequest': (context) => const LocationRequest(),
-      },
-    );
+        title: 'Flutter Demo',
+        theme: ThemeData(
+          primarySwatch: Colors.blue,
+        ),
+        initialRoute: '/',
+        routes: {
+          '/': (context) => const LoginApp(),
+          '/Home': (context) => const MainApp(),
+          '/List': (context) => ListApp(),
+          '/LocationRequest': (context) => const LocationRequest(),
+        });
   }
 }
 
