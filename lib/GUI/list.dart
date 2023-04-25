@@ -1,6 +1,7 @@
 // TODO: Add Function parameter to pass to the button widgets (so that they can pass the ID up to the list screen) - done
 // add a text widget to show the days active for a given wallpaperEntry
 
+import 'package:ambience/constants.dart';
 import 'package:flutter/material.dart';
 import 'dart:io';
 import 'package:ambience/weatherEntry/weather_entry.dart';
@@ -143,12 +144,15 @@ Widget buttonMenu(BuildContext context) {
           child: const Text("Back"),
         ),
         const Spacer(flex: 1),
-        OutlinedButton(
-          onPressed: () {
-            Navigator.pushNamed(context, '/Create');
-          }, //function here to switch to create screen
-          style: controlStyle,
-          child: const Text("Create"),
+        Tooltip(
+          message: createToolTip,
+          child: OutlinedButton(
+            onPressed: () {
+              Navigator.pushNamed(context, '/Create');
+            }, //function here to switch to create screen
+            style: controlStyle,
+            child: const Text("Create"),
+          ),
         ),
       ],
     ),

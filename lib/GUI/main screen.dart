@@ -7,6 +7,8 @@ import 'package:flutter/material.dart';
 import "package:ambience/GUI/wallpaperobj.dart";
 import 'dart:io';
 import "dart:async";
+import "package:ambience/constants.dart";
+import 'package:flutter/services.dart';
 
 import 'package:provider/provider.dart';
 
@@ -34,6 +36,9 @@ String checkTime() {
   // copy and slightly edit this to convert to regular time
   final now = DateTime.now();
   String hour = (now.hour % 12).toString();
+  if (now.hour == 12) {
+    hour = "12";
+  }
   String minute = now.minute.toString();
   minute = minute.length > 1 ? minute : "0$minute";
   String amPm = now.hour >= 12 ? "PM" : "AM";
@@ -100,11 +105,14 @@ class FloatingDrawerButton extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       padding: const EdgeInsets.only(top: 10),
-      child: FloatingActionButton(
-        onPressed: () {
-          Scaffold.of(context).openDrawer();
-        },
-        child: const Icon(Icons.more_vert),
+      child: Tooltip(
+        message: locationToolTip,
+        child: FloatingActionButton(
+          onPressed: () {
+            Scaffold.of(context).openDrawer();
+          },
+          child: const Icon(Icons.more_vert),
+        ),
       ),
     );
   }
@@ -199,36 +207,47 @@ class MainApp extends StatelessWidget {
       padding: const EdgeInsets.symmetric(horizontal: 64, vertical: 32),
       child: Row(
         children: [
-          OutlinedButton(
-            onPressed: null, //function to close program
-            style: _buttonStyle(),
-            child: const Text("Quit"),
+          Tooltip(
+            message: quitToolTip,
+            child: OutlinedButton(
+              onPressed: () {
+                exit(0);
+              }, //function to close program
+              style: _buttonStyle(),
+              child: const Text("Quit"),
+            ),
           ),
           const Spacer(),
-          OutlinedButton(
-            onPressed: () {
-              //function here to switch to list screen
-              Navigator.pushNamed(context, '/List');
-            },
-            style: _buttonStyle(),
-            child: const Text("List"),
+          Tooltip(
+            message: listToolTip,
+            child: OutlinedButton(
+              onPressed: () {
+                //function here to switch to list screen
+                Navigator.pushNamed(context, '/List');
+              },
+              style: _buttonStyle(),
+              child: const Text("List"),
+            ),
           ),
           const Spacer(),
-          OutlinedButton(
-            onPressed: () {
-              Navigator.push(
-                context,
-                MaterialPageRoute(
-                  builder: (context) => CreateApp(
-                    contextWallpaper: WallpaperObj(),
-                    intention: 1,
-                    location: getLocation(),
+          Tooltip(
+            message: createToolTip,
+            child: OutlinedButton(
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => CreateApp(
+                      contextWallpaper: WallpaperObj(),
+                      intention: 1,
+                      location: getLocation(),
+                    ),
                   ),
-                ),
-              );
-            }, //function here to switch to create screen
-            style: _buttonStyle(),
-            child: const Text("Create"),
+                );
+              },
+              style: _buttonStyle(),
+              child: const Text("Create"),
+            ),
           ),
         ],
       ),
