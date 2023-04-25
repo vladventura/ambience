@@ -2,13 +2,14 @@ import 'package:ambience/storage/storage.dart';
 import 'geolocate_api.dart';
 import 'package:flutter/foundation.dart';
 import 'package:ambience/handlers/request_handler.dart';
+
 /* Uncomment these for using the weather model */
 // import 'dart:convert';
 // import 'package:ambience/models/weather_model.dart';
 
 //Takes cordinates from geolocate api and writes weather data JSON to file using
 //storage class.
-Future<dynamic> getWeather(String? input,
+Future<dynamic> getWeatherForecast(String? input,
     {List<dynamic>? latlon, Handler handler = const RequestHandler()}) async {
   //cords = 2 size array with lat and lon, index 0 and 1 respectively
   List<dynamic> cords = latlon ?? await geolocate(input);
@@ -17,7 +18,8 @@ Future<dynamic> getWeather(String? input,
     debugPrint("Geolocation failed");
     return false;
   }
-  dynamic weatherResponse = await handler.requestWeatherData(input, cords);
+  dynamic weatherResponse =
+      await handler.requestWeatherDataForecast(input, cords);
   /* WeatherModel: Usage: Uncomment the // escaped lines to use the model right away */
   /* From the json data we get from OpenWeather, we can take the list of weather info as a
   list of dynamic */
@@ -34,10 +36,28 @@ Future<dynamic> getWeather(String? input,
   return weatherResponse;
 }
 
-Future<bool> getAndWriteWeather(String? input) async {
-  dynamic resp = await getWeather(input);
+Future<bool> getAndWriteWeatherForecast(String? input) async {
+  dynamic resp = await getWeatherForecast(input);
   if (resp == false) return false;
   Storage storage = Storage();
   await storage.writeAppDocFile(resp.body, storage.weatherDataPath);
   return true;
+}
+
+Future<bool> getWeatherNowRequest(String? input) async {
+  dynamic resp = await getWeatherNow(input);
+  if (resp == false) return false;
+  return true;
+}
+
+Future<dynamic> getWeatherNow(String? input,
+    {List<dynamic>? latlon, Handler handler = const RequestHandler()}) async {
+  //cords = 2 size array with lat and lon, index 0 and 1 respectively
+  List<dynamic> cords = latlon ?? await geolocate(input);
+  //if name couldn't be geolocated
+  if (cords.isEmpty) {
+    throw "failed geolocation";
+  }
+  dynamic weatherResponse = await handler.requestWeatherDataNow(input, cords);
+  return weatherResponse.body;
 }

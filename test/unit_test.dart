@@ -27,7 +27,8 @@ class MockRequestHandler extends Handler {
   }
 
   @override
-  Future<dynamic> requestWeatherData(String? input, List<dynamic> cords) async {
+  Future<dynamic> requestWeatherDataForecast(
+      String? input, List<dynamic> cords) async {
     return http.Response(json.encode(fakeWeatherResponse['body']), 200);
   }
 }
@@ -65,8 +66,8 @@ void main() {
     test('Should return mock weather', () async {
       Handler mockHandler = MockRequestHandler();
       List<dynamic> geo = await geolocate("Mock City", handler: mockHandler);
-      http.Response response =
-          await getWeather("Mock City", latlon: geo, handler: mockHandler);
+      http.Response response = await getWeatherForecast("Mock City",
+          latlon: geo, handler: mockHandler);
       Map<String, dynamic> result = json.decode(response.body);
       expect(result, fakeWeatherResponse['body']);
     });

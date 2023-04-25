@@ -238,7 +238,7 @@ class Daemon {
     //get current time, so data fetch time doesn't effect finding the most up to date weather data
     var nowTime = DateTime.now();
     //if cannot access weather api
-    if ((await getAndWriteWeather(ruleObj.city)) == false) {
+    if ((await getAndWriteWeatherForecast(ruleObj.city)) == false) {
       debugPrint(
           "Cannot access online weather data, checking offline weather data. -Daemon.weathercheck");
     }
