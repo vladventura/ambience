@@ -7,13 +7,19 @@ class LocationProvider with ChangeNotifier {
 
   LocationModel? get location => _foundLocation;
 
-  void setLocation(Map<String, dynamic> incoming) async{
+  void setLocation(Map<String, dynamic> incoming) async {
     _foundLocation = LocationModel.fromJson(incoming);
     if (_foundLocation != null) {
       //override null safety, since we comfirmed it is not null and cast to string
+      //use this when cityID code infrastructure is setup
       String cityID = "${_foundLocation!.id}";
+      //use this when cityID code infrastructure is setup
+      //await WeatherEntry.updateLocInfo(cityID);
+      
+      //Using null assertion since confirmed to be non-null at this point
+      //remove this once city ID system is in place, this for legacy support.
+      await WeatherEntry.updateLocInfo(_foundLocation!.name);
       //updates the entries in the json to have the new location information.
-      await WeatherEntry.updateLocInfo(cityID);
     }
     notifyListeners();
   }
