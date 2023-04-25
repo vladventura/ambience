@@ -16,18 +16,6 @@ void main() => runApp(const MainApp());
 String current = Directory.current.path;
 
 Widget checkWallpaper() {
-  // String currentFile = ""; // current wallpaper function goes here
-
-  // // ignore: dead_code, dart's just being a baby
-  // if (File(currentFile).existsSync()) {
-  //   return Expanded(
-  //     child: Image.file(
-  //       File(currentFile),
-  //       fit: BoxFit.fitHeight,
-  //     ), // placeholder, retrieve wallpaper image here
-  //   );
-  // } else {
-  // }
   return FutureBuilder(
     future: WallpaperHandler.getCurrentWallpaperPath(),
     builder: (context, snapshot) {
