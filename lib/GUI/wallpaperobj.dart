@@ -81,6 +81,8 @@ class WallpaperObj {
 
       city = entries[0].city;
 
+      cityId = entries[0].cityId;
+
       //initializing list in order fron sun to sat
 
       List<WeatherEntry> temp = [];
@@ -117,9 +119,19 @@ class WallpaperObj {
   }
 
   WallpaperObj.newObj(
-      this.filePath, this.cond, this.hour, this.minute, this.days,
-      [this.entries = const []]) {
-    time = hour.toString() + ":" + minute.toString();
+      this.filePath, this.cond, this.hour, this.minute, this.days, 
+      this.city, this.cityId, [this.entries = const []]) {
+
+    String strHour = (hour % 12).toString();
+    if (hour == 12) {
+      strHour = "12";
+    }
+    String strMinute = minute.toString();
+    strMinute = minute> 1 ? strMinute : "0$strMinute";
+    String amPm = hour >= 12 ? "PM" : "AM";
+    String fmt = "$strHour:$minute $amPm";
+
+    time = fmt;
 
     entries = createEntries();
   }
@@ -136,7 +148,7 @@ class WallpaperObj {
 
         TimeOfDay tempTime = TimeOfDay(hour: hour, minute: minute);
 
-        temp.add(WeatherEntry(tempTime, DayOfWeek.values[i], filePath, cond, city));
+        temp.add(WeatherEntry(tempTime, DayOfWeek.values[i], filePath, cond, city, cityId));
 
         temp.last.idSchema += i.toString();
         

@@ -1,6 +1,7 @@
 import 'dart:convert';
 
 import 'package:ambience/GUI/create.dart';
+import 'package:ambience/api/weather.dart';
 import 'package:ambience/firebase/fire_handler.dart';
 import 'package:ambience/models/location_model.dart';
 import 'package:ambience/providers/location_provider.dart';
@@ -9,6 +10,7 @@ import "package:ambience/GUI/wallpaperobj.dart";
 import 'dart:io';
 import "dart:async";
 import "package:ambience/constants.dart";
+import "package:ambience/utils.dart";
 
 import 'package:provider/provider.dart';
 
@@ -27,8 +29,7 @@ Future<IconData> getCurrentWeather() async {
   "Empty":Icons.question_mark
   };
 
-  // call 
-  Map<String, dynamic> json = await weatherNow("placeholder"); // CHANGE THIS TO GET THE LOCALE FROM FILE
+  Map<String, dynamic> json = await weatherNow(context.); // CHANGE THIS TO GET THE LOCALE FROM FILE
   // in the form of a (city?)
 
   if(stringToIcon.entries.contains(json["main"])){
@@ -66,27 +67,6 @@ String checkTime() {
   String amPm = now.hour >= 12 ? "PM" : "AM";
   String fmt = "$hour:$minute $amPm";
   return fmt;
-}
-
-// function to send new location data to backend,
-// is called when location drop menu is changed.
-
-//only ONE location is used for every WeatherEntry
-
-void setLocation(String location) {
-  // may not be string, just a placeholder for now
-
-  // send location data to backend here
-
-  // push location screen here
-}
-
-String getLocation() {
-  // retrieve the current location here
-// may not be final
-  String location = "placeholder location";
-
-  return location;
 }
 
 class TimeDisplay extends StatefulWidget {
@@ -267,7 +247,7 @@ class MainApp extends StatelessWidget {
                           context.read<LocationProvider>().location?.id ??
                               4930956),
                       intention: 1,
-                      location: getLocation(),
+                      location: "placeholder", ///////////////placeholder value, PLEASE REPLACE
                     ),
                   ),
                 );

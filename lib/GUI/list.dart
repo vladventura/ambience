@@ -22,8 +22,7 @@ const ButtonStyle controlStyle = ButtonStyle(
 class EntryControls extends StatelessWidget {
   // controls to copy, edit, and delete a wallpaper
 
-  int ID =
-      0; // ID to tell the list screen WHAT wallpaperEntry is being interacted with
+  int ID = 0; // ID to tell the list screen WHAT wallpaperEntry is being interacted with
 
   Widget Controls = Container();
 
@@ -127,11 +126,6 @@ class WallpaperEntry extends StatelessWidget {
     );
 
     wallpaperControls = EntryControls(ID, func);
-
-  for(int i = 0; i < obj.days.length; i++){
-
-  }
-
 
   }
 
