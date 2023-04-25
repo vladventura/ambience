@@ -69,8 +69,9 @@ class _LoginApp extends State<LoginApp> {
     bool success = false; /* BOOLEAN FUNCTION PART GOES HERE */
     try {
       success = await hand.fireSignIn(usrname, passwrd);
+      //commented out to allow rapid offline testing
       //fetch user config and wallpapers from cloud(Firestore)
-      await hand.ruleJSONDownload();
+      //await hand.ruleJSONDownload();
     } catch (e) {
       errMsg = e.toString(); // set error message
     }
@@ -85,9 +86,10 @@ class _LoginApp extends State<LoginApp> {
   }
 
   void _signup(String usrname, String passwrd) async {
-    bool success = false;
+    bool success = true; //set to true for rapid testing
     try {
-      success = await hand.fireSignUp(usrname, passwrd);
+      //uncomment in final version
+      //success = await hand.fireSignUp(usrname, passwrd);
     } catch (e) {
       errMsg = e.toString(); // set error message
     }

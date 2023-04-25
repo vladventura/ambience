@@ -95,7 +95,7 @@ class WeatherEntry {
     }
     FireHandler hand = FireHandler();
     //upload the new json and associated wallpapers
-    await hand.ruleJSONUpload();
+    //await hand.ruleJSONUpload();
     return true;
   }
 
@@ -109,13 +109,13 @@ class WeatherEntry {
       // the file exists so we can delete this entry
       Map<String, dynamic> temp = jsonDecoded;
       //Delete wallpaper in firebase
-      await hand.deleteWallpaper(temp[idSchema]["wallpaperFilepath"]);
+      //await hand.deleteWallpaper(temp[idSchema]["wallpaperFilepath"]);
 
       temp.remove(idSchema);
       String rulesetToJson = jsonEncode(temp);
       await store.writeAppDocFile(rulesetToJson, constants.jsonPath);
       //upload the new json and associated wallpapers
-      await hand.ruleJSONUpload();
+      //await hand.ruleJSONUpload();
       return;
     }
     // the file doesn't exist, do nothing

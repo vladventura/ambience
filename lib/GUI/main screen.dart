@@ -273,7 +273,7 @@ class MainApp extends StatelessWidget {
                 title: const Text("Log out"),
                 onTap: () {
                   FireHandler hand = FireHandler();
-                  hand.fireSignOut();
+                  //hand.fireSignOut();
                   Navigator.of(context).pushNamed('/');
                 },
               ),
