@@ -10,12 +10,15 @@
 // GIVE LOCATION TO NEW WALLPAPEROBJECTS
 
 import 'dart:async';
+import 'package:ambience/constants.dart';
+import 'package:ambience/providers/location_provider.dart';
 import 'package:ambience/weatherEntry/weather_entry.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'dart:io';
 import "package:ambience/GUI/wallpaperobj.dart";
 import "package:ambience/handlers/file_handler.dart";
+import 'package:provider/provider.dart';
 
 void main() => runApp(
       CreateApp(
@@ -25,6 +28,8 @@ void main() => runApp(
           14,
           30,
           [false, true, false, true, false, true, false],
+          "Boston",
+          4930956,
           [],
         ),
         intention: 1,
@@ -273,7 +278,7 @@ Widget checkWallpaper(String str) {
   } else {
     return Container(
       alignment: Alignment.center,
-      child: const Text("\t No wallpaper currently displayed \t"),
+      child: const Text("\t Click here to select your wallpaper! \t"),
     );
   }
 }
@@ -576,7 +581,7 @@ class _CreateApp extends State<CreateApp> {
           decoration: BoxDecoration(
             border: Border.all(color: Colors.black, width: 2),
           ),
-          child: weatherDrops,
+          child: Tooltip(message: weatherSelectToolTip, child: weatherDrops),
         ),
         const Spacer(flex: 9),
       ]),
@@ -602,54 +607,58 @@ class _CreateApp extends State<CreateApp> {
               child: const Text("Back"),
             ),
             const Spacer(),
-            OutlinedButton(
-              onPressed: () async {
-                if (checkFields(
+            Tooltip(
+              message: confirmToolTip,
+              child: OutlinedButton(
+                onPressed: () {
+                  if (checkFields(
                     hourController.text,
                     minuteController.text,
                     fileChooser.getCurrentFile(),
                     iconToWeatherCond[weatherDropKey.currentState?._weatherVal],
                     dayToggles.getDays())) {
                   WallpaperObj newObj = WallpaperObj.newObj(
-                      fileChooser.getCurrentFile(),
-                      iconToWeatherCond[
-                          weatherDropKey.currentState?._weatherVal],
-                      toMilitary(toNumber(hourController.text), AMPM.getAmPm()),
-                      toNumber(minuteController.text),
-                      dayToggles.getDays());
+                        fileChooser.getCurrentFile(),
+                        iconToWeatherCond[weatherDropKey.currentState?._weatherVal],
+                        toMilitary(
+                            toNumber(hourController.text), AMPM.getAmPm()),
+                        toNumber(minuteController.text),
+                        dayToggles.getDays(),
+                        context.read<LocationProvider>().location!.name,
+                        context.read<LocationProvider>().location!.id);
 
-                  newObj.entries = await newObj.createEntries();
-
-                  confirmCreation(
-                          widget.intention, widget.contextWallpaper, newObj)
-                      .then((success) {
-                    if (success) {
-                      // add fields to newWallpaperObj
-                      Navigator.pop(context); // return to previous menu
-                    } else {
-                      setState(() {
-                        errType = 2;
-                        _visibleErr = true;
-                      });
-                    }
-                  });
-                } else {
-                  setState(() {
-                    // test this later, when an error occurs the daytoggles reset to all false and still pass checkfields somehow.
-                    errType = 1;
-                    _visibleErr = true;
-                  });
-                }
-              },
-              style: const ButtonStyle(
-                padding:
-                    MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(32)),
-                backgroundColor: MaterialStatePropertyAll<Color>(Colors.white),
-                side: MaterialStatePropertyAll<BorderSide>(
-                  BorderSide(color: Colors.black, width: 2),
+                    confirmCreation(
+                            widget.intention, widget.contextWallpaper, newObj)
+                        .then((success) {
+                      if (success) {
+                        // add fields to newWallpaperObj
+                        Navigator.pop(context); // return to previous menu
+                      } else {
+                        setState(() {
+                          errType = 2;
+                          _visibleErr = true;
+                        });
+                      }
+                    });
+                  } else {
+                    setState(() {
+                      // test this later, when an error occurs the daytoggles reset to all false and still pass checkfields somehow.
+                      errType = 1;
+                      _visibleErr = true;
+                    });
+                  }
+                },
+                style: const ButtonStyle(
+                  padding:
+                      MaterialStatePropertyAll<EdgeInsets>(EdgeInsets.all(32)),
+                  backgroundColor:
+                      MaterialStatePropertyAll<Color>(Colors.white),
+                  side: MaterialStatePropertyAll<BorderSide>(
+                    BorderSide(color: Colors.black, width: 2),
+                  ),
                 ),
+                child: const Text("Confirm"),
               ),
-              child: const Text("Confirm"),
             ),
           ],
         ),

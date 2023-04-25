@@ -13,40 +13,40 @@ import 'dart:io';
 
 String current = Directory.current.path;
 
-const List<String> Days =
-[
+const List<String> Days = [
   "Sunday",
   "Monday",
   "Tuesday",
- "Wednesday",
+  "Wednesday",
   "Thursday",
   "Friday",
   "Saturday"
 ];
 
 Map iconToWeatherCond = {
-  Icons.sunny:WeatherCondition.Clear,
-  Icons.cloud:WeatherCondition.Clouds,
-  Icons.water_drop:WeatherCondition.Rain,
-  Icons.thunderstorm:WeatherCondition.Thunderstorm,
-  Icons.cloudy_snowing:WeatherCondition.Snow,
-  Icons.ads_click:WeatherCondition.Empty
-  };
+  Icons.sunny: WeatherCondition.Clear,
+  Icons.cloud: WeatherCondition.Clouds,
+  Icons.water_drop: WeatherCondition.Rain,
+  Icons.thunderstorm: WeatherCondition.Thunderstorm,
+  Icons.cloudy_snowing: WeatherCondition.Snow,
+  Icons.ads_click: WeatherCondition.Empty
+};
 
 Map weathercondToIcon = {
-  WeatherCondition.Clear:Icons.sunny,
-  WeatherCondition.Clouds:Icons.cloud,
-  WeatherCondition.Rain:Icons.water_drop,
-  WeatherCondition.Thunderstorm:Icons.thunderstorm,
-  WeatherCondition.Snow:Icons.cloudy_snowing,
-  WeatherCondition.Empty:Icons.ads_click
-  };
+  WeatherCondition.Clear: Icons.sunny,
+  WeatherCondition.Clouds: Icons.cloud,
+  WeatherCondition.Rain: Icons.water_drop,
+  WeatherCondition.Thunderstorm: Icons.thunderstorm,
+  WeatherCondition.Snow: Icons.cloudy_snowing,
+  WeatherCondition.Empty: Icons.ads_click
+};
 
 class WallpaperObj {
   String filePath = "$current/lib/GUI/20210513_095523.jpg";
   WeatherCondition cond = WeatherCondition.Clear;
-  String time = "placeholder time";
-  String city = "placeholder city";
+  String time = "";
+  String city = "";
+  int cityId;
 
   // time is military, must be converted
   // in order to be shown in frontend
@@ -59,46 +59,53 @@ class WallpaperObj {
 
   //stores Weather entries of the same kind on different days
   List<WeatherEntry> entries;
-  
+
   List<bool> days = [false, false, false, false, false, false, false];
   // constructor for an existing WeatherEntry(s)
   // list MUST be in order from sunday to saturday
-  WallpaperObj([this.entries = const[]]){
-
-    if(entries.isNotEmpty)
-    {
+  WallpaperObj(this.cityId, [this.entries = const []]) {
+    if (entries.isNotEmpty) {
       filePath = entries[0].wallpaperFilepath;
       cond = entries[0].weatherCondition;
 
       hour = entries[0].startTime.hour;
       minute = entries[0].startTime.minute;
 
-      time = hour.toString() + ":" + minute.toString();
+      time += (hour % 12).toString();
+      time += ":";
+      if (minute < 10) {
+        time += "0";
+      }
+      time += minute.toString();
+      time += hour >= 12 ? " PM" : " AM";
 
       city = entries[0].city;
 
-    //initializing list in order fron sun to sat
+      //initializing list in order fron sun to sat
 
-    List<WeatherEntry> temp = [];
+      List<WeatherEntry> temp = [];
 
-    bool hasDay(List<WeatherEntry> w, DayOfWeek d){
-      for(int i = 0; i < w.length; i++){
-        if(w[i].dayOfWeek == d){ return true; }
+      bool hasDay(List<WeatherEntry> w, DayOfWeek d) {
+        for (int i = 0; i < w.length; i++) {
+          if (w[i].dayOfWeek == d) {
+            return true;
+          }
+        }
+        return false;
       }
-      return false;
-    }
 
-    // 7 days, sun to sat
-    days = [hasDay(entries,DayOfWeek.sunday),
-            hasDay(entries,DayOfWeek.monday),
-            hasDay(entries,DayOfWeek.tuesday),
-            hasDay(entries,DayOfWeek.wednesday),
-            hasDay(entries,DayOfWeek.thursday),
-            hasDay(entries,DayOfWeek.friday),
-            hasDay(entries,DayOfWeek.saturday),];
-    } 
-
-    else { // if there is no WeatherEntry passed
+      // 7 days, sun to sat
+      days = [
+        hasDay(entries, DayOfWeek.sunday),
+        hasDay(entries, DayOfWeek.monday),
+        hasDay(entries, DayOfWeek.tuesday),
+        hasDay(entries, DayOfWeek.wednesday),
+        hasDay(entries, DayOfWeek.thursday),
+        hasDay(entries, DayOfWeek.friday),
+        hasDay(entries, DayOfWeek.saturday),
+      ];
+    } else {
+      // if there is no WeatherEntry passed
       filePath = "";
       cond = WeatherCondition.Empty;
       hour = 0;

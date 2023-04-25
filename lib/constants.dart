@@ -6,6 +6,15 @@ const String jsonPath = "ruleset.json";
 const String locationFilename = "locationInfo.json";
 const String bootDaemonID = "ambience_daemon_boot";
 
+const String createToolTip = "Schedule a wallpaper change";
+const String listToolTip =
+    "View, Edit, or Delete your scheduled wallpaper changes";
+const String quitToolTip =
+    "Don't worry, your wallpaper will still change if you close Ambience!";
+const String confirmToolTip = "Ready to schedule it?";
+const String locationToolTip = "Set Your Prefered Location";
+const String weatherSelectToolTip = "When should your wallpaper change?";
+
 const List<Map<String, String>> allUSStates = [
   {"name": "Alabama", "code": "AL"},
   {"name": "Alaska", "code": "AK"},

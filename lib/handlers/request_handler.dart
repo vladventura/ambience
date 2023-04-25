@@ -5,10 +5,8 @@ import "package:flutter_dotenv/flutter_dotenv.dart";
 
 abstract class Handler {
   Future<dynamic> requestGeolocationData(String? cityName) async {}
-  Future<dynamic> requestWeatherDataForecast(
-      String? input, List<dynamic> cords) async {}
-  Future<dynamic> requestWeatherDataNow(
-      String? input, List<dynamic> cords) async {}
+  Future<dynamic> requestWeatherDataForecast(int? locationId) async {}
+  Future<dynamic> requestWeatherDataNow(int? locationId) async {}
 }
 
 class RequestHandler implements Handler {
@@ -35,21 +33,20 @@ class RequestHandler implements Handler {
   String get apiKey => _apiKey;
 
   @override
-  Future<dynamic> requestWeatherDataForecast(
-      String? input, List<dynamic> cords) async {
+  Future<dynamic> requestWeatherDataForecast(int? locationId) async {
     //api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key}
     Uri weatherUri = Uri.parse(
-        'https://api.openweathermap.org/data/2.5/forecast?lat=${cords[0]}&lon=${cords[1]}&appid=$_apiKey');
+        'https://api.openweathermap.org/data/2.5/forecast?id=$locationId&appid=$_apiKey');
     //API call to openweather, sends back a json.
     http.Response weatherResponse = await http.get(weatherUri);
     return weatherResponse;
   }
 
   @override
-  Future<dynamic> requestWeatherDataNow(String? input, List<dynamic> cords) async {
+  Future<dynamic> requestWeatherDataNow(int? locationId) async {
     //api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key}
     Uri weatherUri = Uri.parse(
-        'https://api.openweathermap.org/data/2.5/weather?lat=${cords[0]}&lon=${cords[1]}&appid=$_apiKey');
+        'https://api.openweathermap.org/data/2.5/weather?id=$locationId&appid=$_apiKey');
     //API call to openweather, sends back a json.
     http.Response weatherResponse = await http.get(weatherUri);
     return weatherResponse;
