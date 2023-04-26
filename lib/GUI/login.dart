@@ -78,8 +78,7 @@ class _LoginApp extends State<LoginApp> {
       if (ruleMap.isNotEmpty) {
         List<dynamic> entryList = ruleMap.values.toList();
         for (int i = 0; i < entryList.length; i++) {
-          //uncomment when done with rest of ambience
-          //await Daemon.daemonBanisher(entryList[i].idSchema);
+          await Daemon.daemonBanisher(entryList[i].idSchema);
         }
       }
       //fetch user config and wallpapers from cloud(Firestore)
@@ -91,8 +90,7 @@ class _LoginApp extends State<LoginApp> {
       if (ruleMap.isNotEmpty) {
         List<dynamic> entryList = ruleMap.values.toList();
         for (int i = 0; i < entryList.length; i++) {
-          //uncomment when done with rest of ambience
-          //await Daemon.daemonSpawner(entryList[i].idSchema);
+          await Daemon.daemonSpawner(entryList[i].idSchema);
         }
       }
     } catch (e) {

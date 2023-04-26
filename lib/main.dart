@@ -16,12 +16,14 @@ import "package:ambience/GUI/list.dart";
 import "package:ambience/GUI/login.dart";
 import "package:ambience/GUI/main screen.dart";
 import 'package:provider/provider.dart';
-import 'package:ambience/api/weather.dart';
 
 void main(List<String> args) async {
+// List<String> args = [];
+//  temp.add("n");
+//  temp.add("ambience_daemon_16825420024733");
   await dotenv.load();
   FireHandler.initialize();
-  FireHandler test = FireHandler();
+  //FireHandler test = FireHandler();
   //if not args passed, GUI MODE
   if (args.isEmpty) {
     runZonedGuarded(() {
@@ -50,7 +52,10 @@ void main(List<String> args) async {
       String idSchema = args[1];
       var ruleObj = await WeatherEntry.getRule(idSchema);
       WeatherModel weatherData = await Daemon.getWeatherDataForecast(ruleObj);
-      await Daemon.weatherCheck(ruleObj, weatherData);
+      //for testing only
+      await WallpaperHandler.setWallpaper(ruleObj.wallpaperFilepath);
+      //uncomment for final product
+      //await Daemon.weatherCheck(ruleObj, weatherData);
     }
     //explict exit, else Windows task scheduler will never know the task ended
     exit(0);

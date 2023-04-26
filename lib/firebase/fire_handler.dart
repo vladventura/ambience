@@ -6,7 +6,6 @@ import 'package:flutter/material.dart';
 import "dart:io";
 import "package:ambience/storage/storage.dart";
 import "package:ambience/constants.dart" as constants;
-import 'package:argon2/argon2.dart';
 
 class FireHandler {
   static FirebaseAuth auth = FirebaseAuth.instance;

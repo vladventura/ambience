@@ -1,5 +1,5 @@
 import "dart:io";
-import "package:ambience/constants.dart";
+import "package:ambience/constants.dart" as constants;
 import "package:ambience/models/weather_model.dart";
 import "package:ambience/storage/storage.dart";
 import "package:ambience/weatherEntry/weather_entry.dart";
@@ -64,7 +64,7 @@ class Daemon {
         '-File',
         '$current\\winTaskSetter.ps1',
         daemonMode,
-        bootDaemonID,
+        constants.bootDaemonID,
       ]);
       debugPrint("winTaskSetter.ps1 standard output: ${proc.stdout}");
       debugPrint("winTaskSetter.ps1 standard error output: ${proc.stderr}");
@@ -80,7 +80,7 @@ class Daemon {
       }
       var proc = await Process.run('bash', [
         '-c',
-        '$current/UbuntuCronScheduler.sh "$daemonMode" "$bootDaemonID"'
+        '$current/UbuntuCronScheduler.sh "$daemonMode" "${constants.bootDaemonID}"'
       ]);
       debugPrint(
           "UbuntuCronScheduler.sh standard error output: ${proc.stderr}");
@@ -100,7 +100,6 @@ class Daemon {
     TimeOfDay ruleTime = ruleObj.startTime;
     int dow = ruleObj.dayOfWeek.index;
     //daemon mode is always normal for daemonspawner
-    const String daemonMode = 'n';
     if (Platform.isWindows) {
       File checkExist = File("$current\\winTaskSetter.ps1");
       if (!(await checkExist.exists())) {
@@ -116,7 +115,7 @@ class Daemon {
         'Bypass',
         '-File',
         '$current\\winTaskSetter.ps1',
-        daemonMode,
+        constants.normDaemonMode,
         id,
         formatedTime,
         '$dow'
@@ -124,10 +123,6 @@ class Daemon {
 
       debugPrint("winTaskSetter.ps1 standard output: ${proc.stdout}");
       debugPrint("winTaskSetter.ps1 standard error output: ${proc.stderr}");
-      //check if script executed successfully
-      if (proc.exitCode == 0) {
-        throw "winTaskSetter.ps1 did not execute successfully";
-      }
     } else if (Platform.isLinux) {
       File checkExist = File("$current/UbuntuCronScheduler.sh");
       //check if script exists
@@ -136,12 +131,12 @@ class Daemon {
       }
       var proc = await Process.run('bash', [
         '-c',
-        '$current/UbuntuCronScheduler.sh "$daemonMode" "$id" ${ruleTime.hour} ${ruleTime.minute} $dow'
+        '$current/UbuntuCronScheduler.sh "${constants.normDaemonMode}" "$id" ${ruleTime.hour} ${ruleTime.minute} $dow'
       ]);
       debugPrint(
           "UbuntuCronScheduler.sh standard error output: ${proc.stderr}");
 
-      if (proc.exitCode == 0) {
+      if (proc.exitCode != 0) {
         throw "UbuntuCronScheduler.sh did not execute successfully";
       }
     } else if (Platform.isAndroid) {
@@ -184,9 +179,7 @@ class Daemon {
 
       debugPrint("winTaskRemover.ps1 standard output: ${proc.stdout}");
       debugPrint("winTaskRemover.ps1 standard error output: ${proc.stderr}");
-      if (proc.exitCode == 0) {
-        throw ("winTaskRemover.ps1 did not execute successfully");
-      }
+ 
     } else if (Platform.isLinux) {
       File checkExist = File("$current/UbuntuCronRemover.sh");
       //check if script exists
@@ -245,7 +238,7 @@ class Daemon {
     }
     Storage store = Storage();
     //get offline data
-    var weatherJson = await (store.readAppDocJson(weatherDataPath));
+    var weatherJson = await (store.readAppDocJson(constants.weatherDataPath));
     if (weatherJson == 'failed') {
       debugPrint("Cannot read weatherData.JSON,exiting -Daemon.weathercheck");
       //at this point the daemon cannot do it's job
