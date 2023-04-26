@@ -75,8 +75,11 @@ class WallpaperObj {
 
       hour = entries[0].startTime.hour;
       minute = entries[0].startTime.minute;
-
-      time += (hour % 12).toString();
+      if (hour == 12 || hour == 24) {
+        time += "12";
+      } else {
+        time += (hour % 12).toString();
+      }
       time += ":";
       if (minute < 10) {
         time += "0";
@@ -123,9 +126,10 @@ class WallpaperObj {
     }
   }
 
-  WallpaperObj.newObj(
-      this.filePath, this.cond, this.hour, this.minute, this.days, 
-      this.city, this.cityId, [this.entries = const []]) {
+  WallpaperObj.newObj(this.filePath, this.cond, this.hour, this.minute,
+      this.days, this.city, this.cityId,
+      [this.entries = const []]) {
+    time = "$hour:$minute";
 
     String strHour = (hour % 12).toString();
     if (hour == 12) {

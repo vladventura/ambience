@@ -2,9 +2,11 @@
 import 'package:ambience/providers/location_provider.dart';
 import 'package:ambience/storage/storage.dart';
 import 'package:ambience/firebase/fire_handler.dart';
+import 'package:ambience/weatherEntry/weather_entry.dart';
 import 'package:flutter/material.dart';
 import 'dart:io';
 import 'package:ambience/constants.dart' as constants;
+import 'package:ambience/daemon/daemon.dart';
 
 String current = Directory.current.path;
 
@@ -70,9 +72,29 @@ class _LoginApp extends State<LoginApp> {
     try {
       success = await hand.fireSignIn(usrname, passwrd);
       //commented out to allow rapid offline testing
+      //accounts for download overriding the local json or another's json if the account is being switched.
+       Map<String, WeatherEntry> ruleMap = await WeatherEntry.getRuleList();
+      //kill all daemons if not empty, helps avoid "dangling" daemons.
+      if (ruleMap.isNotEmpty) {
+        List<dynamic> entryList = ruleMap.values.toList();
+        for (int i = 0; i < entryList.length; i++) {
+          //uncomment when done with rest of ambience
+          //await Daemon.daemonBanisher(entryList[i].idSchema);
+        }
+      }
       //fetch user config and wallpapers from cloud(Firestore)
       //await hand.ruleJSONDownload();
       //await hand.downloadLocJSON();
+      //update rulemap incase of firebase download and spawn daemons
+      //this prevents dangling daemons.
+      ruleMap = await WeatherEntry.getRuleList();
+      if (ruleMap.isNotEmpty) {
+        List<dynamic> entryList = ruleMap.values.toList();
+        for (int i = 0; i < entryList.length; i++) {
+          //uncomment when done with rest of ambience
+          //await Daemon.daemonSpawner(entryList[i].idSchema);
+        }
+      }
     } catch (e) {
       errMsg = e.toString(); // set error message
     }

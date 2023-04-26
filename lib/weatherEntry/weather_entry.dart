@@ -1,6 +1,7 @@
 // ignore_for_file: constant_identifier_names
 
 import 'package:ambience/constants.dart' as constants;
+import 'package:ambience/daemon/daemon.dart';
 import 'package:ambience/firebase/fire_handler.dart';
 import 'package:flutter/material.dart';
 import 'package:ambience/storage/storage.dart';
@@ -97,6 +98,9 @@ class WeatherEntry {
     //FireHandler hand = FireHandler();
     //upload the new json and associated wallpapers
     //await hand.ruleJSONUpload();
+    //spawn new daemon
+    //uncomment when done with rest of ambience
+    //await Daemon.daemonSpawner(newEntry);
     return true;
   }
 
@@ -112,7 +116,9 @@ class WeatherEntry {
       Map<String, dynamic> temp = jsonDecoded;
       //Delete wallpaper in firebase
       //await hand.deleteWallpaper(temp[idSchema]["wallpaperFilepath"]);
-
+      //delete daemon
+      //uncomment when done with rest of ambience
+      //await Daemon.daemonBanisher(idSchema);
       temp.remove(idSchema);
       String rulesetToJson = jsonEncode(temp);
       await store.writeAppDocFile(rulesetToJson, constants.jsonPath);
@@ -170,8 +176,8 @@ class WeatherEntry {
     var jsonDecoded = await store.readAppDocJson(constants.jsonPath);
     if (jsonDecoded is Map<String, dynamic>) {
       Map<String, dynamic> temp = jsonDecoded;
-      temp.forEach((key, value) {
-        deleteRule(WeatherEntry.fromJson(value).idSchema);
+      temp.forEach((key, value) async{
+        await deleteRule(WeatherEntry.fromJson(value).idSchema);
       });
     } else {
       // file error
@@ -198,17 +204,17 @@ class WeatherEntry {
 
   static Future<bool> updateLocInfo(String cityID) async {
     Storage store = Storage();
+    
     Map<String, dynamic> ruleMap =
-        await store.readAppDocJson(constants.jsonPath);
+        await store.readAppDocJson(constants.locationFilename);
     //if it's empty nothing needs to be updated
     //if it's not empty update all entries with the new location
     if (ruleMap.isNotEmpty) {
-      for (dynamic entry in ruleMap.values) {
-        entry["city"] = cityID;
-      }
-      String ruleMapToJSON = jsonEncode(ruleMap);
-      await store.writeAppDocFile(ruleMapToJSON, constants.jsonPath);
+       ruleMap["id"] = int.parse(cityID);
     }
+      String ruleMapToJSON = jsonEncode(ruleMap);
+      await store.writeAppDocFile(ruleMapToJSON, constants.locationFilename);
+    
     return true;
   }
 }

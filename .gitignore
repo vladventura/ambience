@@ -47,4 +47,6 @@ app.*.map.json
 
 # Object files
 **/native/**.o
-.vscode/settings.json
+
+# Text Editor Files
+**.vscode/
