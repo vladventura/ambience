@@ -46,7 +46,7 @@ String checkTime() {
   // copy and slightly edit this to convert to regular time
   final now = DateTime.now();
   String hour = (now.hour % 12).toString();
-  if (now.hour == 12) {
+  if (now.hour == 12 || now.hour == 24) {
     hour = "12";
   }
   String minute = now.minute.toString();
