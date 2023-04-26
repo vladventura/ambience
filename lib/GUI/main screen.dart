@@ -149,8 +149,13 @@ class MainApp extends StatelessWidget {
   }
 
   Future<IconData> getCurrentWeather() async {
+
     Map<String, dynamic> json =
         await weatherNow(await Utils.loadFromLocationFile());
+    //error exit early
+    if(json.isEmpty){
+      return Icons.question_mark; 
+    }
     // in the form of a (city?)
     String mainWeather = json['weather'][0]['main'];
     // debugPrint(stringToIcon[json['weather'][0]['main'].toString()].toString());
