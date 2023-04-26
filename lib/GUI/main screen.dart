@@ -4,6 +4,7 @@ import 'package:ambience/GUI/create.dart';
 import 'package:ambience/api/weather.dart';
 import 'package:ambience/firebase/fire_handler.dart';
 import 'package:ambience/models/location_model.dart';
+import 'package:ambience/models/weather_model.dart';
 import 'package:ambience/providers/location_provider.dart';
 import 'package:flutter/material.dart';
 import "package:ambience/GUI/wallpaperobj.dart";
@@ -32,8 +33,8 @@ Future<IconData> getCurrentWeather() async {
   Map<String, dynamic> json = await weatherNow(await Utils.loadFromLocationFile()); // CHANGE THIS TO GET THE LOCALE FROM FILE
   // in the form of a (city?)
 
-  if(stringToIcon.entries.contains(json["main"])){
-    return stringToIcon[json["main"]];
+  if(stringToIcon.entries.contains(json['weather']['main'])){
+    return stringToIcon[WeatherModel];
   }
 
   else{ return Icons.question_mark; } // in the event that the current weather is something we aren't prepared for (such as ash or tornado)
@@ -247,7 +248,7 @@ class MainApp extends StatelessWidget {
                           context.read<LocationProvider>().location?.id ??
                               4930956),
                       intention: 1,
-                      location: "placeholder", ///////////////placeholder value, PLEASE REPLACE
+                      location: "placeholder", //placeholder value, it's just so dart doesn't act like such a baby
                     ),
                   ),
                 );
@@ -263,7 +264,6 @@ class MainApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    debugPrint("Inside main screen");
     debugPrint(context.read<LocationProvider>().location?.toJson().toString());
 
     return MaterialApp(

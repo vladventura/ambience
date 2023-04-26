@@ -299,27 +299,12 @@ Future<List<WallpaperObj>> listSavedWallpapers(BuildContext context) async {
   // first loop, finds every different WeatherEntry
   for (int i = 0; i < entries.length; i++) {
     for (int j = 0; j < foundWeatherEntries.length; j++) {
-      debugPrint(foundWeatherEntries.length.toString());
-      debugPrint(entries.length.toString());
-      debugPrint(entries[i].wallpaperFilepath);
-      debugPrint(foundWeatherEntries[j][0].wallpaperFilepath);
       if (foundWeatherEntries[j][0].idSchema != entries[i].idSchema) {
         if ((foundWeatherEntries[j][0].startTime == entries[i].startTime) &&
             (foundWeatherEntries[j][0].wallpaperFilepath ==
                 entries[i].wallpaperFilepath) &&
             (foundWeatherEntries[j][0].weatherCondition ==
                 entries[i].weatherCondition)) {
-          debugPrint("WeatherEntry object matched, same entry found");
-
-
-          /*
-          foundWeatherEntries.forEach((element) {
-            if (element.contains(entries[i])) {
-              contains = true;
-            }
-          });
-          */
-          
           
             foundWeatherEntries[j].add(entries[i]);
         } //if it's already in the list continue
@@ -342,10 +327,6 @@ Future<List<WallpaperObj>> listSavedWallpapers(BuildContext context) async {
     }
   }
 
-  if (foundWeatherEntries.isEmpty) {
-    debugPrint("bruh the foundWeatherEntries is empty");
-  }
-
   List<WallpaperObj> temp = [];
 
   // second loop, creates a list of WallpaperObj based on how many unique entries there are
@@ -353,10 +334,6 @@ Future<List<WallpaperObj>> listSavedWallpapers(BuildContext context) async {
     // I know, time though
     temp.add(WallpaperObj(12 /*context.read<LocationProvider>().location!.id*/,
         foundWeatherEntries[k]));
-  }
-
-  if (temp.isEmpty) {
-    debugPrint("why the [redacted] is temp empty??");
   }
 
   return temp;

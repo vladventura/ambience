@@ -485,14 +485,10 @@ class _CreateApp extends State<CreateApp> {
         []; // in case you need to abort and undo the new rules
 
     for (int i = 0; i < newObj.entries.length; i++) {
-      debugPrint(newObj.entries[i].dayOfWeek.name);
-
       bool success = await WeatherEntry.createRule(newObj.entries[i]);
 
       if (success) {
         tempSchemas.add(newObj.entries[i].idSchema);
-
-        debugPrint(newObj.entries[i].idSchema);
       } else {
         // conflict found, undo creation of every entry
         tempSchemas.forEach((element) {
