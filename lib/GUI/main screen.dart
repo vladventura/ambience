@@ -33,10 +33,12 @@ Future<IconData> getCurrentWeather() async {
   Map<String, dynamic> json = await weatherNow(await Utils.loadFromLocationFile()); // CHANGE THIS TO GET THE LOCALE FROM FILE
   // in the form of a (city?)
 
-  if(stringToIcon.entries.contains(json['weather']['main'])){
-    return stringToIcon[WeatherModel];
-  }
+  if(stringToIcon.entries.contains(stringToIcon[json["weather"][0]["main"]])){
 
+    IconData retIcon = stringToIcon[json["weather"][0]["main"]];
+
+    return retIcon;
+  }
   else{ return Icons.question_mark; } // in the event that the current weather is something we aren't prepared for (such as ash or tornado)
 }
 

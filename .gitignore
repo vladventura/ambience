@@ -9,6 +9,7 @@
 .buildlog/
 .history
 .svn/
+launch.json
 migrate_working_dir/
 
 # IntelliJ related
