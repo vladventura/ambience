@@ -257,7 +257,6 @@ class FireHandler {
       //if file doesn't exist fail silently and return
       return;
     }
-  
   }
 
   Future<void> downloadLocJSON() async {
