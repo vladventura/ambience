@@ -213,7 +213,7 @@ class WeatherEntry {
        ruleMap["id"] = int.parse(cityID);
     }
       String ruleMapToJSON = jsonEncode(ruleMap);
-      await store.writeAppDocFile(ruleMapToJSON, constants.jsonPath);
+      await store.writeAppDocFile(ruleMapToJSON, constants.locationFilename);
     
     return true;
   }

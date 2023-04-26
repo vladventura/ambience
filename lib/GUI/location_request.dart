@@ -170,15 +170,15 @@ class _LocationRequest extends State<LocationRequest> {
   void _submit() {
     String chosenName = _autocompleteController.text;
 
-    if(chosenName.isNotEmpty){
+    if (chosenName.isNotEmpty) {
       Map<String, dynamic> city = _citiesList.where((element) {
-      return element['name'] == chosenName &&
-          (_chosenCountryCode == "US"
-              ? element['state'] == _chosenState
-              : true);
-    }).toList()[0];
-    context.read<LocationProvider>().setLocation(city);
-    Navigator.of(context).pushNamed('/Home');
+        return element['name'] == chosenName &&
+            (_chosenCountryCode == "US"
+                ? element['state'] == _chosenState
+                : true);
+      }).toList()[0];
+      context.read<LocationProvider>().setLocation(city);
+      Navigator.of(context).pushNamed('/Home');
     }
   }
 
