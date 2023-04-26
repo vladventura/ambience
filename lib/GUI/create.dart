@@ -359,7 +359,6 @@ class CreateApp extends StatefulWidget {
 
   @override
   State<CreateApp> createState() => _CreateApp();
-
 }
 
 class _CreateApp extends State<CreateApp> {
@@ -486,7 +485,6 @@ class _CreateApp extends State<CreateApp> {
         []; // in case you need to abort and undo the new rules
 
     for (int i = 0; i < newObj.entries.length; i++) {
-    
       debugPrint(newObj.entries[i].dayOfWeek.name);
 
       bool success = await WeatherEntry.createRule(newObj.entries[i]);
@@ -495,13 +493,13 @@ class _CreateApp extends State<CreateApp> {
         tempSchemas.add(newObj.entries[i].idSchema);
 
         debugPrint(newObj.entries[i].idSchema);
-      }
-      else { // conflict found, undo creation of every entry
-         tempSchemas.forEach((element) {
-           WeatherEntry.deleteRule(element);
-         });
+      } else {
+        // conflict found, undo creation of every entry
+        tempSchemas.forEach((element) {
+          WeatherEntry.deleteRule(element);
+        });
 
-         return false;
+        return false;
       }
     }
 
@@ -614,20 +612,22 @@ class _CreateApp extends State<CreateApp> {
               child: OutlinedButton(
                 onPressed: () {
                   if (checkFields(
-                    hourController.text,
-                    minuteController.text,
-                    fileChooser.getCurrentFile(),
-                    iconToWeatherCond[weatherDropKey.currentState?._weatherVal],
-                    dayToggles.getDays())) {
-                  WallpaperObj newObj = WallpaperObj.newObj(
+                      hourController.text,
+                      minuteController.text,
+                      fileChooser.getCurrentFile(),
+                      iconToWeatherCond[
+                          weatherDropKey.currentState?._weatherVal],
+                      dayToggles.getDays())) {
+                    WallpaperObj newObj = WallpaperObj.newObj(
                         fileChooser.getCurrentFile(),
-                        iconToWeatherCond[weatherDropKey.currentState?._weatherVal],
+                        iconToWeatherCond[
+                            weatherDropKey.currentState?._weatherVal],
                         toMilitary(
                             toNumber(hourController.text), AMPM.getAmPm()),
                         toNumber(minuteController.text),
                         dayToggles.getDays(),
-                        "context.read<LocationProvider>().location!.name",
-                        12 /*context.read<LocationProvider>().location!.id*/);
+                        context.read<LocationProvider>().location!.name,
+                       context.read<LocationProvider>().location!.id);
 
                     confirmCreation(
                             widget.intention, widget.contextWallpaper, newObj)
