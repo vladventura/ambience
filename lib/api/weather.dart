@@ -24,6 +24,9 @@ Future<void> weatherForecast(LocationModel? input) async {
 Future<Map<String, dynamic>> weatherNow(LocationModel? input) async {
   //get weather data
   try {
+    if (input == null) {
+      throw "location is null";
+    }
     var nowWeather = await (getWeatherNow(input));
     return jsonDecode(nowWeather);
   } catch (e) {

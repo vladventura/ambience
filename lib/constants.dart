@@ -1,3 +1,5 @@
+import 'package:flutter/material.dart';
+
 const String weatherDataPath = "weatherData.json";
 const String logFilePath = "log.txt";
 const String configPath = "config.txt";
@@ -14,6 +16,14 @@ const String quitToolTip =
 const String confirmToolTip = "Ready to schedule it?";
 const String locationToolTip = "Set Your Prefered Location";
 const String weatherSelectToolTip = "When should your wallpaper change?";
+const Map<String, IconData> stringToIcon = {
+  "Clear": Icons.sunny,
+  "Clouds": Icons.cloud,
+  "Rain": Icons.water_drop,
+  "Thunderstorm": Icons.thunderstorm,
+  "Snow": Icons.cloudy_snowing,
+  "Empty": Icons.question_mark
+};
 
 const List<Map<String, String>> allUSStates = [
   {"name": "Alabama", "code": "AL"},

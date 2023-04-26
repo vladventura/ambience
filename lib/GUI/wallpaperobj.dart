@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:ambience/weatherEntry/weather_entry.dart';
 import 'package:path/path.dart' as path;
@@ -64,6 +66,7 @@ class WallpaperObj {
   WallpaperObj(this.cityId, [this.entries = const []]) {
     if (entries.isNotEmpty) {
       filePath = entries[0].wallpaperFilepath;
+
       cond = entries[0].weatherCondition;
 
       hour = entries[0].startTime.hour;
@@ -81,6 +84,8 @@ class WallpaperObj {
       time += hour >= 12 ? " PM" : " AM";
 
       city = entries[0].city;
+
+      cityId = entries[0].cityId;
 
       //initializing list in order fron sun to sat
 
@@ -122,24 +127,36 @@ class WallpaperObj {
       [this.entries = const []]) {
     time = "$hour:$minute";
 
-    entries = createEntries(filePath, cond, hour, minute, days, city, cityId);
+    String strHour = (hour % 12).toString();
+    if (hour == 12) {
+      strHour = "12";
+    }
+    String strMinute = minute.toString();
+    strMinute = minute> 1 ? strMinute : "0$strMinute";
+    String amPm = hour >= 12 ? "PM" : "AM";
+    String fmt = "$strHour:$minute $amPm";
 
-    days = [false, false, false, false, false, false, false];
+    time = fmt;
+
+    entries = createEntries();
   }
 
   //private function to create entries out of data received
-  List<WeatherEntry> createEntries(String file, WeatherCondition cond, int hour,
-      int minute, List<bool> days, String city, int cityId) {
+  List<WeatherEntry> createEntries() {
+    
     List<WeatherEntry> temp = [];
 
     for (int i = 0; i < days.length; i++) {
+
       if (days[i]) {
         // if there is a Weatherentry for the ith day of the week
 
         TimeOfDay tempTime = TimeOfDay(hour: hour, minute: minute);
 
-        temp.add(WeatherEntry(
-            tempTime, DayOfWeek.values[i], file, cond, city, cityId));
+        temp.add(WeatherEntry(tempTime, DayOfWeek.values[i], filePath, cond, city, cityId));
+
+        temp.last.idSchema += i.toString();
+        
       }
     }
 
