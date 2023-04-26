@@ -1,11 +1,7 @@
-import 'dart:convert';
-
 import 'package:ambience/GUI/create.dart';
 import 'package:ambience/api/weather.dart';
-import 'package:ambience/firebase/fire_handler.dart';
 import 'package:ambience/handlers/wallpaper_handler.dart';
 import 'package:ambience/models/location_model.dart';
-import 'package:ambience/models/weather_model.dart';
 import 'package:ambience/providers/location_provider.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
@@ -20,29 +16,6 @@ import 'package:provider/provider.dart';
 void main() => runApp(const MainApp());
 
 String current = Directory.current.path;
-
-Future<IconData> getCurrentWeather() async {
-
-  Map stringToIcon = {
-  "Clear":Icons.sunny,
-  "Clouds":Icons.cloud,
-  "Rain":Icons.water_drop,
-  "Thunderstorm":Icons.thunderstorm,
-  "Snow":Icons.cloudy_snowing,
-  "Empty":Icons.question_mark
-  };
-
-  Map<String, dynamic> json = await weatherNow(await Utils.loadFromLocationFile()); // CHANGE THIS TO GET THE LOCALE FROM FILE
-  // in the form of a (city?)
-
-  if(stringToIcon.entries.contains(stringToIcon[json["weather"][0]["main"]])){
-
-    IconData retIcon = stringToIcon[json["weather"][0]["main"]];
-
-    return retIcon;
-  }
-  else{ return Icons.question_mark; } // in the event that the current weather is something we aren't prepared for (such as ash or tornado)
-}
 
 Widget checkWallpaper() {
   if (defaultTargetPlatform == TargetPlatform.android) {
@@ -103,7 +76,7 @@ class _TimeDisplayState extends State<TimeDisplay> {
   @override
   void initState() {
     // update time every minute
-    Timer.periodic(Duration(minutes: 1), (timer) {
+    Timer.periodic(const Duration(minutes: 1), (timer) {
       updateTime();
     });
     super.initState();
@@ -135,8 +108,8 @@ class FloatingDrawerButton extends StatelessWidget {
   }
 }
 
-class CityHeader extends StatelessWidget {
-  const CityHeader({super.key});
+class _CityHeader extends StatelessWidget {
+  const _CityHeader();
 
   @override
   Widget build(BuildContext context) {
@@ -175,32 +148,17 @@ class MainApp extends StatelessWidget {
     );
   }
 
-  Future<Widget> weatherSection() async {
+  Future<IconData> getCurrentWeather() async {
+    Map<String, dynamic> json =
+        await weatherNow(await Utils.loadFromLocationFile());
+    // in the form of a (city?)
+    String mainWeather = json['weather'][0]['main'];
+    // debugPrint(stringToIcon[json['weather'][0]['main'].toString()].toString());
 
-    IconData icon = await getCurrentWeather();
-
-    return Container(
-      padding: const EdgeInsets.all(32),
-      child: Row(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          Column(
-            crossAxisAlignment: CrossAxisAlignment.center,
-            children: [
-              Icon(icon,
-                  size: 80,
-                  color: Colors
-                      .black45), // placeholder, attach function to icon to change based on weather
-              Text(
-                checkTime(), // (TimeOfDay(hour: 12, minute: 02) !!! SCHEDULE TO UPDATE TIME EVERY MINUTE THROUGH A FUNCTION CALL !!!
-                style: const TextStyle(fontWeight: FontWeight.bold),
-              ), // placeholder, attach function to retrieve time
-              const CityHeader(), // placeholder, drop menu goes here
-            ],
-          ),
-        ],
-      ),
-    );
+    if (stringToIcon.containsKey(mainWeather)) {
+      return stringToIcon[mainWeather]!;
+    } // in the event that the current weather is something we aren't prepared for (such as ash or tornado)
+    return Icons.question_mark;
   }
 
   ButtonStyle _buttonStyle({
@@ -260,10 +218,12 @@ class MainApp extends StatelessWidget {
                   MaterialPageRoute(
                     builder: (context) => CreateApp(
                       contextWallpaper: WallpaperObj(
-                          context.read<LocationProvider>().location?.id ??
-                              4930956),
+                        context.read<LocationProvider>().location?.id ??
+                            4930956,
+                      ),
                       intention: 1,
-                      location: "placeholder", //placeholder value, it's just so dart doesn't act like such a baby
+                      location:
+                          "placeholder", //placeholder value, it's just so dart doesn't act like such a baby
                     ),
                   ),
                 );
@@ -277,63 +237,85 @@ class MainApp extends StatelessWidget {
     );
   }
 
-  @override
-  Widget build(BuildContext context) {
-    debugPrint(context.read<LocationProvider>().location?.toJson().toString());
-
-    return MaterialApp(
-      home: Scaffold(
-        body: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            FutureBuilder <Widget> (
-              future: weatherSection(),
-              builder: (BuildContext context,
-                AsyncSnapshot<Widget> snapshot){
-                  if(!snapshot.hasData){
-                    return const Icon(Icons.hourglass_top);
-                  }
-                  else{
-                    return snapshot.data!;
-                  }
-                }
-              ),
-            wallpaperSection(),
-            buttonMenu(context),
-          ],
-        ),
-        floatingActionButtonLocation: FloatingActionButtonLocation.startTop,
-        floatingActionButton: const FloatingDrawerButton(),
-        drawer: Drawer(
-          child: Column(
+  Container _weatherInfoHeader(IconData icon) {
+    return Container(
+      padding: const EdgeInsets.all(32),
+      child: Row(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Column(
+            crossAxisAlignment: CrossAxisAlignment.center,
             children: [
-              const DrawerHeader(
-                child: Text("Ambience"),
-              ),
-              Expanded(
-                child: ListView(
-                  children: [
-                    ListTile(
-                      title: const Text("Reset Location"),
-                      onTap: () {
-                        Navigator.of(context).pushNamed('/LocationRequest');
-                      },
-                    ),
-                  ],
-                ),
-              ),
-              ListTile(
-                title: const Text("Log out"),
-                onTap: () {
-                  FireHandler hand = FireHandler();
-                  //hand.fireSignOut();
-                  Navigator.of(context).pushNamed('/');
-                },
-              ),
+              Icon(icon,
+                  size: 80,
+                  color: Colors
+                      .black45), // placeholder, attach function to icon to change based on weather
+              Text(
+                checkTime(), // (TimeOfDay(hour: 12, minute: 02) !!! SCHEDULE TO UPDATE TIME EVERY MINUTE THROUGH A FUNCTION CALL !!!
+                style: const TextStyle(fontWeight: FontWeight.bold),
+              ), // placeholder, attach function to retrieve time
+              const _CityHeader(), // placeholder, drop menu goes here
             ],
           ),
-        ),
+        ],
       ),
+    );
+  }
+
+  Drawer _drawer(BuildContext context) {
+    return Drawer(
+      child: Column(
+        children: [
+          const DrawerHeader(
+            child: Text("Ambience"),
+          ),
+          Expanded(
+            child: ListView(
+              children: [
+                ListTile(
+                  title: const Text("Reset Location"),
+                  onTap: () {
+                    Navigator.of(context).pushNamed('/LocationRequest');
+                  },
+                ),
+              ],
+            ),
+          ),
+          ListTile(
+            title: const Text("Log out"),
+            onTap: () {
+              // FireHandler hand = FireHandler();
+              //hand.fireSignOut();
+              Navigator.of(context).pushNamed('/');
+            },
+          ),
+        ],
+      ),
+    );
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          FutureBuilder(
+            future: getCurrentWeather(),
+            builder: (BuildContext context, snapshot) {
+              if (!snapshot.hasData) {
+                return const Icon(Icons.hourglass_top);
+              }
+              return _weatherInfoHeader(snapshot.data!);
+            },
+          ),
+          wallpaperSection(),
+          buttonMenu(context),
+        ],
+      ),
+      floatingActionButtonLocation: FloatingActionButtonLocation.startTop,
+      floatingActionButton: const FloatingDrawerButton(),
+      drawer: _drawer(context),
     );
   }
 }
