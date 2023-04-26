@@ -21,10 +21,9 @@ class LocationProvider with ChangeNotifier {
       //override null safety, since we comfirmed it is not null and cast to string
       //use this when cityID code infrastructure is setup
       String cityID = "${_foundLocation!.id}";
-      //use this when cityID code infrastructure is setup
-      await WeatherEntry.updateLocInfo(cityID);
+      
       await Utils.saveToLocationFile(_foundLocation!);
-
+      await WeatherEntry.updateLocInfo(cityID);
       //fire handler commented out for rapid offline testing.
       //fire handler auth instance
       //FireHandler hand = FireHandler();

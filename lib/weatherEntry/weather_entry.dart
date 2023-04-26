@@ -204,6 +204,7 @@ class WeatherEntry {
 
   static Future<bool> updateLocInfo(String cityID) async {
     Storage store = Storage();
+    
     Map<String, dynamic> ruleMap =
         await store.readAppDocJson(constants.jsonPath);
     //if it's empty nothing needs to be updated

@@ -232,6 +232,7 @@ class MainApp extends StatelessWidget {
             message: createToolTip,
             child: OutlinedButton(
               onPressed: () {
+                if(context.read<LocationProvider>().location != null){
                 Navigator.push(
                   context,
                   MaterialPageRoute(
@@ -244,10 +245,10 @@ class MainApp extends StatelessWidget {
                     ),
                   ),
                 );
-              },
+              }},
               style: _buttonStyle(),
               child: const Text("Create"),
-            ),
+                          ),
           ),
         ],
       ),

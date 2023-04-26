@@ -6,7 +6,7 @@ const String jsonPath = "ruleset.json";
 const String locationFilename = "locationInfo.json";
 const String bootDaemonID = "ambience_daemon_boot";
 
-const String createToolTip = "Schedule a wallpaper change";
+const String createToolTip = "Schedule a wallpaper change. Note location must be set first!";
 const String listToolTip =
     "View, Edit, or Delete your scheduled wallpaper changes";
 const String quitToolTip =
