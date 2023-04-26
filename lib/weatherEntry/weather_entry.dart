@@ -99,7 +99,8 @@ class WeatherEntry {
     //upload the new json and associated wallpapers
     //await hand.ruleJSONUpload();
     //spawn new daemon
-    await Daemon.daemonSpawner(newEntry);
+    //uncomment when done with rest of ambience
+    //await Daemon.daemonSpawner(newEntry);
     return true;
   }
 
@@ -116,7 +117,8 @@ class WeatherEntry {
       //Delete wallpaper in firebase
       //await hand.deleteWallpaper(temp[idSchema]["wallpaperFilepath"]);
       //delete daemon
-      await Daemon.daemonBanisher(idSchema);
+      //uncomment when done with rest of ambience
+      //await Daemon.daemonBanisher(idSchema);
       temp.remove(idSchema);
       String rulesetToJson = jsonEncode(temp);
       await store.writeAppDocFile(rulesetToJson, constants.jsonPath);
