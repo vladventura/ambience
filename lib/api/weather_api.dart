@@ -51,6 +51,7 @@ Future<dynamic> getWeatherNow(LocationModel? input,
   // if (cords.isEmpty) {
   //   throw "failed geolocation";
   // }
+
   dynamic weatherResponse = await handler.requestWeatherDataNow(input?.id);
   return weatherResponse.body;
 }

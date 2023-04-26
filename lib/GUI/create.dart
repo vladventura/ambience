@@ -5,13 +5,16 @@
 // add time conversions - done
 // ENSURE THAT JSON FILE ALWAYS EXISTS - done
 // add tooltips
-// fix parendata widget problems
+// fix parendata widget problems - done
 // device-specific getwallpaper stuff (specific to OS)
+// GIVE LOCATION TO NEW WALLPAPEROBJECTS
 
 import 'dart:async';
+import 'package:ambience/GUI/list.dart';
 import 'package:ambience/constants.dart';
 import 'package:ambience/providers/location_provider.dart';
 import 'package:ambience/weatherEntry/weather_entry.dart';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'dart:io';
 import "package:ambience/GUI/wallpaperobj.dart";
@@ -482,21 +485,18 @@ class _CreateApp extends State<CreateApp> {
         []; // in case you need to abort and undo the new rules
 
     for (int i = 0; i < newObj.entries.length; i++) {
-      await WeatherEntry.createRule(newObj.entries[i]);
-
-      bool success =
-          true; //only for the time being, delete once createRule becomes boolean
+      bool success = await WeatherEntry.createRule(newObj.entries[i]);
 
       if (success) {
         tempSchemas.add(newObj.entries[i].idSchema);
-      }
-      // else {
-      //   tempSchemas.forEach((element) {
-      //     WeatherEntry.deleteRule(element);
-      //   });
+      } else {
+        // conflict found, undo creation of every entry
+        tempSchemas.forEach((element) {
+          WeatherEntry.deleteRule(element);
+        });
 
-      //   return false;
-      // }
+        return false;
+      }
     }
 
     return true;
@@ -623,14 +623,14 @@ class _CreateApp extends State<CreateApp> {
                         toNumber(minuteController.text),
                         dayToggles.getDays(),
                         context.read<LocationProvider>().location!.name,
-                        context.read<LocationProvider>().location!.id);
+                       context.read<LocationProvider>().location!.id);
 
                     confirmCreation(
                             widget.intention, widget.contextWallpaper, newObj)
                         .then((success) {
                       if (success) {
                         // add fields to newWallpaperObj
-                        Navigator.pop(context); // return to previous menu
+                        Navigator.pop(context, true); // return to previous menu
                       } else {
                         setState(() {
                           errType = 2;
@@ -668,6 +668,7 @@ class _CreateApp extends State<CreateApp> {
         body: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
+            const Padding(padding: EdgeInsets.all(24)),
             dayToggles,
             timeAndWeather,
             wallpaperSection,

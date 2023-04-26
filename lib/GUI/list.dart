@@ -1,6 +1,7 @@
 // TODO: Add Function parameter to pass to the button widgets (so that they can pass the ID up to the list screen) - done
 // add a text widget to show the days active for a given wallpaperEntry
 
+import 'package:ambience/GUI/create.dart';
 import 'package:ambience/constants.dart';
 import 'package:ambience/providers/location_provider.dart';
 import 'package:flutter/material.dart';
@@ -19,6 +20,12 @@ const ButtonStyle controlStyle = ButtonStyle(
     side: MaterialStatePropertyAll<BorderSide>(
         BorderSide(color: Colors.black, width: 2)));
 
+class screenResult {
+  bool result = false;
+
+  screenResult(this.result);
+}
+
 class EntryControls extends StatelessWidget {
   // controls to copy, edit, and delete a wallpaper
 
@@ -27,13 +34,17 @@ class EntryControls extends StatelessWidget {
 
   Widget Controls = Container();
 
-  EntryControls(int id, Function func, {super.key}) {
+  EntryControls(int id, Function funcFirst, Function funcSecond, {super.key}) {
     //takes a wallpaper obj reference to call it later
 
     ID = id;
 
-    action() {
-      func(ID);
+    deletion() {
+      funcFirst(ID);
+    }
+
+    editing() {
+      funcSecond(ID);
     }
 
     Controls = Row(
@@ -41,13 +52,13 @@ class EntryControls extends StatelessWidget {
       children: [
         IconButton(
           onPressed:
-              action, // function to delete the wallpaperObj, deleting the rules associated with it
+              deletion, // function to delete the wallpaperObj, deleting the rules associated with it
           icon: const Icon(Icons.delete),
           style: controlStyle,
         ),
         IconButton(
           onPressed:
-              action, //function to edit the existing wallpaper, goes to create screen w/ data
+              editing, //function to edit the existing wallpaper, goes to create screen w/ data
           icon: const Icon(Icons.edit),
           style: controlStyle,
         ),
@@ -72,21 +83,16 @@ class WallpaperEntry extends StatelessWidget {
 
   String time = "";
 
+  String daysText = "";
+
   Widget wallPaperThumb = Container();
   Widget wallpaperCond = Container();
   Widget wallpaperControls = Container();
+  Widget wallpaperDays = Container();
 
-  void deleteContents() {
-    for (int l = 0; l < object.entries.length; l++) {
-      WeatherEntry.deleteRule(object.entries[l].idSchema);
-    }
-
-    object.entries.clear();
-
-    return;
-  }
-
-  WallpaperEntry(WallpaperObj obj, int id, Function func, {super.key}) {
+  WallpaperEntry(
+      WallpaperObj obj, int id, Function funcFirst, Function funcSecond,
+      {super.key}) {
     object = obj;
     wallFile = obj.filePath;
     cond = obj.cond;
@@ -102,16 +108,28 @@ class WallpaperEntry extends StatelessWidget {
       child: Image.file(File(wallFile), fit: BoxFit.fitWidth),
     );
 
-    wallpaperCond = Expanded(
-        child: Column(
-      mainAxisAlignment: MainAxisAlignment.center,
-      children: [
-        Icon(weathercondToIcon[cond]), // placeholder
-        Container(alignment: Alignment.center, child: Text(time)),
-      ],
-    ));
+    String daysText = (obj.days[0] ? "SA " : "") +
+        (obj.days[1] ? "M " : "") +
+        (obj.days[2] ? "T " : "") +
+        (obj.days[3] ? "W " : "") +
+        (obj.days[4] ? "TH " : "") +
+        (obj.days[5] ? "F " : "") +
+        (obj.days[6] ? "SU " : "");
 
-    wallpaperControls = EntryControls(ID, func);
+    wallpaperDays = Text(daysText);
+
+    wallpaperCond = Expanded(
+      child: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Icon(weathercondToIcon[cond]), // placeholder
+          Container(alignment: Alignment.center, child: Text(time)),
+          wallpaperDays,
+        ],
+      ),
+    );
+
+    wallpaperControls = EntryControls(ID, funcFirst, funcSecond);
   }
 
   @override
@@ -151,7 +169,14 @@ Widget buttonMenu(BuildContext context) {
           message: createToolTip,
           child: OutlinedButton(
             onPressed: () {
-              Navigator.pushNamed(context, '/Create');
+              // might need to change the "0" to an actual cityid
+              Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                      builder: (context) => CreateApp(
+                          contextWallpaper: WallpaperObj(0),
+                          intention: 3,
+                          location: "")));
             }, //function here to switch to create screen
             style: controlStyle,
             child: const Text("Create"),
@@ -186,13 +211,40 @@ class wallPapersWindowState extends State<wallPapersWindow> {
     // Null guard
     if (temp[id] == null) return;
     for (WeatherEntry entry in temp[id]!.entries) {
-      WeatherEntry.deleteRule(entry.idSchema);
+      await WeatherEntry.deleteRule(entry.idSchema);
     }
     temp[id]!.entries.clear();
     temp.remove(id);
     setState(() {
       _objs = temp;
     });
+  }
+
+  void editWallpaper(int id) async {
+    // deletes original,
+    debugPrint("Edit called!");
+    Map<int, WallpaperObj> temp = Map<int, WallpaperObj>.from(_objs);
+    // Null guard
+    if (temp[id] == null) return;
+
+    final result = await Navigator.push(
+        context,
+        MaterialPageRoute(
+            builder: (context) => CreateApp(
+                contextWallpaper: temp[id]!, intention: 3, location: "")));
+
+    debugPrint(result.toString());
+
+    if (result == true) {
+      for (WeatherEntry entry in temp[id]!.entries) {
+        WeatherEntry.deleteRule(entry.idSchema);
+      }
+      temp[id]!.entries.clear();
+      temp.remove(id);
+      setState(() {
+        _objs = temp;
+      });
+    }
   }
 
   @override
@@ -207,7 +259,8 @@ class wallPapersWindowState extends State<wallPapersWindow> {
               BoxDecoration(border: Border.all(color: Colors.black, width: 2)),
           child: ListView(
             children: _objs.entries
-                .map((e) => WallpaperEntry(e.value, e.key, deleteWallpaper))
+                .map((e) => WallpaperEntry(
+                    e.value, e.key, deleteWallpaper, editWallpaper))
                 .toList(),
           ),
         ),
@@ -235,39 +288,43 @@ Future<List<WallpaperObj>> listSavedWallpapers(BuildContext context) async {
   });
 
   if (entries.isEmpty) {
-    debugPrint("bruh this entries list is empty");
+    debugPrint("entries list is empty -listSavedWallpapers");
   }
-
+  //list of list to store WeatherEntry that have same wallpaper, start time and weather condition
   List<List<WeatherEntry>> foundWeatherEntries = [];
-
+  bool contains = false;
+  if (entries.isNotEmpty) {
+    foundWeatherEntries.add([entries.first]);
+  }
   // first loop, finds every different WeatherEntry
   for (int i = 0; i < entries.length; i++) {
-    if (foundWeatherEntries.isNotEmpty) {
-      for (int j = 0; j < foundWeatherEntries.length; j++) {
-        //if there is a Weathercondition is the same, add it to one of the lists
-        if (foundWeatherEntries[j][0].city == entries[i].city &&
-            foundWeatherEntries[j][0].startTime == entries[i].startTime &&
-            foundWeatherEntries[j][0].wallpaperFilepath ==
-                entries[i].wallpaperFilepath &&
-            foundWeatherEntries[j][0].weatherCondition ==
-                entries[i].weatherCondition) {
-          foundWeatherEntries[j].add(entries[i]);
-          debugPrint("same entry found");
+    for (int j = 0; j < foundWeatherEntries.length; j++) {
+      if (foundWeatherEntries[j][0].idSchema != entries[i].idSchema) {
+        if ((foundWeatherEntries[j][0].startTime == entries[i].startTime) &&
+            (foundWeatherEntries[j][0].wallpaperFilepath ==
+                entries[i].wallpaperFilepath) &&
+            (foundWeatherEntries[j][0].weatherCondition ==
+                entries[i].weatherCondition)) {
+          
+            foundWeatherEntries[j].add(entries[i]);
+        } //if it's already in the list continue
+        else if (foundWeatherEntries[j][0].idSchema == entries[i].idSchema) {
+          continue;
         }
-
-        // otherwise it is an entirely new entry, and a new list must be added
+        //else could be a new entry, check if it already exists in list.
         else {
-          foundWeatherEntries.add([entries[i]]);
-          debugPrint("unique entry found");
+          foundWeatherEntries.forEach((element) {
+            if (element.contains(entries[i])) {
+              contains = true;
+            }
+          });
+          if (!contains) {
+            foundWeatherEntries.add([entries[i]]);
+          }
+          contains = false;
         }
       }
-    } else {
-      foundWeatherEntries.add([entries[i]]);
     }
-  }
-
-  if (foundWeatherEntries.isEmpty) {
-    debugPrint("bruh the foundWeatherEntries is empty");
   }
 
   List<WallpaperObj> temp = [];
@@ -275,12 +332,8 @@ Future<List<WallpaperObj>> listSavedWallpapers(BuildContext context) async {
   // second loop, creates a list of WallpaperObj based on how many unique entries there are
   for (int k = 0; k < foundWeatherEntries.length; k++) {
     // I know, time though
-    temp.add(WallpaperObj(
-        context.read<LocationProvider>().location!.id, foundWeatherEntries[k]));
-  }
-
-  if (temp.isEmpty) {
-    debugPrint("why the [redacted] is temp empty??");
+    temp.add(WallpaperObj(12 /*context.read<LocationProvider>().location!.id*/,
+        foundWeatherEntries[k]));
   }
 
   return temp;
