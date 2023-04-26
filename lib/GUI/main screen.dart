@@ -164,7 +164,7 @@ class MainApp extends StatelessWidget {
   ButtonStyle _buttonStyle({
     MaterialStatePropertyAll<EdgeInsets> padding =
         const MaterialStatePropertyAll<EdgeInsets>(
-      EdgeInsets.all(32),
+      EdgeInsets.all(24),
     ),
     MaterialStatePropertyAll<Color> backgroundColor =
         const MaterialStatePropertyAll<Color>(Colors.white),

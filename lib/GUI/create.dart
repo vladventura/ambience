@@ -668,6 +668,7 @@ class _CreateApp extends State<CreateApp> {
         body: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
+            const Padding(padding: EdgeInsets.all(24)),
             dayToggles,
             timeAndWeather,
             wallpaperSection,

@@ -67,11 +67,7 @@ class WallpaperObj {
     if (entries.isNotEmpty) {
       filePath = entries[0].wallpaperFilepath;
 
-      if(weathercondToIcon.values.contains(entries[0].weatherCondition)){
-        cond = entries[0].weatherCondition;
-      } else {
-        cond = WeatherCondition.Clear;
-      }
+      cond = entries[0].weatherCondition;
 
       hour = entries[0].startTime.hour;
       minute = entries[0].startTime.minute;
