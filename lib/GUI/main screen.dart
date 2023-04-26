@@ -29,7 +29,7 @@ Future<IconData> getCurrentWeather() async {
   "Empty":Icons.question_mark
   };
 
-  Map<String, dynamic> json = await weatherNow(context.); // CHANGE THIS TO GET THE LOCALE FROM FILE
+  Map<String, dynamic> json = await weatherNow(await Utils.loadFromLocationFile()); // CHANGE THIS TO GET THE LOCALE FROM FILE
   // in the form of a (city?)
 
   if(stringToIcon.entries.contains(json["main"])){

@@ -10,6 +10,7 @@
 // GIVE LOCATION TO NEW WALLPAPEROBJECTS
 
 import 'dart:async';
+import 'package:ambience/GUI/list.dart';
 import 'package:ambience/constants.dart';
 import 'package:ambience/providers/location_provider.dart';
 import 'package:ambience/weatherEntry/weather_entry.dart';
@@ -358,6 +359,7 @@ class CreateApp extends StatefulWidget {
 
   @override
   State<CreateApp> createState() => _CreateApp();
+
 }
 
 class _CreateApp extends State<CreateApp> {
@@ -624,15 +626,15 @@ class _CreateApp extends State<CreateApp> {
                             toNumber(hourController.text), AMPM.getAmPm()),
                         toNumber(minuteController.text),
                         dayToggles.getDays(),
-                        context.read<LocationProvider>().location!.name,
-                        context.read<LocationProvider>().location!.id);
+                        "context.read<LocationProvider>().location!.name",
+                        12 /*context.read<LocationProvider>().location!.id*/);
 
                     confirmCreation(
                             widget.intention, widget.contextWallpaper, newObj)
                         .then((success) {
                       if (success) {
                         // add fields to newWallpaperObj
-                        Navigator.pop(context); // return to previous menu
+                        Navigator.pop(context, true); // return to previous menu
                       } else {
                         setState(() {
                           errType = 2;

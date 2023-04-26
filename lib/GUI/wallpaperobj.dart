@@ -66,7 +66,12 @@ class WallpaperObj {
   WallpaperObj(this.cityId, [this.entries = const []]) {
     if (entries.isNotEmpty) {
       filePath = entries[0].wallpaperFilepath;
-      cond = entries[0].weatherCondition;
+
+      if(weathercondToIcon.values.contains(entries[0].weatherCondition)){
+        cond = entries[0].weatherCondition;
+      } else {
+        cond = WeatherCondition.Clear;
+      }
 
       hour = entries[0].startTime.hour;
       minute = entries[0].startTime.minute;
