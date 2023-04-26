@@ -305,8 +305,15 @@ Future<List<WallpaperObj>> listSavedWallpapers(BuildContext context) async {
                 entries[i].wallpaperFilepath) &&
             (foundWeatherEntries[j][0].weatherCondition ==
                 entries[i].weatherCondition)) {
-          
+          foundWeatherEntries.forEach((element) {
+            if (element.contains(entries[i])) {
+              contains = true;
+            }
+          });
+          if (contains == false) {
             foundWeatherEntries[j].add(entries[i]);
+          }
+          contains = false;
         } //if it's already in the list continue
         else if (foundWeatherEntries[j][0].idSchema == entries[i].idSchema) {
           continue;
