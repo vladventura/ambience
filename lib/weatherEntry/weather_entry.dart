@@ -204,17 +204,17 @@ class WeatherEntry {
 
   static Future<bool> updateLocInfo(String cityID) async {
     Storage store = Storage();
+    
     Map<String, dynamic> ruleMap =
-        await store.readAppDocJson(constants.jsonPath);
+        await store.readAppDocJson(constants.locationFilename);
     //if it's empty nothing needs to be updated
     //if it's not empty update all entries with the new location
     if (ruleMap.isNotEmpty) {
-      for (dynamic entry in ruleMap.values) {
-        entry["city"] = cityID;
-      }
-      String ruleMapToJSON = jsonEncode(ruleMap);
-      await store.writeAppDocFile(ruleMapToJSON, constants.jsonPath);
+       ruleMap["id"] = int.parse(cityID);
     }
+      String ruleMapToJSON = jsonEncode(ruleMap);
+      await store.writeAppDocFile(ruleMapToJSON, constants.locationFilename);
+    
     return true;
   }
 }
