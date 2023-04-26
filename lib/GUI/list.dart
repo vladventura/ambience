@@ -237,7 +237,7 @@ class wallPapersWindowState extends State<wallPapersWindow> {
 
     if (result == true) {
       for (WeatherEntry entry in temp[id]!.entries) {
-        WeatherEntry.deleteRule(entry.idSchema);
+        await WeatherEntry.deleteRule(entry.idSchema);
       }
       temp[id]!.entries.clear();
       temp.remove(id);
