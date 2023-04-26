@@ -178,8 +178,8 @@ Widget buttonMenu(BuildContext context) {
         Tooltip(
           message: createToolTip,
           child: OutlinedButton(
-            onPressed: () {
-              Navigator.push(context, MaterialPageRoute(builder: (context) => CreateApp(intention: 3, location: "")));
+            onPressed: () { // might need to change the "0" to an actual cityid
+              Navigator.push(context, MaterialPageRoute(builder: (context) => CreateApp(contextWallpaper: WallpaperObj(0), intention: 3, location: "")));
             }, //function here to switch to create screen
             style: controlStyle,
             child: const Text("Create"),
@@ -315,22 +315,23 @@ Future<List<WallpaperObj>> listSavedWallpapers(BuildContext context) async {
                         foundWeatherEntries[j].add(entries.first);
                         entries.remove(entries.first);
                         debugPrint("same entry found");
-              }
+              } // otherwise it is an entirely new entry, and a new list must be added
+            else {
+              foundWeatherEntries.add([entries.first]);
+              entries.remove(entries.first);
+          }
+            } // otherwise it is an entirely new entry, and a new list must be added
+            else {
+              foundWeatherEntries.add([entries.first]);
+              entries.remove(entries.first);
             }
           }
+          // otherwise it is an entirely new entry, and a new list must be added
+          else {
+            foundWeatherEntries.add([entries.first]);
+            entries.remove(entries.first);
+          }
         }
-      // otherwise it is an entirely new entry, and a new list must be added
-      else if(entries.isNotEmpty){
-        foundWeatherEntries.add([entries.first]);
-
-        debugPrint(entries.first.wallpaperFilepath);
-        debugPrint(entries.first.startTime.toString());
-        debugPrint(entries.first.weatherCondition.toString());
-        
-
-        entries.remove(entries.first);
-
-      }
     }
   }
   }
