@@ -90,16 +90,6 @@ class WallpaperEntry extends StatelessWidget {
   Widget wallpaperControls = Container();
   Widget wallpaperDays = Container();
 
-  void deleteContents() {
-    for (int l = 0; l < object.entries.length; l++) {
-      WeatherEntry.deleteRule(object.entries[l].idSchema);
-    }
-
-    object.entries.clear();
-
-    return;
-  }
-
   WallpaperEntry(
       WallpaperObj obj, int id, Function funcFirst, Function funcSecond,
       {super.key}) {
@@ -221,7 +211,7 @@ class wallPapersWindowState extends State<wallPapersWindow> {
     // Null guard
     if (temp[id] == null) return;
     for (WeatherEntry entry in temp[id]!.entries) {
-      WeatherEntry.deleteRule(entry.idSchema);
+      await WeatherEntry.deleteRule(entry.idSchema);
     }
     temp[id]!.entries.clear();
     temp.remove(id);

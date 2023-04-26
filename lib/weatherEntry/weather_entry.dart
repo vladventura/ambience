@@ -101,7 +101,7 @@ class WeatherEntry {
   }
 
   // deletes the rule matching key idSchema from the json
-  static void deleteRule(String idSchema) async {
+  static Future<void> deleteRule(String idSchema) async {
     Storage store = Storage();
     //commented out to enable rapid local testing
     //FireHandler hand = FireHandler();
