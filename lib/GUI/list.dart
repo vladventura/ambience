@@ -298,40 +298,59 @@ Future<List<WallpaperObj>> listSavedWallpapers(BuildContext context) async {
   });
 
   if (entries.isEmpty) {
-    debugPrint("bruh this entries list is empty");
+    debugPrint("entries list is empty -listSavedWallpapers");
   }
   //list of list to store WeatherEntry that have same wallpaper, start time and weather condition
   List<List<WeatherEntry>> foundWeatherEntries = [];
-
+  bool contains = false;
   if (entries.isNotEmpty) {
     foundWeatherEntries.add([entries.first]);
-    entries.remove(entries.first);
-
-    int j = 0;
-    // first loop, finds every different WeatherEntry
+  }
+  // first loop, finds every different WeatherEntry
   for (int i = 0; i < entries.length; i++) {
-    {
+    for (int j = 0; j < foundWeatherEntries.length; j++) {
       debugPrint(foundWeatherEntries.length.toString());
-
       debugPrint(entries.length.toString());
-
-      if (entries.isNotEmpty) {
+      debugPrint(entries[i].wallpaperFilepath);
+      debugPrint(foundWeatherEntries[j][0].wallpaperFilepath);
+      if (foundWeatherEntries[j][0].idSchema != entries[i].idSchema) {
         if ((foundWeatherEntries[j][0].startTime == entries[i].startTime) &&
             (foundWeatherEntries[j][0].wallpaperFilepath ==
                 entries[i].wallpaperFilepath) &&
             (foundWeatherEntries[j][0].weatherCondition ==
                 entries[i].weatherCondition)) {
           debugPrint("WeatherEntry object matched, same entry found");
-          foundWeatherEntries[j].add(entries[i]);
-        } // otherwise it is an entirely new entry, and a new list must be added
+
+
+          /*
+          foundWeatherEntries.forEach((element) {
+            if (element.contains(entries[i])) {
+              contains = true;
+            }
+          });
+          */
+          
+          
+            foundWeatherEntries[j].add(entries[i]);
+        } //if it's already in the list continue
+        else if (foundWeatherEntries[j][0].idSchema == entries[i].idSchema) {
+          continue;
+        }
+        //else could be a new entry, check if it already exists in list.
         else {
-          foundWeatherEntries.add([entries[i]]);
-          j++;
+          foundWeatherEntries.forEach((element) {
+            if (element.contains(entries[i])) {
+              contains = true;
+            }
+          });
+          if (!contains) {
+            foundWeatherEntries.add([entries[i]]);
+          }
+          contains = false;
         }
       }
     }
   }
-}
 
   if (foundWeatherEntries.isEmpty) {
     debugPrint("bruh the foundWeatherEntries is empty");
