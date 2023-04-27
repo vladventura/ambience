@@ -117,12 +117,12 @@ class WeatherEntry {
       //delete daemon
       await Daemon.daemonBanisher(idSchema);
       await hand.deleteWallpaper(temp[idSchema]["wallpaperFilepath"]);
-      temp.remove(idSchema);
+      await temp.remove(idSchema);
       String rulesetToJson = jsonEncode(temp);
       await store.writeAppDocFile(rulesetToJson, constants.jsonPath);
       
       //upload the new json and associated wallpapers
-      await hand.ruleJSONUpload();
+      await hand.reduceRuleJSONUpload();
       return;
     }
     // the file doesn't exist, do nothing

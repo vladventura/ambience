@@ -121,7 +121,6 @@ class FireHandler {
       Storage store = Storage();
       await store.writeAppDocFile(e.toString(), constants.logFilePath);
     }
-
   }
 
   void fireSignOut() {
@@ -135,11 +134,11 @@ class FireHandler {
         .collection("config")
         .document(constants.jsonPath);
     Storage store = Storage();
-     Map<String, dynamic>  ruleJSON =
+    Map<String, dynamic> ruleJSON =
         await store.readAppDocJson(constants.jsonPath);
     //if empty
-    if(ruleJSON.isEmpty){
-            await docRef.update(ruleJSON);
+    if (ruleJSON.isEmpty) {
+      await docRef.delete();
     }
     String imageName, fileExt;
     //extract images and rename them to ensure names are unique
@@ -151,6 +150,24 @@ class FireHandler {
       entry["wallpaperFilepath"] = imageName;
     }
     //upload json
+    await docRef.update(ruleJSON);
+  }
+
+  Future<void> reduceRuleJSONUpload() async {
+    var docRef = Firestore.instance
+        .collection("users")
+        .document(userID)
+        .collection("config")
+        .document(constants.jsonPath);
+    Storage store = Storage();
+    Map<String, dynamic> ruleJSON =
+        await store.readAppDocJson(constants.jsonPath);
+    //if empty
+    if (ruleJSON.isEmpty) {
+      await docRef.delete();
+    }
+    //update json
+    await docRef.delete();
     await docRef.update(ruleJSON);
   }
 
@@ -239,6 +256,7 @@ class FireHandler {
           .collection("wallpapers")
           .document(imageName.split("\\").last);
       //delete from firebase
+      await docRef.get();
       await docRef.delete();
       //also check and delete if it's in the local cache
       File imageFile = File(imageName);
