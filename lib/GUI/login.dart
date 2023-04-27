@@ -68,8 +68,6 @@ class _LoginApp extends State<LoginApp> {
   String errMsg = "";
   FireHandler hand = FireHandler();
   void _login(String usrname, String passwrd) async {
-    usrname = "test@server.com";
-    passwrd = "123456";
     bool success = false; /* BOOLEAN FUNCTION PART GOES HERE */
     try {
       success = await hand.fireSignIn(usrname, passwrd);
