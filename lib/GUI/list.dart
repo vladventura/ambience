@@ -3,7 +3,8 @@
 
 import 'package:ambience/GUI/create.dart';
 import 'package:ambience/constants.dart';
-import 'package:ambience/providers/location_provider.dart';
+import 'package:ambience/providers/wallpaper_obj_provider.dart';
+import 'package:ambience/utils.dart';
 import 'package:flutter/material.dart';
 import 'dart:io';
 import 'package:ambience/weatherEntry/weather_entry.dart';
@@ -170,13 +171,12 @@ Widget buttonMenu(BuildContext context) {
           child: OutlinedButton(
             onPressed: () {
               // might need to change the "0" to an actual cityid
-              Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                      builder: (context) => CreateApp(
-                          contextWallpaper: WallpaperObj(0),
-                          intention: 3,
-                          location: "")));
+              WallpaperObjProvider wop = context.read<WallpaperObjProvider>();
+              wop.setCurrentEditWallpaper(WallpaperObj(0));
+              Navigator.of(context).pushNamed('/Create').then((value) {
+                debugPrint(value.toString());
+                context.read<WallpaperObjProvider>().reloadWallpaperObjList();
+              });
             }, //function here to switch to create screen
             style: controlStyle,
             child: const Text("Create"),
@@ -187,197 +187,104 @@ Widget buttonMenu(BuildContext context) {
   );
 }
 
-class wallPapersWindow extends StatefulWidget {
-  List<WallpaperObj> objects = [];
-
-  wallPapersWindow(this.objects, {super.key});
+class WallPapersWindow extends StatefulWidget {
+  const WallPapersWindow({super.key});
 
   @override
-  State<StatefulWidget> createState() => wallPapersWindowState();
+  State<StatefulWidget> createState() => WallPapersWindowState();
 }
 
-class wallPapersWindowState extends State<wallPapersWindow> {
-  late Map<int, WallpaperObj> _objs;
+class WallPapersWindowState extends State<WallPapersWindow> {
+  void deleteWallpaper(int id) {
+    WallpaperObjProvider wop = context.read<WallpaperObjProvider>();
+    if (wop.wallpaperObjects == null) return;
 
-  @override
-  void initState() {
-    super.initState();
-    _objs = widget.objects.asMap();
+    context.read<WallpaperObjProvider>().removeEntry(id);
   }
 
-  void deleteWallpaper(int id) async {
-    debugPrint("Delete called!");
-    Map<int, WallpaperObj> temp = Map<int, WallpaperObj>.from(_objs);
-    // Null guard
-    if (temp[id] == null) return;
-    for (WeatherEntry entry in temp[id]!.entries) {
-      await WeatherEntry.deleteRule(entry.idSchema);
-    }
-    temp[id]!.entries.clear();
-    temp.remove(id);
-    setState(() {
-      _objs = temp;
-    });
-  }
-
-  void editWallpaper(int id) async {
+  void editWallpaper(int id) {
     // deletes original,
-    debugPrint("Edit called!");
-    Map<int, WallpaperObj> temp = Map<int, WallpaperObj>.from(_objs);
+    WallpaperObjProvider wop = context.read<WallpaperObjProvider>();
+    if (wop.wallpaperObjects == null) return;
+
     // Null guard
+    Map<int, WallpaperObj> temp =
+        Map<int, WallpaperObj>.from(wop.wallpaperObjects!.asMap());
     if (temp[id] == null) return;
 
-    final result = await Navigator.push(
-        context,
-        MaterialPageRoute(
-            builder: (context) => CreateApp(
-                contextWallpaper: temp[id]!, intention: 3, location: "")));
-
-    debugPrint(result.toString());
-
-    if (result == true) {
-      for (WeatherEntry entry in temp[id]!.entries) {
-        await WeatherEntry.deleteRule(entry.idSchema);
+    wop.setCurrentEditWallpaper(temp[id]!);
+    Navigator.of(context).pushNamed('/Create').then((result) {
+      if (result == true) {
+        wop.removeRules(id);
       }
-      temp[id]!.entries.clear();
-      temp.remove(id);
-      setState(() {
-        _objs = temp;
-      });
-    }
+    });
   }
 
   @override
   Widget build(context) {
-    return Expanded(
-      child: Container(
-        padding: const EdgeInsets.all(32),
-        child: Container(
-          constraints: const BoxConstraints(
-              maxWidth: 1000, minHeight: 200, minWidth: 100),
-          decoration:
-              BoxDecoration(border: Border.all(color: Colors.black, width: 2)),
-          child: ListView(
-            children: _objs.entries
-                .map((e) => WallpaperEntry(
-                    e.value, e.key, deleteWallpaper, editWallpaper))
-                .toList(),
+    return Consumer<WallpaperObjProvider>(
+      builder: (context, value, child) {
+        return Expanded(
+          child: Container(
+            padding: const EdgeInsets.all(32),
+            child: Container(
+              constraints: const BoxConstraints(
+                  maxWidth: 1000, minHeight: 200, minWidth: 100),
+              decoration: BoxDecoration(
+                border: Border.all(color: Colors.black, width: 2),
+              ),
+              child: ListView(
+                children: value.wallpaperObjects!
+                    .asMap()
+                    .entries
+                    .map(
+                      (e) => WallpaperEntry(
+                          e.value, e.key, deleteWallpaper, editWallpaper),
+                    )
+                    .toList(),
+              ),
+            ),
           ),
-        ),
-      ),
+        );
+      },
     );
   }
 }
 
-// function that creates a list of WallpaperObjs.
-// Searches list of created WeatherEntries and groups them together
-// into a list of WallpaperObjects.
-Future<List<WallpaperObj>> listSavedWallpapers(BuildContext context) async {
-  debugPrint("listSavedWallpapers called!");
-
-  Map<String, WeatherEntry> rulesList = await WeatherEntry.getRuleList();
-
-  if (rulesList.isEmpty) {
-    return [];
-  }
-
-  List<WeatherEntry> entries = [];
-
-  rulesList.forEach((key, value) {
-    entries.add(value);
-  });
-
-  if (entries.isEmpty) {
-    debugPrint("entries list is empty -listSavedWallpapers");
-  }
-  //list of list to store WeatherEntry that have same wallpaper, start time and weather condition
-  List<List<WeatherEntry>> foundWeatherEntries = [];
-  bool contains = false;
-  if (entries.isNotEmpty) {
-    foundWeatherEntries.add([entries.first]);
-  }
-  // first loop, finds every different WeatherEntry
-  for (int i = 0; i < entries.length; i++) {
-    for (int j = 0; j < foundWeatherEntries.length; j++) {
-      if (foundWeatherEntries[j][0].idSchema != entries[i].idSchema) {
-        if ((foundWeatherEntries[j][0].startTime == entries[i].startTime) &&
-            (foundWeatherEntries[j][0].wallpaperFilepath ==
-                entries[i].wallpaperFilepath) &&
-            (foundWeatherEntries[j][0].weatherCondition ==
-                entries[i].weatherCondition)) {
-          foundWeatherEntries.forEach((element) {
-            if (element.contains(entries[i])) {
-              contains = true;
-            }
-          });
-          if (contains == false) {
-            foundWeatherEntries[j].add(entries[i]);
-          }
-          contains = false;
-        } //if it's already in the list continue
-        else if (foundWeatherEntries[j][0].idSchema == entries[i].idSchema) {
-          continue;
-        }
-        //else could be a new entry, check if it already exists in list.
-        else {
-          foundWeatherEntries.forEach((element) {
-            if (element.contains(entries[i])) {
-              contains = true;
-            }
-          });
-          if (!contains) {
-            foundWeatherEntries.add([entries[i]]);
-          }
-          contains = false;
-        }
-      }
-    }
-  }
-
-  List<WallpaperObj> temp = [];
-
-  // second loop, creates a list of WallpaperObj based on how many unique entries there are
-  for (int k = 0; k < foundWeatherEntries.length; k++) {
-    // I know, time though
-    temp.add(WallpaperObj(12 /*context.read<LocationProvider>().location!.id*/,
-        foundWeatherEntries[k]));
-  }
-
-  return temp;
-}
-
 class ListApp extends StatefulWidget {
-  ListApp({super.key});
+  const ListApp({super.key});
 
   @override
   State<ListApp> createState() => ListAppState();
 }
 
 class ListAppState extends State<ListApp> {
+  Widget _content(List<WallpaperObj>? objs) {
+    if (objs == null) {
+      return const Center(
+        child: Icon(Icons.hourglass_top),
+      );
+    }
+    debugPrint("Called content");
+    debugPrint(objs.toString());
+    return Column(
+      mainAxisAlignment: MainAxisAlignment.center,
+      children: [
+        listTitle(),
+        const WallPapersWindow(),
+        buttonMenu(context),
+      ],
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: FutureBuilder<List<WallpaperObj>>(
-          future: listSavedWallpapers(context),
-          builder: (BuildContext context,
-              AsyncSnapshot<List<WallpaperObj>> snapshot) {
-            if (!snapshot.hasData) {
-              return const Center(
-                child: Icon(Icons.hourglass_top),
-              );
-            } else {
-              final List<WallpaperObj>? objects = snapshot.data;
-
-              return Column(
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: [
-                  listTitle(),
-                  wallPapersWindow(objects!),
-                  buttonMenu(context)
-                ],
-              );
-            }
-          }),
+      body: Consumer<WallpaperObjProvider>(
+        builder: (context, value, child) {
+          return _content(value.wallpaperObjects);
+        },
+      ),
     );
   }
 }
