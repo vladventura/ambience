@@ -3,6 +3,7 @@ import 'dart:io';
 import 'package:ambience/models/weather_model.dart';
 import 'package:ambience/GUI/location_request.dart';
 import 'package:ambience/providers/location_provider.dart';
+import 'package:ambience/storage/storage.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:ambience/handlers/file_handler.dart';
 import 'package:ambience/handlers/wallpaper_handler.dart';
@@ -38,29 +39,32 @@ void main(List<String> args) async {
       print(stack);
     });
   } else {
-     runZonedGuarded(() async {
+
       if (args[0] == 'boot') {
         await Daemon.bootWork();
       } else if (args[0] == 'n') {
         String idSchema = args[1];
         var ruleObj = await WeatherEntry.getRule(idSchema);
+        String wallpath = ruleObj.wallpaperFilepath;
         WeatherModel weatherData = await Daemon.getWeatherDataForecast(ruleObj);
-        bool ret =
-            await WallpaperHandler.setWallpaper(ruleObj.wallpaperFilepath);
+        bool ret = false;
+        try{
+         ret =
+            await WallpaperHandler.setWallpaper(wallpath);
+        }catch(e){
+          Storage store = Storage();
+          await store.writeAppDocFile(  e.toString(), "daemonout.txt");
+        }
         if (ret == true) {
           await Process.run('notepad++.exe', []);
         }
         // uncomment for final product
         // await Daemon.weatherCheck(ruleObj, weatherData);
         // explicit exit, else Windows task scheduler will never know the task ended
-        //exit(0);
       }
-    }, (error, stack) {
-      print('Unhandled error: $error');
-      print(stack);
-    });
-  }
+    }
 }
+
 
 class MyApp extends StatefulWidget {
   const MyApp({super.key});
