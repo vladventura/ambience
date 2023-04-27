@@ -1,3 +1,5 @@
+@pragma(
+    'vm:entry-point') // Mandatory if the App is obfuscated or using Flutter 3.1+
 import "dart:io";
 import "package:ambience/constants.dart" as constants;
 import "package:ambience/models/weather_model.dart";
@@ -8,8 +10,7 @@ import 'package:ambience/handlers/wallpaper_handler.dart';
 import 'package:android_alarm_manager_plus/android_alarm_manager_plus.dart';
 import 'package:ambience/api/weather_api.dart';
 
-@pragma(
-    'vm:entry-point') // Mandatory if the App is obfuscated or using Flutter 3.1+
+
 
 class Daemon {
   //Boot daemon function to read all ruleobjs to check if any have been missed.
@@ -123,7 +124,6 @@ class Daemon {
 
       debugPrint("winTaskSetter.ps1 standard output: ${proc.stdout}");
       debugPrint("winTaskSetter.ps1 standard error output: ${proc.stderr}");
-      
     } else if (Platform.isLinux) {
       File checkExist = File("$current/UbuntuCronScheduler.sh");
       //check if script exists
@@ -180,7 +180,6 @@ class Daemon {
 
       debugPrint("winTaskRemover.ps1 standard output: ${proc.stdout}");
       debugPrint("winTaskRemover.ps1 standard error output: ${proc.stderr}");
- 
     } else if (Platform.isLinux) {
       File checkExist = File("$current/UbuntuCronRemover.sh");
       //check if script exists
@@ -218,9 +217,13 @@ class Daemon {
   //takes int,map because that's the format AAMP expects
   static void androidWeatherCheck(int id, Map params) async {
     String key = "ruleobj";
+    debugPrint("hello androidWeatherCheck");
     if (params.containsKey(key)) {
+      debugPrint("does containkey, key value: ${params[key]}");
       WeatherEntry ruleobj = params[key];
       WeatherModel weatherData = await getWeatherDataForecast(ruleobj);
+      debugPrint("got the weather!");
+
       await weatherCheck(ruleobj, weatherData);
     } else {
       debugPrint(
@@ -230,6 +233,7 @@ class Daemon {
 
   static Future<WeatherModel> getWeatherDataForecast(
       WeatherEntry ruleObj) async {
+    debugPrint("getWeatherForecast!");
     //get current time, so data fetch time doesn't effect finding the most up to date weather data
     var nowTime = DateTime.now();
     //if cannot access weather api

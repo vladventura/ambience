@@ -17,10 +17,22 @@ import "package:ambience/GUI/list.dart";
 import "package:ambience/GUI/login.dart";
 import "package:ambience/GUI/main screen.dart";
 import 'package:provider/provider.dart';
+import 'package:android_alarm_manager_plus/android_alarm_manager_plus.dart';
+import 'dart:convert';
+import "package:ambience/constants.dart" as constants;
 
 void main(List<String> args) async {
   await dotenv.load();
   FireHandler.initialize();
+
+  Map<String, WeatherEntry> ruleMap = await WeatherEntry.getRuleList();
+  
+  //await AndroidAlarmManager.initialize();
+  DateTime start = DateTime.now();
+  DateTime minute = DateTime.now().add(const Duration(seconds: 2));
+  await AndroidAlarmManager.oneShotAt(minute, 1, Daemon.androidWeatherCheck,
+      params: {"ruleobj": ruleMap.entries.first.value});
+
   if (args.isEmpty) {
     runZonedGuarded(() {
       WidgetsFlutterBinding.ensureInitialized();
