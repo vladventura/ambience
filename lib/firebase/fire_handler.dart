@@ -38,8 +38,8 @@ class FireHandler {
       //sign in with unverified account
       final user = await auth.getUser();
       if (user.emailVerified == false) {
-        //auth.deleteAccount();
-        // throw "Email is not verified, please sign up, then verify, then login";
+        auth.deleteAccount();
+         throw "Email is not verified, please sign up, then verify, then login";
       }
     } on AuthException catch (e) {
       //to-do allow retries for incorrect attempts
