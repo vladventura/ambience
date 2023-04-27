@@ -216,9 +216,9 @@ class MainApp extends StatelessWidget {
           Tooltip(
             message: createToolTip,
             child: OutlinedButton(
-              onPressed: () {
+              onPressed: () async{
                 if(context.read<LocationProvider>().location != null){
-                Navigator.push(
+                await Navigator.push(
                   context,
                   MaterialPageRoute(
                     builder: (context) => CreateApp(

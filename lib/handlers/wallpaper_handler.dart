@@ -17,18 +17,20 @@ class InvalidPlatformException implements Exception {
 class WallpaperHandler {
   static final String _dylibPath =
       path.join(Directory.current.absolute.path, 'set_wallpaper.so');
-  static Future<void> setWallpaper(String input,
+  static Future<bool> setWallpaper(String input,
       {TargetPlatform? platform}) async {
+    bool ret = false;
     TargetPlatform currentPlatform = platform ?? defaultTargetPlatform;
     if (currentPlatform == TargetPlatform.windows) {
-      await _setWallpaperWindows(input);
+      ret = await _setWallpaperWindows(input);
     } else if (currentPlatform == TargetPlatform.linux) {
-      await _setWallpaperLinux(input);
+      ret = await _setWallpaperLinux(input);
     } else if (currentPlatform == TargetPlatform.android) {
-      await _setWallpaperAndroid(input);
+      ret = await _setWallpaperAndroid(input);
     } else {
-      throw InvalidPlatformException("Android platform not implemented");
+      throw InvalidPlatformException(" platform not implemented");
     }
+    return ret;
   }
 
   static Future<File> getCurrentWallpaperPath(
@@ -74,19 +76,21 @@ class WallpaperHandler {
     return "";
   }
 
-  static Future<void> _setWallpaperWindows(String input) async {
+  static Future<bool> _setWallpaperWindows(String input) async {
     String pathToFile = await _normalizeExistsPath(input);
-    if (pathToFile.isEmpty) return;
+    if (pathToFile.isEmpty) return false;
     NativeLibrary nativeLib =
         NativeLibrary(ffi.DynamicLibrary.open(_dylibPath));
     ffi.Pointer<ffi.WChar> charP = pathToFile.toNativeUtf16().cast<ffi.WChar>();
 
     nativeLib.change_wallpaper(charP);
+
     malloc.free(charP);
+    return true;
   }
 
-  static Future<void> _setWallpaperLinux(String input) async {
-    if (input.isEmpty) return;
+  static Future<bool> _setWallpaperLinux(String input) async {
+    if (input.isEmpty) return false;
     // Following instructions @Bryan0x05's branch
     String pathToFile = await _normalizeExistsPath(input);
     String command =
@@ -95,12 +99,14 @@ class WallpaperHandler {
         "gsettings set org.gnome.desktop.background picture-uri-dark \"file://$pathToFile\"";
     await Process.run('bash', ['-c', command]);
     await Process.run('bash', ['-c', commandDarkTheme]);
+    return true;
   }
 
-  static Future<void> _setWallpaperAndroid(String input) async {
-    if (input.isEmpty) return;
+  static Future<bool> _setWallpaperAndroid(String input) async {
+    if (input.isEmpty) return false;
     String pathToFile = await _normalizeExistsPath(input);
     await AsyncWallpaper.setWallpaperFromFile(
         filePath: pathToFile, wallpaperLocation: AsyncWallpaper.HOME_SCREEN);
+    return true;
   }
 }

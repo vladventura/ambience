@@ -107,7 +107,7 @@ class Daemon {
       }
       //Turn time in a 24 hour formatted string that is acceptable by task scheduler command
       String formatedTime =
-          '${ruleTime.hour.toString().padLeft(2, '0')}:${ruleTime.hour.toString().padLeft(2, '0')}';
+          '${ruleTime.hour.toString().padLeft(2, '0')}:${ruleTime.minute.toString().padLeft(2, '0')}';
       //flag use to trigger different modes of the powershell script
       //run powershell script to schedule tasks(daemon)
       var proc = await Process.run('PowerShell.exe', [
@@ -123,6 +123,7 @@ class Daemon {
 
       debugPrint("winTaskSetter.ps1 standard output: ${proc.stdout}");
       debugPrint("winTaskSetter.ps1 standard error output: ${proc.stderr}");
+      
     } else if (Platform.isLinux) {
       File checkExist = File("$current/UbuntuCronScheduler.sh");
       //check if script exists
