@@ -25,14 +25,6 @@ void main(List<String> args) async {
   await dotenv.load();
   FireHandler.initialize();
 
-  Map<String, WeatherEntry> ruleMap = await WeatherEntry.getRuleList();
-  
-  //await AndroidAlarmManager.initialize();
-  DateTime start = DateTime.now();
-  DateTime minute = DateTime.now().add(const Duration(seconds: 2));
-  await AndroidAlarmManager.oneShotAt(minute, 1, Daemon.androidWeatherCheck,
-      params: {"ruleobj": ruleMap.entries.first.value});
-
   if (args.isEmpty) {
     runZonedGuarded(() {
       WidgetsFlutterBinding.ensureInitialized();
@@ -53,14 +45,15 @@ void main(List<String> args) async {
   } else {
     if (args[0] == 'boot') {
       await Daemon.bootWork();
-    } else if (args[0] == 'n') {
+    } else {
       String idSchema = args[1];
       var ruleObj = await WeatherEntry.getRule(idSchema);
       String wallpath = ruleObj.wallpaperFilepath;
       WeatherModel weatherData = await Daemon.getWeatherDataForecast(ruleObj);
-      bool ret = false;
       await WallpaperHandler.setWallpaper(wallpath);
       //await Daemon.weatherCheck(ruleObj, weatherData);
+      // explicit exit, else Windows task scheduler will never know the task ended
+      exit(0);
     }
     // explicit exit, else Windows task scheduler will never know the task ended
     exit(0);

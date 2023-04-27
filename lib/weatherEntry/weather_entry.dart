@@ -95,9 +95,9 @@ class WeatherEntry {
       await store.writeAppDocFile(rulesetToJson, constants.jsonPath);
     }
     //commented out to enable rapid local testing
-    //FireHandler hand = FireHandler();
+    FireHandler hand = FireHandler();
     //upload the new json and associated wallpapers
-    //await hand.ruleJSONUpload();
+    await hand.ruleJSONUpload();
     //spawn new daemon
     await Daemon.daemonSpawner(newEntry);
     return true;
@@ -107,21 +107,22 @@ class WeatherEntry {
   static Future<void> deleteRule(String idSchema) async {
     Storage store = Storage();
     //commented out to enable rapid local testing
-    //FireHandler hand = FireHandler();
+    FireHandler hand = FireHandler();
 
     var jsonDecoded = await store.readAppDocJson(constants.jsonPath);
     if (jsonDecoded is Map<String, dynamic>) {
       // the file exists so we can delete this entry
       Map<String, dynamic> temp = jsonDecoded;
       //Delete wallpaper in firebase
-      //await hand.deleteWallpaper(temp[idSchema]["wallpaperFilepath"]);
       //delete daemon
       await Daemon.daemonBanisher(idSchema);
+      await hand.deleteWallpaper(temp[idSchema]["wallpaperFilepath"]);
       temp.remove(idSchema);
       String rulesetToJson = jsonEncode(temp);
       await store.writeAppDocFile(rulesetToJson, constants.jsonPath);
+      
       //upload the new json and associated wallpapers
-      //await hand.ruleJSONUpload();
+      await hand.ruleJSONUpload();
       return;
     }
     // the file doesn't exist, do nothing
@@ -212,7 +213,6 @@ class WeatherEntry {
     }
     String ruleMapToJSON = jsonEncode(ruleMap);
     await store.writeAppDocFile(ruleMapToJSON, constants.locationFilename);
-
     return true;
   }
 }

@@ -10,7 +10,7 @@ import 'dart:io';
 import "dart:async";
 import "package:ambience/constants.dart";
 import "package:ambience/utils.dart";
-
+import 'package:ambience/firebase/fire_handler.dart';
 import 'package:provider/provider.dart';
 
 void main() => runApp(const MainApp());
@@ -149,12 +149,11 @@ class MainApp extends StatelessWidget {
   }
 
   Future<IconData> getCurrentWeather() async {
-
     Map<String, dynamic> json =
         await weatherNow(await Utils.loadFromLocationFile());
     //error exit early
-    if(json.isEmpty){
-      return Icons.question_mark; 
+    if (json.isEmpty) {
+      return Icons.question_mark;
     }
     // in the form of a (city?)
     String mainWeather = json['weather'][0]['main'];
@@ -216,26 +215,27 @@ class MainApp extends StatelessWidget {
           Tooltip(
             message: createToolTip,
             child: OutlinedButton(
-              onPressed: () async{
-                if(context.read<LocationProvider>().location != null){
-                await Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                    builder: (context) => CreateApp(
-                      contextWallpaper: WallpaperObj(
-                        context.read<LocationProvider>().location?.id ??
-                            4930956,
+              onPressed: () async {
+                if (context.read<LocationProvider>().location != null) {
+                  await Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => CreateApp(
+                        contextWallpaper: WallpaperObj(
+                          context.read<LocationProvider>().location?.id ??
+                              4930956,
+                        ),
+                        intention: 1,
+                        location:
+                            "placeholder", //placeholder value, it's just so dart doesn't act like such a baby
                       ),
-                      intention: 1,
-                      location:
-                          "placeholder", //placeholder value, it's just so dart doesn't act like such a baby
                     ),
-                  ),
-                );
-              }},
+                  );
+                }
+              },
               style: _buttonStyle(),
               child: const Text("Create"),
-                          ),
+            ),
           ),
         ],
       ),
@@ -289,8 +289,8 @@ class MainApp extends StatelessWidget {
           ListTile(
             title: const Text("Log out"),
             onTap: () {
-              // FireHandler hand = FireHandler();
-              //hand.fireSignOut();
+              FireHandler hand = FireHandler();
+              hand.fireSignOut();
               Navigator.of(context).pushNamed('/');
             },
           ),

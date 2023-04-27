@@ -26,7 +26,7 @@ if ($daemonType -eq "boot") {
 #schedule normal daemon
 else {
     #what gets executed when daemon is triggered
-    $action = New-ScheduledTaskAction -Execute $exePath -Argument $idSchema
+    $action = New-ScheduledTaskAction -Execute $exePath -Argument "n ${idSchema}"
     #when daemon is triggered
     $trigger = New-ScheduledTaskTrigger -Weekly -At $time -DaysOfWeek $dayOfWeek
 }

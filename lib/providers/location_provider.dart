@@ -26,9 +26,9 @@ class LocationProvider with ChangeNotifier {
       await WeatherEntry.updateLocInfo(cityID);
       //fire handler commented out for rapid offline testing.
       //fire handler auth instance
-      //FireHandler hand = FireHandler();
+      FireHandler hand = FireHandler();
       //upload this new location data to the cloud
-      //await hand.uploadLocJSON();
+      await hand.uploadLocJSON();
     }
     notifyListeners();
   }
