@@ -1,8 +1,8 @@
-import 'package:ambience/GUI/create.dart';
 import 'package:ambience/api/weather.dart';
 import 'package:ambience/handlers/wallpaper_handler.dart';
 import 'package:ambience/models/location_model.dart';
 import 'package:ambience/providers/location_provider.dart';
+import 'package:ambience/providers/wallpaper_obj_provider.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import "package:ambience/GUI/wallpaperobj.dart";
@@ -149,12 +149,11 @@ class MainApp extends StatelessWidget {
   }
 
   Future<IconData> getCurrentWeather() async {
-
     Map<String, dynamic> json =
         await weatherNow(await Utils.loadFromLocationFile());
     //error exit early
-    if(json.isEmpty){
-      return Icons.question_mark; 
+    if (json.isEmpty) {
+      return Icons.question_mark;
     }
     // in the form of a (city?)
     String mainWeather = json['weather'][0]['main'];
@@ -217,25 +216,18 @@ class MainApp extends StatelessWidget {
             message: createToolTip,
             child: OutlinedButton(
               onPressed: () {
-                if(context.read<LocationProvider>().location != null){
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                    builder: (context) => CreateApp(
-                      contextWallpaper: WallpaperObj(
-                        context.read<LocationProvider>().location?.id ??
-                            4930956,
-                      ),
-                      intention: 1,
-                      location:
-                          "placeholder", //placeholder value, it's just so dart doesn't act like such a baby
-                    ),
-                  ),
-                );
-              }},
+                if (context.read<LocationProvider>().location != null) {
+                  WallpaperObjProvider wop =
+                      context.read<WallpaperObjProvider>();
+                  wop.setCurrentEditWallpaper(WallpaperObj(
+                    context.read<LocationProvider>().location?.id ?? 4930956,
+                  ));
+                  Navigator.of(context).pushNamed('/Create');
+                }
+              },
               style: _buttonStyle(),
               child: const Text("Create"),
-                          ),
+            ),
           ),
         ],
       ),

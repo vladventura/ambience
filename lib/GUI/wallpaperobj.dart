@@ -1,8 +1,5 @@
-import 'dart:async';
-
 import 'package:flutter/material.dart';
 import 'package:ambience/weatherEntry/weather_entry.dart';
-import 'package:path/path.dart' as path;
 import 'dart:io';
 
 //WallpaperObj acts as a wrapper for WeatherEntries, by representing once instance
@@ -132,7 +129,7 @@ class WallpaperObj {
       strHour = "12";
     }
     String strMinute = minute.toString();
-    strMinute = minute> 1 ? strMinute : "0$strMinute";
+    strMinute = minute > 1 ? strMinute : "0$strMinute";
     String amPm = hour >= 12 ? "PM" : "AM";
     String fmt = "$strHour:$minute $amPm";
 
@@ -143,20 +140,18 @@ class WallpaperObj {
 
   //private function to create entries out of data received
   List<WeatherEntry> createEntries() {
-    
     List<WeatherEntry> temp = [];
 
     for (int i = 0; i < days.length; i++) {
-
       if (days[i]) {
         // if there is a Weatherentry for the ith day of the week
 
         TimeOfDay tempTime = TimeOfDay(hour: hour, minute: minute);
 
-        temp.add(WeatherEntry(tempTime, DayOfWeek.values[i], filePath, cond, city, cityId));
+        temp.add(WeatherEntry(
+            tempTime, DayOfWeek.values[i], filePath, cond, city, cityId));
 
         temp.last.idSchema += i.toString();
-        
       }
     }
 
