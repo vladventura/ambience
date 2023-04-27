@@ -73,26 +73,24 @@ class _LoginApp extends State<LoginApp> {
       success = await hand.fireSignIn(usrname, passwrd);
       //commented out to allow rapid offline testing
       //accounts for download overriding the local json or another's json if the account is being switched.
-       Map<String, WeatherEntry> ruleMap = await WeatherEntry.getRuleList();
+      Map<String, WeatherEntry> ruleMap = await WeatherEntry.getRuleList();
       //kill all daemons if not empty, helps avoid "dangling" daemons.
       if (ruleMap.isNotEmpty) {
         List<dynamic> entryList = ruleMap.values.toList();
         for (int i = 0; i < entryList.length; i++) {
-          //uncomment when done with rest of ambience
-          //await Daemon.daemonBanisher(entryList[i].idSchema);
+          await Daemon.daemonBanisher(entryList[i].idSchema);
         }
       }
       //fetch user config and wallpapers from cloud(Firestore)
-      //await hand.ruleJSONDownload();
-      //await hand.downloadLocJSON();
+      await hand.downloadLocJSON();
+      await hand.ruleJSONDownload();
       //update rulemap incase of firebase download and spawn daemons
       //this prevents dangling daemons.
       ruleMap = await WeatherEntry.getRuleList();
       if (ruleMap.isNotEmpty) {
         List<dynamic> entryList = ruleMap.values.toList();
         for (int i = 0; i < entryList.length; i++) {
-          //uncomment when done with rest of ambience
-          //await Daemon.daemonSpawner(entryList[i].idSchema);
+          await Daemon.daemonSpawner(entryList[i].idSchema);
         }
       }
     } catch (e) {
@@ -109,10 +107,9 @@ class _LoginApp extends State<LoginApp> {
   }
 
   void _signup(String usrname, String passwrd) async {
-    bool success = true; //set to true for rapid testing
+    bool success = false; //set to true for rapid testing
     try {
-      //uncomment in final version
-      //success = await hand.fireSignUp(usrname, passwrd);
+      success = await hand.fireSignUp(usrname, passwrd);
     } catch (e) {
       errMsg = e.toString(); // set error message
     }
@@ -184,7 +181,7 @@ class _LoginApp extends State<LoginApp> {
             onPressed: () async {
               try {
                 //commented out for rapid offline testing
-                //await hand.resetPwd(_nameController.text);
+                await hand.resetPwd(_nameController.text);
               } catch (e) {
                 errMsg = e.toString();
                 setState(() {

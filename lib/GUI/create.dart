@@ -1,14 +1,3 @@
-// TO DO:
-//  probably gonna have to change WallpaperObj to accept WallpaperEntry data
-// make day buttons do stuff, 'cause they currently don't
-// Scrap the copy option - done
-// add time conversions - done
-// ENSURE THAT JSON FILE ALWAYS EXISTS - done
-// add tooltips
-// fix parendata widget problems - done
-// device-specific getwallpaper stuff (specific to OS)
-// GIVE LOCATION TO NEW WALLPAPEROBJECTS
-
 import 'dart:async';
 import 'package:ambience/GUI/list.dart';
 import 'package:ambience/constants.dart';
@@ -21,22 +10,7 @@ import "package:ambience/GUI/wallpaperobj.dart";
 import "package:ambience/handlers/file_handler.dart";
 import 'package:provider/provider.dart';
 
-void main() => runApp(
-      CreateApp(
-        contextWallpaper: WallpaperObj.newObj(
-          "G:/Dedicated memes folder/Image memes/b65040ee-199c-4c36-a2b2-15b1e950b3a5.png",
-          WeatherCondition.Clouds,
-          14,
-          30,
-          [false, true, false, true, false, true, false],
-          "Boston",
-          4930956,
-          [],
-        ),
-        intention: 1,
-        location: "",
-      ),
-    );
+
 
 // Global variables
 
@@ -491,8 +465,8 @@ class _CreateApp extends State<CreateApp> {
         tempSchemas.add(newObj.entries[i].idSchema);
       } else {
         // conflict found, undo creation of every entry
-        tempSchemas.forEach((element) {
-          WeatherEntry.deleteRule(element);
+        tempSchemas.forEach((element) async{
+         await WeatherEntry.deleteRule(element);
         });
 
         return false;

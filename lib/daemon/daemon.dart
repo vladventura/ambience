@@ -1,5 +1,7 @@
+@pragma(
+    'vm:entry-point') // Mandatory if the App is obfuscated or using Flutter 3.1+
 import "dart:io";
-import "package:ambience/constants.dart";
+import "package:ambience/constants.dart" as constants;
 import "package:ambience/models/weather_model.dart";
 import "package:ambience/storage/storage.dart";
 import "package:ambience/weatherEntry/weather_entry.dart";
@@ -8,8 +10,7 @@ import 'package:ambience/handlers/wallpaper_handler.dart';
 import 'package:android_alarm_manager_plus/android_alarm_manager_plus.dart';
 import 'package:ambience/api/weather_api.dart';
 
-@pragma(
-    'vm:entry-point') // Mandatory if the App is obfuscated or using Flutter 3.1+
+
 
 class Daemon {
   //Boot daemon function to read all ruleobjs to check if any have been missed.
@@ -64,7 +65,7 @@ class Daemon {
         '-File',
         '$current\\winTaskSetter.ps1',
         daemonMode,
-        bootDaemonID,
+        constants.bootDaemonID,
       ]);
       debugPrint("winTaskSetter.ps1 standard output: ${proc.stdout}");
       debugPrint("winTaskSetter.ps1 standard error output: ${proc.stderr}");
@@ -80,7 +81,7 @@ class Daemon {
       }
       var proc = await Process.run('bash', [
         '-c',
-        '$current/UbuntuCronScheduler.sh "$daemonMode" "$bootDaemonID"'
+        '$current/UbuntuCronScheduler.sh "$daemonMode" "${constants.bootDaemonID}"'
       ]);
       debugPrint(
           "UbuntuCronScheduler.sh standard error output: ${proc.stderr}");
@@ -100,7 +101,6 @@ class Daemon {
     TimeOfDay ruleTime = ruleObj.startTime;
     int dow = ruleObj.dayOfWeek.index;
     //daemon mode is always normal for daemonspawner
-    const String daemonMode = 'n';
     if (Platform.isWindows) {
       File checkExist = File("$current\\winTaskSetter.ps1");
       if (!(await checkExist.exists())) {
@@ -108,7 +108,7 @@ class Daemon {
       }
       //Turn time in a 24 hour formatted string that is acceptable by task scheduler command
       String formatedTime =
-          '${ruleTime.hour.toString().padLeft(2, '0')}:${ruleTime.hour.toString().padLeft(2, '0')}';
+          '${ruleTime.hour.toString().padLeft(2, '0')}:${ruleTime.minute.toString().padLeft(2, '0')}';
       //flag use to trigger different modes of the powershell script
       //run powershell script to schedule tasks(daemon)
       var proc = await Process.run('PowerShell.exe', [
@@ -116,7 +116,7 @@ class Daemon {
         'Bypass',
         '-File',
         '$current\\winTaskSetter.ps1',
-        daemonMode,
+        constants.normDaemonMode,
         id,
         formatedTime,
         '$dow'
@@ -124,10 +124,6 @@ class Daemon {
 
       debugPrint("winTaskSetter.ps1 standard output: ${proc.stdout}");
       debugPrint("winTaskSetter.ps1 standard error output: ${proc.stderr}");
-      //check if script executed successfully
-      if (proc.exitCode == 0) {
-        throw "winTaskSetter.ps1 did not execute successfully";
-      }
     } else if (Platform.isLinux) {
       File checkExist = File("$current/UbuntuCronScheduler.sh");
       //check if script exists
@@ -136,12 +132,12 @@ class Daemon {
       }
       var proc = await Process.run('bash', [
         '-c',
-        '$current/UbuntuCronScheduler.sh "$daemonMode" "$id" ${ruleTime.hour} ${ruleTime.minute} $dow'
+        '$current/UbuntuCronScheduler.sh "${constants.normDaemonMode}" "$id" ${ruleTime.hour} ${ruleTime.minute} $dow'
       ]);
       debugPrint(
           "UbuntuCronScheduler.sh standard error output: ${proc.stderr}");
 
-      if (proc.exitCode == 0) {
+      if (proc.exitCode != 0) {
         throw "UbuntuCronScheduler.sh did not execute successfully";
       }
     } else if (Platform.isAndroid) {
@@ -184,9 +180,6 @@ class Daemon {
 
       debugPrint("winTaskRemover.ps1 standard output: ${proc.stdout}");
       debugPrint("winTaskRemover.ps1 standard error output: ${proc.stderr}");
-      if (proc.exitCode == 0) {
-        throw ("winTaskRemover.ps1 did not execute successfully");
-      }
     } else if (Platform.isLinux) {
       File checkExist = File("$current/UbuntuCronRemover.sh");
       //check if script exists
@@ -224,9 +217,13 @@ class Daemon {
   //takes int,map because that's the format AAMP expects
   static void androidWeatherCheck(int id, Map params) async {
     String key = "ruleobj";
+    debugPrint("hello androidWeatherCheck");
     if (params.containsKey(key)) {
+      debugPrint("does containkey, key value: ${params[key]}");
       WeatherEntry ruleobj = params[key];
       WeatherModel weatherData = await getWeatherDataForecast(ruleobj);
+      debugPrint("got the weather!");
+
       await weatherCheck(ruleobj, weatherData);
     } else {
       debugPrint(
@@ -236,6 +233,7 @@ class Daemon {
 
   static Future<WeatherModel> getWeatherDataForecast(
       WeatherEntry ruleObj) async {
+    debugPrint("getWeatherForecast!");
     //get current time, so data fetch time doesn't effect finding the most up to date weather data
     var nowTime = DateTime.now();
     //if cannot access weather api
@@ -245,7 +243,7 @@ class Daemon {
     }
     Storage store = Storage();
     //get offline data
-    var weatherJson = await (store.readAppDocJson(weatherDataPath));
+    var weatherJson = await (store.readAppDocJson(constants.weatherDataPath));
     if (weatherJson == 'failed') {
       debugPrint("Cannot read weatherData.JSON,exiting -Daemon.weathercheck");
       //at this point the daemon cannot do it's job

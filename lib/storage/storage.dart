@@ -83,6 +83,7 @@ class Storage {
     // Write the file, normally
     return (await temp.writeAsBytes(bytes));
   }
+
   //read json from file and converts it to Dart object and returns said object
   Future<dynamic> readAppDocJson(String path) async {
     try {
@@ -97,7 +98,21 @@ class Storage {
       return 'failed';
     }
   }
-  Future<String> provideAppDirectory(String addon)async{
+
+  Future<dynamic> deleteAppDocJson(String path) async {
+    try {
+      final file = await _localDirectoryPath;
+      File readTarget = File(p.normalize('$file/$path'));
+      // Read the file
+      await readTarget.delete();
+    } catch (e) {
+      debugPrint("error with reading JSON file, relative path given: $path");
+      // If encountering an error
+      return 'failed';
+    }
+  }
+
+  Future<String> provideAppDirectory(String addon) async {
     final path = await _localDirectoryPath;
     String directory = (p.normalize("$path/$addon"));
     return directory;

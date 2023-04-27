@@ -3,6 +3,7 @@ import 'dart:io';
 import 'package:ambience/models/weather_model.dart';
 import 'package:ambience/GUI/location_request.dart';
 import 'package:ambience/providers/location_provider.dart';
+import 'package:ambience/storage/storage.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:ambience/handlers/file_handler.dart';
 import 'package:ambience/handlers/wallpaper_handler.dart';
@@ -16,13 +17,14 @@ import "package:ambience/GUI/list.dart";
 import "package:ambience/GUI/login.dart";
 import "package:ambience/GUI/main screen.dart";
 import 'package:provider/provider.dart';
-import 'package:ambience/api/weather.dart';
+import 'package:android_alarm_manager_plus/android_alarm_manager_plus.dart';
+import 'dart:convert';
+import "package:ambience/constants.dart" as constants;
 
 void main(List<String> args) async {
   await dotenv.load();
   FireHandler.initialize();
-  FireHandler test = FireHandler();
-  //if not args passed, GUI MODE
+
   if (args.isEmpty) {
     runZonedGuarded(() {
       WidgetsFlutterBinding.ensureInitialized();
@@ -37,22 +39,23 @@ void main(List<String> args) async {
         ),
       );
     }, (error, stack) {
-      print(error);
+      print('Unhandled error: $error');
       print(stack);
     });
-  }
-  //if there are command line args, GUI-Less mode
-  else {
-    //boot daemon case
+  } else {
     if (args[0] == 'boot') {
       await Daemon.bootWork();
     } else {
       String idSchema = args[1];
       var ruleObj = await WeatherEntry.getRule(idSchema);
+      String wallpath = ruleObj.wallpaperFilepath;
       WeatherModel weatherData = await Daemon.getWeatherDataForecast(ruleObj);
-      await Daemon.weatherCheck(ruleObj, weatherData);
+      await WallpaperHandler.setWallpaper(wallpath);
+      //await Daemon.weatherCheck(ruleObj, weatherData);
+      // explicit exit, else Windows task scheduler will never know the task ended
+      exit(0);
     }
-    //explict exit, else Windows task scheduler will never know the task ended
+    // explicit exit, else Windows task scheduler will never know the task ended
     exit(0);
   }
 }

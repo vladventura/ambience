@@ -270,7 +270,7 @@ class wallPapersWindowState extends State<wallPapersWindow> {
 }
 
 // function that creates a list of WallpaperObjs.
-// Searches list of created WeatherEntries and groups them together
+// Searches list of created WeatherEntries and foundWeatherEntries them together
 // into a list of WallpaperObjects.
 Future<List<WallpaperObj>> listSavedWallpapers(BuildContext context) async {
   debugPrint("listSavedWallpapers called!");
@@ -292,47 +292,55 @@ Future<List<WallpaperObj>> listSavedWallpapers(BuildContext context) async {
   }
   //list of list to store WeatherEntry that have same wallpaper, start time and weather condition
   List<List<WeatherEntry>> foundWeatherEntries = [];
+  //second group to handle o
+  List<List<WeatherEntry>> surplusfoundWeatherEntries = [];
+
   bool contains = false;
   if (entries.isNotEmpty) {
     foundWeatherEntries.add([entries.first]);
   }
-  // first loop, finds every different WeatherEntry
-  for (int i = 0; i < entries.length; i++) {
-    for (int j = 0; j < foundWeatherEntries.length; j++) {
-      if (foundWeatherEntries[j][0].idSchema != entries[i].idSchema) {
-        if ((foundWeatherEntries[j][0].startTime == entries[i].startTime) &&
-            (foundWeatherEntries[j][0].wallpaperFilepath ==
-                entries[i].wallpaperFilepath) &&
-            (foundWeatherEntries[j][0].weatherCondition ==
-                entries[i].weatherCondition)) {
-          foundWeatherEntries.forEach((element) {
-            if (element.contains(entries[i])) {
-              contains = true;
-            }
-          });
-          if (contains == false) {
-            foundWeatherEntries[j].add(entries[i]);
-          }
-          contains = false;
-        } //if it's already in the list continue
-        else if (foundWeatherEntries[j][0].idSchema == entries[i].idSchema) {
-          continue;
+
+    for (int i = 1; i < entries.length; i++) {
+      bool added = false;
+      for (int j = 0; j < foundWeatherEntries.length; j++) {
+        //check if they are alike entries
+        if (foundWeatherEntries[j][0].idSchema != entries[i].idSchema &&
+            foundWeatherEntries[j].length < 7 &&
+            foundWeatherEntries[j][0].startTime == entries[i].startTime &&
+            foundWeatherEntries[j][0].wallpaperFilepath ==
+                entries[i].wallpaperFilepath &&
+            foundWeatherEntries[j][0].weatherCondition ==
+                entries[i].weatherCondition) {
+          foundWeatherEntries[j].add(entries[i]);
+          added = true;
+          break;
         }
-        //else could be a new entry, check if it already exists in list.
-        else {
-          foundWeatherEntries.forEach((element) {
-            if (element.contains(entries[i])) {
-              contains = true;
-            }
-          });
-          if (!contains) {
-            foundWeatherEntries.add([entries[i]]);
+      }
+      //surplus group, to group an accessive amount of wallpapers
+      if (!added) {
+        bool addedToSurplus = false;
+        for (int j = 0; j < surplusfoundWeatherEntries.length; j++) {
+          if (surplusfoundWeatherEntries[j].length < 7 &&
+              surplusfoundWeatherEntries[j][0].startTime ==
+                  entries[i].startTime &&
+              surplusfoundWeatherEntries[j][0].wallpaperFilepath ==
+                  entries[i].wallpaperFilepath &&
+              surplusfoundWeatherEntries[j][0].weatherCondition ==
+                  entries[i].weatherCondition &&
+              !surplusfoundWeatherEntries[j].contains(entries[i])) {
+            surplusfoundWeatherEntries[j].add(entries[i]);
+            addedToSurplus = true;
+            break;
           }
-          contains = false;
+        }
+        if (!addedToSurplus) {
+          surplusfoundWeatherEntries.add([entries[i]]);
         }
       }
     }
-  }
+      //merge regular and surplus group
+    foundWeatherEntries.addAll(surplusfoundWeatherEntries);
+  
 
   List<WallpaperObj> temp = [];
 

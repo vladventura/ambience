@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 import "dart:io";
 import "package:ambience/storage/storage.dart";
 import "package:ambience/constants.dart" as constants;
-import 'package:argon2/argon2.dart';
+import 'package:path/path.dart' as p;
 
 class FireHandler {
   static FirebaseAuth auth = FirebaseAuth.instance;
@@ -91,30 +91,36 @@ class FireHandler {
         .document(userID)
         .collection("wallpapers")
         .document(imageName);
+
     File image = File(imagePath);
     //byte data
     List<int> imageData = await image.readAsBytes();
-    await docRef.update({imageName: base64Encode(imageData)});
+    //write actucal data
+    await docRef.update({"data": base64Encode(imageData)});
   }
 
   //optional values is for testing purposes for now
   Future<void> imageDownload(String imageName) async {
     Firestore fstore = Firestore.instance;
+
     var docRef = fstore
         .collection("users")
         .document(userID)
         .collection("wallpapers")
         .document(imageName);
 
-    Document snapshot = await docRef.get();
-    String base64Image = snapshot.map[imageName];
-    //to-do check is base64Encode works with UTF-16, or replace with something that does
-
-    List<int> imageData = base64Decode(base64Image);
-    //store in Firebase folder inside Ambience folder
-    Storage store = Storage();
-    String path = "Firebase/$imageName";
-    await store.writeAppDocFileBytes(imageData, path);
+    try {
+      var snapshot = await docRef.get();
+      String base64Image = snapshot.map['data'];
+      List<int> imageData = base64Decode(base64Image);
+      //store in Firebase folder inside Ambience folder
+      Storage store = Storage();
+      String path = p.normalize("Firebase/$imageName");
+      await store.writeAppDocFileBytes(imageData, path);
+    } catch (e) {
+      Storage store = Storage();
+      await store.writeAppDocFile(e.toString(), constants.logFilePath);
+    }
   }
 
   void fireSignOut() {
@@ -130,6 +136,10 @@ class FireHandler {
     Storage store = Storage();
     Map<String, dynamic> ruleJSON =
         await store.readAppDocJson(constants.jsonPath);
+    //if empty
+    if (ruleJSON.isEmpty) {
+      await docRef.delete();
+    }
     String imageName, fileExt;
     //extract images and rename them to ensure names are unique
     for (dynamic entry in ruleJSON.values) {
@@ -140,6 +150,24 @@ class FireHandler {
       entry["wallpaperFilepath"] = imageName;
     }
     //upload json
+    await docRef.update(ruleJSON);
+  }
+
+  Future<void> reduceRuleJSONUpload() async {
+    var docRef = Firestore.instance
+        .collection("users")
+        .document(userID)
+        .collection("config")
+        .document(constants.jsonPath);
+    Storage store = Storage();
+    Map<String, dynamic> ruleJSON =
+        await store.readAppDocJson(constants.jsonPath);
+    //if empty
+    if (ruleJSON.isEmpty) {
+      await docRef.delete();
+    }
+    //update json
+    await docRef.delete();
     await docRef.update(ruleJSON);
   }
 
@@ -163,11 +191,10 @@ class FireHandler {
       //download the image to Firebase download folder
       await imageDownload(imageName);
     }
-
     //properly encodes map in a json format string
     String encodedMap = jsonEncode(ruleMap);
     //write to file, overwritting existing json
-    store.writeAppDocFile(encodedMap, constants.jsonPath);
+    await store.writeAppDocFile(encodedMap, constants.jsonPath);
   }
 
   //will throw if the password is weak
@@ -229,6 +256,7 @@ class FireHandler {
           .collection("wallpapers")
           .document(imageName.split("\\").last);
       //delete from firebase
+      await docRef.get();
       await docRef.delete();
       //also check and delete if it's in the local cache
       File imageFile = File(imageName);
