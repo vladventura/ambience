@@ -39,32 +39,21 @@ void main(List<String> args) async {
       print(stack);
     });
   } else {
-
-      if (args[0] == 'boot') {
-        await Daemon.bootWork();
-      } else if (args[0] == 'n') {
-        String idSchema = args[1];
-        var ruleObj = await WeatherEntry.getRule(idSchema);
-        String wallpath = ruleObj.wallpaperFilepath;
-        WeatherModel weatherData = await Daemon.getWeatherDataForecast(ruleObj);
-        bool ret = false;
-        try{
-         ret =
-            await WallpaperHandler.setWallpaper(wallpath);
-        }catch(e){
-          Storage store = Storage();
-          await store.writeAppDocFile(  e.toString(), "daemonout.txt");
-        }
-        if (ret == true) {
-          await Process.run('notepad++.exe', []);
-        }
-        // uncomment for final product
-        // await Daemon.weatherCheck(ruleObj, weatherData);
-        // explicit exit, else Windows task scheduler will never know the task ended
-      }
+    if (args[0] == 'boot') {
+      await Daemon.bootWork();
+    } else if (args[0] == 'n') {
+      String idSchema = args[1];
+      var ruleObj = await WeatherEntry.getRule(idSchema);
+      String wallpath = ruleObj.wallpaperFilepath;
+      WeatherModel weatherData = await Daemon.getWeatherDataForecast(ruleObj);
+      bool ret = false;
+      await WallpaperHandler.setWallpaper(wallpath);
+      //await Daemon.weatherCheck(ruleObj, weatherData);
     }
+    // explicit exit, else Windows task scheduler will never know the task ended
+    exit(0);
+  }
 }
-
 
 class MyApp extends StatefulWidget {
   const MyApp({super.key});
