@@ -10,33 +10,30 @@
 // GIVE LOCATION TO NEW WALLPAPEROBJECTS
 
 import 'dart:async';
-import 'package:ambience/GUI/list.dart';
 import 'package:ambience/constants.dart';
 import 'package:ambience/providers/location_provider.dart';
+import 'package:ambience/providers/wallpaper_obj_provider.dart';
 import 'package:ambience/weatherEntry/weather_entry.dart';
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'dart:io';
 import "package:ambience/GUI/wallpaperobj.dart";
 import "package:ambience/handlers/file_handler.dart";
 import 'package:provider/provider.dart';
 
-void main() => runApp(
-      CreateApp(
-        contextWallpaper: WallpaperObj.newObj(
-          "G:/Dedicated memes folder/Image memes/b65040ee-199c-4c36-a2b2-15b1e950b3a5.png",
-          WeatherCondition.Clouds,
-          14,
-          30,
-          [false, true, false, true, false, true, false],
-          "Boston",
-          4930956,
-          [],
-        ),
-        intention: 1,
-        location: "",
-      ),
-    );
+// void main() => runApp(
+//       CreateApp(
+//         contextWallpaper: WallpaperObj.newObj(
+//           "G:/Dedicated memes folder/Image memes/b65040ee-199c-4c36-a2b2-15b1e950b3a5.png",
+//           WeatherCondition.Clouds,
+//           14,
+//           30,
+//           [false, true, false, true, false, true, false],
+//           "Boston",
+//           4930956,
+//           [],
+//         ),
+//       ),
+//     );
 
 // Global variables
 
@@ -342,20 +339,11 @@ class DayButtonsState extends State<DayButtons> {
 }
 
 class CreateApp extends StatefulWidget {
-  CreateApp(
-      {super.key,
-      required this.contextWallpaper,
-      required this.intention,
-      required this.location});
-
-  WallpaperObj contextWallpaper;
+  const CreateApp({super.key});
 
   // 1 = create new wallpaper,
   // 2 = copy from existing wallpaper,
   // 3 = edit existing wallpaper
-  final int intention;
-
-  final String location;
 
   @override
   State<CreateApp> createState() => _CreateApp();
@@ -421,13 +409,9 @@ class _CreateApp extends State<CreateApp> {
 
   WallpaperChooser fileChooser = WallpaperChooser(currentFile: "");
 
-  DayButtons dayToggles = DayButtons(
-      daysActive: []); // will probably give initial values here or something
+  DayButtons? dayToggles; // will probably give initial values here or something
 
   String chosenFile = "";
-
-  IconData chosenCond = Icons
-      .ads_click; //the value for clear is invalid, which is later checked for
 
   String chosenMinute = "00";
 
@@ -438,38 +422,38 @@ class _CreateApp extends State<CreateApp> {
   bool _visibleErr = false;
   int errType = 0;
 
-  @override
-  void initState() {
-    super.initState();
-    dayToggles = DayButtons(daysActive: widget.contextWallpaper.days);
-    chosenCond = weathercondToIcon[widget.contextWallpaper.cond];
+  void initVarsFromProvider() {
+    WallpaperObjProvider wop = context.read<WallpaperObjProvider>();
+    dayToggles = DayButtons(daysActive: wop.currentEditWallpaper!.days);
     weatherDropKey.currentState?._weatherVal =
-        weathercondToIcon[widget.contextWallpaper.cond];
-
-    fileChooser.currentFile = widget.contextWallpaper.filePath;
-    fileChooser.setCurrentFile(widget.contextWallpaper.filePath);
-
-    chosenFile = widget.contextWallpaper.filePath;
-
-    if (widget.contextWallpaper.hour > 12) {
-      if (widget.contextWallpaper.hour == 24) {
+        weathercondToIcon[wop.currentEditWallpaper!.cond];
+    fileChooser.currentFile = wop.currentEditWallpaper!.filePath;
+    fileChooser.setCurrentFile(wop.currentEditWallpaper!.filePath);
+    chosenFile = wop.currentEditWallpaper!.filePath;
+    if (wop.currentEditWallpaper!.hour > 12) {
+      if (wop.currentEditWallpaper!.hour == 24) {
         chosenHour = 0.toString();
         AMPM.amPm = true;
       } else {
         AMPM.amPm = false;
-        chosenHour = (widget.contextWallpaper.hour - 12).toString();
+        chosenHour = (wop.currentEditWallpaper!.hour - 12).toString();
       }
     } else {
       AMPM.amPm = true;
-      chosenHour = widget.contextWallpaper.hour.toString();
+      chosenHour = wop.currentEditWallpaper!.hour.toString();
     }
-    chosenMinute = widget.contextWallpaper.minute.toString();
+    chosenMinute = wop.currentEditWallpaper!.minute.toString();
+  }
+
+  @override
+  void initState() {
+    super.initState();
+    initVarsFromProvider();
   }
 
   //function that performs the final action before closing the create page
-  //decides what to do based on the intention variable
   Future<bool> confirmCreation(
-      int intend, WallpaperObj origObj, WallpaperObj newObj) async {
+      WallpaperObj origObj, WallpaperObj newObj) async {
     // return true if created successfully
     // return false if new wallpaper is a duplicate
 
@@ -504,8 +488,10 @@ class _CreateApp extends State<CreateApp> {
 
   @override
   Widget build(BuildContext context) {
+    WallpaperObjProvider wop = context.read<WallpaperObjProvider>();
+
     fileChooser =
-        WallpaperChooser(currentFile: widget.contextWallpaper.filePath);
+        WallpaperChooser(currentFile: wop.currentEditWallpaper!.filePath);
 
     TextEditingController hourController =
         TextEditingController(text: chosenHour);
@@ -606,14 +592,14 @@ class _CreateApp extends State<CreateApp> {
             Tooltip(
               message: confirmToolTip,
               child: OutlinedButton(
-                onPressed: () {
+                onPressed: () async {
                   if (checkFields(
                       hourController.text,
                       minuteController.text,
                       fileChooser.getCurrentFile(),
                       iconToWeatherCond[
                           weatherDropKey.currentState?._weatherVal],
-                      dayToggles.getDays())) {
+                      dayToggles!.getDays())) {
                     WallpaperObj newObj = WallpaperObj.newObj(
                         fileChooser.getCurrentFile(),
                         iconToWeatherCond[
@@ -621,23 +607,21 @@ class _CreateApp extends State<CreateApp> {
                         toMilitary(
                             toNumber(hourController.text), AMPM.getAmPm()),
                         toNumber(minuteController.text),
-                        dayToggles.getDays(),
+                        dayToggles!.getDays(),
                         context.read<LocationProvider>().location!.name,
-                       context.read<LocationProvider>().location!.id);
+                        context.read<LocationProvider>().location!.id);
 
-                    confirmCreation(
-                            widget.intention, widget.contextWallpaper, newObj)
-                        .then((success) {
-                      if (success) {
-                        // add fields to newWallpaperObj
-                        Navigator.pop(context, true); // return to previous menu
-                      } else {
-                        setState(() {
-                          errType = 2;
-                          _visibleErr = true;
-                        });
-                      }
-                    });
+                    bool success = await confirmCreation(
+                        wop.currentEditWallpaper!, newObj);
+                    if (success) {
+                      Navigator.of(context)
+                          .pop(true); // return to previous menu
+                    } else {
+                      setState(() {
+                        errType = 2;
+                        _visibleErr = true;
+                      });
+                    }
                   } else {
                     setState(() {
                       // test this later, when an error occurs the daytoggles reset to all false and still pass checkfields somehow.
@@ -663,22 +647,24 @@ class _CreateApp extends State<CreateApp> {
       );
     }
 
-    return MaterialApp(
-      home: Scaffold(
-        body: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            const Padding(padding: EdgeInsets.all(24)),
-            dayToggles,
-            timeAndWeather,
-            wallpaperSection,
-            CreateMsg(
-              visibleErr: _visibleErr,
-              type: errType,
-            ),
-            buttonMenu(),
-          ],
-        ),
+    return Scaffold(
+      body: Consumer<WallpaperObjProvider>(
+        builder: (context, value, child) {
+          return Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              const Padding(padding: EdgeInsets.all(24)),
+              dayToggles!,
+              timeAndWeather,
+              wallpaperSection,
+              CreateMsg(
+                visibleErr: _visibleErr,
+                type: errType,
+              ),
+              buttonMenu(),
+            ],
+          );
+        },
       ),
     );
   }
